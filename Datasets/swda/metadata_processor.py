@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-The file `swda/swda-metadata.csv` contains only some of the metadata included
+The file `swda_data/swda-metadata.csv` contains only some of the metadata included
 with Switchboard. If you have a copy of the Switchboard and you want more
 or different metadata, you can modify this file.
 """

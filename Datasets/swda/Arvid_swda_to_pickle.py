@@ -73,7 +73,7 @@ for i in tqdm(glob.glob("./swda/sw**utt/*")):
 
 	# Read file and 
 	# go through all utterances
-	dialogue = Transcript(i, 'swda/swda-metadata.csv')
+	dialogue = Transcript(i, 'swda_data/swda-metadata.csv')
 
 	for utter in dialogue.utterances:
 		utter_DA = tag_to_name[utter.damsl_act_tag()] # <-- add dictionary cleanup
