@@ -119,12 +119,13 @@ if __name__ == '__main__':
     gCreator = GraphCreator(args)
 
     #2. Create graph representation
-    gCreator.createGraph()
+    gCreator.createGraphNetworkx()
 
-    #3. Store graph on disk
-    gCreator.saveGraphOnDisk()
+    #3. Convert graph to format expected by GraphSAGE
+    gCreator.createGraphJson()
+
+    #3. Store graph on disk in both networkx and .json format (GraphSAGE format)
+    gCreator.saveGraph()
 
     #4. Show the graph
-    GraphVisualizer(gCreator.train_graph,
-                    gCreator.out_folder,
-                    gCreator.file_name)
+    GraphVisualizer(gCreator.train_graph)

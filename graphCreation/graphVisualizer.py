@@ -19,6 +19,6 @@ test graphs respectively.
 
 class GraphVisualizer(object):
 
-    def __init__(self, graph_obj, graph_folder, graph_file):
+    def __init__(self, graph_obj):
         print("Visualizer created!")
         net = Network()

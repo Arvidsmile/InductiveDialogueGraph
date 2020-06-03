@@ -9,7 +9,7 @@ desired_no_of_convos = 5000
 foundLabels = set()
 utterance_set = set()
 
-tag_to_name = \
+swda_tag_to_name = \
 {
 	'ft' : 'Thanking',
 	'bk' : 'Response Acknowledgement',
