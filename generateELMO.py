@@ -149,7 +149,7 @@ def preprocessMSDialog(dataset):
 # utterances in each batch), creates a TSNE-plot of the embeddings
 # as well as saving the embeddings in a pickle file.
 def pipeline(elmo, dataset, proc_func, step_size = 10, testing = False):
-    df = pd.read_csv(f"../CSVData/{dataset}.csv")
+    df = pd.read_csv(f"CSVData/{dataset}.csv")
     # 1. Perform preprocessing
     df = proc_func(df)
 
@@ -165,7 +165,7 @@ def pipeline(elmo, dataset, proc_func, step_size = 10, testing = False):
     embeddings = np.concatenate(embeddings, axis=0)
 
     print("Completed generating ELMo embeddings.")
-    filepath = f"../ELMoPickled/ELMo_{args.dataset}.pickle"
+    filepath = f"ELMo_{args.dataset}.pickle"
     print(f"Saving as pickle: {filepath}")
     pickle_out = open(filepath, "wb")
     pickle.dump(embeddings, pickle_out)
