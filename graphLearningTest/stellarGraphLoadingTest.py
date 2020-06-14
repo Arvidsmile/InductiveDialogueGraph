@@ -1,6 +1,6 @@
 """
 Tutorial on how to load data and work with the datastructure.
-[] Try it out using swda.csv first,
+[] Try it out using SwDA.csv first,
 [] Then test it with added TF-IDF features for each utterance.
 
 """

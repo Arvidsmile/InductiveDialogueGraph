@@ -1,0 +1,11 @@
+name: ELMoenvironment
+dependencies:
+  - scikit-learn
+  - python = 3.6
+  - numpy
+  - pandas
+  - tqdm
+  - tensorflow-hub
+  - tensorflow = 1.15
+  - tensorflow-gpu = 1.15
+  - matplotlib

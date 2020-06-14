@@ -44,7 +44,7 @@ def processSwDA(dataset):
   dataset = dataset[['proc_utterance', 'Dialogue Act']]
   return dataset
 
-swda_processed = processSwDA(pd.read_csv("../CSVData/swda.csv"))
+swda_processed = processSwDA(pd.read_csv("../CSVData/SwDA.csv"))
 
 # 3. Build a logistic regression classifier on the ELMo embeddings
 

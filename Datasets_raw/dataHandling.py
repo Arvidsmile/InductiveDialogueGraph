@@ -133,13 +133,13 @@ class DataHandler(object):
 
         df = pd.DataFrame(dataframe_list)
 
-        if os.path.exists('../CSVData/swda.csv'):
-            os.remove('../CSVData/swda.csv')
+        if os.path.exists('../CSVData/SwDA.csv'):
+            os.remove('../CSVData/SwDA.csv')
 
         if os.path.exists('../CSVData/swdalength.txt'):
             os.remove('../CSVData/swdalength.txt')
 
-        df.to_csv('../CSVData/swda.csv')
+        df.to_csv('../CSVData/SwDA.csv')
         # Note down number of unique dialogues
         f = open("../CSVData/swdalength.txt", 'w+')
         f.write(str(len(file_names)))

@@ -1,5 +1,5 @@
 """
-Super simple, try to embed every utterance of the SwDA .csv file 'swda.csv'.
+Super simple, try to embed every utterance of the SwDA .csv file 'SwDA.csv'.
 Start by embedding the first few and the last few lines.
 Check the content of their vectors.
 Then save the embeddings.
@@ -23,7 +23,7 @@ print("To create ELMo embeddings takes a very long time, do not attempt " + \
 
 pd.set_option('display.max_colwidth', 200)
 
-dataset = pd.read_csv("../CSVData/swda.csv")
+dataset = pd.read_csv("../CSVData/SwDA.csv")
 print(dataset.head())
 
 # sys.exit()
