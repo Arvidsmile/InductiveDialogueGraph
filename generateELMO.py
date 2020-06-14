@@ -156,8 +156,10 @@ def pipeline(elmo, dataset, proc_func, step_size = 10, testing = False):
     print(f"Creating ELMo embeddings {step_size} utterances at a time.")
     batches = [df[i:i + step_size] for i in range(0, df.shape[0], step_size)]
     if testing:
+        print("Generating only 30 embeddings.")
         embeddings = [elmo_vectors(batch['proc_utterance'], elmo) for batch in tqdm(batches[0:30])]
     else:
+        print("Generating all embeddings.")
         embeddings = [elmo_vectors(batch['proc_utterance'], elmo) for batch in tqdm(batches)]
 
     embeddings = np.concatenate(embeddings, axis=0)
@@ -181,7 +183,17 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--dataset",
                         help = "Which dataset do you want to generate ELMo embeddings for?",
-                        type = str)
+                        type = str,
+                        default = "SwDA")
+    parser.add_argument("--testing",
+                        help = "Are we in testing mode?",
+                        type = int,
+                        default = 0)
+    parser.add_argument("--step_size",
+                        help = "Size of each batch of utterances used in ELMo",
+                        type = int,
+                        default = 10)
+
     args = parser.parse_args()
     print("Loading ELMo Module from tensorhub...")
     elmo = hub.Module("https://tfhub.dev/google/elmo/2", trainable=False)
@@ -192,15 +204,16 @@ if __name__ == '__main__':
         # set to a larger number to generate embeddings more efficiently.
         # testing should be set to True in order to generate only (30 * step_size)
         # amount of embeddings, for testing purposes.
-        pipeline(elmo, args.dataset, preprocessSwDA, step_size = 10, testing = True)
+        pipeline(elmo, args.dataset, preprocessSwDA,
+                 step_size = args.step_size, testing = args.testing)
 
     elif args.dataset == "MANtIS":
-        pipeline(elmo, args.dataset, preprocessMANtIS, step_size= 2, testing = True)
+        pipeline(elmo, args.dataset, preprocessMANtIS,
+                 step_size = args.step_size, testing = args.testing)
 
     elif args.dataset == "MSDialog":
-        pipeline(elmo, args.dataset, preprocessMSDialog, step_size= 2, testing = True)
-
-
+        pipeline(elmo, args.dataset, preprocessMSDialog,
+                 step_size = args.step_size, testing = args.testing)
 
 
     elif args.dataset == "MRDA":
