@@ -23,17 +23,24 @@ from matplotlib.axes._axes import _log as matplotlib_axes_logger
 matplotlib_axes_logger.setLevel('ERROR')
 os.environ['KMP_WARNINGS'] = '0'
 
-# Function for generating elmo embeddings from a dataframe column
+# (OLD) Function for generating elmo embeddings from a dataframe column
 # containing utterances. Output : A numpy matrix of size (num_rows, 1024)
 # Input: x, a column of size num_rows from chosen dataset
-def elmo_vectors(x, elmo):
-    embeddings = elmo(x.tolist(), signature="default", as_dict=True)["elmo"]
+# def elmo_vectors(x, elmo):
+#     embeddings = elmo(x.tolist(), signature="default", as_dict=True)["elmo"]
+#
+#     with tf.compat.v1.Session() as sess:
+#         sess.run(tf.compat.v1.global_variables_initializer())
+#         sess.run(tf.compat.v1.tables_initializer())
+#         # return average of ELMo features
+#         output_embeddings = sess.run(tf.reduce_mean(embeddings,1))
+#
+#     return output_embeddings
+#
 
-    with tf.compat.v1.Session() as sess:
-        sess.run(tf.compat.v1.global_variables_initializer())
-        sess.run(tf.compat.v1.tables_initializer())
-        # return average of ELMo features
-        return sess.run(tf.reduce_mean(embeddings,1))
+def elmo_vectors2(session, tf_output, tf_input, x):
+    result = session.run(tf_output, feed_dict={tf_input: x.tolist()})
+    return result
 
 # Function for plotting ELMo embeddings in 2-dimensions
 # using TSNE.
@@ -75,7 +82,7 @@ def plotTSNE(embeddings, DAlabels, dataset = "testing", method = "ELMo", show = 
     lgd = ax.legend(handles, labels, loc='center left', bbox_to_anchor=(1, 0.5))
     plt.title("{} visualization of {} embeddings from {}".format(
             TSNE.__name__, method, dataset))
-    fig.savefig(f"output_images/{method}_TSNE_{dataset}.pdf",
+    fig.savefig(f"../output_images/{method}_TSNE_{dataset}.pdf",
                 bbox_extra_artists=(lgd, ),
                 bbox_inches='tight')
     if show:
@@ -148,19 +155,44 @@ def preprocessMSDialog(dataset):
 # Embeds the whole dataset with the set step_size (number of
 # utterances in each batch), creates a TSNE-plot of the embeddings
 # as well as saving the embeddings in a pickle file.
-def pipeline(elmo, dataset, proc_func, step_size = 10, testing = False):
+def pipeline(dataset, proc_func, step_size = 10, testing = False):
     df = pd.read_csv(f"../CSVData/{dataset}.csv")
-    # 1. Perform preprocessing
+    # 1. Perform preprocessing of corpus
     df = proc_func(df)
 
+    # 2. Create computational graph for generating ELMo embeddings
+    print("Loading ELMo Module from tensorhub and creating comp. graph...")
+    g = tf.Graph()
+    with g.as_default():
+        # We will be feeding 1D tensors of text into the graph.
+        tf_input = tf.compat.v1.placeholder(dtype=tf.string, shape=[None])
+        elmo = hub.Module("https://tfhub.dev/google/elmo/2", trainable=False)
+        embedded_text = elmo(tf_input, signature="default", as_dict=True)["elmo"]
+        tf_output = tf.reduce_mean(embedded_text, 1)
+        init_op = tf.group([tf.compat.v1.global_variables_initializer(),
+                            tf.compat.v1.tables_initializer()])
+    g.finalize()
+    print("Done loading ELMo module.")
+
+    # Create session and initialize.
+    session = tf.compat.v1.Session(graph=g)
+    session.run(init_op)
+
+    # 3. Generate the embeddings
     print(f"Creating ELMo embeddings {step_size} utterances at a time.")
     batches = [df[i:i + step_size] for i in range(0, df.shape[0], step_size)]
     if testing:
         print("Generating only 30 embeddings.")
-        embeddings = [elmo_vectors(batch['proc_utterance'], elmo) for batch in tqdm(batches[0:30])]
+        embeddings = [elmo_vectors2(session,
+                                    tf_output,
+                                    tf_input,
+                                    batch['proc_utterance']) for batch in tqdm(batches[0:30])]
     else:
         print("Generating all embeddings.")
-        embeddings = [elmo_vectors(batch['proc_utterance'], elmo) for batch in tqdm(batches)]
+        embeddings = [elmo_vectors2(session,
+                                    tf_output,
+                                    tf_input,
+                                    batch['proc_utterance']) for batch in tqdm(batches)]
 
     embeddings = np.concatenate(embeddings, axis=0)
 
@@ -193,26 +225,22 @@ if __name__ == '__main__':
                         help = "Size of each batch of utterances used in ELMo",
                         type = int,
                         default = 10)
-
     args = parser.parse_args()
-    print("Loading ELMo Module from tensorhub...")
-    elmo = hub.Module("https://tfhub.dev/google/elmo/2", trainable=False)
-    print("Done loading ELMo module.")
 
     if args.dataset == "SwDA":
         # Note: On a gpu-cluster with large memory access, step_size should be
         # set to a larger number to generate embeddings more efficiently.
         # testing should be set to True in order to generate only (30 * step_size)
         # amount of embeddings, for testing purposes.
-        pipeline(elmo, args.dataset, preprocessSwDA,
+        pipeline(args.dataset, preprocessSwDA,
                  step_size = args.step_size, testing = args.testing)
 
     elif args.dataset == "MANtIS":
-        pipeline(elmo, args.dataset, preprocessMANtIS,
+        pipeline(args.dataset, preprocessMANtIS,
                  step_size = args.step_size, testing = args.testing)
 
     elif args.dataset == "MSDialog":
-        pipeline(elmo, args.dataset, preprocessMSDialog,
+        pipeline(args.dataset, preprocessMSDialog,
                  step_size = args.step_size, testing = args.testing)
 
 
@@ -242,12 +270,28 @@ if __name__ == '__main__':
                      "Dialogue Act": "Statement"},
                     ])
 
-        embeddings = elmo_vectors(dummydf["Utterance"], elmo)
+        print("Loading ELMo Module from tensorhub and creating comp. graph...")
+        g = tf.Graph()
+        with g.as_default():
+            # We will be feeding 1D tensors of text into the graph.
+            tf_input = tf.compat.v1.placeholder(dtype=tf.string, shape=[None])
+            elmo = hub.Module("https://tfhub.dev/google/elmo/2", trainable=False)
+            embedded_text = elmo(tf_input, signature="default", as_dict=True)["elmo"]
+            tf_output = tf.reduce_mean(embedded_text, 1)
+            init_op = tf.group([tf.compat.v1.global_variables_initializer(),
+                                tf.compat.v1.tables_initializer()])
+        g.finalize()
+        print("Done loading ELMo module.")
+        # Create session and initialize.
+        session = tf.compat.v1.Session(graph=g)
+        session.run(init_op)
+
+        embeddings = elmo_vectors2(session, tf_output, tf_input, dummydf["Utterance"])
         plotTSNE(embeddings,
                  dummydf["Dialogue Act"],
-                 dataset = "testing",
+                 dataset = args.dataset,
                  method = "ELMo",
                  show = False)
 
     else:
-        print("Please enter a valid dataset: SwDA | MRDA | MANtIS | MSDialog")
+        print("Please enter a valid dataset: SwDA | MRDA | MANtIS | MSDialog | testing")
