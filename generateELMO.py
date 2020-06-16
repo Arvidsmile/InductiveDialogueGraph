@@ -107,7 +107,12 @@ def preprocessSwDA(dataset):
     dataset.loc[:, 'proc_utterance'] = dataset['proc_utterance'].str.lower()
 
     pd.options.mode.chained_assignment = 'warn'
-    print(f"Empty strings at {np.where(dataset['proc_utterance'].apply(lambda x: x == ''))}")
+    empty_locations = np.where(dataset['proc_utterance'].apply(lambda x: x == ''))[0].tolist()
+    print(f"Empty strings at {empty_locations}")
+    # If we have empty locations, replace them with dashes to avoid Nan Values in embeddings
+    dataset.at[empty_locations, "proc_utterance"] = "---"
+    empty_locations = np.where(dataset['proc_utterance'].apply(lambda x: x == ''))[0].tolist()
+    print(f"Empty strings at {empty_locations}")
     return dataset
 
 def preprocessMANtIS(dataset):
@@ -125,12 +130,14 @@ def preprocessMANtIS(dataset):
                              flags=re.MULTILINE))
 
     pd.options.mode.chained_assignment = 'warn'
-    print(f"Empty strings at {np.where(dataset['proc_utterance'].apply(lambda x: x == ''))}")
 
+    empty_locations = np.where(dataset['proc_utterance'].apply(lambda x: x == ''))[0].tolist()
+    print(f"Empty strings at {empty_locations}")
+    # If we have empty locations, replace them with dashes to avoid Nan Values in embeddings
+    dataset.at[empty_locations, "proc_utterance"] = "---"
+    empty_locations = np.where(dataset['proc_utterance'].apply(lambda x: x == ''))[0].tolist()
+    print(f"Empty strings at {empty_locations}")
     return dataset
-
-def preprocessMRDA(dataframe):
-    pass
 
 def preprocessMSDialog(dataset):
     pd.options.mode.chained_assignment = None
@@ -147,9 +154,17 @@ def preprocessMSDialog(dataset):
                              flags=re.MULTILINE))
 
     pd.options.mode.chained_assignment = 'warn'
-    print(f"Empty strings at {np.where(dataset['proc_utterance'].apply(lambda x: x == ''))}")
 
+    empty_locations = np.where(dataset['proc_utterance'].apply(lambda x: x == ''))[0].tolist()
+    print(f"Empty strings at {empty_locations}")
+    # If we have empty locations, replace them with dashes to avoid Nan Values in embeddings
+    dataset.at[empty_locations, "proc_utterance"] = "---"
+    empty_locations = np.where(dataset['proc_utterance'].apply(lambda x: x == ''))[0].tolist()
+    print(f"Empty strings at {empty_locations}")
     return dataset
+
+def preprocessMRDA(dataframe):
+    pass
 
 # Function that performs the work of creating embeddings.
 # Embeds the whole dataset with the set step_size (number of
@@ -197,18 +212,28 @@ def pipeline(dataset, proc_func, step_size = 10, testing = False):
     embeddings = np.concatenate(embeddings, axis=0)
 
     print("Completed generating ELMo embeddings.")
-    filepath = f"../ELMoPickled/ELMo_{args.dataset}.pickle"
+    if testing:
+        filepath = f"../ELMoPickled/ELMo_{args.dataset}_testing.pickle"
+    else:
+        filepath = f"../ELMoPickled/ELMo_{args.dataset}.pickle"
+
     print(f"Saving as pickle: {filepath}")
     pickle_out = open(filepath, "wb")
     pickle.dump(embeddings, pickle_out)
     pickle_out.close()
 
-    plotTSNE(embeddings,
-             df["Dialogue Act"][0:embeddings.shape[0]],
-             dataset=args.dataset,
-             method="ELMo",
-             show=False)
-
+    if testing:
+        plotTSNE(embeddings,
+                 df["Dialogue Act"][0:embeddings.shape[0]],
+                 dataset=args.dataset,
+                 method="ELMo-testing",
+                 show=False)
+    else:
+        plotTSNE(embeddings,
+                 df["Dialogue Act"][0:embeddings.shape[0]],
+                 dataset=args.dataset,
+                 method="ELMo",
+                 show=False)
 
 
 if __name__ == '__main__':
