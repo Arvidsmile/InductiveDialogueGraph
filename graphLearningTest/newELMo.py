@@ -127,4 +127,4 @@ if __name__ == '__main__':
     print(ELMo.shape)
     print(pca_result.shape)
 
-    plotTSNE(pca_result, swda_proc["Dialogue Act"])
+    plotTSNE(pca_result, swda_proc["Dialogue Act"], dataset = "SwDA-PCA100")

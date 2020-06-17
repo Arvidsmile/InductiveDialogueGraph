@@ -1,10 +1,10 @@
 #!/bin/bash
 #SBATCH --time=1:00:00
-#SBATCH --mem=20G
+#SBATCH --mem=40G
 #SBATCH --nodes=1
 #SBATCH --partition=gpu_short
 #SBATCH --mail-user=arvid.lindstrom@student.uva.nl
-#SBATCH --output=PLT2-SwdA.out
+#SBATCH --output=PCA-plot-swda.out
 
 module purge
 module load 2019
