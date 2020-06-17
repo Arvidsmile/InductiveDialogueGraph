@@ -55,28 +55,28 @@ def plotTSNE(embeddings, DAlabels, dataset = "testing", method = "ELMo", show = 
     if show:
         plt.show()
 
-def preprocessSwDA(dataset):
-    pd.options.mode.chained_assignment = None
-    # Do some preprocessing,
-    # Fix apostrophies that are spaced apart
-    dataset.loc[:, 'proc_utterance'] = \
-        dataset['Utterance'].apply(lambda x: re.sub(' \'','\'', str( re.sub(' n\'t','n\'t', str(x)) )))
-
-    # remove any exclamation and question marks
-    punctuation = '!?'
-    dataset.loc[:, 'proc_utterance'] = dataset['proc_utterance'].apply(lambda x: ''.join(ch for ch in x if ch not in set(punctuation)))
-
-    # lowercase the text
-    dataset.loc[:, 'proc_utterance'] = dataset['proc_utterance'].str.lower()
-
-    pd.options.mode.chained_assignment = 'warn'
-    empty_locations = np.where(dataset['proc_utterance'].apply(lambda x: x == ''))[0].tolist()
-    print(f"Empty strings at {empty_locations}")
-    # If we have empty locations, replace them with dashes to avoid Nan Values in embeddings
-    dataset.at[empty_locations, "proc_utterance"] = "---"
-    empty_locations = np.where(dataset['proc_utterance'].apply(lambda x: x == ''))[0].tolist()
-    print(f"Empty strings at {empty_locations}")
-    return dataset
+# def preprocessSwDA(dataset):
+#     pd.options.mode.chained_assignment = None
+#     # Do some preprocessing,
+#     # Fix apostrophies that are spaced apart
+#     dataset.loc[:, 'proc_utterance'] = \
+#         dataset['Utterance'].apply(lambda x: re.sub(' \'','\'', str( re.sub(' n\'t','n\'t', str(x)) )))
+#
+#     # remove any exclamation and question marks
+#     punctuation = '!?'
+#     dataset.loc[:, 'proc_utterance'] = dataset['proc_utterance'].apply(lambda x: ''.join(ch for ch in x if ch not in set(punctuation)))
+#
+#     # lowercase the text
+#     dataset.loc[:, 'proc_utterance'] = dataset['proc_utterance'].str.lower()
+#
+#     pd.options.mode.chained_assignment = 'warn'
+#     empty_locations = np.where(dataset['proc_utterance'].apply(lambda x: x == '' or x == ''))[0].tolist()
+#     print(f"Empty strings at {empty_locations}")
+#     # If we have empty locations, replace them with dashes to avoid Nan Values in embeddings
+#     dataset.at[empty_locations, "proc_utterance"] = "---"
+#     empty_locations = np.where(dataset['proc_utterance'].apply(lambda x: x == ''))[0].tolist()
+#     print(f"Empty strings at {empty_locations}")
+#     return dataset
 
 # Create graph and finalize (finalizing optional but recommended).
 # Run this code once -------------------------------
@@ -119,7 +119,7 @@ if __name__ == '__main__':
     print("plotting TSNE")
     plotTSNE(ELMo, swda["Dialogue Act"])
 
-    swda_proc = preprocessSwDA(swda)
+    # swda_proc = preprocessSwDA(swda)
 
     pca = PCA(n_components = 100)
 
@@ -127,4 +127,4 @@ if __name__ == '__main__':
     print(ELMo.shape)
     print(pca_result.shape)
 
-    plotTSNE(pca_result, swda_proc["Dialogue Act"])
+    plotTSNE(pca_result, swda["Dialogue Act"])

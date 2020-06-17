@@ -182,11 +182,11 @@ def preprocessMRDA(dataset):
     dataset.loc[:, 'proc_utterance'] = \
         dataset['proc_utterance'].apply(lambda x: re.sub('[\[].*?[\]]', '', str(x)))
 
-    empty_locations = np.where(dataset['proc_utterance'].apply(lambda x: x == ' '))[0].tolist()
+    empty_locations = np.where(dataset['proc_utterance'].apply(lambda x: x == '  ' or x == ' ' or x == ''))[0].tolist()
     print(f"Empty strings at {empty_locations}")
     # If we have empty locations, replace them with dashes to avoid Nan Values in embeddings
     dataset.at[empty_locations, "proc_utterance"] = "---"
-    empty_locations = np.where(dataset['proc_utterance'].apply(lambda x: x == ' '))[0].tolist()
+    empty_locations = np.where(dataset['proc_utterance'].apply(lambda x: x == '  ' or x == ' ' or x == ''))[0].tolist()
     print(f"Empty strings at {empty_locations}")
 
     pd.options.mode.chained_assignment = 'warn'
