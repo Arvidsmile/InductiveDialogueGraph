@@ -1,0 +1,2252 @@
+m e013 [ z] : No .
+fe016 [ z] : No .
+m e013 [ z] : No .
+fe016 [ z] : That ’s a different t hing .
+m e013 [ z] : There ’s anot her [ disfm arker]
+m e013 [ z] : I don’t know .
+m e013 [ z] : It st art s wit h a P or som et hing .
+m e013 [ z] : I forget t he word for it , but it ’s [ disfm arker] it ’s um
+fe016 [ z] : Oh .
+m e013 [ z] : Ty pically when you [ disfm arker] you ’re ab r st art ing around
+fort y for m ost people ,
+m e013 [ z] : it st art s t o harden and t hen it ’s just harder for t he lens t o
+shift t hings
+fe016 [ z] : Oh .
+m e013 [ z] : and t h t he [ disfm arker] t he sym pt om is t ypically t hat you
+[ disfm arker] [ v ocalsound] you have t o hold st uff uh uh furt her away t o
+[ disfm arker] t o see it .
+m n005 [ z] : Uh − huh .
+m n005 [ z] : Yeah .
+m e013 [ z] : In fact , uh m m y brot her ’s a [ pause] geront ological
+psy chologist
+m e013 [ z] : and he [ disfm arker] he uh [ v ocalsound] cam e up wit h an
+[ disfm arker] an uh [ disfm arker] a uh body age t est which uh get s down
+t o sort of only t hree m easurem ent s t hat are good enough st st at ist ical
+predict ors of all t he rest of it .
+m e013 [ z] : And one of t hem is [ disfm arker] is t he dist ance
+[ v ocalsound] t hat y ou have t o hold it at .
+fe016 [ z] : Give som eone a piece of paper and t hen t hey [ disfm arker]
+Oh .
+m n005 [ z] : Yeah .
+m e013 [ z] : Yeah .
+m e011 [ z] : We ’re [ disfm arker] we ’re live by t he way , so we ’ve got a
+good int ro here
+m e013 [ z] : Oh . Yeah .
+m e013 [ z] : About how old I am .
+m e013 [ z] : OK .
+m e011 [ z] : Yep .
+m e011 [ z] : We can edit t hat out if you want .
+fe016 [ z] : Oh , t hat ’s opt ional .
+m e013 [ z] : No , t hat ’s OK .
+m n005 [ z] : Mm − hm m .
+m e011 [ s^ bk] : OK .
+fe016 [ z] : You know .
+m e011 [ s^ bu] : So . This t im e t he form discussion should be very short
+,
+m e011 [ qy ^ d^ g^ rt ] : right ?
+
+m e013 [ s^ e] : It also should be [ pause] lat er .
+m e011 [ s^ bk] : OK .
+m e013 [ s^ df] : Because Jane uh is not here yet .
+m e011 [ s^ ba] : Good point .
+m e013 [ s] : And uh she ’ll be m ost int erest ed in t hat .
+m e013 [ fh|s] : Uh , she ’s probably least involved in t he signal −
+processing st uff
+m e013 [ s.%−−] : so m aybe we can just [ disfm arker] just uh ,
+m e013 [ s^ cs] : I don’t t hink we should go t hough an elaborat e t hing ,
+m e013 [ s] : but um uh Jose and I were just t alking about [ vocalsound]
+t he uh [ nonvocalsound] uh , speech e energy t hing ,
+m n005 [ s^ 2.%−−] : The @ @ [ disfm arker]
+m n005 [ b] : Yeah .
+m e013 [ s.%−−] : and I uh [ disfm arker]
+m e013 [ s] : We didn’t t alk about t he derivat ives .
+m e013 [ s^ cs.%−−] : But I t hink , you know , t he [ disfm arker] t he
+[ disfm arker] i
+m e013 [ s^ cs.%−−] : if I can [ disfm arker] if you don’t m ind m y
+[ disfm arker] m y speaking for y ou for a bit , um [ vocalsound] Uh .
+m e013 [ s.%−−] : Right now , t hat he ’s not really showing any kind of uh
+dist inct ion , but uh [ disfm arker]
+m e013 [ s^ rt ] : but we discussed a couple of t he possible t hings t hat
+uh he can look at .
+m e013 [ fh|s] : Um . And uh one is t hat uh t his is all in log energy
+m e013 [ s] : and log energy is basically com pressing t he dist ances
+[ v ocalsound] uh [ pause] bet ween t hings .
+m e013 [ s] : Um [ pause] Anot her is t hat he needs t o play wit h t he
+[ disfm arker] t he different uh [ pause] uh t em poral sizes .
+m e013 [ s] : He was [ disfm arker] he [ disfm arker] he was t aking
+ev ery t hing over t wo hundred m illiseconds
+m e013 [ fh|s] : uh , and uh he ’s going t o vary t hat num ber and also
+look at m oving windows , as we discussed before .
+m e013 [ fh|s] : Um And uh [ disfm arker] and t he ot her t hing is t hat t he
+[ disfm arker] yeah doing t he [ disfm arker] [ vocalsound] subt ract ing off
+t he m ean and t he variance in t he [ disfm arker] [ pause] uh and dividing
+it by t he [ pause] st andard deviat ion in t he log dom ain , [ vocalsound]
+m ay not be [ pause] t he right t hing t o do .
+m n005 [ s^ t 3] : Hi .
+m e011 [ s^ t 3] : Hi Jane !
+m n005 [ b] : Yeah .
+m e011 [ s] : We just st art ed .
+m e011 [ qy ^ rt ] : Could you t ake t hat m ike t here ?
+fe016 [ qy ^ bu^ rt ] : Are t hese t he long t erm m eans ?
+fe016 [ s^ e.%−−] : Like , over t he whole [ disfm arker]
+fe016 [ qy ^ d] : I m ean , t he m eans of [ pause] what ?
+m e013 [ s.%−] : Uh B Bet ween [ disfm arker] bet ween [ disfm arker]
+
+fe016 [ qy ^ d^ rt ] : All t he fram es in t he conversat ion ?
+m e011 [ s^ ft ] : Thanks .
+fe016 [ qrr^ d.%−−] : Or of t hings t hat [ disfm arker]
+m e013 [ s^ ar] : No .
+m e013 [ s.%−−] : Bet ween [ disfm arker]
+m e013 [ s^ ar] : Neit her .
+m n005 [ s^ ar] : No .
+m e013 [ s] : It ’s uh bet ween t he pauses [ pause] uh for som e segm ent
+.
+fe016 [ s^ bk] : Oh .
+m e013 [ s] : And so i i his [ disfm arker] his [ disfm arker] He ’s m aking t he
+const raint it has t o be at least t wo hundred m illiseconds .
+fe016 [ s^ bk] : Oh .
+m e013 [ s] : And so you t ake t hat .
+m e013 [ s] : And t hen he ’s [ disfm arker] he ’s uh m easuring at t he
+fram e lev el [ disfm arker]
+m e013 [ s.%−−] : st ill at t he fram e level , of what [ disfm arker]
+fe016 [ b] : Right .
+m e013 [ s] : and t hen [ disfm arker] and t hen just uh norm alizing wit h
+t hat larger am ount .
+m e013 [ s^ rt ] : um and [ disfm arker] But one t hing he was point ing out
+is when he [ disfm arker] he looked at a bunch of exam ples in log
+dom ain , it is act ually pret t y hard t o see [ vocalsound] t he change .
+m e013 [ s^ rt ] : And you can sort of [ pause] see t hat , because of j of
+just put t ing it on t he board t hat [ vocalsound] if you sort of have log − X
+plus log − X , t hat ’s t he log of X plus t he log of t wo
+m n005 [ b] : Yep .
+fe016 [ fg|s^ cs] : Yeah , m aybe it ’s not log dist ribut ed .
+m n005 [ b] : Mm m .
+m n005 [ b] : Yeah .
+m e013 [ s] : and it ’s just , [ pause] you know , it [ disfm arker] it
+dim inishes t he [ pause] effect of hav ing t wo of t hem .
+m n005 [ x ] : [ no m at ched cont ent ]
+fe016 [ qy ] : But you could do like a C D F t here inst ead ?
+m e013 [ fh] : Um .
+fe016 [ s^ df.%−−] : I m ean , we don’t know t hat t he dist ribut ion here is
+norm ally .
+m e013 [ s^ bk] : Yes , right .
+m e013 [ s.%−−] : So [ disfm arker] So what I was suggest ing t o him is t hat
+[ disfm arker]
+fe016 [ s^ cs.%−] : So just som e kind of a sim ple [ disfm arker]
+m e013 [ s^ bc] : Act ually , a PDF .
+m e013 [ s] : But , y ou know , uh But , eit her way .
+fe016 [ s^ bk^ m ] : PDF
+m e013 [ b] : Yeah .
+fe016 [ b] : Yeah .
+
+m n005 [ b] : Yeah .
+m e013 [ s.%−] : Yeah , eit h eit h uh [ v ocalsound] B
+fe016 [ s^ cs] : Som et hing like t hat where it ’s sort of dat a driven .
+m e013 [ s^ bk|s^ arp.%−−] : Yeah , but I t hink [ pause] also u I t hink a
+good first indicat or is when t he [ disfm arker] t he [ disfm arker] t he
+researcher looks at [ vocalsound] ex am ples of t he dat a and can not
+see a change [ pause] in how big t he [ disfm arker] t he signal is ,
+[ v ocalsound] when t he t wo speaker [ disfm arker]
+m n005 [ s^ aa] : Yeah . Yeah .
+m e013 [ s] : Then , t hat ’s a problem right t here .
+m e013 [ s^ cs.%−−] : So . I t hink you should at least be able ,
+fe016 [ b] : Oh yeah .
+m e013 [ s^ cs:s] : doing casual looking and can get t he sense , " Hey ,
+t here ’s som et hing t here . "
+m e013 [ s] : and t hen you can play around wit h t he m easures .
+fe016 [ b] : Oh yeah .
+m n005 [ b] : Yeah .
+m e013 [ s^ df] : And when he ’s looking in t he log dom ain he ’s not
+really seeing it .
+m e013 [ %−−] : So .
+m e013 [ s^ df^ rt ] : And when he ’s looking in st raight energy he is ,
+m e013 [ s] : so t hat ’s a good place t o st art .
+m n005 [ b] : Yeah .
+m e013 [ fh|s^ t c] : Um . So t hat was [ disfm arker] t hat was t he
+discussion we just had .
+m e013 [ fh|s.%−−] : Um . [ vocalsound] The ot her t hing
+m e013 [ s] : Act ually we ca had a quest ion for Adam in t his .
+m e013 [ qy ^ rt ] : Uh , when you did t he [ v ocalsound] sam pling ? uh
+[ pause] over t he [ pause] speech segm ent s or s or sam pling over t he
+[ disfm arker] t he indiv idual channels in order t o do t he e uh t he
+[ pause] am plit ude equalizat ion , [ v ocalsound] did you do it ov er just
+t he ent ire [ disfm arker] everyt hing in t he m ike channels ?
+m n005 [ %−] : How [ disfm arker]
+m e013 [ qy^ d] : You didn’t t ry t o find speech ?
+m e011 [ s^ ar|s] : No , I just t ook over t he ent ire s uh ent ire channel
+m e011 [ fh|s] : um [ pause] sam pled t en m inut es random ly .
+m e013 [ s^ bk] : Right , OK .
+m e013 [ s^ bu] : So t hen t hat m eans t hat som eone who didn’t speak
+[ pause] v ery m uch [ v ocalsound] would be largely represent ed by
+silence .
+m e011 [ s^ aa] : Yep .
+m e013 [ s.%−−] : And som eone who would [ disfm arker] who would be
+[ disfm arker]
+m e013 [ s.%−] : So t he norm alizat ion fact or probably is [ pause] i i i
+[ pause] is [ disfm arker] is [ disfm arker]
+
+m e011 [ fg|s] : Yeah , t his was quit e quick and dirt y , and it was just for
+[ pause] list ening .
+m n005 [ b] : Yeah .
+m e013 [ b] : Yeah .
+m e013 [ s^ bk] : OK .
+m e011 [ s^ df] : And for list ening it seem s t o work really well .
+m n005 [ s^ bk^ rt ] : Yeah .
+m e013 [ s^ bk] : Yeah .
+m n005 [ b] : Yeah .
+m e011 [ fh] : So .
+m e013 [ b] : Yeah .
+m e013 [ s.%−−] : But t hat ’s [ disfm arker]
+m e013 [ fh] : Right .
+m e011 [ s^ df] : But , it ’s not [ disfm arker] Not a good m easure .
+m e013 [ %−] : So t h
+m n005 [ b] : Yeah .
+m e013 [ s^ bk] : OK .
+m e013 [ s^ bs.%−−] : So yeah t here [ disfm arker] t here [ disfm arker]
+t here [ disfm arker] There ’s a good chance t hen given t hat different
+people do t alk different am ount s [ pause] t hat t here is [ disfm arker]
+t here [ disfm arker] t here is st ill a lot m ore t o be gained from gain norm
+norm alizat ion wit h som e sort
+m n005 [ s^ bk] : Yeah . Yeah .
+m n005 [ b] : Mm m .
+m e011 [ s^ bk] : Yes , absolut ely .
+m e013 [ s] : if [ disfm arker] if we can figure out a way t o do it .
+m n005 [ b] : Yeah .
+m e013 [ fh|s^ bs] : Uh . But we were agreed t hat in addit ion t o t hat
+[ com m ent ] uh t here should be [ pause] s st uff relat ed t o pit ch and
+harm onics and so fort h .
+m n005 [ b] : Yeah .
+m e013 [ s^ t c] : So we didn’t t alk at all about uh t he ot her derivat ives ,
+m e013 [ s.%−] : but uh again just [ disfm arker] just looking at
+[ disfm arker]
+m e013 [ s.%−−] : Uh , I t hink uh Liz has a very good point , t hat in fact it
+would be m uch m ore graphic just t o show [ disfm arker]
+m n005 [ b] : Yeah .
+m e013 [ s] : Well , act ually , you do have som e dist ribut ions here , uh
+for t hese cases .
+m n005 [ b] : Yeah .
+m e013 [ s] : You hav e som e hist ogram s ,
+m n005 [ b] : Yeah .
+m e013 [ fh|s] : um [ pause] and [ pause] uh , t hey don’t look very
+separat e .
+m e013 [ fh|s^ bsc] : uh [ vocalsound] [ pause] separat ed .
+
+m n005 [ s] : This is t he [ disfm arker] t he first derivat e of log of fram e
+energy uh wit hout any kind of norm alizat ion .
+fe016 [ qw.%−] : What [ disfm arker]
+m e013 [ b] : Yeah .
+m e013 [ b] : Yeah .
+m e013 [ b] : Yeah .
+fe016 [ s^ m ] : Log energy .
+m n005 [ s.%−−] : These t he These are t he [ disfm arker] t he first
+ex perim ent s uh wit h com m ent uh
+fe016 [ s^ fa] : Sorry .
+fe016 [ s] : Fram e energy .
+m e011 [ s] : Except t hat [ pause] it ’s hard t o judge t his because t he
+[ disfm arker] t hey ’re not norm alized .
+m e011 [ s^ e] : It ’s just num ber of fram es .
+fe016 [ b] : Yeah .
+m e013 [ b] : Yeah .
+m n005 [ b] : Yeah .
+fe016 [ b] : Yeah .
+m e011 [ s^ bd] : But y eah , even so .
+fe016 [ s] : W [ vocalsound] I m ean , what I m eant is , ev en if you use
+linear , [ pause] you know , raw [ pause] m easures , like [ pause] raw
+energy or what ev er ,
+m e013 [ s.%−] : " Num ber " [ disfm arker]
+fe016 [ s^ cs] : m aybe we shouldn’t m ake any assum pt ions about t he
+dist ribut ion ’s shape ,
+fe016 [ s^ cs] : and just use [ disfm arker] you know , use t he
+dist ribut ion t o m odel t he [ disfm arker] [ vocalsound] [ pause] t he m ean ,
+fe016 [ s^ cs.%−] : or what y you know , rat her t han t he m ean t ake
+som e [ disfm arker]
+m e013 [ b] : Yeah .
+m e013 [ s^ df] : But [ disfm arker] And so in [ disfm arker] in t hese he ’s
+got t hat .
+fe016 [ b] : Yeah .
+m e013 [ s] : He ’s got som e pict ures .
+m n005 [ b] : Yeah .
+m e013 [ s.%−−] : But he doesn’t [ disfm arker] he doesn’t in t he
+[ disfm arker] he i
+m e013 [ s.%−] : just in derivat ives , but not in t he [ disfm arker]
+fe016 [ b] : Yeah .
+fe016 [ s^ bk] : Oh .
+m e013 [ s.%−−] : but he d but he doesn’t [ disfm arker] doesn’t
+[ disfm arker]
+fe016 [ fg|s] : Right . So , we don’t [ pause] know what t hey look like
+[ pause] on t he , [ pause] t sk [ disfm arker] [ com m ent ] For t he raw .
+m e013 [ s] : But he didn’t h have it for t he energy .
+m e013 [ s] : He had it for t he derivat iv es .
+
+fe016 [ b] : Yeah .
+fe016 [ fh] : So .
+m e013 [ b] : Yeah .
+fe016 [ s^ cs] : I m ean , t here m ight be som et hing t here .
+fe016 [ s^ no] : I don’t know .
+fe016 [ b] : Huh .
+m e013 [ s^ aa] : Yeah .
+m e011 [ s^ ba^ t 1] : Int erest ing
+m n005 [ s.%−] : Here I [ disfm arker] I
+m e013 [ s^ ba.%−−] : Oh t hat [ disfm arker] yeah t hat ’s a good q
+m n005 [ s^ ar] : in [ disfm arker] No I [ disfm arker] I [ disfm arker] I haven’t
+t he result
+m e013 [ qy] : did [ disfm arker] did y ou hav e t his sort of t hing , for just
+t he [ disfm arker] just t he l r uh t he [ disfm arker] t he unnorm alized log
+energy ?
+m e013 [ s^ bk] : OK . Yeah .
+m e013 [ s] : So she [ disfm arker] she ’s right .
+m n005 [ s] : but it ’s t he [ disfm arker] it ’s t he [ disfm arker] t he
+[ disfm arker] t he following .
+m e013 [ s.%−] : That ’s a [ disfm arker]
+fe016 [ s^ cs] : Well it m ight be just good t o know what it looks like .
+m e013 [ s^ aa] : Yeah .
+fe016 [ s.%−] : Cuz [ disfm arker]
+m e013 [ s] : That ’s [ disfm arker] That ’s uh [ pause] cuz I ’d m ent ioned
+scat t er plot s before but she ’s right ,
+m n005 [ qw^ br] : Huh ?
+m e013 [ s] : I m ean , even before you get t he scat t er plot s , just
+looking at a single feat ure [ vocalsound] uh , looking at t he dist ribut ion
+, is a good t hing t o do .
+m n005 [ b] : Yeah .
+m n005 [ s] : Cat al − uh [ disfm arker] Com bining t he different possibilit ies
+of uh t he param et ers .
+m n005 [ s] : I [ disfm arker] I [ disfm arker] I [ disfm arker] I m ean t he
+[ disfm arker] t he [ disfm arker] t he scat t er plot [ pause] com bining eh
+different [ pause] n t wo com binat ion .
+m e013 [ fg|s.%−−] : Yeah , but [ disfm arker] but what she ’s saying
+[ pause] is , which is right , is [ pause] le
+m n005 [ s.%−−] : com binat ion of t wo , [ pause] of energy and derivat e
+[ disfm arker]
+m e013 [ s.%−−] : I m ean , let ’s st art wit h t he [ disfm arker]
+m e013 [ s] : Before we get com plicat ed , let ’s st art wit h t he m ost basic
+wh t hing , which is [ pause] we ’re arguing t hat if you t ake energy
+[ disfm arker] uh if y ou look at t he energy , t hat , when t wo people are
+speaking at t he sam e t im e , usually [ vocalsound] [ pause] t here ’ll be
+m ore energy t han when one is
+m n005 [ s^ aa] : Yeah .
+
+m e013 [ qy ^ d^ g] : right ?
+m e013 [ s^ e] : That ’s [ disfm arker] t hat sort of hypot hesis .
+m n005 [ s^ aa] : That ’s right .
+m e013 [ s] : And t he first way y ou ’d look at t hat , uh s she ’s , you
+know , absolut ely right ,
+m e013 [ s] : is t hat you would just t ake a look at t he dist ribut ion of
+t hose t wo t hings ,
+m n005 [ b] : Yeah .
+m e013 [ s] : m uch as you ’ve plot t ed t hem here ,
+m e013 [ s.%−−] : You know , but just [ disfm arker] but just [ disfm arker]
+[ pause] just uh do it [ disfm arker]
+m n005 [ b] : Yeah .
+m e013 [ s] : Well in t his case you hav e t hree .
+m e013 [ s] : You have t he silence , and t hat [ disfm arker] t hat ’s fine .
+m n005 [ b] : Yeah .
+m e013 [ s] : So , uh wit h t hree colors or t hree shades or what ever ,
+m e013 [ s] : just [ disfm arker] just look at t hose dist ribut ions .
+m n005 [ b] : Yeah .
+m e013 [ s] : And t hen , given t hat as a base , you can see if t hat get s
+im proved , you know , or [ disfm arker] or [ disfm arker] [ pause] or
+worsened [ pause] by t he [ disfm arker] looking at regular energy ,
+looking at log energy ,
+m e013 [ s^ cs^ rt ] : we were just proposing t hat m aybe it ’s [ disfm arker]
+y ou know , it ’s harder t o [ pause] see wit h t he log energy ,
+m n005 [ b] : Yeah .
+m e013 [ fh|qh^ rt ] : um and uh also t hese different norm alizat ions ,
+does a part icular choice of norm alizat ion m ake it bet t er ?
+m e013 [ s] : But I had m aybe m ade it t oo com plicat ed by suggest ing
+early on , t hat y ou look at scat t er plot s
+m e013 [ s^ df] : because t hat ’s looking at a dist ribut ion in t wo
+dim ensions .
+m e013 [ s^ co] : Let ’s st art off just in one , uh , wit h t his feat ure .
+m n005 [ b] : Yeah .
+m n005 [ b] : Yeah .
+m n005 [ b] : Yeah .
+m e013 [ s] : I t hink t hat ’s probably t he m ost basic t hing , before
+anyt hing v ery com plicat ed .
+fe016 [ b] : Yeah .
+m e013 [ fh|s] : Um And t hen we w I t hink we ’re agreed t hat pit ch −
+relat ed t hings are [ disfm arker] are [ disfm arker] are going t o be a
+[ disfm arker] a really likely candidat e t o help .
+m n005 [ b] : Yeah .
+m n005 [ b] : I agree , yeah .
+m n005 [ b] : Uh − huh .
+
+m e013 [ s] : Um [ pause] But [ pause] since [ disfm arker] [ vocalsound]
+uh y our int uit ion from looking at som e of t he dat a , is t hat when you
+looked at t he regular energy , t hat it did in fact usually go up ,
+[ v ocalsound] when t wo people were t alking , [ vocalsound] t hat ’s
+[ disfm arker] eh y ou know , you should be able t o com e up wit h a
+m easure which will [ pause] m at ch y our int uit ion .
+m n005 [ b] : OK .
+m n005 [ b.x ] : Yeah .
+m n005 [ b] : Yeah .
+m n005 [ b] : Yeah , y eah , yeah .
+m e013 [ s^ df] : And she ’s right , t hat a [ disfm arker] t hat having a
+[ disfm arker] hav ing [ disfm arker] [ com m ent ] having t his t able , wit h a
+whole bunch of t hings , [ pause] wit h t he st andard deviat ion , t he
+v ariance and so fort h , it ’s [ disfm arker] it ’s [ disfm arker] it ’s harder t o
+int erpret t han just looking at t he [ disfm arker] t he sam e kind of pict ure
+y ou hav e here .
+m n005 [ %−] : But [ disfm arker]
+m n005 [ b] : Uh − huh .
+m n005 [ b] : Yeah .
+m n005 [ s] : But [ disfm arker] It [ disfm arker] it ’s curious but uh I f I
+found it in t he [ disfm arker] in t he m ixed file , in one channel
+[ v ocalsound] t hat eh in several [ disfm arker] oh e eh several t im es eh
+y ou hav e an speaker t alking alone wit h a high level of energy
+m e013 [ b^ rt ] : Mm − hm m .
+m e013 [ b^ rt ] : Mm − hm m .
+m n005 [ s^ rt ] : eh in t he m iddle eh a zone of overlapping wit h m m m
+less energy
+m e013 [ b] : Mm − hm m .
+m n005 [ s^ rt ] : and eh com e wit h anot her speaker wit h high energy
+m e013 [ b] : Mm − hm m .
+m n005 [ s] : and t he overlapping zone has eh less energy .
+m e013 [ fg|s.%−] : Yeah . So t here ’ll be som e cases for which
+[ disfm arker]
+m n005 [ s.%−] : Because t here reach very m any
+fe016 [ b] : Right .
+m e013 [ s.%−−] : But , t he qu So [ disfm arker] So t hey ’ll be [ disfm arker]
+m e013 [ s] : This is [ disfm arker] [ vocalsound] I w want t o point [ pause]
+t o visual t hings ,
+m e013 [ s] : But I m ean t hey [ disfm arker] t here ’ll be t im e [ disfm arker]
+There ’ll be ov erlap bet ween t he dist ribut ions ,
+m e013 [ s] : but t he quest ion is , " If it ’s a reasonable feat ure at all ,
+t here ’s som e separat ion . "
+m n005 [ b] : Yeah .
+m n005 [ b] : Yeah .
+fe016 [ s^ e] : Especially locally .
+m e013 [ b] : Mm − hm m .
+
+fe016 [ s.%−−] : So . Locally .
+m n005 [ s^ aa^ m ] : just locally , y eah .
+m e011 [ s] : And [ disfm arker] I was just going t o say t hat [ disfm arker]
+t hat [ pause] right now we ’re just exploring .
+fe016 [ s.%−−] : And t he ot her t hing is I
+fe016 [ s^ fa] : Sorry .
+fe016 [ %−] : I [ disfm arker]
+m n005 [ b] : Yeah .
+m e011 [ s] : What y ou would im agine event ually , is t hat you ’ll feed all
+of t hese feat ures int o som e [ pause] discrim inat ive syst em .
+m e013 [ b] : Yeah .
+m n005 [ b] : Yeah .
+m e011 [ s] : And so even if [ disfm arker] if one of t he feat ures does a
+good job at one t y pe of overlap , anot her feat ure m ight do a good job
+at anot her t ype of overlap .
+m n005 [ b] : Yeah .
+m n005 [ b] : Yeah .
+m n005 [ s.%−] : Yeah , t his is t he [ disfm arker]
+m e013 [ fg|s] : Right . I m ean t he [ disfm arker] t he reason I had
+suggest ed t he scat t er f p feat ures is I used t o do t his a lot , when we
+had t hirt een or fift een or t went y feat ures [ pause] t o look at .
+m e013 [ s^ df] : um Because som et hing is a good feat ure uh by it self ,
+y ou don’t really know how it ’ll behave in com binat ion
+m e013 [ s^ cs] : and so it ’s nice t o have as m any [ disfm arker] as m any
+t oget her at t he sam e t im e as possible in uh in som e reasonable visual
+form .
+m e013 [ s] : There ’s cool graphic t hings people have had som et im es
+t o put t oget her t hree or four in som e funny [ disfm arker] funny way .
+m e013 [ s] : But it ’s t rue t hat you shouldn’t do any of t hat unless you
+know t hat t he indiv idual ones , at least , have [ disfm arker] have som e
+uh [ disfm arker] som e hope
+m n005 [ b] : Yeah .
+fe016 [ s] : Well , especially for norm alizing .
+fe016 [ s^ rt ] : I m ean , it ’s really im port ant t o [ pause] pick a
+norm alizat ion t hat m at ches t he dist ribut ion for t hat feat ure .
+m e013 [ b] : Mm − hm m .
+m e013 [ b] : Mm − hm m .
+fe016 [ s] : And it m ay not be t he sam e for all t he t ypes of overlaps or
+t he windows m ay not be t he sam e .
+fe016 [ s] : e Act ually , I was wondering , [ v ocalsound] right now you ’re
+t aking a [ disfm arker] all of t he [ pause] speech , from t he whole
+m eet ing , and you ’re t rying t o find point s of overlap ,
+fe016 [ s] : but we don’t really know which speaker is overlapping wit h
+which speaker ,
+fe016 [ qy^ d^ g] : right ?
+m e013 [ s^ aa^ m ] : Right .
+
+m n005 [ s^ aa] : Yeah .
+fe016 [ s^ cs] : So I m ean anot her way would just be t o t ake t he speech
+from just , say , Morgan , And just Jane and t hen just t heir overlaps ,
+fe016 [ s] : like [ disfm arker] but by hand ,
+fe016 [ s] : by cheat ing ,
+fe016 [ s^ cs] : and looking at you know , if you can det ect som et hing
+t hat way ,
+fe016 [ s^ df] : because if we can’t do it t hat way , t here ’s no good way
+t hat we ’re going t o be able t o do it .
+m e011 [ s^ e] : No prayer .
+fe016 [ s] : That [ disfm arker] You know , t here m ight be som et hing
+helpful and cleaner about looking at just [ pause] individuals and t hen
+t hat com binat ion alone .
+m n005 [ b] : Yeah .
+fe016 [ s.%−−] : Plus , I t hink it has m ore elegant [ disfm arker] e
+m e013 [ b] : Mm − hm m .
+fe016 [ s] : The m t he right m odel will be [ pause] easier t o see t hat way
+.
+fe016 [ s.%−−] : So if [ disfm arker] I don’t know , if you go t hrough and
+y ou find Adam , cuz he has a lot of overlaps and som e ot her speaker
+who also has e enough speech
+m n005 [ b] : Yeah .
+fe016 [ s^ cs] : and just sort of look at t hose t hree cases of Adam and
+t he ot her person and t he overlaps ,
+m n005 [ b] : Yeah .
+fe016 [ %−−] : m aybe [ disfm arker]
+fe016 [ s] : and just look at t he dist ribut ions , m aybe t here is a clear
+pat t ern
+m n005 [ b] : Yeah .
+m n005 [ b] : Uh − huh .
+fe016 [ s] : but we just can’t see it because t here ’s t oo m any
+com binat ions of [ disfm arker] of people t hat can overlap .
+m n005 [ b] : Yeah .
+fe008 [ s] : I had t he sam e int uit ion last [ disfm arker] last [ disfm arker]
+last week .
+fe016 [ fh] : So .
+m n005 [ qy^ bh^ rt ] : Yeah .
+fe016 [ s] : Just seem s sort of com plex .
+fe008 [ s] : I t hink it ’s [ disfm arker] t o st art wit h it ’s s your [ disfm arker]
+y our idea of sim plifying ,
+fe008 [ s.%−] : st art ing wit h som et hing t hat [ pause] you can see
+[ pause] eh you know wit hout t he [ pause] ext ra [ pause] layers of
+[ disfm arker]
+fe016 [ fg] : Right .
+fe016 [ s.%−−] : Cuz if energy doesn’t m at t er t here , like [ disfm arker]
+fe016 [ s.%−−] : I don’t t hink t his is t rue , but what if
+
+m n005 [ s] : To st udy individual ?
+fe016 [ qw^ br] : Hm m ?
+fe008 [ s^ fa] : Sorry ,
+fe008 [ qw^ br] : what ?
+m n005 [ s] : To st udy individual ?
+fe008 [ s^ cs] : Well , you [ disfm arker] you [ disfm arker] you don’t have
+t o st udy ev ery body individually
+fe016 [ s.%−−] : Well , t o st udy t he sim plest case t o get rid of ext ra
+[ disfm arker]
+m n005 [ s.%−] : The [ disfm arker] t he [ disfm arker] t he [ disfm arker] But
+[ disfm arker] Consider [ disfm arker]
+fe008 [ s^ e] : but [ pause] just sim ple case
+fe008 [ s^ e] : and t he one t hat has t he lot of dat a associat ed wit h it .
+fe016 [ s^ aa] : Right .
+fe016 [ s.%−−] : Cuz what if it ’s t he case and I don’t t hink t his is t rue
+[ disfm arker]
+m e011 [ s^ ba] : That was a great ov erlap by t he way .
+fe016 [ qh.%−−] : What if it ’s t he case t hat when t wo people overlap
+t hey equat e t heir [ disfm arker] you know , t here ’s a [ pause]
+conserv at ion of energy and everybody [ disfm arker]
+fe016 [ qh] : bot h people t alk m ore soft ly ?
+fe016 [ s^ bd] : I don’t t hink t his happens at all .
+fe008 [ qrr^ e] : Or [ disfm arker] or what if what if t he equipm ent
+[ disfm arker] what if t he equipm ent adjust s som ehow ,
+fe016 [ s] : Or t hey get louder .
+fe008 [ s] : t here ’s som e equalizing in t here ?
+fe016 [ s^ aap.%−−] : Yeah or [ disfm arker]
+m e013 [ h|s^ ar] : Uh , no we don’t hav e t hat .
+fe016 [ s^ rt .%−] : I m ean .
+m e013 [ %−] : But .
+m e011 [ s] : Well , but [ disfm arker] But I t hink t hat ’s what I was saying
+about different t ypes of overlap .
+fe008 [ s^ bk] : OK .
+fe008 [ s^ t 1] : Sat urat ion .
+fe016 [ s] : There are [ disfm arker] t here are different t ypes ,
+fe016 [ s.%−−] : and wit hin t hose t ypes ,
+fe016 [ s] : like as Jose was saying , t hat [ pause] sounded like a
+backchannel ov erlap ,
+fe016 [ s:s] : m eaning t he kind t hat ’s [ pause] a friendly
+encouragem ent , like " Mm − hm m . " ,
+fe016 [ s:s^ ba] : " Great ! " ,
+fe016 [ s:s^ ba] : " Yeah ! "
+m n005 [ b] : Yeah .
+fe016 [ s] : And it doesn’t t ake [ disfm arker] you don’t t ake t he floor .
+fe016 [ s] : Um , but , som e of t hose , as y ou showed , I t hink can be
+discrim inat ed by t he durat ion of t he ov erlap .
+
+m n005 [ b] : Yeah .
+fe016 [ fh] : So .
+fe016 [ s.%−−] : It [ disfm arker] Act ually t he s new st udent , Don , who um
+Adam has m et , and he was at one of our m eet ings [ disfm arker]
+fe016 [ s] : He ’s [ pause] get t ing his feet wet and t hen he ’ll be st art ing
+again [ pause] in m id − January .
+fe016 [ s] : He ’s int erest ed in t rying t o dist inguish t he t ypes of overlap
+.
+fe016 [ s^ no] : I don’t know if he ’s t alked wit h you yet .
+m n005 [ fg] : Yeah .
+fe016 [ s] : But in sort of honing in on t hese different t ypes
+m n005 [ s] : I don’t consi Now I don’t consider t hat possibilit y .
+fe016 [ s.%−−] : and [ disfm arker] So m aybe [ disfm arker]
+m n005 [ s.%−−] : This is a s a general st udio of t he overlapping we ’re
+st udy ing t he [ disfm arker] i
+m e013 [ b] : Yeah .
+fe016 [ s^ cs] : So it m ight be som et hing t hat we can [ pause] help by
+cat egorizing som e of t hem and t hen , you know , look at t hat .
+m e013 [ s] : Well [ pause] I [ disfm arker] I [ disfm arker] I [ disfm arker] I
+would s act ually st ill recom m end t hat he do t he overall t hing
+m e013 [ s^ df] : because [ pause] it would be t he quickest t hing for him
+t o do .
+m e013 [ s] : He could [ disfm arker] You see , he already has all his st uff
+in place ,
+fe016 [ b] : Yeah .
+m e013 [ s] : he has t he hist ogram m echanism ,
+m e013 [ s.%−−] : he has t he st uff t hat subt ract s out [ disfm arker]
+m e013 [ s] : and all he has t o do is change it uh uh from [ disfm arker]
+from log t o plain energy and plot t he hist ogram and look at it .
+m e013 [ s^ cs.%−−] : And t hen he should go on and do t he ot her st uff
+bec
+fe016 [ b] : Yeah .
+m e013 [ s.%−] : but [ disfm arker] But t his will [ disfm arker]
+fe016 [ fg|s^ ar] : Yeah , no . I didn’t m ean t hat [ disfm arker] t hat
+[ disfm arker] for y ou t o do t hat ,
+fe016 [ s^ cs] : but I was t hinking if [ disfm arker] if Don and I are t rying
+t o get [ pause] cat egories
+m e013 [ b] : Mm − hm m .
+fe016 [ s.%−−] : and we label som e dat a for you , and we say t his is what
+we t hink is going [ disfm arker]
+m e013 [ b] : Mm − hm m .
+fe016 [ s] : So you don’t have t o worry about it .
+fe016 [ s] : And here ’s t he t hree t ypes of overlaps .
+m n005 [ b] : Yeah .
+fe016 [ s] : And we ’ll [ disfm arker] we ’ll do t he labelling for you .
+m n005 [ b] : Yeah .
+
+m e013 [ b] : Hm − hm m .
+fe016 [ %−] : Um .
+m n005 [ qy^ d^ rt ] : Consider different class of overlap ?
+fe016 [ s^ na] : Yeah , t hat we would be working on anyway .
+m n005 [ s] : If t here ’s t im e .
+m n005 [ b] : Yeah .
+fe016 [ s^ cs.%−−] : Then m aybe [ pause] you can t ry som e different
+t hings for t hose t hree cases , and see if t hat helps , or [ disfm arker]
+m n005 [ b] : Yeah .
+m n005 [ s] : This is t he t hing I [ disfm arker] I com m ent wit h you before ,
+t hat uh we hav e a great variat ion of t h sit uat ion of overlapping .
+m e013 [ b] : Mm − hm m .
+m n005 [ s] : And t he behavior for energy is , uh log energy ,
+[ v ocalsound] is not uh t he sam e all t he t im e .
+fe016 [ b] : Mm − hm m .
+m n005 [ %−] : And [ disfm arker]
+m e013 [ s.%−−] : But I guess I was just saying t hat [ disfm arker] t hat
+right now uh from t he m eans t hat you gave , I don’t have any sense of
+whet her ev en , you know , t here are any significant num ber of cases
+for which t here is dist inct [ disfm arker]
+m e013 [ s] : and I would im agine t here should be som e [ disfm arker]
+y ou know , t here should be [ disfm arker] The dist ribut ions should be
+som ewhat separat ed .
+m n005 [ b] : Yeah .
+m n005 [ b] : Yeah .
+m e013 [ s] : Uh and I [ disfm arker] I would st ill guess t hat if t hey are not
+separat ed at all , t hat t here ’s som e [ disfm arker] t here ’s [ disfm arker]
+t here ’s m ost likely som et hing wrong in t he way t hat we ’re m easuring
+it .
+m n005 [ b] : Yeah .
+m n005 [ b] : Yeah .
+m n005 [ b] : Yeah .
+m e013 [ fh|s] : Um , but [ pause] um For inst ance , I m ean I wouldn’t
+ex pect t hat it was very com m on overall , t hat when t wo people were
+t alking at t he sam e t im e , t hat it would [ disfm arker] t hat it really was
+lower ,
+m n005 [ b] : Yeah .
+m e013 [ s] : alt hough som et im es , as y ou say , it would .
+m n005 [ b] : Yeah .
+fe016 [ fg|s^ df.%−−] : Yeah , no , t hat was [ disfm arker] That was a jok
+m e013 [ fh] : So . So .
+fe016 [ s^ df] : or a sort of , a case where [ disfm arker] where you would
+never know t hat unless you act ually go and look at t wo individuals .
+m e013 [ s^ bk] : Yeah .
+m e013 [ s.%−−] : I m ean .
+m e013 [ s^ bd^ rt ] : No .
+
+m e013 [ s^ bd] : It could [ disfm arker] it probably does happen
+som et im es .
+m n005 [ s^ aa] : Yeah .
+m e013 [ s^ aa] : Yeah .
+m e011 [ b] : Right .
+m e013 [ b] : Yeah .
+m n005 [ b] : Yeah .
+m e011 [ qy ] : Mind if I t urned t hat light off ?
+fe016 [ fg] : So .
+m e011 [ s^ df] : The flickering is annoy ing m e .
+m e013 [ s^ bk] : OK .
+fe016 [ s] : It m ight t he case , t hough , t hat t he significant energy , just
+as Jose was say ing , com es in t he non − backchannel cases .
+fe016 [ s^ df] : Because in back Most people when t hey ’re t alking don’t
+change t heir own [ pause] energy when t hey get a backchannel ,
+fe016 [ s^ df] : cuz t hey ’re not really predict ing t he backchannel .
+m e013 [ b] : Mm − hm m .
+fe016 [ s] : And som et im es it ’s a nod and som et im es it ’s an " m m −
+hm m " .
+m n005 [ b] : Yeah .
+fe016 [ s] : And t he " m m − hm m " is really usually very low energy .
+m n005 [ b] : Yeah .
+fe016 [ s^ cs] : So m ay be t hose don’t act ually have m uch difference in
+energy .
+fe016 [ s^ cs] : But [ pause] all t he ot her cases m ight .
+fe016 [ s.%−−] : and t he backchannels are sort of easy t o spot s in
+t erm s of t heir words or [ disfm arker]
+m e013 [ s] : e [ v ocalsound] e and [ disfm arker] and again what t hey
+[ disfm arker] what difference t here was would kind of be lost in t aking
+t he log ,
+fe016 [ s] : I m ean , just list en t o it .
+m n005 [ b] : Yeah .
+fe016 [ fh] : So .
+m e013 [ fh] : so ,
+fe016 [ s^ aap] : Well , it would be lost [ pause] no m at t er what you do .
+m n005 [ %−] : But [ disfm arker]
+m e013 [ s] : as well .
+m n005 [ b] : Yeah .
+fe016 [ s.%−−] : It just [ disfm arker]
+m e013 [ s^ ar^ rt ] : Mm m , no ,
+m e013 [ s^ df.%−] : if it ’s [ disfm arker] if i if it ’s [ disfm arker]
+m e011 [ %−] : Tone
+m e013 [ s] : Well , it won’t be as big .
+fe016 [ s] : I m ean , even if you t ake t he log , you can [ disfm arker] your
+m odel just has a m ore sensit ive [ pause] m easures .
+m n005 [ b] : Yeah .
+
+m e011 [ s^ bk|s.%−−] : Sure , but t one m ight be very
+fe016 [ fh] : So .
+m e011 [ s] : Yeah , you ’re " m m − hm m " t one is going t o be very
+different .
+fe016 [ s^ aa] : Yeah .
+fe016 [ s^ bk] : Right . Right .
+m e011 [ s] : You could im agine doing specialized ones for different
+t y pes of backchannels , if you could [ disfm arker] if you had a good
+m odel for it .
+m e011 [ s] : Your " m m − hm m " det ect or .
+m e013 [ s^ t c] : If [ disfm arker] if you ’re [ disfm arker] a I guess m y point
+is , if y ou ’re doing essent ially a linear separat ion , t aking t he log first
+does in fact m ake it harder t o separat e .
+m e011 [ s^ aa] : Right .
+m n005 [ b] : Yeah .
+m e013 [ s.%−−] : So it ’s [ disfm arker] So , uh if you i i So i if t here
+[ disfm arker] if t here close t o t hings it does
+fe016 [ b] : Yeah .
+m e013 [ s] : it ’s a nonlinear operat ion t hat does in fact change t he
+dist inct ion .
+m e013 [ s.%−−] : If you ’re doing a non if you ’re doing som e fancy t hing
+t hen [ disfm arker] t hen
+m e013 [ s] : yeah .
+m e013 [ s] : And right now we ’re essent ially doing t his linear t hing by
+looking across here and [ disfm arker] and saying we ’re going t o cut it
+here .
+m e013 [ s] : Um and t hat [ disfm arker] t hat ’s t he indicat or t hat we ’re
+get t ing .
+m e013 [ s] : But any way , yeah , we ’re not [ pause] disagreeing on any
+of t his ,
+m e013 [ s] : we should look at it m ore uh [ disfm arker] m ore finely , but
+uh uh I t hink t hat [ disfm arker] This oft en happens , you do fairly
+com plicat ed t hings , and t hen y ou st and back from t hem and you
+realize t hat you haven’t done som et hing sim ple .
+m e013 [ s] : So uh , if you generat ed som et hing like t hat just for t he
+energy and see , and t hen , a a a as [ disfm arker] as Liz says , when
+t hey g have uh uh sm aller um , m ore coherent groups t o look at , t hat
+would be anot her int erest ing t hing lat er .
+m n005 [ b] : Uh − huh .
+m n005 [ b] : Uh − huh .
+m e013 [ s^ rt ] : And t hen t hat should give us som e indicat ion
+[ disfm arker] bet ween t hose , should give us som e indicat ion of
+whet her t here ’s anyt hing t o be achiev ed f from energy at all .
+m e013 [ s^ cs] : And t hen you can m ove on t o t he uh [ pause] uh m ore
+[ nonv ocalsound] pit ch relat ed st uff .
+m n005 [ b] : Mm − hm m .
+
+m n005 [ s^ ba] : I [ disfm arker] I [ disfm arker] I t hink t his is a good idea .
+m e013 [ s^ bk] : OK .
+m n005 [ s] : Not consider t he log energy .
+fe008 [ b] : Mm − hm m .
+m e013 [ b] : Yeah .
+m e013 [ s.%−−] : But t hen t he [ disfm arker]
+m e013 [ qy ] : Hav e you st art ed looking at t he pit ch relat ed [ pause]
+st uff at all ,
+m e013 [ qr.%−−] : or [ disfm arker] ?
+m n005 [ qw^ br.%−−] : The [ disfm arker] ?
+m e013 [ s^ r^ rt ] : Pit ch [ pause] relat ed ?
+m e013 [ s^ rt ] : Harm onicit y and so on ?
+m n005 [ s] : I [ disfm arker] I ’m preparing t he [ disfm arker] t he program
+but I don’t [ disfm arker] I don’t begin because eh [ vocalsound] I saw
+y our em ail
+m e013 [ s.%−−] : Preparing t o [ disfm arker]
+m e013 [ b] : Yeah .
+m n005 [ s.%−] : and [ pause] I agree wit h you it ’s bet t er t o [ disfm arker]
+I suppose it ’s bet t er t o [ disfm arker] t o consider t he [ disfm arker] t he
+energy t his kind of param et er [ vocalsound] bef
+m e013 [ b] : Yeah .
+m e013 [ s^ ar] : Oh , t hat ’s not what I m eant .
+m e013 [ s^ ar] : No , no .
+m e013 [ s.%−−] : I [ disfm arker] I [ disfm arker] I [ disfm arker] I [ disfm arker]
+m e013 [ s.%−−] : Well , we cert ainly should see t his but I [ disfm arker] I
+[ disfm arker] I [ disfm arker] I t hink t hat t he harm
+m e013 [ s] : I cert ainly wasn’t saying t his was bet t er t han t he
+harm onicit y and pit ch relat ed t hings
+m e013 [ s.%−] : I was just saying
+m n005 [ s] : I [ disfm arker] I go on wit h t he [ disfm arker] wit h t he pit ch ,
+m e013 [ s^ aa] : Yeah .
+m n005 [ s^ bk] : aha ! [ pause] OK .
+m e013 [ s.%−] : Yeah , I was just say ing [ disfm arker]
+m n005 [ s] : I [ disfm arker] I [ disfm arker] I [ disfm arker] I underst ood uh
+t hat eh [ pause] I [ disfm arker] I had t o finish [ pause] by t he m om ent
+wit h t he [ v ocalsound] and [ disfm arker] and concent rat e m y
+[ disfm arker] m y energy in t hat problem .
+m e013 [ s^ bk] : OK .
+m e013 [ fg] : OK . [ v ocalsound] OK .
+m e013 [ s.%−−] : But I t hink , like , all t hese derivat ives and second
+deriv at iv es and all t hese ot her very fancy t hings ,
+m e013 [ s^ cs] : I t hink I would just sort of look at t he energy [ pause]
+and t hen get int o t he harm onicit y as [ disfm arker] as a suggest ion .
+m n005 [ s^ bk] : OK .
+m n005 [ s] : I go on wit h t he pit ch .
+m e013 [ s^ t c] : Uh OK .
+
+m e013 [ s^ t ] : So m aybe uh since w we ’re t rying t o uh com press t he
+m eet ing ,
+m e013 [ s^ rt ] : um , I know Adam had som e form st uff he want ed t o
+t alk about
+m e013 [ qo^ rt .%−−] : and did you hav e som e ?
+fe008 [ s] : I want ed t o ask just s som et hing on t he end of t his t op
+t opic .
+fe008 [ s] : So , when I present ed m y result s about t he uh dist ribut ion
+of ov erlaps and t he speakers and t he profiles of t he speakers , at t he
+bot t om of t hat I did have a proposal ,
+m n005 [ b] : Uh − huh .
+fe008 [ s] : and I had plan t o go t hrough wit h it , of [ disfm arker] of co
+coding t he t ypes of overlaps t hat people were involved in s just wit h
+reference t o speaker st yle so , y ou know , wit h reference [ disfm arker]
+fe016 [ s^ bk] : Oh .
+fe016 [ s^ ba] : That ’d be great .
+fe008 [ s] : and you know I said t hat on m y [ disfm arker] in m y sum m ary ,
+fe016 [ s.%−−] : Yeah , I rem em
+fe008 [ s^ rt ] : t hat [ pause] you know so it ’s like people m ay have
+different am ount s of being overlapped wit h or overlapping
+fe016 [ b] : Right .
+fe008 [ s] : but t hat in it self is not inform at ive wit hout knowing what
+t y pes of overlaps t hey ’re involved in
+fe008 [ s] : so I was planning t o do a t axonom y of t ypes overlaps wit h
+reference t o t hat .
+fe016 [ s^ ba] : That would be great .
+m n005 [ b] : Yeah .
+fe016 [ s^ ba^ r] : That would be really great .
+fe008 [ s] : So , but it you know it ’s like it sounds like you also have uh
+som et hing in t hat direct ion .
+m e011 [ b] : Hm m .
+fe008 [ qy.%−] : Is [ disfm arker] is it [ disfm arker]
+fe016 [ s.%−−] : We have not hing [ disfm arker]
+fe016 [ s] : You know , basically , we got [ pause] his environm ent set
+up .
+fe016 [ s^ df] : He ’s [ disfm arker] he ’s a double − E [ com m ent ] you
+know .
+fe016 [ s^ df^ rt ] : So . It ’s m ost ly t hat , [ pause] if we had t o [ pause]
+label it ourselves , we [ disfm arker] we would or we ’d have t o , t o get
+st art ed ,
+fe016 [ s^ cs] : but if [ disfm arker] [ pause] It [ disfm arker] it would be
+m uch bet t er if y ou can do it .
+fe016 [ s] : You ’d be m uch bet t er [ com m ent ] at doing it also
+fe016 [ s] : because [ v ocalsound] you know , I [ disfm arker] I ’m not
+[ disfm arker] I don’t have a good feel for how t hey should be sort ed out
+,
+
+fe008 [ s^ ba^ t 1] : Int erest ing .
+fe016 [ s] : and I really didn’t wanna go int o t hat if I didn’t have t o .
+fe016 [ s.%−] : So if [ disfm arker] If you ’re w willing t o do t hat or
+[ disfm arker] or [ disfm arker]
+fe008 [ s^ cs.%−] : Well m aybe we can
+m e011 [ s] : It would be int erest ing , t hough , t o t alk , m aybe not at t he
+m eet ing , but at som e ot her t im e about what are t he classes .
+fe008 [ b] : OK .
+m n005 [ b] : Yeah .
+fe008 [ s^ bk] : Mm − hm m .
+fe016 [ b] : Yeah .
+m n005 [ b] : Yeah .
+fe008 [ b] : Mm − hm m .
+fe016 [ s] : I t hink t hat ’s a research [ pause] effort in and of it self ,
+m e011 [ s^ ba] : Yeah , it would be int erest ing .
+fe016 [ s] : because y ou can read t he lit erat ure , but I don’t know how
+it ’ll [ pause] t urn out
+m n005 [ b] : Yeah .
+fe016 [ s] : and , You know , it ’s always an int erest ing quest ion .
+m n005 [ s^ ba] : I would t hink it ’s int erest ing , yeah .
+fe008 [ s] : It seem s like we also s wit h reference t o a purpose , t oo ,
+t hat we we ’d want t o have t hem coded .
+m n005 [ b] : Yeah .
+fe016 [ s^ ba] : That ’d be great .
+m n005 [ b] : Yeah .
+m e011 [ b] : Yep .
+fe016 [ s^ ba] : That ’d be really great .
+fe008 [ s^ bk] : OK .
+fe016 [ s] : And we ’d st ill have som e [ pause] funding for t his project ,
+fe008 [ s] : I can do t hat .
+m n005 [ %−] : uh uh
+fe016 [ s] : like probably , if we had t o hire som e [ disfm arker] like an
+undergrad , because uh Don is being covered half t im e on som et hing
+else [ disfm arker]
+fe008 [ b] : Mm − hm m .
+fe016 [ s] : I m ean , he [ disfm arker] we ’re not paying him [ pause] t he
+full RA − ship for [ disfm arker] all t he t im e .
+fe016 [ s.%−−] : So . [ v ocalsound] um If we got it t o where we want ed
+[ disfm arker] we needed som eone t o do t hat [ disfm arker]
+fe016 [ s.%−−] : I don’t t hink t here ’s really enough dat a where
+[ disfm arker] where [ disfm arker]
+fe008 [ b] : Mm − hm m .
+fe008 [ s] : Yeah , I see t his as a prot ot ype , t o use t he only t he
+[ disfm arker] t he already t ranscribed m eet ing as just a prot ot ype .
+m n005 [ b] : Yeah .
+fe016 [ b] : Yeah .
+
+m n005 [ s] : I [ disfm arker] I t hink a a anot her param et er we c we
+[ disfm arker] we can consider is eh t he [ pause] durat ion .
+fe016 [ %−] : But [ disfm arker]
+m e011 [ b] : Mm − hm m .
+m n005 [ s] : Anot her e e m besides eh t he [ disfm arker] t he class of
+ov erlap , t he durat ion .
+m n005 [ s] : Because is possible [ v ocalsound] eh som e s s um eh som e
+classes eh has eh [ pause] a t ype of a durat ion ,
+m n005 [ s] : eh , [ pause] a durat ion very short uh when we have
+[ disfm arker] [ v ocalsound] we have overlapping wit h speech .
+fe008 [ b] : Mm − hm m .
+fe016 [ s^ bk^ t 1] : Yeah , definit ely .
+fe008 [ s] : Yeah , m aybe [ disfm arker] It m ay be correlat ed .
+m n005 [ s.%−−] : Is possible t o hav e .
+fe008 [ b] : Mm − hm m .
+m n005 [ s] : And it ’s int erest ing , [ pause] I t hink , [ pause] t o consider
+t he [ disfm arker] t he window of norm alizat ion ,
+m n005 [ s] : norm alizat ion window .
+m n005 [ s^ df.%−−] : Eh [ pause] because eh if we have a t ype of ,
+[ pause] a kind of eh overlap , eh backchannel overlap , wit h a short
+durat ion , is possible [ pause] eh t o norm ali
+m n005 [ s.%−−] : i i t hat if we norm alize eh wit h eh [ pause] eh consider
+only t he [ disfm arker] t he eh window eh by t he left eh ri eh [ pause] side
+on t he right side ov erlapping wit h a [ disfm arker] a very [ pause] eh oh
+a sm all window
+m n005 [ s] : eh t he [ disfm arker] if t he fit of norm alizat ion is eh m m m
+bigger eh in t hat overlapping zone eh very short
+fe008 [ b] : Mm − hm m .
+fe016 [ s^ aa] : Yeah , t hat ’s t rue .
+fe016 [ s^ bs] : The window shouldn’t be larger t han t he backchannel .
+m n005 [ s] : I [ disfm arker] I m e I [ disfm arker] I underst and .
+m n005 [ s] : I m ean t hat you have eh you have a backchannel , eh , eh
+[ disfm arker] you hav e a overlapping zone very short
+fe016 [ b] : Yeah .
+m n005 [ s.%−−] : and you consider eh n eh all t he channel t o norm alize
+t his v ery short eh [ disfm arker]
+m e013 [ b] : Mm − hm m .
+m e013 [ b] : Mm − hm m .
+m n005 [ s:s] : for exam ple " m m m m m − hm m hm m " eh
+m n005 [ s] : And t he energy is not eh height
+m n005 [ s^ rt ] : eh I t hink if you consider all t he channel t o norm alize
+and t he channel is [ pause] m m m bigger [ pause] eh eh eh com pared
+wit h t he [ disfm arker] wit h t he ov erlapping eh durat ion ,
+m e013 [ b] : Mm − hm m .
+m n005 [ s] : eh t he effect is m m m st ronger
+
+m n005 [ s] : eh [ pause] t hat I [ disfm arker] I m ean t he [ disfm arker] t he
+e effect of t he norm alizat ion eh wit h t he m ean and t he [ disfm arker]
+and t he variance eh is different t hat if you consider [ pause] only a
+[ pause] window com pared eh wit h t he n t he durat ion of overlapping .
+m e013 [ b] : Mm − hm m .
+m n005 [ %−] : Not [ disfm arker]
+m e013 [ s^ bu] : You [ disfm arker] you want it around t he overlapping
+part .
+m e013 [ s^ e] : You want it t o include som et hing t hat ’s not in
+ov erlapping
+m n005 [ s^ aa] : Yeah .
+m n005 [ s^ aa] : Yeah .
+m e013 [ fh] : but [ disfm arker] but uh
+m n005 [ b] : Yeah .
+fe008 [ b] : Mm − hm m .
+m n005 [ s^ no] : I [ disfm arker] I don’t know .
+m n005 [ %−] : Is [ disfm arker] s If [ disfm arker]
+m e013 [ b] : Yeah .
+fe016 [ s] : Well it ’s a sliding window ,
+fe016 [ qy ^ d^ g] : right ?
+fe016 [ s] : So if y ou t ake t he [ disfm arker] t he m easure in t he cent er of
+t he ov erlapped [ pause] piece , you know , t here ’d bet t er be som e
+som et hing .
+m e013 [ b] : Mm − hm m .
+m n005 [ s^ bk] : Yeah .
+m n005 [ b] : Yeah .
+fe016 [ s] : But if your window is really huge t hen yeah you ’re right
+fe016 [ s.%−−] : y ou won’t even [ disfm arker]
+m n005 [ s] : Yeah , This is t he [ disfm arker] This is t he [ disfm arker] t he
+idea , [ v ocalsound] t o consider only t he [ disfm arker] t he sm all window
+near [ disfm arker] near [ disfm arker] near t he [ disfm arker] t he
+ov erlapping zone .
+fe016 [ s] : The port ion of t he [ disfm arker] [ com m ent ] of t he
+backchannel won’t [ disfm arker] won’t effect anyt hing .
+fe016 [ s.%−] : But y ou [ disfm arker]
+fe016 [ b] : Yeah .
+fe016 [ fg] : So .
+fe016 [ s.%−−] : You know , you shouldn’t be m ore t han
+fe016 [ s] : like [ disfm arker] [ pause] You should definit ely not be t hree
+t im es as big as your [ disfm arker] as your [ pause] backchannel .
+m n005 [ b] : Yeah .
+fe016 [ s] : Then y ou ’re gonna w hav e a wash .
+fe008 [ b] : Mm − hm m .
+fe016 [ s.%−−] : And hopefully it ’s m ore like on t he order of [ disfm arker]
+m e013 [ s^ no] : I ’m not sure t hat ’s [ pause] necessarily t rue .
+m n005 [ b] : Yeah ?
+
+fe008 [ s] : It is an em pirical quest ion , it seem s like .
+fe016 [ %−] : Yea
+m e013 [ s.%−−] : Because [ disfm arker] because it [ disfm arker] because
+um again if you ’re just com pensat ing for t he gain ,
+m n005 [ b] : Yeah .
+fe008 [ b] : Yeah .
+m e013 [ s] : y ou know , t he fact t hat t his [ disfm arker] t his gain t hing
+was crude ,
+m e013 [ s^ df] : and t he gain wh if som eone is speaking relat ively at
+consist ent lev el , just t o [ disfm arker] t o give a [ disfm arker] an ext rem e
+ex am ple , all y ou ’re doing is com pensat ing for t hat .
+m e013 [ s] : And t hen you st ill s And t hen if you look at t he fram e wit h
+respect t o t hat , it st ill should [ disfm arker] should uh change
+fe016 [ fg|s] : Yeah , it depends how different your norm alizat ion is , as
+y ou slide your window across .
+fe016 [ s] : I m ean . That ’s som et hing we don’t know .
+m e013 [ b] : Mm − hm m .
+fe008 [ s^ cs] : It ’s possible t o t ry it bot h ways ,
+m e011 [ s] : Well , I m ean we ’re also t alking about a couple of different
+t hings .
+fe008 [ qy ^ g] : isn’t it ?
+fe008 [ s^ t 1.%−−] : in t his sm all
+m e011 [ s] : I m ean , one is your analysis window and t hen t he ot her is
+any sort of norm alizat ion t hat you ’re doing .
+fe016 [ fg|s] : Yeah I was t alking about t he n norm alizat ion window .
+m e011 [ s] : And t he [ disfm arker] And t hey could be quit e different .
+fe016 [ s^ aa] : Yeah .
+m e013 [ b] : Right .
+m n005 [ b] : Yeah .
+m e013 [ s] : This was sort of where [ disfm arker] where we were last
+week .
+fe016 [ b] : Yeah .
+fe016 [ s^ aa] : That ’s t rue . Yeah .
+m e011 [ s^ aa] : Yep .
+m e013 [ s^ co^ t ] : But , anyway We [ disfm arker] we ’ll have t o look at
+som e core t hings .
+fe016 [ fg] : Um .
+m n005 [ s^ bk] : OK .
+fe008 [ s^ bk] : OK .
+fe016 [ s^ ba.%−−] : But t hat ’d be great if [ disfm arker] if you ’re m arking
+t hose
+fe016 [ fh] : and [ disfm arker] um .
+fe008 [ s^ bk] : Great .
+fe008 [ s^ bk] : OK .
+m n005 [ b] : Yeah .
+
+fe016 [ s] : But it is definit ely t rue t hat we need t o have t he t im e m arks
+,
+fe008 [ b] : Mm − hm m .
+fe016 [ s] : and I was assum ing t hat will be inherit ed because , if you
+have t he words and t hey ’re roughly aligned in t im e via forced
+alignm ent or what ever we end up using , t hen you know , t his [ pause]
+st udent and I would be looking at t he t im e m arks
+fe008 [ s^ aa] : Yep , I agree .
+fe008 [ b] : Mm − hm m .
+fe016 [ s] : and classifying all t he fram es inside t hose as what ever
+labels Jane gave
+fe008 [ s^ 2.%−] : Com ing off of t he ot her [ disfm arker]
+m n005 [ b] : Yeah .
+fe008 [ b] : Good .
+fe008 [ s] : So , it wouldn’t be [ pause] I wasn’t planning t o label t he
+t im e m arks .
+fe016 [ s] : [ no m at ched cont ent ]
+m n005 [ s^ cs] : I can give you m y t ranscript ion file ,
+fe008 [ s^ df] : I was t hinking t hat t hat would com e from t he
+engineering side ,
+fe016 [ s^ no] : I don’t t hink you need t o .
+m n005 [ qy ^ d^ g] : no ?
+fe008 [ s^ aa] : y eah .
+fe016 [ fg|s] : Yeah . That should be linked t o t he words which are
+linked t o t im e som ehow ,
+fe008 [ s^ aa] : There you go .
+fe016 [ qy ^ d^ g] : right ?
+m e011 [ s] : Well we ’re not any t im e soon going t o get a forced
+alignm ent .
+fe016 [ s^ aap] : Not now .
+m e011 [ fh] : So .
+m n005 [ b.%] : Yeah .
+m e011 [ s] : Um If it ’s not hand − m arked t hen we ’re not going t o get
+t he t im es .
+fe016 [ s.%−−] : Well , it ’s som et hing t hat w
+fe016 [ s^ rt ] : Well , we [ disfm arker] we wouldn’t be able t o do any work
+wit hout a forced alignm ent anyway ,
+m n005 [ %−] : Yes
+fe016 [ s^ cs] : so som ehow if [ disfm arker] once he get s going we ’re
+gonna haft a com e up wit h one
+fe016 [ %−−] : and
+m e013 [ s^ aa] : Yes .
+fe016 [ s^ bk] : Yeah .
+fe008 [ s^ ba] : Good . Good .
+m e011 [ s] : I m ean w I guess we could do a very bad one wit h
+Broadcast News .
+
+fe016 [ s] : So what ever you would label would be at t ached t o t he
+words , I t hink .
+fe008 [ b] : Great !
+fe008 [ b] : Good , good .
+m n005 [ b] : Yeah .
+fe008 [ b] : Mm − hm m .
+m e013 [ s] : Well again for t he close [ pause] m ike st uff , we could com e
+up [ disfm arker] t ake a s t ake t he Swit chboard syst em or som et hing ,
+m e011 [ s^ ba] : That m ight be good enough .
+m e011 [ b] : Yeah .
+m e013 [ fh] : and [ disfm arker] Um
+m e011 [ s] : It ’d be wort h a t ry .
+m e011 [ s] : It would be int erest ing t o see what we get .
+m e013 [ s^ cs.%−−] : Just , you know , low − pass filt er t he speech and
+[ disfm arker]
+fe016 [ s] : Cuz t here ’s [ disfm arker] t here ’s a lot of work you can’t do
+wit hout t hat ,
+fe016 [ qh.%−−] : I m ean , how [ disfm arker] how would you [ disfm arker]
+m e013 [ b] : Yeah .
+fe016 [ s] : You ’d hav e t o go in and m easure every st art and st op point
+next t o a word
+fe016 [ s] : is y if you ’re int erest ed in anyt hing t o do wit h words .
+fe008 [ s^ ba] : It would be very inefficient .
+m e011 [ s^ aa] : Yep .
+m n005 [ b] : Yeah .
+fe016 [ fh] : So .
+fe008 [ b] : Mm − hm m .
+fe016 [ s^ t c|s^ ba] : Anyway [ pause] So t hat ’d be great .
+fe008 [ s^ bk] : Good . OK .
+m n005 [ b] : Yeah .
+m e013 [ s^ t ^ t c] : There ’s som et hing we should t alk about lat er
+m e013 [ s] : but m ay be not just now .
+m e013 [ s^ co] : But , uh , should t alk about our opt ions as far as t he
+uh uh [ pause] t ranscript ion
+m e013 [ s] : But . Well , w But we ’ll do t hat lat er .
+m e011 [ s] : Yep , if IBM doesn’t [ disfm arker]
+fe008 [ s^ bk] : OK .
+fe008 [ b] : Good .
+fe016 [ qy .%−−] : Do we haft a [ pause] t urn [ disfm arker]
+fe016 [ qy ^ rt ] : Are we supposed t o keep recording here ?
+fe008 [ s^ bk|s^ cs] : Yeah . Let ’s do t hat lat er .
+fe008 [ b] : Yeah .
+m e011 [ s^ ba] : Yeah [ vocalsound] Right .
+m e013 [ s^ cs^ m ] : We ’ll t alk about it lat er .
+fe008 [ b] : Yeah .
+m e013 [ fg] : So [ v ocalsound] uh Uh
+
+m e013 [ s^ t ^ t c] : " form s " .
+m e013 [ s^ rt ] : You had som et hing on form s .
+m e011 [ s^ rt ] : Form s Next it erat ion of form s .
+m e011 [ s^ t 1] : Oops .
+fe008 [ s^ fe] : Oh !
+fe008 [ s^ ba] : Oh good , OK .
+m e013 [ fh] : Um .
+m e013 [ b] : Oh .
+fe008 [ qy ^ rt ] : How [ disfm arker] So it ’s t wo pages per person ?
+m e011 [ s^ ar] : Nope .
+m e011 [ s] : One ’s a digit form ,
+m e011 [ s] : one ’s a speaker form .
+fe008 [ s^ bk^ fe^ rt ] : Oh !
+m e011 [ s] : So one is a one t im e only [ pause] speaker form and t he
+ot her is t he digit s .
+fe008 [ s^ bk] : Oh , I see .
+m n005 [ s^ rt ] : Oh it ’s t he sam e .
+m n005 [ s^ t 1] : Oh no no .
+m n005 [ s^ t 1] : Is [ disfm arker] is new Is OK .
+m e011 [ s^ co] : So don’t fill t hese out .
+fe008 [ s^ bk] : Alright .
+m e011 [ s^ df] : This is just t he suggest ion for uh what t he new form s
+would look like .
+m e011 [ s] : So , t hey incorporat e t he changes [ pause] t hat we t alked
+about .
+fe008 [ s^ t 1] : Dat e and t im e .
+fe008 [ qw^ rt ] : Uh why did you swit ch t he order of t he Dat e and Tim e
+fields ?
+fe008 [ s^ bd.%−] : This is rat her a low − lev el , but
+m e011 [ qw^ d] : On which one ?
+fe008 [ s] : On [ disfm arker] on t he new one , Tim e com es first and t hen
+Dat e ,
+fe008 [ s.%−−] : but I t hought [ disfm arker]
+m e011 [ qy ^ rt ] : Oh y ou m ean on t he digit form ?
+fe008 [ s] : This is [ disfm arker] t his is rat her a low level quest ion , but
+[ disfm arker] but it used [ disfm arker] used t o be Dat e cam e first .
+m e011 [ s] : Uh , because t he user fills out t he first t hree fields and I fill
+out t he rest .
+fe008 [ s^ bk] : Oh I see .
+m e011 [ s^ rt ] : So it was int ent ional .
+fe008 [ qw] : Well , how would t he [ disfm arker] How would t he user
+know t he t im e if t hey didn’t know t he dat e ?
+m e011 [ s^ ba^ rt ] : It ’s an int erest ing observat ion ,
+m e011 [ s^ df] : but it was int ent ional .
+m e011 [ s.%−−] : Because t he dat e is when you act ually read t he digit s
+and t he t im e and ,
+
+m e011 [ s^ fa] : excuse m e ,
+m e011 [ s^ bsc] : t he t im e is when you act ually read t he digit s , but I ’m
+filling out t he dat e beforehand .
+m e011 [ s] : If you look at t he form in front of you ? t hat you ’re going t o
+fill out when you read t he digit s ? you ’ll see I ’ve already filled in t he
+dat e but not t he t im e .
+fe008 [ b] : Yeah .
+fe008 [ s.%−] : I always assum ed [ disfm arker]
+fe008 [ s^ bu] : So t he t im e is supposed t o be pret t y exact ,
+fe008 [ s] : because I ’ve just been t aking beginning t im e [ disfm arker]
+t im e of t he m eet ing .
+fe016 [ s^ na] : Yeah , m e t oo .
+m n005 [ %−] : Yeah , I [ disfm arker]
+m e011 [ fg|s] : Yeah , I ’ve not iced t hat in t he form s .
+m n005 [ b] : yeah .
+m e011 [ s] : The [ disfm arker] t he reason I put t he t im e in , is so t hat
+t he person who ’s ext ract ing t he digit s , m eaning m e , will know where
+t o look in t he m eet ing , t o t ry t o find t he digit s .
+fe016 [ qy .%−] : [ no m at ched cont ent ]
+m n005 [ s^ aa^ m ] : Me t oo .
+m n005 [ s^ bk] : Oh !
+fe008 [ s^ bk^ fe] : Oh dear .
+m n005 [ s] : But [ disfm arker] I am put [ disfm arker] I am put t ing t he
+beginning of t he m eet ing .
+fe008 [ s^ rt ] : We ’ve been [ disfm arker] we ’ve been m essing up your
+form s .
+m e011 [ s^ aa] : I know .
+fe016 [ qr.%−−] : So y ou should call it , like , " digit s st art t im e " . Or .
+m e011 [ s] : And I hav en’t said any t hing .
+m e011 [ s^ aa] : Yep .
+m n005 [ s] : in [ disfm arker] on t here .
+m e013 [ qw^ rt ] : Why [ disfm arker] What [ disfm arker] what were you
+put t ing in ?
+fe008 [ s^ rt ] : Oh , well , I was saying if we st art ed t he m eet ing at t wo
+t hirt y ,
+m n005 [ b^ rt ] : Yeah .
+fe008 [ s] : I ’d put t wo t hirt y , and I guess d e everyone was put t ing t wo
+t hirt y ,
+m e013 [ b] : Oh .
+m n005 [ b] : Yeah .
+fe008 [ s.%−−:s.%−−] : and I didn’t realize t here was " uh oh I ’m about t o
+read t his and I should " [ disfm arker]
+m e011 [ s^ ar|s] : No , it ’s about fift y fift y .
+m e011 [ s^ bsc] : Act ually it ’s about one t hird each .
+m e011 [ s] : About one t hird of t hem are blank ,
+m e011 [ s] : about one t hird of t hem are when t he digit s are read ,
+
+m e011 [ s] : and about one t hird of t hem are when t he [ pause]
+m eet ing st art s .
+m n005 [ s^ bk] : Oh .
+m e011 [ fh] : So .
+fe008 [ s^ cs.%−] : This would be a radical suggest ion but [ disfm arker]
+m e011 [ qy ^ d^ rt ] : I could put inst ruct ions ?
+fe008 [ s^ aap^ cs] : Ei − eit her t hat or m aybe you could m aybe writ e
+down when people [ vocalsound] st art reading digit s on t hat part icular
+session .
+m e011 [ s^ ar] : Nah .
+m n005 [ s^ aa] : Yeah .
+m e011 [ s^ ng] : But if I ’m not at t he m eet ing , I can’t do t hat .
+fe008 [ s^ aa^ bd] : I know , OK .
+m e013 [ fg|s.%−−] : Yeah , he ’s been set t ing st uff up and going away .
+So .
+fe008 [ s^ ba] : That ’s a good point .
+fe008 [ s^ bk] : I see .
+fe008 [ s^ bk] : Good point good point .
+m e013 [ s^ df^ j.%−] : For som e reason he doesn’t want t o sit t hrough
+ev ery m eet ing t hat ’s [ disfm arker]
+m e011 [ fg|s^ rt ] : Yep , but t hat is t he reason Nam e , Em ail and Tim e
+are where t hey are .
+fe008 [ s^ bk] : Oh , OK .
+m e013 [ b] : Yeah .
+fe008 [ s^ bk] : Alright .
+fe008 [ s.%−−] : I rest m y [ disfm arker]
+m e011 [ s^ rt ] : And t hen t he ot hers are lat er on .
+m e013 [ b] : Uh − huh .
+fe008 [ s^ bk] : OK .
+fe008 [ %−] : w
+m n005 [ qy^ bu^ d^ rt ] : And t he Seat is t his num ber ?
+m e011 [ s^ aa^ rt ] : Mm − hm m .
+fe008 [ s^ rt ^ t 1] : Seat and Session .
+fe016 [ s] : " For official use only "
+fe016 [ s^ df^ rt ] : That ’s [ disfm arker] [ vocalsound] Well , he ’s very
+professional .
+m n005 [ s^ rt .%−−] : " use only "
+fe008 [ s.%−−] : Act ually you could [ disfm arker]
+fe008 [ qw] : Well t hat does raise anot her quest ion , which is why is t he
+" Professional use only " line not higher ?
+fe008 [ qw] : Why doesn’t it com e in at t he point of Dat e and Seat ?
+fe008 [ s^ bk|s] : Oh . Because we ’re filling in ot her t hings .
+m e011 [ qw^ br] : What ?
+m e013 [ qw^ br] : What ?
+fe008 [ s.%−−] : Well , because [ disfm arker] If y your [ disfm arker] your
+professional use ,
+
+fe008 [ s.%−−] : y ou ’re gonna already hav e t he dat e , and t he s
+m e011 [ qw] : What [ disfm arker] which form are you t alking about ?
+fe008 [ s] : Well I ’m com paring t he new one wit h t he old one .
+fe008 [ s] : This is t he digit form .
+m n005 [ s^ bk] : Oh .
+m e011 [ s^ bk] : Oh you ’re t alking about t he digit form .
+m n005 [ b] : Yeah .
+m e013 [ s] : Digit . Digit form .
+fe008 [ s^ rt .%−] : Oh ! I wasn’t supposed t o [ disfm arker]
+m e011 [ s.%−] : The digit form doesn’t [ disfm arker] The digit
+[ disfm arker]
+m n005 [ b] : Yeah .
+fe008 [ s^ fa] : Sorry . Sorry .
+m e011 [ s^ bd^ rt ] : No , t hat ’s alright .
+m e011 [ s^ df] : The digit form doesn’t have a " for official use only " line
+.
+m e011 [ s^ e] : It just has a line , [ pause] which is what you ’re
+supposed t o read .
+fe008 [ %−−] : That [ disfm arker]
+fe008 [ s^ bk] : uh OK .
+fe008 [ s^ fa] : Sorry about t hat .
+m e011 [ s^ rt ] : So on t he digit s form , everyt hing above t he line is a fill
+− in form
+fe008 [ b] : Yeah .
+fe008 [ b] : Yeah .
+m e011 [ s] : and ev eryt hing below t he line is digit s t hat t he user reads .
+fe008 [ s^ bk] : OK .
+fe008 [ s^ bk|s] : Alright s but I didn’t m ean t o derail our discussion
+here ,
+fe008 [ s^ bu] : so you really want ed t o st art wit h t his ot her form .
+m e011 [ s^ ar|s] : No , eit her way is fine
+m e011 [ s] : I just [ disfm arker] You just st art ed t alking about som et hing
+, and I didn’t know which form you were referring t o .
+fe008 [ fg|s.%−−] : Alright yeah , I was com paring [ disfm arker]
+fe008 [ s] : so t h t his is [ disfm arker] So I was looking at t he change first
+.
+fe008 [ s] : So it ’s like we st art ed wit h t his and now we ’ve got a new
+v ersion of it wi [ pause] wit h reference t o t his .
+fe008 [ s] : So t he digit form ,
+fe008 [ s] : we had one already .
+fe008 [ s] : Now t he f t he fields are slight ly different .
+m e013 [ qy ^ bu^ d^ rt ] : So t he m ain t hing t hat t he person fills out um
+[ pause] is t he nam e and em ail and t im e ?
+m n005 [ b.%] : Yeah .
+m e011 [ s^ aa] : Right .
+m n005 [ b] : Ah !
+
+m e013 [ qy ^ bu^ d^ rt ] : You do t he rest ?
+m e011 [ s^ aa] : Yep .
+m e011 [ s^ e] : Just as uh [ disfm arker] as I have for all t he ot hers .
+m e013 [ s^ bk] : Right .
+fe008 [ s] : What [ disfm arker] And t here ’s an addit ion of t he nat ive
+language , which is a bit redundant .
+fe008 [ s^ rt ] : This one has Nat ive Language and t his one does t oo .
+m e011 [ s^ df] : That ’s because t he one , t he digit form t hat has nat ive
+language is t he old form
+fe008 [ s^ bk^ ft ] : Oh ! Thank y ou . [ pause] Thank you , t hank you .
+m e011 [ s] : not t he new form .
+m n005 [ b] : Yeah .
+fe008 [ s^ t 1] : There we go .
+fe008 [ s^ bk] : Oh , y eah .
+fe008 [ s^ fa^ t 1] : I ’ll cat ch up here .
+fe008 [ s^ bk^ t 1] : OK , I see .
+m e013 [ s.%−] : " Sout h Midland , Nort h Midland "
+fe008 [ s^ t 1] : That ’s t he old and t hat ’s t he new .
+m e011 [ fg|s^ rt ] : Yeah t his was t he problem wit h t hese cat egories ,
+m e011 [ s^ df^ rt ] : I [ disfm arker] I picked t hose cat egories from TIMIT .
+m e011 [ s^ no] : I don’t know what t hose are .
+fe016 [ s] : Act ually , t he only way I know is from working wit h t he
+dat abase and hav ing t o figure it out .
+m n005 [ qw.%−] : What [ disfm arker]
+m e011 [ s^ 2^ bu^ rt ] : Wit h TIMIT ,
+m n005 [ b] : uh − huh .
+m e011 [ qy ^ d^ g^ rt ] : yeah ?
+m e013 [ qy ^ rt ] : So is Sout h Midland like Kansas ?
+m n005 [ %−] : What i
+m e011 [ s.%−] : So , I was gonna ask
+m e011 [ %−] : wh w I m ean .
+m e013 [ qr.%−−] : and Nort h Midland like [ disfm arker] like uh Illinois , or
+[ disfm arker] ?
+fe016 [ s^ aa] : Well y eah .
+m n005 [ b] : Yeah .
+fe016 [ s.%−] : Nor − um [ disfm arker]
+m e011 [ qw] : So [ disfm arker] so what accent are we speaking ?
+m e011 [ qy ^ bu^ g^ rt ] : West ern ?
+m e013 [ qy^ d^ rt ] : By definit ion ?
+m n005 [ qw^ d] : And for sim ple for [ disfm arker] for m e ?
+m n005 [ qy ^ bu^ d^ rt ] : Is m ean m y nat ive language Spanish
+[ disfm arker] Spanish ?
+m e013 [ %−] : Well ,
+fe016 [ s^ am ] : Probably West ern , yeah .
+m n005 [ s.%−−] : eh The original is t he cent er of Spain and t he
+[ v ocalsound] beca
+
+m e011 [ s^ bk|s] : Yeah , I m ean you could call it what ever you want .
+m e011 [ s^ df] : For t he foreign language we couldn’t classify every
+single one .
+m e011 [ s] : So I just left it blank and you can put what ever you want .
+m n005 [ s.%−−] : Because is different , t he Span − uh [ pause] t he
+Spanish language from t he [ disfm arker] t he nort h of Spain , of t he
+sout h , of t he west and t he [ disfm arker]
+m e011 [ s^ bk] : Sure .
+m n005 [ %−−] : But .
+m e011 [ s^ no] : So I ’m not sure what t o do about t he Region field for
+English v ariet y .
+m n005 [ b] : Yeah .
+m e011 [ s] : You know , when I wrot e [ disfm arker] I was writ ing t hose
+down , I was t hinking , " You know , t hese are great [ pause] if you ’re a
+linguist " .
+fe008 [ b] : Yeah .
+fe016 [ s.%−−] : Act ually even if y ou [ v ocalsound] [ pause] t
+m e011 [ s^ no] : But I don’t know how t o [ disfm arker] I don’t know how
+t o [ disfm arker] I don’t know how t o cat egorize t hem .
+fe008 [ b] : Yeah .
+m e013 [ s.%−] : If y ou ’re [ disfm arker] if e [ vocalsound] if y
+fe016 [ s.%−−] : This wasn’t dev eloped by [ disfm arker] t h t hese regions
+weren’t [ disfm arker]
+m e013 [ s.%−−] : if you ’re a TI or MIT [ v ocalsound] from [ vocalsound]
+ninet een eight y − five .
+m e011 [ b] : Yeah
+m e013 [ b] : Yeah .
+m e011 [ qy^ rt ] : So I guess m y only quest ion was if [ disfm arker] if you
+were a Sout h Midland speaking region , person ? Would you know it ?
+fe016 [ b] : Mm − hm m .
+m e011 [ qy ^ rt ] : Is t hat what you would call yourself ?
+fe016 [ s^ no^ rt ] : I don’t know .
+m e011 [ s^ bk] : Yeah .
+m e013 [ fg|s] : You know , I t hink if you ’re t alking [ disfm arker] if you ’re
+t hinking in t erm s of places , [ pause] as opposed t o [ pause] nam es
+different peop nam es people hav e given t o [ pause] different ways of
+t alking , [ pause] I would t hink Nort h Midwest , and Sout h Midwest
+would be m ore com m on t han say ing Midland ,
+m e013 [ qy ^ d^ g^ rt ] : right ,
+m e013 [ s.%−] : I m ean , I [ disfm arker] I went t o s
+fe016 [ s^ aa|s.%−−] : Yeah . Now [ pause] t he usage [ disfm arker]
+fe016 [ s^ cs^ rt ] : Maybe we can giv e t hem a li [ pause] like a lit t le m ap
+?
+fe016 [ s.%−−] : wit h t he regions and t hey just [ disfm arker]
+fe016 [ s^ df] : No , I ’m serious .
+fe008 [ s^ ba] : No , t hat ’s not bad .
+
+fe016 [ s^ df^ rt ] : Because it t akes less t im e , and it ’s sort of cut e
+m n005 [ s^ bu^ ng] : i at t his [ disfm arker] [ vocalsound] in t hat side
+[ disfm arker] in t hat side of t he [ disfm arker] t he paper .
+fe008 [ b] : Yeah .
+fe016 [ s^ rt ] : t here ’s no figure .
+m e013 [ %−] : Well .
+fe016 [ s^ df.%−−] : Well just a lit t le [ disfm arker]
+fe016 [ s] : You know , it doesn’t have all t he det ail ,
+fe016 [ s.%−−] : but y ou sort of [ disfm arker]
+m e013 [ qw^ ng.%−−] : But what if you m oved five t im es and [ disfm arker]
+and uh
+fe008 [ s^ cs.%−−] : Well , I was t hinking you could have m a m ult iple ones
+and t hen t he am ount of t im e [ disfm arker]
+fe016 [ s^ ar|s] : No , but you ’re cat egorized .
+fe016 [ s.%−] : That ’s t he sam e [ disfm arker]
+fe008 [ s.%−−] : so , roughly .
+fe008 [ s^ e] : So . You could say , [ pause] you know " t en years
+[ pause] on t he east coast , five y ears on t he west coast " or
+som et hing or ot her .
+m e011 [ s^ nd] : Well , We [ disfm arker] I t hink we don’t want t o get t hat
+lev el of det ail at t his form .
+m e011 [ s^ rt ] : I t hink t hat ’s alright if we want t o follow up .
+m e011 [ %−−] : But .
+m e013 [ s^ no] : I guess we don’t really know .
+fe016 [ s^ na] : I m ean I [ disfm arker] As I said , I don’t t hink t here ’s a
+huge [ pause] benefit t o t his region t hing .
+fe016 [ s.%−−] : It [ disfm arker] it get s [ disfm arker]
+fe016 [ s] : The problem is t hat for som e t hings it ’s really clear and
+usually list ening t o [ com m ent ] it you can t ell right away if it ’s a New
+York or Bost on accent ,
+fe016 [ s.%−−] : but New York and Bost on are t wo [ disfm arker]
+fe016 [ s] : well , I guess t hey hav e t he NYC ,
+fe016 [ s] : but New England has a bunch of very different dialect s
+fe016 [ %−−] : and [ disfm arker]
+fe008 [ b] : Mm − hm m .
+fe016 [ s] : and [ pause] so does um S So do ot her places .
+m e011 [ s^ df] : Yeah , so I picked t hese regions cuz we had t alked
+about TIMIT ,
+fe016 [ s^ bk] : Right .
+m e011 [ s^ e] : and t hose are right from TIMIT .
+fe016 [ s] : And so t hese would be [ pause] sat isfying like a speech
+[ pause] research [ pause] com m unit y if we released t he dat abase ,
+m e011 [ fh] : So .
+fe016 [ s] : but as t o whet her subject s know where t hey ’re from , I ’m
+not sure because um I know t hat t hey had t o fill t his out for
+Swit chboard .
+
+fe016 [ s] : This is i alm ost exact ly t he sam e as Swit chboard regions
+fe008 [ s^ bk] : Oh . OK .
+fe016 [ s] : or very close .
+fe016 [ b] : Yeah .
+fe016 [ fh|s] : Um And I don’t know how t hey filled t hat out .
+fe016 [ s.%−−] : But t h if Midland [ disfm arker]
+fe016 [ s] : Yeah , Midland is t he one t hat ’s difficult I guess .
+fe008 [ s.%−] : I t hink a lot of people [ disfm arker]
+fe016 [ s] : Also Nort hwest you ’ve got Oreg − Washingt on and Oregon
+now which uh y people don’t know if it ’s west ern or nort hern .
+fe008 [ b] : Yeah .
+m e011 [ s^ na] : Yeah , I cert ainly don’t .
+m e011 [ s^ no] : I m ean , I was saying I don’t even know what I speak .
+fe016 [ s.%−−] : It ’s like Nort hwest
+m e013 [ qw] : Oh , what is Nort hern ?
+m e011 [ qy^ rt ] : Am I speaking [ disfm arker] Am I speaking West ern ?
+m e013 [ qw^ r] : Well and what [ disfm arker] and what ’s Nort hern ?
+fe016 [ s] : I t hink originally it was Nort h [ disfm arker] Nort hwest
+m e011 [ s^ 2] : Nort hwest ?
+m n005 [ b] : Yeah .
+fe016 [ %−−] : But [ disfm arker]
+m e011 [ s] : Yeah , so t his is a real problem .
+fe016 [ b] : Yeah .
+m e011 [ s^ no] : I don’t know what t o do about it .
+fe008 [ s^ no] : I wouldn’t know how t o charact erize m ine eit her .
+fe008 [ s] : And [ disfm arker] and so I would t hink [ disfm arker] I would
+say , I ’ve [ disfm arker] I ’ve got a m ix of California and Ohio .
+m e011 [ %−] : I c
+m e011 [ s] : I t hink at t he first level , for exam ple , we speak t he sam e .
+fe016 [ s^ no] : I don’t know .
+m e011 [ s] : our [ disfm arker] our dialect s Or [ pause] what ever you
+[ disfm arker] region are t he sam e .
+fe008 [ b^ rt ] : Uh − huh .
+m e011 [ s^ no] : But I don’t know what it is .
+m e011 [ fh] : So .
+fe016 [ s] : Well , y ou have a like t echno − speak accent I t hink .
+m e011 [ qy ^ bu^ d^ m ^ rt ] : a t echno − speak accent ?
+fe016 [ s^ aa|s.%−−] : Yeah , you know ?
+m n005 [ %−−] : A t echno
+m e011 [ qy ^ bu^ d^ j^ rt ] : A [ disfm arker] a geek region ?
+fe016 [ s.%−] : Well it ’s [ disfm arker] I m ean I [ disfm arker] you can sort
+of ident ify
+fe008 [ s^ m ] : Geek region .
+fe016 [ s^ rt .%−] : it f It ’s [ disfm arker] it ’s [ disfm arker] not [ disfm arker]
+not t hat t hat ’s [ disfm arker]
+m n005 [ s] : Is different . Is different .
+
+fe016 [ s^ cs] : but [ disfm arker] but m ay be t hat [ disfm arker] m aybe we
+could leav e t his
+fe016 [ s^ cs] : and see what people [ disfm arker] See what people
+choose
+fe016 [ s.%−−] : and t hen um let t hem just fill in if t hey don’t [ disfm arker]
+fe016 [ s] : I m ean I don’t know what else we can do , cuz [ disfm arker]
+[ v ocalsound] That ’s Nort h Midland .
+fe008 [ s^ cs:qw] : I ’m wondering about a quest ion like , " Where are
+y ou from m ost ly ? "
+m n005 [ b.x] : Yeah .
+m e013 [ s] : But I [ disfm arker] I ’m s I ’m [ disfm arker] now t hat you
+m ent ioned it t hough , I am [ disfm arker] really am confused by "
+Nort hern " .
+m n005 [ b] : Yeah .
+fe008 [ s^ aa^ rt ] : I agree . I agree .
+m e013 [ s] : I really am .
+m n005 [ b] : Yeah .
+m e013 [ s^ e] : I m ean , if [ disfm arker] if you ’re [ pause] in New England
+, t hat ’s Nort h .
+fe008 [ s^ t 1] : I agree .
+m e013 [ s.%−−] : If y ou ’re [ disfm arker] i if y ou ’re
+fe008 [ s^ 2] : Scandinavian , t he Minnesot a area ’s nort h .
+m e013 [ h|s^ na.%−−] : Uh yeah . That ’s [ disfm arker]
+m e013 [ s^ arp] : But t hat ’s also Nort h Midland ,
+m n005 [ b] : Yeah .
+m e013 [ qy^ d^ g^ rt ] : right ?
+fe008 [ s^ bk] : Oh , @ @ . [ disfm arker] OK .
+m e013 [ s] : And [ disfm arker] and [ disfm arker] and Oregon and
+[ disfm arker] and Oregon and Washingt on are [ disfm arker] are West ern
+, but t hey ’re also Nort hern .
+fe016 [ s^ aa] : Yeah .
+fe008 [ s^ bk] : [ no m at ched cont ent ]
+fe016 [ s.%−−] : Of course , t hat ’s very different from , like , Michigan , or
+[ disfm arker]
+m n005 [ b] : Mm m .
+fe008 [ b] : Mm − hm m .
+m e013 [ qo^ rt ] : uh , Idaho ?
+fe016 [ s] : Well t here are hardly any subject s from Idaho .
+m e013 [ qo^ rt ] : Mont ana ?
+m e011 [ s] : No problem .
+fe008 [ s^ co^ j] : Just rule t hem out .
+fe016 [ s^ r] : There ’s only a few people in Idaho .
+m e011 [ s^ fe^ j^ m ^ t 3] : There are hardly any subject s from " beep "
+m n005 [ b] : Yeah .
+fe016 [ s^ fa^ t 3] : Sorry .
+fe016 [ s.%−−] : No , t hat ’s [ disfm arker]
+
+m e013 [ s^ cs:s^ co] : Maybe [ disfm arker] Maybe we [ disfm arker] Maybe
+we should put a lit t le m ap and say " put an X on where you ’re from " ,
+m n005 [ s.%−] : And [ disfm arker] is [ disfm arker] in t hose [ disfm arker]
+m e011 [ s^ aa] : Yeah really .
+m n005 [ %−] : And if you put [ disfm arker]
+fe016 [ s^ aa^ m ] : We could ask where t hey ’re from .
+fe008 [ s] : It ’d be pret t y sim ple , yeah .
+fe016 [ s^ bk] : Yeah .
+fe016 [ s] : But − We went back t o t hat .
+m n005 [ b] : Yeah .
+m n005 [ s^ cs^ rt .%−] : If you put eh t he st at e ?
+m e011 [ s.%−] : Well well we sort of [ disfm arker]
+fe008 [ s^ cs:qw] : Where are you from m ost ly ?
+fe016 [ s.%−−] : We [ disfm arker] we went [ disfm arker] we went around
+t his and t hen [ pause] a lot of people ended up say ing t hat it
+[ disfm arker]
+m n005 [ b] : Uh − huh . Mm − hm m .
+fe016 [ s^ f] : You know .
+m e011 [ s] : Well , I like t he idea of asking " what variet y of English do
+y ou speak " as opposed t o where you ’re from
+m e011 [ s^ df:qr] : Because t h if we st art asking where we ’re from ,
+again y ou have t o st art saying , " well , is t hat t he language you speak
+or is t hat just where you ’re from ? "
+m n005 [ b] : Yeah .
+fe008 [ b] : Hm m ?
+fe016 [ s^ aa] : Right . Right .
+m n005 [ b] : Yeah .
+m e013 [ %−] : Let ’s [ disfm arker]
+fe016 [ s.%−−] : I m ean it gives us good inform at ion on where t hey ’re
+from , but t hat doesn’t [ com m ent ] t ell us anyt hing [ disfm arker]
+m e013 [ b] : Mm − hm m .
+m e011 [ %−] : And [ disfm arker]
+m e013 [ s^ cs.%−] : We could always ask t hem if t hey ’re from
+[ disfm arker]
+fe016 [ s.%−] : well , enough about t heir [ disfm arker]
+m e011 [ fg|s:s] : I m ean . So [ disfm arker] so I would say Germ any
+fe016 [ %−] : like [ disfm arker]
+m e011 [ qh] : You know am I speaking wit h Germ an accent
+fe008 [ s^ bk] : Oh .
+m e011 [ s^ ar] : I don’t t hink so .
+fe016 [ b] : Right .
+fe008 [ s^ df] : Well , see , I ’m t hinking " Where are you from m ost ly "
+m e011 [ s^ bk] : Oh , OK yeah .
+fe008 [ s^ df] : because , you know , t hen you have som e [ disfm arker]
+som e kind of subject ive am ount of t im e fact ored int o it .
+m n005 [ b] : Yeah .
+
+m n005 [ b] : Yeah .
+m e011 [ b] : Yep .
+m n005 [ b] : Yeah .
+m e011 [ s^ cs] : Yeah , I guess I could t ry t o put [ disfm arker] squeeze in
+a lit t le m ap .
+m e011 [ s] : I m ean t here ’s not a lot of r of room
+m e013 [ s^ cs^ j] : I ’d say , uh , " Bost on , New York Cit y , t he Sout h and
+Regular " .
+fe008 [ %−] : Well [ disfm arker]
+m e011 [ s] : I t hink of t hose , Nort hern is t he only one t hat I don’t even
+know what t hey ’re m eaning .
+fe016 [ s^ no] : Oh , I don’t know .
+m n005 [ s] : And [ disfm arker] And [ disfm arker] [ vocalsound] Um
+[ pause] And usually here [ disfm arker] people here know what is t heir
+kind of m m m lang English language ?
+fe008 [ b] : Yeah . Yeah .
+m e013 [ s] : That ’s a joke .
+m e013 [ %−] : That ’s [ disfm arker]
+fe016 [ s^ co] : So let ’s m ake it up .
+fe016 [ qh] : S I m ean , who cares .
+fe016 [ qy ^ bu^ d^ g^ rt ] : Right ?
+fe016 [ s] : We can m ake up our own [ disfm arker]
+fe016 [ s^ cs] : So we can say " Nort hwest " , " Rest of West " or
+som et hing .
+fe016 [ s^ f] : You know .
+fe016 [ s.%−−] : " West "
+fe016 [ s.%−] : and I m ean .
+m e011 [ b.x] : Ye
+m e011 [ s] : I don’t t hink t he Nort hwest people speak any different ly
+t han I do .
+fe016 [ s.%−] : It doesn’t even [ disfm arker]
+fe016 [ s^ aa] : Yeah , exact ly .
+fe016 [ s] : That ’s not really a region .
+m e013 [ qy^ j] : " Do you com e from t he Louisiana Purchase ? "
+fe008 [ %−] : I [ disfm arker]
+fe016 [ s^ cs] : So we could t ake out " Nort h " [ disfm arker] " Nort hern "
+.
+m e011 [ qy ^ d.%−−] : That [ disfm arker] t hat ’s
+m n005 [ qy ^ d^ rt ] : eh here Is easy for people t o know ?
+m e011 [ s^ bk] : exact ly what we ’re arguing about .
+fe016 [ s.%−] : That ’s [ disfm arker]
+fe016 [ fg|s] : Yeah , w It ’s [ disfm arker] In [ disfm arker] It ’s [ disfm arker]
+it ’s harder in Am erica anywhere else , basically .
+m e011 [ s^ no] : We don’t know .
+m n005 [ s.%−] : because you have [ disfm arker]
+m e011 [ s] : I m ean som e of t hem are very obvious .
+
+m e011 [ s] : If you [ disfm arker] if y ou t alk t o som eone speaking wit h
+Sout hern drawl , y ou know .
+m n005 [ b] : N m Yeah .
+fe008 [ s^ aa|s^ e] : Yeah , or Bost on .
+m e011 [ s^ aa^ m ] : Or Bost on , yeah .
+fe008 [ s.%−−] : I can’t do it , but [ disfm arker]
+m n005 [ qy ^ br^ d] : Or Bost on ?
+fe016 [ s] : And t hose people , if y ou ask t hem t o self − ident ify t heir
+accent t hey know .
+m e013 [ b] : Yeah .
+m n005 [ b] : Yeah .
+fe008 [ s^ aa] : Yeah , t hey do .
+fe016 [ s^ e] : They know very well .
+fe008 [ s^ aa] : Yeah I agree I agree . I agree .
+fe016 [ s.%−] : They know t hey don’t speak t he sam e as t he
+m e011 [ qy ^ rt ] : But is Bost on New England ?
+fe008 [ s] : And t hey ’re proud of it .
+fe016 [ %−] : day o
+fe008 [ b] : Yeah .
+fe016 [ s^ aa] : Yeah , exact ly .
+fe008 [ s^ df] : It ’s ident it y t hing .
+fe016 [ s] : And t hey ’re glad t o t ell you .
+m n005 [ s] : st yle .
+fe016 [ s^ df] : Well . Depends who you ask , I suppose .
+m e011 [ s] : W [ vocalsound] I guess t hat ’s t he problem wit h t hese
+cat egories .
+m n005 [ b.%] : [ no m at ched cont ent ]
+fe016 [ s.%−−] : But t hat ’s why t hey hav e New York Cit y but [ disfm arker]
+fe008 [ qh] : Well , we ca Well , why can’t we just say charact erize
+[ disfm arker] som et hing like char charact erize your accent
+m e013 [ s] : Well , Bost on ’s @ @ , t oo .
+fe016 [ fh] : Or [ disfm arker]
+fe016 [ s^ 2] : " Charact erize your accent [ pause] if you can . "
+fe008 [ s:s] : and [ disfm arker] and so I would say , " I don’t know " .
+fe016 [ b] : Yeah .
+fe016 [ s^ aa|s.%−] : Right , which probably m eans you have a very
+[ disfm arker]
+fe008 [ s] : But som eone from Bost on wit h a really st rong colorat ion
+would know .
+fe008 [ s^ e] : And so would an R − less Maine [ disfm arker] or som et hing
+,
+fe016 [ s^ e^ rt ] : And t hat ’s act ually good .
+m n005 [ b] : Yeah .
+fe016 [ s] : I was [ disfm arker] I was t hinking of som et hing along t hat
+line
+fe008 [ b] : y eah .
+
+m e013 [ qw.%−] : How
+fe016 [ s^ df.%−−] : because [ pause] if you don’t know , t hen , you know
+, ruling out t he fact t hat you ’re t ot ally [ pause] inept or som et hing ,
+fe008 [ s^ ba] : Good .
+fe008 [ b] : Hm m .
+fe016 [ s] : if som ebody doesn’t know , it probably m eans t heir accent
+isn’t v ery st rong com pared t o t he sort of m idwest st andard .
+m e013 [ s^ ng] : Well , [ vocalsound] I m ean , it wasn’t t hat long ago
+t hat we had som ebody here who was from Texas who was absolut ely
+sure t hat he didn’t have any accent left .
+fe008 [ b] : Hm m ?
+m e013 [ s^ e] : And [ disfm arker] and had [ disfm arker] he had a pret t y
+[ v ocalsound] not iceable drawl .
+m e011 [ fg|s^ cs] : OK , so . I propose , [ pause] t ake out Nort hern add ,
+don’t know .
+fe008 [ s^ bk|s^ cs^ ng:qw] : Oh . [ pause] Yeah . I [ disfm arker] I would
+say m ore [ disfm arker] m ore sweepingly , " how would you charact erize
+y our accent ? "
+m n005 [ b.%] : Yeah .
+m e011 [ qy ^ bu^ d^ rt ] : So you want t o change t he inst ruct ions also
+not just say region ?
+fe016 [ %−] : W
+fe008 [ s^ na] : Well , I t hink t his discussion has m ade m e t hink t hat ’s s
+som et hing t o consider .
+m e011 [ s^ nd] : I don’t know
+m e011 [ s^ df:qw] : if I [ disfm arker] if I read t his form , I t hink t hey ’re
+going t o ask [ com m ent ] it [ disfm arker] t hey ’re going t o answer t he
+sam e way if y ou say , " What ’s v ariet y of English do you speak ?
+m e011 [ s] : Region . "
+m e011 [ s:qw] : as if you say " what variet y of region [ disfm arker] region
+[ com m ent ] do y ou speak ?
+m e011 [ s:s] : Please charact erize your accent ? "
+m e011 [ s] : They ’re going t o answer t he sam e way .
+fe008 [ s^ am .%−] : I guess [ disfm arker]
+fe008 [ s^ df.%−−] : Well , I was not sure t hat [ disfm arker]
+m n005 [ b] : Mm m .
+fe008 [ %−] : I [ disfm arker]
+fe008 [ s^ df] : So . I was suggest ing not having t he opt ions ,
+fe008 [ s^ e.%−−] : just having t hem [ disfm arker]
+m e011 [ s^ bk] : Oh , I see .
+m n005 [ b] : Huh .
+m e011 [ s] : Well what we t alked about wit h t hat is [ pause] is so t hat
+t hey would underst and t he granularit y .
+fe008 [ s^ bk|s] : Yes , but if , as Liz is suggest ing , people who have
+st rong accent s know t hat t hey do [ disfm arker]
+
+m e011 [ s^ df^ ng] : I m ean t hat ’s what I had before , and you t old m e
+t o list t he regions t o list t hem .
+fe008 [ %−] : and are [ disfm arker]
+fe016 [ s] : Each [ disfm arker] each one has pros and cons
+fe008 [ s^ df] : Well , I know .
+m e013 [ s^ aa] : Right .
+m e013 [ fg] : Right .
+m e011 [ fh] : So .
+fe016 [ s.%−] : I m ean we [ disfm arker] we [ disfm arker]
+m e013 [ fg] : Right .
+fe008 [ s^ aa] : That ’s t rue .
+m e013 [ fg|s] : Yeah last week [ disfm arker] last week I was sort of r
+arguing for hav ing it wide open ,
+m e013 [ s:s^ fe] : but t hen everybody said " Oh , no ,
+m e013 [ s:s] : but t hen it will be hard t o int erpret
+m e013 [ s^ df:s] : because som e people will say Cincinnat i and som e
+will say Ohio " .
+m e011 [ s] : I m ean I had it wide open last week and [ disfm arker] and
+y ou said TIMIT .
+m e013 [ fh] : And .
+fe016 [ qh] : What if we put in bot h ?
+fe008 [ b] : Yeah .
+m e013 [ b] : Yeah .
+fe016 [ qy.%−] : And [ disfm arker] Would people [ disfm arker]
+m e011 [ s^ ng] : That ’s what t he " Ot her " is for .
+fe016 [ s^ ar|qh] : No , I m ean what if we put in bot h ways of asking
+t hem ?
+fe016 [ s^ e:s] : So . One is [ pause] Region
+fe016 [ s^ cs^ e^ rt :qo] : and t he anot her one is " if you had t o
+charact erize y ourself [ disfm arker] your accent , what would you say ? "
+m e011 [ qy ^ ng] : Won’t t hey answer t he sam e t hing ?
+fe016 [ s^ df] : Well t hey m ight only answer only one of t he quest ions
+fe016 [ %−−] : but if
+fe008 [ s^ aa] : Yeah t hat ’s fine .
+fe016 [ s^ f] : You know .
+fe008 [ s^ cs] : They m ight say " Ot her " for Region because t hey don’t
+know what cat egory t o use
+fe016 [ %−] : Act ually [ disfm arker]
+fe008 [ s.%−−] : but t hey m ight have som et hing [ disfm arker]
+fe016 [ s^ aa] : Right .
+fe016 [ s.%−] : It just [ disfm arker] And we [ disfm arker]
+fe008 [ s] : because it is easier t o have it open ended .
+fe016 [ s^ cs] : we m ight learn from what t hey say , as t o which one ’s a
+bet t er [ com m ent ] way t o ask it .
+fe016 [ s^ bd^ no] : But [ disfm arker] I [ disfm arker] Cuz I really don’t
+know .
+
+m e013 [ s^ bd] : W This is just a sm all t hing
+fe016 [ b.%] : [ no m at ched cont ent ]
+m e013 [ s] : but um It says " Variet y " and t hen it gives t hings t hat e
+have Am erican as one of t he choices .
+m e013 [ s] : But t hen it says " Region " ,
+m e013 [ s^ bu] : but Region act ually just applies t o uh , US ,
+m e013 [ qy ^ d^ f^ g^ rt ] : right ?
+m e011 [ s^ aa] : Right .
+m e011 [ s] : I m ean t hat ’s why I put t he " Ot her " in .
+fe008 [ s] : Well , we t hought about it .
+m e013 [ s^ bk] : Ah , OK .
+fe008 [ s^ bk] : Yeah , OK .
+m e013 [ %−] : S
+fe008 [ s.%−−] : We just [ disfm arker] We sort of t hought , " yes ,
+[ disfm arker] " y y I m ean [ disfm arker]
+fe008 [ s.%−−] : At t he last m eet ing , m y recollect ion was t hat [ pause]
+we felt people would have uh less [ disfm arker]
+fe008 [ s] : t hat [ disfm arker] t hat t here are so m any t ypes and variet ies
+of [ pause] t hese ot her languages
+fe008 [ s] : and we are not going t o have t hat m any subject s from
+t hese different language groups
+fe008 [ s^ e] : and t hat it ’s a huge wast e of [ disfm arker] of space .
+m e011 [ b] : Yep .
+m e013 [ s^ bk] : OK .
+m e011 [ s] : So I m ean , I [ disfm arker] I m ean t he way I had it last t im e
+[ pause] was Region was blank ,
+fe008 [ s^ df] : That ’s what I t hought .
+m e011 [ s^ e] : it just said Region colon .
+fe008 [ b] : Yeah .
+fe008 [ b] : Yeah .
+m e011 [ s] : And [ disfm arker] and I t hink t hat t hat ’s t he best way t o do
+it ,
+m e011 [ s^ df] : because [ disfm arker] because of t he problem s we ’re
+t alking about
+m e011 [ s^ df] : but what we said last week , was no , put in a list ,
+m e011 [ s] : so I put in a list .
+fe016 [ s^ cs] : Maybe we can m ake t he list a lit t le sm aller .
+m e011 [ qy .%−] : So should we go back t o [ disfm arker]
+m e011 [ s^ aap] : Well , cert ainly dropping " Nort hern " I t hink is right ,
+because none of us know what t hat is .
+fe016 [ s.%−] : Cuz , I m ean [ disfm arker]
+fe016 [ s^ 2^ cs^ rt ] : And keeping " Ot her " ,
+fe016 [ s^ cs] : and t hen [ pause] m ay be t his Nort h Midland , we call it "
+Nort h Midwest " .
+fe016 [ qr.%−] : Sout h [ pause] Midwest , or just [ disfm arker]
+m e013 [ s^ aa] : Yes I [ disfm arker] I [ disfm arker] I t hink so . Yeah .
+
+fe016 [ s] : Sout h Midwest .
+fe016 [ qy ^ rt ] : Does t hat m ake sense ?
+m n005 [ qy ^ br.%] : Sout h Midwest ?
+fe016 [ s.%−−] : That would help m e [ disfm arker]
+fe016 [ b] : Yeah .
+fe016 [ %−−] : Cuz [ disfm arker]
+m e013 [ s^ arp] : U unless you ’re from Midland , Kansas .
+fe016 [ s.%−−] : Midland [ disfm arker]
+m e013 [ fh] : But .
+m e013 [ b] : Yeah .
+fe016 [ s^ no^ rt ] : I don’t know where Midland is
+m e013 [ s.%−−] : There ’s a [ disfm arker] Or Midland [ disfm arker] Midland
+[ disfm arker]
+m e013 [ qr] : Is it Midland [ disfm arker] Midland [ disfm arker] Midland ,
+Tex as or Midland , Kansas ?
+m e011 [ qy ^ rt ] : Is " Midwest " one word ?
+fe016 [ s^ aa^ m .%−−] : Y yeah , one w
+m e013 [ s^ no] : I forget .
+m e013 [ s] : But t here ’s a t own .
+fe016 [ s^ bk] : Oh .
+m e013 [ s] : in [ disfm arker] in t here .
+m e013 [ s^ no] : I forget what it is @ @ .
+fe008 [ s^ nd] : I don’t t hink t hat ’s what t hey m ean .
+fe016 [ %−] : But ,
+fe016 [ fg|s^ bu] : yeah . So . Kansas would be [ pause] Sout h Midland .
+m e013 [ b] : Yeah .
+fe016 [ qy ^ d^ g^ rt ] : Right ?
+m e013 [ s^ aa] : Y y eah .
+fe016 [ qy .%−−] : And [ disfm arker] and wouldn’t [ disfm arker]
+fe016 [ b] : Yeah .
+fe016 [ s] : So , t h I ’m from Kansas , act ually .
+m e013 [ s] : And Colorado , right across t he border , would be
+[ v ocalsound] Nort h Midland .
+m n005 [ s] : Sout hern Midland .
+m n005 [ b.%] : [ no m at ched cont ent ]
+fe016 [ s^ aa] : Yeah .
+fe016 [ %−−] : Colora
+m e011 [ %−] : And uh [ disfm arker]
+fe016 [ fg] : Oh , right .
+fe016 [ s.%−−] : And t hen , t he [ disfm arker] t he [ disfm arker] dropping
+Nort h ,
+fe016 [ s] : so it would be West ern .
+fe016 [ s] : It ’s just one big shebang , where , of course , you have
+huge variat ion in dialect s ,
+m e013 [ s^ arp^ df.%−−] : But you do in t he ot hers , t oo . So .
+m e011 [ s^ df] : But t hat ’s t rue of New England t oo .
+
+fe016 [ s^ df.%−] : but [ disfm arker] [ com m ent ] but so do you
+[ disfm arker]
+fe016 [ s^ aa] : Yeah .
+m e011 [ s.%−−] : So . I m ean only one [ disfm arker]
+m e013 [ b] : Yeah .
+fe016 [ b] : Yeah . Yeah .
+m e011 [ s^ df] : Well , I shouldn’t say t hat .
+m e011 [ s^ no] : I hav e no clue .
+m e011 [ s] : I was going t o say t he only one t hat doesn’t have a huge
+v ariet y is New York Cit y .
+m e011 [ s^ df^ no] : But I have no idea whet her it does or not .
+fe008 [ s.%−−] : It does seem [ disfm arker]
+m e013 [ %−] : U
+fe008 [ s^ cs] : I m ean . I [ disfm arker] I would t hink t hat t hese
+cat egories would be m ore [ disfm arker] w would be easier for an an
+analy st t o put in rat her t han t he subject him self .
+m e011 [ s] : I t hink t hat [ disfm arker] t hat was what happened wit h TIMIT
+, was t hat it was an analyst .
+fe008 [ s^ bk] : OK .
+m e013 [ s^ co^ t c] : Wait a m inut e .
+m e013 [ qw.%−] : Where does [ disfm arker] Where does [ disfm arker]
+[ pause] d w Where [ disfm arker] Where ’s [ disfm arker] where does uh
+[ v ocalsound] New [ disfm arker] New York west of [ disfm arker] west of
+uh New York Cit y and [ pause] Pennsylvania [ pause] uh and uh
+fe016 [ s^ bk|s^ no] : Yeah , I don’t know how it cam e from .
+fe008 [ s^ bk] : OK .
+fe016 [ s] : So . That ’s New England I t hink .
+m e011 [ s] : New England
+m e013 [ s^ ar^ fe] : N No , it ’s not .
+fe016 [ s^ bk] : Yeah .
+m e011 [ s^ fe] : Oh , no .
+m e013 [ s^ ar] : Oh no .
+fe008 [ s] : I sort of t hought t hey were part of t he [ disfm arker] one of
+t he Midlands .
+m e013 [ s^ ar] : No , no . [ pause] No .
+m e013 [ s.%−−] : Pennsylvania is not [ disfm arker]
+m e011 [ s] : " Ot her " ,
+m e011 [ s] : it goes under " Ot her " ,
+m e011 [ s] : definit ely under " Ot her " .
+fe016 [ s.%−−] : Well , you know , Pennsylvania has a pret t y st rong
+dialect and it ’s t ot ally different t han [ disfm arker]
+m e013 [ s.%−−] : Pennsylvania [ disfm arker]
+m e013 [ fg|s] : Yeah . Pennsylvania is not New England .
+m e013 [ s^ rt ] : and uh New Jersey is not New England and Maryland is
+not New England and none of t hose are t he Sout h .
+m e011 [ fg] : OK . So .
+
+m e011 [ s^ t c] : Anot her suggest ion .
+fe008 [ b] : Yeah .
+m e011 [ s] : Rat her t han have circle fill in form s , say " Region , open
+paren , E G Sout hern com m a West ern com m a close paren colon . "
+fe008 [ s^ aa] : OK .
+fe016 [ s^ aa] : OK !
+m e013 [ s^ aa] : That ’s good .
+m n005 [ b.%] : Yeah .
+fe008 [ s^ aa] : Fine by m e , fine by m e .
+fe016 [ s^ aa] : Sure !
+m e013 [ s^ ba] : I like t hat .
+fe008 [ b] : Yeah .
+fe016 [ s.%−−] : Let ’s just [ disfm arker]
+m n005 [ b] : Yeah .
+fe016 [ s^ cc] : And we ’ll see what we get .
+m e013 [ s] : We ’re all [ pause] sufficient ly [ pause] t ired of t his t hat we
+’re agreeing wit h you .
+fe008 [ s^ ba] : Be easier on t he subject s .
+fe008 [ s] : I t hink t hat ’s fine .
+m e013 [ fg] : So .
+fe008 [ s^ ar] : No .
+fe008 [ s.%−−] : I t hink [ disfm arker]
+fe008 [ s^ ba^ df] : I like t hat . I like t hat .
+m e013 [ qy^ bu^ d^ m ^ rt ] : You like it ?
+m e013 [ s^ bk] : OK .
+fe008 [ s^ aa] : Yeah , I do .
+m e013 [ b] : Good .
+m e011 [ s^ cs] : Act ually , m aybe we do one non − English one as well .
+m e011 [ qy ^ bu^ d^ rt ] : Sout hern , Cockney ?
+fe016 [ s^ aa.%−−] : Yeah , and [ disfm arker]
+m n005 [ s^ aa] : Yeah .
+m e011 [ qy^ rt ] : Is t hat a [ pause] real accent ?
+fe008 [ s^ aa] : Sure , yeah !
+m n005 [ s^ aa.%] : Yeah .
+m e011 [ qw] : How do you spell it ?
+fe008 [ s] : I t hink t hat ’s fine .
+m e013 [ qy^ bu^ d^ rt ] : Cockney ?
+m e013 [ s.%−−] : CO [ disfm arker]
+m e011 [ qy ^ bu^ d^ rt ] : N E
+m e013 [ s^ aa] : Yeah .
+fe016 [ s^ cs] : You could say Liverpool .
+m e013 [ s] : Liverpuddlian .
+fe008 [ s^ aa] : Yeah .
+fe016 [ s.%−−] : Act ually , Liverpool doesn’t l
+fe008 [ b] : Alright .
+fe016 [ b] : Yeah .
+
+fe016 [ s.%−−] : It ’s [ disfm arker] [ vocalsound] I ’m s I ha
+fe008 [ s.%−−] : Well . Well . I m ean , pure [ disfm arker]
+m e011 [ s] : OK , we ’ll do it t hat way .
+m e011 [ s^ ba] : Act ually , I like t hat a lot .
+m e013 [ s^ bk] : OK .
+m e011 [ s^ df] : Because t hat get ’s at bot h of t he t hings we were
+t ry ing t o do ,
+m e011 [ s] : t he granularit y , and t he person can just self − assess and
+we don’t have t o argue about what t hese regions are .
+fe008 [ s^ aa] : That ’s right .
+m n005 [ b] : Yeah .
+m e013 [ b] : OK .
+fe008 [ s^ ba] : And it ’s easy on t he subject s .
+m e011 [ s^ aa] : Yep .
+fe008 [ s] : Now I have one suggest ion on t he next sect ion .
+m n005 [ b] : Mm − hm m .
+m e011 [ s^ bk^ rt ] : Mm − hm m .
+fe008 [ s^ rt ] : So you have nat ive language ,
+fe008 [ s^ rt ] : y ou hav e region ,
+fe008 [ s^ rt ] : and t hen you hav e t im e spent in English speaking
+count ry .
+fe008 [ s^ cs:s] : Now , I wonder if it m ight be useful t o have anot her
+open field saying " which one parent hesis S [ com m ent ] paren closed
+parent hesis " .
+fe008 [ s^ df.%−−] : Cuz if t hey spent [ pause] t im e in [ disfm arker] in
+Brit ain and Am erica [ disfm arker]
+m e013 [ s^ aa] : Yes .
+fe008 [ s] : It doesn’t have t o be ex all [ disfm arker] at all exact , just in
+t he sam e open field form at t hat you hav e .
+m e011 [ s^ na] : Yep , just which one .
+m e011 [ s^ aa] : I t hink t hat ’s fine .
+fe008 [ b] : Mm − hm m .
+m n005 [ b] : Mm − hm m .
+fe008 [ s^ cs^ e] : wit h a [ disfm arker] wit h an S
+fe008 [ s:qw] : " which one
+fe008 [ s] : sss , [ com m ent ] opt ional S .
+m e013 [ s^ bk^ rt ^ t c] : OK .
+m n005 [ b] : [ no m at ched cont ent ]
+fe008 [ b.%] : Yeah .
+m e013 [ qy ^ rt ^ t ^ t c] : We uh [ disfm arker] We done ?
+m e011 [ s^ aa] : Yep .
+fe008 [ s^ aa] : Yeah , t hat ’s good .
+m e013 [ s^ bk] : OK .
+m e013 [ fg|qr^ rt ] : um s e Any [ disfm arker] any ot her uh open m ike
+t opics or should we go [ pause] right t o t he digit s ?
+m e011 [ fg|qy ^ rt ] : Um , did you guys get m y em ail on t he m ult it rans ?
+
+m e011 [ %−−] : That [ disfm arker]
+m e011 [ s^ bk] : OK .
+fe008 [ qh^ ba] : Isn’t t hat wonderful !
+fe008 [ s^ aa] : Yeah .
+fe008 [ s^ ba^ fe] : Excellent !
+m e011 [ fg|s] : Yeah . So . So . I [ disfm arker] I have a version also which
+act ually display s all t he channels .
+fe008 [ s^ ft ] : Thank you !
+fe016 [ s^ ba] : It ’s really great .
+m e011 [ s] : But it ’s hideously slow .
+fe008 [ s^ bu] : So you [ disfm arker] t his is n Dan ’s pat ches , Dan Ellis ’s
+pat ches .
+m e011 [ s] : The [ disfm arker] what [ disfm arker] t he ones I applied ,
+t hat y ou can act ually do are Dan ’s , because it doesn’t slow it down .
+fe016 [ %−] : M
+fe008 [ s^ ba^ fe] : Fant ast ic !
+m e011 [ s] : Just uses a lot of m em ory .
+fe016 [ qy .%−] : So when you say " slow " , does t hat m ean t o
+[ disfm arker]
+m e011 [ s] : No , t he [ disfm arker] t he one t hat ’s inst alled is fine .
+m e011 [ s] : It ’s not slow at all .
+m e011 [ s] : I wrot e anot her version . Which , inst ead of having t he one
+pane wit h t he one v iew , It has m ult iple panes [ pause] wit h t he views .
+m n005 [ b] : Yeah .
+fe016 [ b] : Mm − hm m .
+m e011 [ s] : But t he problem wit h it is t he drawing of t hose waveform s
+is so slow t hat ev ery t im e you do anyt hing it just crawls .
+fe008 [ b.x] : Mm − hm m .
+m e011 [ s^ ba] : It ’s really bad .
+fe016 [ s^ bu.%−] : It ’s [ disfm arker] So , it [ disfm arker] it ’s t he
+redrawing of t he w
+fe008 [ s^ t 1] : That ’s a considerat ion .
+m e011 [ b] : Mm − hm m .
+fe016 [ s^ bk] : oh uh − huh ,
+fe016 [ s^ bu] : w as you m ove .
+m e011 [ s] : As y ou play , as you m ove , as you scroll .
+m e011 [ s^ df] : Just about anyt hing , and it [ disfm arker] it was so slow
+it was not usable .
+fe008 [ s] : And t his ’ll be a [ disfm arker] hav having t he m ult iwave will
+be a big help
+m e011 [ s] : So t hat ’s why I didn’t inst all it and didn’t pursue it .
+fe008 [ s^ df] : cuz [ disfm arker] in t erm s of like disent angling overlaps
+and t hings , t hat ’ll be a big help .
+fe016 [ s^ aa] : Oh yeah .
+m e011 [ fg|s] : So . I t hink t hat t he one Dan has is usable enough .
+fe016 [ b] : Yeah .
+
+m e011 [ s] : It doesn’t display t he ot hers .
+m e011 [ s] : It displays just t he m ixed signal .
+fe008 [ b] : Mm − hm m .
+m e011 [ s] : But y ou can list en t o any of t hem .
+fe008 [ fg] : That ’s excellent .
+m n005 [ b] : Yeah .
+fe008 [ s.%−−] : He also has version cont rol which is anot her nice
+fe008 [ s.%−] : e so y ou [ disfm arker] e t he pat ches t hat you
+[ disfm arker]
+m e011 [ s^ ar|s] : No , he suggest ed t hat , but he didn’t [ disfm arker]
+[ pause] It ’s not inst alled .
+fe008 [ s^ df] : Oh , I t hought it was in one of t hose pat ches .
+m e011 [ s^ ar] : No . No .
+fe008 [ s^ bk] : Oh OK .
+fe008 [ s^ bk] : Well . Alright .
+fe016 [ qy ^ rt ] : So is t here any hope for act ually display ing t he wave
+form ?
+m e011 [ s^ nd] : Um , not if we ’re going t o use Tcl − TK At least not if we
+’re going t o use Snack .
+fe016 [ s^ bk] : OK .
+m e011 [ s^ e] : I m ean you would have t o do som et hing ourselves .
+fe008 [ s^ aap] : Well , or use t he one t hat crawls .
+fe016 [ s^ bk] : OK .
+fe016 [ s] : Well , I ’m [ disfm arker] I probably would be t rying t o use t he
+[ disfm arker] [ com m ent ] what ever ’s t here .
+fe016 [ s.%−] : And it ’s useful t o have t he [ disfm arker]
+m e011 [ s^ cs.%−−] : Why don’t we [ disfm arker] we see how Dan ’s works
+and if it [ disfm arker] If we really need t he display [ disfm arker]
+fe016 [ b] : Yeah .
+fe016 [ s] : I m ean . I wonder [ disfm arker] I ’m just wondering if we can
+display t hings ot her t han t he wave form .
+fe016 [ s] : So . Suppose we have a feat ure [ disfm arker] a feat ure
+st ream .
+fe016 [ s] : And it ’s just , you know , a [ disfm arker] a uni − dim ensional
+feat ure , v ary ing in t im e .
+m n005 [ b] : Yeah .
+fe016 [ s] : And we want t o plot t hat , inst ead of t he whole wave form .
+m e011 [ %−] : I m ean .
+m n005 [ b.%] : Yeah .
+fe016 [ s] : That m ight be fast er .
+fe016 [ qy ^ bu^ d^ g] : Right ?
+m n005 [ b.%] : Yeah .
+fe016 [ %−] : So .
+m e011 [ s^ aap] : We [ disfm arker] we could do t hat but t hat would
+m ean changing t he code .
+m e011 [ s] : I m ean t his isn’t a program we wrot e .
+
+m e013 [ b] : Yeah .
+m e011 [ s] : This is a program t hat we got from som eone else , and we
+’v e done pat ches on .
+fe016 [ s^ bk] : OK .
+fe016 [ s^ cc] : OK . Well , I ’ll t alk t o you about it and we can see
+fe008 [ b] : Mm − hm m .
+m n005 [ b.%] : Yeah .
+m e013 [ %−] : Cou − i e I m ean , y
+m e011 [ fh] : So .
+m e011 [ b] : Yeah .
+fe016 [ s^ ba] : but it ’s definit ely [ pause] great t o have t he ot her one .
+fe016 [ %−] : That ’s [ disfm arker]
+m e013 [ s^ bu^ cs^ rt ] : If t here was som e [ disfm arker] Is t here som e
+way t o [ pause] have som eone writ e pat ches in som et hing fast er and
+[ disfm arker] and [ disfm arker] link it in , or som et hing ?
+m e013 [ qrr.%−] : Or is t hat [ disfm arker]
+m e011 [ s^ ar] : Not easily .
+m e011 [ s^ aap^ df] : I m ean y yes we could do t hat .
+m e011 [ s] : You could [ disfm arker] y ou can writ e widget s in C .
+m e013 [ s^ bk] : Yeah .
+m e011 [ s.%−−] : And t ry t o do it t hat way but I just don’t t hink
+[ disfm arker] it [ disfm arker]
+m e011 [ s^ cs] : Let ’s t ry it wit h Dan ’s and if t hat isn’t enough , we can
+do it ot herwise .
+fe016 [ b] : Right .
+m e011 [ s|s^ df] : I t hink it is , cuz when I was playing wit h it , t he m ixed
+signal has it all in t here .
+m e011 [ s] : And so it ’s really [ disfm arker] It ’s not t oo bad t o find
+places in t he [ disfm arker] in t he st ream where t hings are happening .
+fe016 [ s^ bk] : OK .
+fe008 [ s.%−−] : And it ’s also [ disfm arker] also t he case t hat
+[ disfm arker] t hat uh t his m ult i − wave t hing [ pause] is proposed t o t he
+[ disfm arker]
+m n005 [ b.%] : Hm m ?
+m e011 [ s] : So I [ disfm arker] I don’t t hink it ’ll be bad .
+fe008 [ s] : So . Dan proposed it t o t he Transcriber cent ral people ,
+fe008 [ s.%−−] : and it ’s likely t hat uh [ disfm arker]
+fe008 [ s] : So . And [ disfm arker] and t hey responded favorably
+fe008 [ s] : looks as t hough it will be incorporat ed in t he fut ure version
+.
+fe016 [ s^ bk] : Oh .
+fe008 [ s] : They said t hat t he only reason t hey hadn’t had t he m ult i t he
+parallel uh st ream one before was sim ply t hat [ pause] t hey hadn’t had
+t im e t o do it .
+fe008 [ fh|s] : And uh [ pause] so it ’s likely t hat t his [ disfm arker] t his
+m ay be ent ered int o t he ch t his cent ral @ @ .
+
+m n005 [ b] : Yeah .
+m e013 [ s] : They m ay well hav e not had m uch dem and for it .
+m e011 [ %−] : And if [ disfm arker] if [ disfm arker]
+fe008 [ s^ aa] : Well t hat ’s [ disfm arker] t hat ’s [ disfm arker] t hat ’s t rue
+, t oo .
+m e013 [ b] : Yeah .
+fe008 [ s^ ba] : This is a [ disfm arker] [ pause] a useful t hing for us .
+fe016 [ qy ^ bu^ d^ rt ] : So . You m ean t hey could [ disfm arker] t hey
+could do it and it would be [ pause] fast enough if t hey do it ?
+m n005 [ b] : Yeah .
+fe008 [ s^ ar|s.%−−] : Oh . No . I just m ean [ disfm arker] I just m ean t hat
+it ’s [ disfm arker] t hat [ disfm arker] t hat his [ disfm arker]
+m e011 [ s] : Depends on how m uch work t hey did .
+fe016 [ qrr.%−−] : Or [ disfm arker] ?
+m n005 [ b.x] : Oh .
+fe008 [ s] : So . [ pause] This one t hat we now have does have t he
+st at us of [ pause] pot ent ially being incorporat ed l likely being
+incorporat ed int o t he cent ral code .
+fe016 [ b] : Mm − hm m .
+fe016 [ s^ bk] : OK .
+fe008 [ s.%−−] : Now , t ha Now , if we dev elop furt her t hen , y uh , I don’t
+[ disfm arker]
+fe008 [ s] : I m ean it ’s [ disfm arker] I t hink it ’s a nice feat ure t o have it
+[ disfm arker] set t hat way .
+m e011 [ s] : I t hink if [ disfm arker] if [ disfm arker] if one of us sat down
+and coded it , so t hat it could be display ed fast enough I ’m sure t hey
+would be quit e willing t o incorporat e it .
+fe008 [ b] : Mm − hm m .
+m e011 [ s] : But it ’s not a t rivial t ask .
+fe016 [ s] : OK .
+fe008 [ s^ aa] : Mm − hm m . Yeah .
+fe008 [ s^ df] : I just like t he idea of it being som et hing t hat ’s , you
+know , t ied back int o t he original , so t hat ot her people can benefit
+from it .
+m e011 [ b] : Yeah .
+fe008 [ b] : Yeah .
+fe008 [ s^ ba] : However . I also underst and t hat you can have [ pause]
+widget s t hat are very useful for t heir purpose and t hat you don’t need
+t o alway s go t hat w rout e .
+fe008 [ b] : Yeah .
+m n005 [ b] : OK .
+m e011 [ fg|qy ^ rt ^ t ^ t c] : anyway , shall we do digit s ?
+fe008 [ s^ aa] : Yeah .
+m e013 [ s^ aa|s^ co^ rt ] : Yeah . Let ’s do digit s ,
+m e013 [ s^ co] : uh , and t hen we ’ll t urn off t he m ikes , and t hen I have
+one ot her t hing t o discuss .
+
+fe008 [ s^ bk] : OK .
+fe016 [ s] : I act ually have t o leave .
+m e011 [ s^ bk] : OK .
+fe016 [ s] : So . Um . I m ean [ pause] I had t o leave at t hree t hirt y ,
+fe016 [ s] : so I can [ disfm arker] [ v ocalsound] Well , I can wait [ pause]
+for t he digit s but I can’t st ay for t he discussion
+fe008 [ s^ bk^ fe] : Uh − oh .
+m e013 [ s^ bk] : Oh .
+m e011 [ s^ bk] : OK .
+m e011 [ qr.%−−] : Well , you want t o go first ? Or .
+fe016 [ s^ df] : I c [ pause] I hav e t o m ake a call .
+fe016 [ fh] : So .
+m e013 [ s^ bk] : OK .
+m e013 [ s^ t 3.%−−] : Well , we ’ll t alk t o you about it [ disfm arker]
+[ v ocalsound] Uh
+fe008 [ qy^ cs^ rt .%−−] : Well , should we [ disfm arker] e should we swit ch
+off t he g
+fe016 [ fh] : Um .
+m e011 [ qr] : Do y ou wanna go do digit s or do you wanna just skip
+digit s ?
+fe016 [ s] : No , I can do digit s if [ disfm arker] if [ disfm arker] But I don’t
+wanna but t in , or som et hing .
+m e011 [ s^ bk|s^ co^ t ] : Then [ disfm arker] Alright . You go ahead .
+fe016 [ s.%−−] : But if t here ’s som et hing on t he rest of t he [ disfm arker]
+fe016 [ s] : I ’m [ disfm arker] I ’ll be around just have t o m ake call before
+quart er of .
+fe016 [ fh] : So .
+m n005 [ b.%] : Mm − hm m .
+fe016 [ s.%−−] : So I [ disfm arker]
+fe016 [ s^ cs] : Or we can t alk about it .
+fe008 [ fh] : Ke
+m e011 [ qh^ co] : Why don’t you read t he digit s ?
+fe016 [ s^ bk] : OK . [ v ocalsound] Alright .
+m e013 [ s^ co^ m ^ na] : Yeah , why don’t you read t he digit s and t hen
+y ou can [ pause] go .
+fe016 [ s^ rt ] : Oh , t his is t he new one .
+m e013 [ b] : Yeah .
+m e011 [ s^ aa|s^ co] : Yeah , don’t [ disfm arker] Don’t read t he old one .
+fe016 [ b] : Alright .
+fe016 [ s.%−−] : The [ disfm arker] And t he t im e is .
+fe016 [ b] : OK .
+m e011 [ z] : OK
+m e013 [ z] : OK .
+fe008 [ z] : Turn it off .
+fe008 [ z] : But wait t ill he [ disfm arker]
+fe008 [ z] : OK .
+
+m e011 [ z] : And
+
+
