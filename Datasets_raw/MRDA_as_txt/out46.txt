@@ -1,0 +1,1500 @@
+m n082 [ z] : we can st art ?
+m n082 [ z] : OK .
+m n082 [ z] : Thank you , Adam .
+m n082 [ z] : I will call you t hen when we are ready .
+m n082 [ z] : I believe , m aybe one hour , in t hat sense .
+m n082 [ fg] : OK ,
+m n082 [ s^ rt ] : welcom e t o our next m eet ing .
+m n082 [ fh|s] : Um [ pause] I have couple of point s we should discussed
+.
+m n082 [ s^ rt ] : One is relat ed t o t he proposal ,
+m n082 [ qy ^ co] : Michael , please can you close t he door ?
+m n035 [ s^ aa] : Yep .
+m n082 [ s^ ft ] : Thank you .
+m n082 [ fh] : And , um
+m n082 [ s^ rt ] : furt herm ore , as m ost of you know I will leave in t ent h of
+Decem ber ,
+m n082 [ s^ rt ^ t ] : I t hink we should discuss how we proceed in t he
+m eant im e ,
+m n082 [ s^ rt ] : because I get , I would like t o say , different signals
+from Siem ens ,
+m n082 [ s] : I believ e , in t he m eant im e it ’s a higher probabilit y t hat I
+will ret urn ,
+m n082 [ s^ df^ rt ] : but based on t he pro uh , procedure t o get a J − one
+v isa and t he IP six six it will be [ disfm arker] I would like t o say , earliest
+st age will be end of January ,
+m n082 [ s] : so t hat m eans [ pause] we have t o get over six weeks
+m n082 [ fh] : and [ disfm arker]
+m n082 [ s] : Then furt herm ore I would [ pause] like t o know t he st at us
+of ev ery body .
+m n082 [ s] : I know for sure , OK , [ vocalsound] um [ pause] Miguel , you
+will [ pause] have y our plans for t his , uh , ongoing process , uh ,
+concerning y our work .
+m n082 [ s] : OK , from you it ’s definit ely clear , in principle .
+m n082 [ qw^ rt ] : OK , for Michael , what are your current plans
+m n082 [ s] : and Diet m ar , m ay be you t hen , also .
+m n082 [ s^ rt ] : What we have discussed , in principle , concerning t he
+ongoing process wit h U [ disfm arker] [ v ocalsound] USAIA and also t his ,
+uh , y our current work ,
+m n082 [ s^ rt ] : and from m y point , it seem s t o be clear t hat I will go
+back
+m n082 [ s] : definit ely at t ent h of Decem ber ,
+m n082 [ s] : and , as I m ent ioned before , probably will be [ disfm arker]
+m ore t han fift y percent , I would like t o say , t hat I will be com e back t o
+get [ pause] t he freedom t o launch here t he project in t he sense in
+what ev er kind of form and get , in principle , paid by anot her project
+wit hin Siem ens .
+
+m n082 [ fh|s] : So [ pause] t he point is how long I will st ay .
+m n082 [ s] : I believe , a couple of m ont hs definit ely
+m n082 [ s] : and based on t he success , I t hink t hat ’s always an
+ongoing process t o go back t o [ disfm arker] uh , t o Germ any for a
+couple of weeks
+m n082 [ s] : and t hen com e here and [ disfm arker] and go on wit h
+[ disfm arker] wit h t his work
+m n082 [ fh] : and [ disfm arker]
+m n082 [ s] : so t hat is [ pause] m y current opinion , concerning how
+Siem ens deal wit h [ disfm arker] wit h m y , uh , ongoing effort .
+m n082 [ s^ ft ] : And , furt herm ore , I would like t o [ disfm arker] First of
+all , t hanks t o uh [ pause] Diet m ar
+m n082 [ s^ df] : because he st art ed t o use a t est bed .
+m n030 [ s^ bk] : Oh .
+m n082 [ fh] : Eh
+m n082 [ s^ rt ] : in principle , in his spare t im e .
+m n082 [ s^ aa] : Yeah !
+m n030 [ b] : Yeah .
+m n082 [ s.%−−] : Uh I will [ disfm arker]
+m n082 [ s] : So [ disfm arker] so t he first , [ vocalsound] uh uh , box , t his
+m orning .
+m n082 [ s^ cc] : I will set up , definit ely , in m y spare t im e , in t he
+ev enings and t he weekends t he second box ,
+m n082 [ s] : and I ’m looking for [ pause] t wo ot her volunt eers who are
+set t ing t he t hird and t he fourt h box .
+m n021 [ qw] : But wh wh wh what are t he box ?
+m n082 [ s] : A box is a [ pause] s P C .
+m n030 [ s] : P Cs .
+m n030 [ s^ r] : P Cs .
+m n021 [ qw.%−] : But what w
+m n082 [ s^ cs] : Equipped wit h [ disfm arker] wit h [ disfm arker] we should
+equipped it wit h [ disfm arker] wit h Linux
+m n082 [ s^ cs^ rt ] : or m aybe t oo wit h Free BSD ,
+m n030 [ s.%−] : Well t he first
+m n082 [ s^ no] : I doubt [ disfm arker] I don’t know
+m n030 [ s^ co] : st op , [ disfm arker]
+m n082 [ %−] : and we ’ll [ disfm arker]
+m n030 [ s] : t he first t hing [ pause] t he m ost , eh , com plicat ed is t o fit
+t hem wit h t he rem oval [ disfm arker] rem ov able [ disfm arker] um , hard
+disk .
+m n082 [ s^ j] : And now we have an expert .
+m n030 [ %−] : But it ’s [ disfm arker]
+m n030 [ s^ bk] : Yeah .
+m n030 [ s.%−−] : So t he first com put er I had t o [ disfm arker]
+m n030 [ fh] : um
+m n030 [ fh] : t he
+
+m n030 [ s^ bk] : Oh ,
+m n030 [ qw^ rt ] : what ’s t he right word ?
+m n030 [ s] : I had t o put everyt hing out
+m n030 [ s^ e] : t o [ disfm arker] t o put t he [ pause] rem ovable hard disk
+in
+m n082 [ s.%−] : Yeah , t o rem ov
+m n082 [ s] : So t hat you can pull eh t he [ disfm arker] plug in t he
+rem ovable hard disk t o t he ID bus
+m n030 [ s.%−] : and [ disfm arker] and it ’s [ disfm arker]
+m n021 [ b] : OK .
+m n030 [ s^ bk|%−] : Yeah , it ’s [ disfm arker]
+m n082 [ s.%−] : and [ disfm arker] and OK , m aybe it ’s a lit t le bit
+[ disfm arker]
+m n030 [ s] : but i but it ’s not [ disfm arker] not , um [ pause] very , uh
+[ pause] difficult or som et hing like t hat .
+m n082 [ b] : Uh − huh ,
+m n030 [ s.%−] : So y ou just have t o [ disfm arker]
+m n082 [ fh] : And [ disfm arker]
+m n082 [ qw] : Why y ou are laughing ?
+m n082 [ %−−] : I ju
+m n082 [ s^ no] : I don’t know ,
+m n082 [ s] : I cou I s I didn’t see him ,
+m n082 [ s^ no] : so I don’t know what he did .
+m n082 [ s] : I know in t he m eant im e it ’s running ,
+m n030 [ s^ fe] : Uh !
+m n082 [ s^ cc] : and I will definit ely set up t he next one .
+m n030 [ s] : So Wilbert will set up t he second com put er .
+m n082 [ s^ bk] : Yeah ,
+m n082 [ s.%−−] : t hough m y idea [ disfm arker] m aybe you eh can equip it
+wit h a
+m n082 [ s^ no] : I don’t know what your t im e const rain whet her t he t im e
+const raint allows y ou t o set up one wit h [ disfm arker] wit h Free BSD ,
+for inst ance .
+m n021 [ s] : You know , I [ disfm arker] I can [ disfm arker] I can build , eh
+, any com put er uh you n [ disfm arker] inst alling what ever . It ’s needed ,
+m n082 [ b] : Yeah .
+m n082 [ s^ bk] : OK ,
+m n082 [ b] : uh − huh .
+m n021 [ s^ df] : I m ean , I will enjoy doing it .
+m n082 [ qy ^ rt ] : Do y ou find t he t im e ?
+m n021 [ fh] : So .
+m n021 [ s] : That ’s OK for m e .
+m n081 [ b] : Mm m .
+m n082 [ s.%−] : Maybe also t o uh support your [ disfm arker]
+m n081 [ s] : No prom ises .
+m n082 [ qy^ bu^ d^ m ] : No prom ises ?
+
+m n081 [ s^ aa] : No .
+m n082 [ s] : and even m aybe t o [ disfm arker] t o , uh [ pause] put your I
+G M P st uff on it .
+m n082 [ fh] : Eh
+m n081 [ s] : No prom ises .
+m n082 [ s^ bk^ m ] : No prom ises .
+m n081 [ s^ aa] : No .
+m n082 [ s^ ba] : Ah , he ’s very hard t o sell .
+m n030 [ s] : So it ’s about one hour t o put t his , uh [ pause] hard disk in
+m n030 [ s] : and a furt her hour t o , uh [ disfm arker] [ pause] Well , t wo
+or t hree hours [ vocalsound] t o inst all t he operat ing syst em s .
+m n082 [ s] : Nee , because t hen t he net work is st ill running t hen .
+m n082 [ qy ^ rt ] : Could we wait unt il t he net work is running ?
+m n082 [ s^ df] : Because current ly it ’s not possible , uh , based on
+cert ain fire wall const raint s .
+m n030 [ s^ aa] : Yeah .
+m n030 [ s^ aap] : At t he m om ent .
+m n082 [ s^ df] : I believe David is , uh , current ly working on t hat .
+[ v ocalsound] t o set up t he fire wall ,
+m n082 [ s^ df] : and he ’s not an ex pert for t hat
+m n082 [ s^ cc] : and when I get t he signal I will ask one m ore t im e .
+m n082 [ s^ ft ] : Nah , but nevert heless t hanks t o Diet m ar t hat he @ @ .
+m n081 [ qy ^ rt ] : Did t he net works have int ernet connect ivit y ?
+m n082 [ s^ aa] : Yes ,
+m n082 [ s^ df] : we have , eh , for [ disfm arker] for secure socket ,
+m n082 [ s^ df] : and , uh [ pause] for web access , t he fire wall is open .
+m n082 [ s] : That ’s all .
+m n082 [ s|qy ^ d^ g^ rt ] : And [ disfm arker] But current ly it ’s not working
+, right ?
+m n030 [ s^ aa] : Right ,
+m n030 [ fh|s] : um [ pause] On Friday when I inst alled , um [ pause] uh
+[ pause] Linux t he first t im e [ vocalsound] I got access t o t he local
+net work here , um , but not t o any m achines out side of , uh , ICSI .
+m n030 [ s] : And , t ill Monday t here ’s no access at all t o any m achines
+,
+m n030 [ s^ e] : also not t o inside m achines .
+m n082 [ s.%−−] : But t hen ,
+m n082 [ fh] : uh
+m n030 [ s] : So , I t hink it ’s relat ed t o t he work , um [ pause] t hey ’ve
+done on Sunday here
+m n030 [ s.%−] : and I sent [ disfm arker]
+m n081 [ s] : But norm ally you should have access t o t h all t he int ernet ,
+r t o out side .
+m n082 [ s^ aa] : Yes .
+m n082 [ s^ aa] : Yeah ,
+m n082 [ s^ na] : You have int ernet out side access ,
+
+m n081 [ s^ e] : Full .
+m n082 [ s] : but no t elnet and not R − login or what ever kind of t hings ,
+y ou know .
+m n081 [ s] : A rest rict ed in .
+m n081 [ s^ bk] : Not .
+m n081 [ qy ^ bh] : Huh .
+m n081 [ s] : Not a [ disfm arker] no FTP .
+m n082 [ s^ nd] : Yeah , FTP yes .
+m n081 [ %] : H
+m n082 [ s] : But no t elnet .
+m n081 [ s^ bk] : Hm m .
+m n082 [ s.%−−] : Uh [ pause] because you can [ disfm arker]
+m n082 [ s] : The [ disfm arker] t he [ disfm arker] t he point is t hat we will
+use it , as it is uh described several t im es , t hat we will use it as a local
+net work , in principle ,
+m n082 [ s] : but it doesn’t m ake sense t o use cert ain kinds of uh ,
+m edia t ransport at ion f t o put som e st uff you need from your PC or your
+LS [ pause] t o t his , uh [ disfm arker] uh , [ vocalsound] uh , t o t his
+t est bed ,
+m n082 [ fh] : y ou know .
+m n021 [ b] : Mm − hm m .
+m n082 [ fh] : So
+m n082 [ s] : you download it , if t hat s m ust be possible from t he
+net work ,
+m n082 [ s] : but norm ally it should be used as um [ disfm arker] uh for
+dem onst rat ions or t o figure out if you have a scenario where you have
+t o use m ore t han , uh , one box which y ou have on your deskt op ,
+m n082 [ s^ df] : cuz t hat is t he prim ary , uh uh [ pause] reason for t his
+t est bed .
+m n082 [ s] : So , definit ely you have t o have web access t o download
+t he necessary files .
+m n021 [ b.%] : Hm m − hm m − hm m .
+m n082 [ s^ ft ^ rt ] : So and t hen furt herm ore , one m ore t hanks t o
+Claudia .
+m n082 [ s^ df] : He [ com m ent ] did a lot [ pause] of work
+fn083 [ b] : Right .
+m n082 [ s^ df] : and I could only pass her som e advices and som e
+discussions wit h her concerning t he web pages .
+fn083 [ s^ bk] : Ah , t he m essages .
+fn083 [ s^ bk] : Oh .
+m n082 [ s^ rt ] : And now we are , in principle , in t he st at e we have t o
+do it wit h a project area .
+m n082 [ s] : But t hey ’re also som e cont ribut ions from you guys
+request ed .
+m n082 [ fh] : Um
+m n082 [ s.%−−] : and t he alum ni page , in principle , we have t o ,
+
+m n082 [ s] : y ou know , but it ’s prim arily m y job , I believe , uh , t o set
+up so t hat it is , uh adjust ed really t o t he people who are wort h t o be
+alum nis [ disfm arker]
+m n082 [ s] : alum nis ,
+m n082 [ s^ aa] : y eah .
+m n082 [ qr^ bu^ rt ] : Is it " alum ni " [ disfm arker] " alum ni " ?
+m n082 [ %−] : I ’m [ disfm arker]
+fn083 [ s] : " Alum ni " .
+m n082 [ s^ bk^ m ] : " Alum ni " .
+m n082 [ s^ df] : I ’m not sure how t o pronounce t his word .
+m n035 [ s] : Aber das wird jet zt geaendert .
+m n082 [ qw^ rt ] : Huh ?
+m n035 [ s] : Das wird geaendert .
+m n082 [ fh] : And , um [ disfm arker]
+m n082 [ fh] : But , um
+m n082 [ s^ co] : I t hink everybody should t ake a look t o t he web pages
+, and inform Claudia if som et hing , uh , has t o be im proved or if t here ’s
+som e com m ent s
+m n021 [ b] : Mm − hm m .
+m n082 [ fh] : or
+m n082 [ fh] : uh
+m n082 [ s^ j] : He ’s laughing all t he t im e .
+m n082 [ qw] : Why ?
+m n082 [ s^ df] : Uh because it is [ disfm arker] you know , t hat ’s very
+im port ant
+m n082 [ s^ am ^ df] : m aybe now not for us
+m n082 [ s^ am ^ df] : but m aybe for our successors
+m n082 [ s^ am ^ df] : and m aybe som ebody will com e back once a day
+or send som e st udent s or som e colleagues or what ever .
+m n082 [ s^ cc] : So , m y point of view [ disfm arker] I will doc I will
+docum ent ed ev ery t hing when I will leav e here in t he sense t hat
+pot ent ial successor as a group leader can hook in wit h t hese t hings
+and t hat t hese web pages will be updat ed every t im e when it is
+necessary .
+m n082 [ s^ df] : We t ried t o do it , so t hat it m ust be at least updat ed
+only when really m ajor changes happen .
+m n082 [ s^ e] : So t hat m eans som ebody ’s leaving t he group ,
+m n082 [ s^ e] : uh , som ebody is joining t he group ,
+m n082 [ s^ e] : a new project is st art ed ,
+m n082 [ fh|s^ cs] : but , uh , t he effort should be m inim ized as possible
+.
+m n082 [ fh|s^ co^ rt ] : And , so please t ake a look t o t he web pages
+m n082 [ fh] : and
+m n082 [ s] : I have announced in t he project area t he m ajor headlines .
+m n082 [ qy ^ co^ d^ rt ] : And especially , Wilbert , m aybe you can writ e
+som et hing about yours ?
+
+m n082 [ s.%−−] : I call it , I believe , " Mult icast " and t hen " Developm ent
+deploy m ent " , eh , for [ disfm arker] for source specific m ult icas
+m n082 [ s^ cs] : m aybe a few lines ,
+m n082 [ s^ cs] : m ay be a pict ure .
+m n082 [ s^ co] : And som et hing like t hat should be added t o USAIA ?
+m n082 [ s^ bk|s] : OK , t hat ’s m y st uff .
+m n082 [ fh] : And
+m n082 [ fh] : um
+m n082 [ s^ rt ^ t c] : t hen t he next point is t hen t his act ive rout ing st uff ?
+m n082 [ fh] : Um
+m n082 [ s] : I would like t o discuss it before ,
+m n082 [ s^ df] : but you were busy .
+m n021 [ s^ bk] : Yeah ,
+m n082 [ fh] : And so [ disfm arker]
+m n021 [ s^ bk] : OK .
+m n082 [ fh] : um ,
+m n082 [ s^ cs] : I believe , it m ust be adjust ed t o t he current act ivit ies
+a lit t le bit m ore .
+m n021 [ s^ bk] : Mm − hm m .
+m n082 [ fh] : And , um
+m n082 [ s.%−−] : I [ disfm arker] I t hink it doesn’t [ disfm arker]
+m n082 [ s] : It is not wort h t o discuss it now
+m n082 [ s^ df] : because nobody raised it before .
+m n021 [ s^ aa] : Yeah ,
+m n021 [ s^ na] : I t hink so .
+m n082 [ fh|s^ co] : And , uh , so l let us have a bilat eral discussion
+aft erwards .
+m n082 [ s^ cs] : I would [ disfm arker] what I would like t o have is t hat um
+, your cont ribut ions is relat ed t o cert ain kind of t hings happened here
+.
+m n082 [ s] : And t hat m eans really t o t he project proposal it self and
+also m ay be t o t he USAIA archit ect ure ,
+m n082 [ s] : in t hat sense , t hat at cert ain st ages , cuz it ’s a general
+archit ect ure , cert ain st ages m ay be t o fut ure [ vocalsound] m obile core
+net works , t hat it is relat ed t o t hese kind of t hings .
+m n082 [ fh|s^ co] : Um , having [ disfm arker] uh , I [ disfm arker] what I
+have in m ind is t hat t hings should not be st art ed from t he end syst em
+.
+m n082 [ s] : That ’s m y principle concern ,
+m n082 [ s] : because t hat will nev er be happen , from m y point of view .
+m n082 [ s^ co] : It should be st art ed as t he edge device ,
+m n082 [ s] : so t hat it cu cert ain kind of m echanism , what ev er , is
+enabled bet ween t he ingress edge device and t he out gress a edge
+device ,
+m n082 [ s^ df] : because it will be at t he cert ain st age IP based in t he
+fut ure generat ion t elecom m unicat ion net works before it s goal .
+
+m n021 [ b] : Mm − hm m .
+m n021 [ s^ aa] : That ’s OK .
+m n082 [ s] : Fuel it t o t he [ disfm arker] over t he int ernet ,
+m n082 [ s] : and b bet ween t hese bot h boxes , I can assum e uh
+because t he m obilit y happens t here as a norm al nat ural t hing
+m n082 [ s] : and t he forwarding process and t he rout ing process
+should be no m ore separat ed , from m y point of view .
+m n082 [ s] : And t o have t here a cert ain kind of int elligent m echanism ,
+t hat t he packet s can be used t o set up t he rout es because t hey have
+all t he inform at ion .
+m n082 [ s] : They know where t hey have t o go because IP addresses
+are st ill t here and [ disfm arker] wit hin t he packet .
+m n021 [ b] : Hm m − hm m − hm m .
+m n082 [ qw] : I m ean , how can t his use , uh , wit hin t his area , and how
+t his area is t hen aligned t o t he m ore t radit ional rout ing wit hin t he
+int ernet backbone it self .
+m n082 [ s] : That ’s m y quest ion .
+m n082 [ s^ ba] : And I t hink t hat is good a research area ,
+m n082 [ s.%−−] : t hen I t hink t here ’s a lot of [ disfm arker]
+m n082 [ s^ df] : I ’m not a e xpert at all for t his .
+m n082 [ s^ ba] : But I [ disfm arker] I [ disfm arker] I believe , t here ’s a lot
+of pot ent ial for t hat .
+m n082 [ s^ cs] : And we should discuss it m aybe bilat eral aft erwards .
+m n021 [ s^ bk] : OK .
+m n021 [ s^ bk] : OK .
+m n082 [ qy ^ d^ f^ g^ rt ] : Yeah ?
+m n082 [ s^ bs^ co] : So , one m ore t im e , everybody should t ake a look
+t o t he web pages
+m n082 [ s^ bs^ co] : and from Claudia , at t he general rem arks
+m n082 [ s^ bs^ co] : and should writ e based on t he , uh , headlines in
+t he project proposal t he um t hings what st ill happened , t he t hings
+what t hey hav e st ill in m ind
+m n082 [ fh|s^ df] : uh [ pause] so t hat we can updat e t hese last @ @
+y ou know @ @ present t he last m ajor part of t he web pages .
+m n030 [ qy ^ d^ rt ] : The pages are already on t he web ?
+m n021 [ s^ bk] : OK .
+fn083 [ s^ aa] : Yeah , yeah .
+m n082 [ s^ aa] : Yes ,
+m n030 [ b] : Yeah .
+fn083 [ s^ na] : It is .
+m n082 [ s^ df] : you can now access it norm ally wit h m aybe WWW ICSI
+Berkeley EDU ,
+fn083 [ s] : So t here are som e gaps .
+m n030 [ b] : OK .
+m n030 [ s^ bk] : Hm m .
+m n082 [ fh] : and
+
+m n082 [ fh] : so .
+m n030 [ s^ bk] : OK .
+fn083 [ s^ r] : Yeah , so t here are som e gaps left
+fn083 [ fh] : and ,
+fn083 [ fh] : I don’t know ,
+fn083 [ s^ cs] : you [ disfm arker] Maybe y ou can also read t hrough t he
+[ disfm arker] all t he t ext which is on t he web pages
+fn083 [ s^ df] : cuz I ’d like t o change t he t ext a bit
+fn083 [ s^ df] : cuz som et im es it ’s t oo long ,
+fn083 [ s^ df] : som et im es it ’s t oo short ,
+fn083 [ s^ df] : m ay be t he English is not t hat good ,
+fn083 [ fh] : so
+fn083 [ fh] : um ,
+fn083 [ fg] : but anyways [ disfm arker]
+fn083 [ s] : So I t ried t o do t his t oday
+fn083 [ s^ cs] : and if y ou could do it aft erwards it would be really nice
+fn083 [ s^ df] : cuz I ’m quit e sure t hat I can’t find every , like ,
+ort hographic m ist ake in it or som et hing .
+m n021 [ s] : Uh , t here [ disfm arker] t here [ disfm arker] t here are couple
+of com m ent s I [ disfm arker] I have about t he web pages .
+fn083 [ s^ ba] : Good .
+m n021 [ s] : One is [ disfm arker] is t he , uh , I t hink it ’s Joe ’s , uh ,
+graphic , I t hink it should be bet t er .
+fn083 [ s^ aa] : Yeah , yeah , yeah ,
+m n082 [ s^ aa] : Yeah .
+fn083 [ s^ ba^ na] : t he graphics are t oo bad .
+m n021 [ s] : May be y ou are working at it .
+fn083 [ s^ na] : I know .
+m n082 [ s^ na] : You are definit ely right .
+m n082 [ s^ df] : It was in a good shape , but [ vocalsound] it , uh , t hen
+we dist urbed .
+m n021 [ s^ bk] : OK ,
+m n021 [ s^ cs.%−−] : And t hen m aybe t he [ disfm arker] t he ICSI logo
+could be [ disfm arker] [ vocalsound] could be [ disfm arker] [ vocalsound]
+could be ,
+fn083 [ s^ ng] : I can’t change som et hing wit h a logo .
+m n021 [ fh] : uh [ disfm arker]
+m n021 [ s^ ar] : No ,
+m n021 [ s.%−−] : it is just ,
+m n021 [ fh] : uh [ disfm arker]
+m n021 [ s^ cs] : May be we can [ disfm arker] we can , uh , t ranslat e t he
+whit e color int o t ransparent color
+m n021 [ s^ df] : so it will [ pause] get m ore nat ural .
+fn083 [ s^ aa] : Yeah ,
+fn083 [ s^ aa] : OK .
+fn083 [ s^ ba] : Good ,
+
+fn083 [ s^ bk|%−−] : y eah I ju
+m n021 [ s^ df] : It ’s just a suggest ion .
+fn083 [ %−−] : an
+fn083 [ s^ cs] : anot her t hing is I ’d want t o get a link on t he logo so
+t hat y ou can com e from t he logo t o t he [ pause] ICSI web p hom e page
+[ pause] back .
+m n021 [ s^ 2] : To t he [ pause] hom e page .
+m n021 [ s^ bk] : OK .
+m n021 [ s^ na] : That ’s [ disfm arker] t hat ’s OK .
+fn083 [ fh] : So .
+fn083 [ s] : That ’s [ disfm arker] t hese are t h som e t hings I have t o do .
+fn083 [ fh] : Yeah ,
+fn083 [ s.%−−] : and if you have som et hing which I should put on t he
+web page for y ou ,
+fn083 [ fh] : so
+fn083 [ s^ bk|s^ ba^ cs] : yeah , som e pict ures will be nice ,
+fn083 [ s^ ba^ cs] : a few sent ences will be nice ,
+fn083 [ fh] : and
+fn083 [ s^ bk|s^ df] : y eah , it depends on how m uch t im e you have .
+fn083 [ s.%−−] : And t hen t he page for inf about [ disfm arker]
+fn083 [ s.%−−] : So , som e inform at ion for people who are new com ers or
+,
+fn083 [ s^ no] : I don’t know a good word for it ,
+fn083 [ qy ^ rt ] : should we use uh " new com ers "
+fn083 [ qrr.%−−] : or [ disfm arker]
+fn083 [ s] : So , wit h som ebody who is new , arriving here , or
+[ v ocalsound] want s t o [ disfm arker] t o , uh , send an applicat ion ?
+m n081 [ s^ cs] : Newbies .
+fn083 [ %−] : S
+fn083 [ qw^ br^ rt ] : Huh ?
+m n081 [ s^ r] : Newbies .
+fn083 [ qy ^ bu^ d^ m ^ rt ] : Newbies ?
+fn083 [ s^ aa] : Yeah , OK .
+fn083 [ s] : So , t here I have t o add som e inform at ion ,
+fn083 [ s] : I don’t know , I t I t ried t o set up everyt hing by t oday for t his
+page
+fn083 [ s^ df] : cuz I ’ve st art ed wit h t his ,
+fn083 [ fh|s^ cs.%−−] : um , if you have any kind of ideas what was
+im port ant for y ou t hen just let m
+fn083 [ s] : cuz I hav e som e [ vocalsound] point s like um [ pause] I don’t
+know f yeah , like Pacific Bell ,
+fn083 [ s^ e] : like uh , long − dist ance carriers ,
+fn083 [ s^ e] : t hen like uh , cars and car insurances ,
+fn083 [ s^ e] : healt h insurances [ disfm arker]
+fn083 [ s^ df] : So , healt h insurance is k som et hing I can only say for
+Germ an people .
+
+m n021 [ s^ bk] : Hm m − hm m − hm m .
+fn083 [ s.%−−] : So m aybe
+fn083 [ s^ no] : I don’t know if t his is different in Spain .
+fn083 [ s] : That would be fine t oo , t o have som e inform at ion , or in D
+nnn [ v ocalsound] Holland .
+m n021 [ s^ bk] : OK .
+m n021 [ %−] : I
+fn083 [ s^ no] : I don’t know .
+m n021 [ s^ cc] : I will t ake a look and I will t ell you som et hing .
+fn083 [ s^ bk] : Yeah ,
+m n082 [ b] : Mm − hm m .
+fn083 [ s] : so how [ disfm arker] m aybe how you did it or what soever .
+m n082 [ s^ bk] : OK ,
+m n082 [ s^ cc] : I will send you som e because I have som et hing in m ind
+.
+fn083 [ fh] : So
+fn083 [ s^ bk] : yeah ,
+fn083 [ qw] : t hen what else did I hav e ?
+fn083 [ fh] : Then
+fn083 [ s^ t c] : anot her point ’s like , uh , what about t he bank ,
+fn083 [ qw] : uh , so , t ransferring your m oney from Europe t over here ,
+what is t he cheapest way or what could you recom m end or som et hing .
+fn083 [ fh] : um
+fn083 [ s] : anot her point
+fn083 [ s] : yeah , and t hen t here ’s [ disfm arker] t here ’s anot her point
+like going out in Berkeley or what t o do in Berkeley or in t he
+neighborhood .
+m n081 [ s] : This [ disfm arker] a lot of t his st uff is not net working group
+[ disfm arker] NSA , uh , rest rict ed .
+fn083 [ s^ aa] : No ,
+fn083 [ s^ na] : I know .
+m n082 [ s] : Yeah , but nobody do t hat , you know .
+fn083 [ s^ na] : I know .
+fn083 [ s^ df] : But t here ’s not hing like t his on t he [ disfm arker] on t he
+ICSI page as far as I know .
+m n082 [ fh] : So ,
+m n082 [ s] : t hat ’s t he point .
+m n082 [ s] : We discussed it st ill a couple of weeks or m ont hs ago .
+m n082 [ s] : Uh , t he point is norm ally it is an ICSI t ask anyway .
+m n021 [ b] : Mm − hm m .
+m n081 [ %] : M
+m n082 [ fh] : But
+m n081 [ s^ bk|s^ cs] : Yeah , but a at least t hen it should be
+[ disfm arker] m m m , I t hink be , uh , ICSI part , [ pause] and not net work
+rest rict ed .
+m n082 [ b] : Right .
+
+m n082 [ %] : [ no m at ched cont ent ]
+m n021 [ s.%−] : Well , t h t hey have uh , a [ disfm arker] a whit e booklet ,
+y ou know , probably [ disfm arker]
+m n082 [ s^ bk|s] : Yeah , t hat is from ninet een ninet y − one or ninet een
+ninet y − t wo , you know . A
+fn083 [ s^ bk|s^ ng.%−] : Yeah , but it ’s not in t he [ disfm arker]
+fn083 [ s] : This is not on t he web .
+m n082 [ %] : A
+m n082 [ s^ bk^ m ] : And t his is not on t he web ,
+m n021 [ s^ aa] : No ,
+m n021 [ s^ aa^ r] : no , no .
+m n082 [ %−−] : and t he [ disfm arker] t he [ disfm arker] t he [ disfm arker]
+m n021 [ %−] : I [ disfm arker] I just [ disfm arker] I
+m n082 [ %−−] : people
+m n082 [ s.%−−] : norm ally [ disfm arker] t hat ’s was m y [ disfm arker] m y ,
+uh [ disfm arker]
+m n021 [ s] : In fact t he Pacific Bell phone was not working , for ex am ple
+m n021 [ s] : when I t ried t he [ disfm arker] t he phone on t his booklet it
+was not working .
+m n082 [ b] : Hm m .
+m n021 [ s.%−] : But t he t hing is t hat m aybe [ vocalsound] t his could be
+on a st art ing point or [ disfm arker] or [ pause] if [ disfm arker] digest
+fn083 [ s^ aa] : Yeah .
+fn083 [ fh] : I don’t know ,
+fn083 [ s^ cs] : m aybe I t alk wit h Jane about t his .
+fn083 [ s] : If we can use t his inform at ion , I don’t know , som ewhere on
+t he ICSI hom e page t oo .
+m n081 [ s^ 2] : M m ove it on t he norm al ICSI , ICSI .
+fn083 [ s^ aa] : Yeah .
+fn083 [ s^ am ] : Maybe .
+m n081 [ s^ am .%−] : Maybe every group has som ewhere hidden , uh
+[ pause] a gro uh deep [ pause] out going [ disfm arker]
+m n082 [ s] : We can do t hat .
+m n082 [ s^ ng] : Yeah , but t he point is t hat nobody feel responsible for
+t hat .
+m n082 [ %−] : And if it ’s [ disfm arker]
+m n081 [ s^ bk|s^ df] : Yeah , but eh [ disfm arker] but m y point is t hat it
+should not be under t he net working group t hing .
+m n021 [ s.%−] : It ’s a com m on [ disfm arker]
+m n082 [ s^ bk] : Yes ,
+m n082 [ s^ bk] : Uh , yes ,
+m n081 [ %−] : eh [ disfm arker] But [ disfm arker]
+m n082 [ s^ bk] : I see t here your point .
+m n081 [ s^ bk] : OK .
+m n082 [ s^ aa] : That ’s right .
+
+m n082 [ s^ df] : But if it is under t he net working point s , t he group
+leader is responsible t o get up t o dat e inform at ion .
+m n082 [ s^ df] : I believe , we are t he group , where t he people are , uh
+, changing m uch m ore fast er t o join t he group and t o leave t he group
+as ot her groups .
+m n021 [ b] : Mm − hm m .
+m n082 [ fh|s] : And , so , t he m ost problem as [ disfm arker] as of , uh ,
+it ’s likely t hat uh , t he people here in t his group needs t his inform at ion
+um , m uch m ore [ pause] f uh , oft en as [ disfm arker] as ot her groups .
+m n081 [ fg] : But [ disfm arker]
+m n081 [ %−] : b
+m n081 [ s^ df^ nd] : But t hat could st ill be applicable if you put it under
+t he ICSI sit e if y ou t ake t he responsibilit y for t hat .
+m n082 [ s^ bk] : Yes ,
+m n082 [ s^ bk.%−] : I see t h
+fn083 [ s^ bk|s] : Yeah , I t alk t o Jane about t his .
+m n081 [ %] : Uh ,
+m n082 [ s^ bk] : Yeah ,
+m n081 [ s^ ba] : So I t hink t h I t hink bot h argum ent s are not an ar are
+argum ent s against having t his under t he norm al ICSI page .
+m n082 [ s] : but we [ disfm arker] we can do t hat .
+m n081 [ s^ ba^ e] : Or only t he net working , uh , page .
+m n035 [ qy ^ rt ] : But t he problem is , are you allowed t o change
+anyt hing on t he general ICSI server ?
+m n081 [ b] : Yeah .
+fn083 [ s^ ar] : No ,
+fn083 [ s^ df] : t his is why I have t o t alk t o Jane .
+m n035 [ b] : Yeah .
+m n082 [ %−] : Yeah , t hat ’s [ disfm arker]
+m n082 [ s^ bk] : y eah ,
+m n035 [ s^ cs] : So y ou m ay need just a link from t he m ain ICSI page t o
+t he NSA page .
+m n082 [ %−] : t hat ’s a [ disfm arker]
+m n082 [ s] : We have t he [ disfm arker] we have t he direct ory st ruct ure ,
+of t he real UNIX t ree . in com pliance and in accordance wit h what you
+[ disfm arker] wit h t he st ruct ure of t he web pages .
+m n082 [ fh|s] : And , um , t hat m eans , uh , [ vocalsound] t he group
+leader norm ally do not have access t o t he general web pages .
+m n082 [ s] : He has access t o t he N S A pages .
+m n082 [ fh] : And , um ,
+m n082 [ s] : but I t hink t hat ’s an adm inist rat ion problem and t hat
+ev ery body agrees t hat t he inform at ion [ vocalsound] page m ust be on
+t he general , on t he highest level .
+m n082 [ s^ bk] : OK ,
+m n082 [ s] : I have no problem wit h t hat .
+m n030 [ fg] : But , uh
+
+m n082 [ fh] : But [ disfm arker]
+m n082 [ s.%−] : but I t hink we discuss if st ill [ disfm arker]
+m n030 [ s^ co] : your argum ent is , uh , I t hink it we have t o have t he
+right t o change it .
+m n035 [ b] : Yeah .
+m n030 [ s^ co^ df] : So if t here ’s anyt hing changing in insurances or
+som et hing [ disfm arker] som et hing like t hat , [ vocalsound] t hat we
+have access t o t his page furt her on [ disfm arker] t o chan t o m ake any
+changes .
+m n081 [ b] : Yeah .
+fn083 [ s^ bk|s^ ng] : Yeah , but t his is not a problem at all ,
+fn083 [ s:qy^ cs] : I [ disfm arker] I m ean , if y you are com ing from
+Germ any and y ou know t hat t here is som et hing changed wit h t he
+healt h insurance , t hen you send Jane an em ail like " Could you please
+change t his , blah − blah − blah . "
+m n030 [ s^ bk|s^ ng] : Yeah , but it ’s m uch m ore com plicat ed .
+m n035 [ s^ bk|s] : Yeah , but t hat ’s [ disfm arker] t hat ’s effort .
+m n035 [ s^ df^ nd] : That ’s t he whole problem , t hat nobody want s t o
+do it .
+m n030 [ b] : Yeah .
+m n082 [ b] : Yeah .
+fn083 [ s^ bk] : Yeah , OK .
+m n082 [ s] : You know how it [ disfm arker] you know t he process here
+wit hin t he NSA group .
+m n082 [ fh] : You know
+fn083 [ s^ aa] : Yes .
+m n082 [ s^ df] : And [ disfm arker] and t hat was a reason I [ disfm arker]
+we finally decided here t hat we put it [ disfm arker] inform at ion on t he N
+S
+m n082 [ s] : A page , we have discuss dis t his discussed st ill a couple
+of m ont hs ago [ disfm arker] ago .
+m n030 [ s^ cs] : I t hink t he best solut ion is really t o put a link on t he
+ICSI page t o t his st uff .
+m n081 [ s^ aa] : Yeah .
+m n035 [ b.%] : Yep .
+m n030 [ s] : And t he st uff it self is , uh , [ v ocalsound] locat ed at our
+serv er .
+m n082 [ s] : In our direct ory .
+m n030 [ s^ aa] : Yeah ,
+m n030 [ s^ m ^ na] : in our direct ory ,
+m n082 [ b] : Yeah .
+m n030 [ b] : yeah .
+m n082 [ s^ aa|s^ na] : Yeah , we can do t hat .
+fn083 [ s^ aa|s^ na] : Yes , also fine .
+m n082 [ s^ co] : We t hen creat e a link and t hen we have t o ask wit h
+Jane ,
+
+fn083 [ s^ aa] : Yeah .
+m n082 [ s^ bk] : OK ?
+fn083 [ s^ cs] : Anot her point is I want [ disfm arker] I want t o
+[ disfm arker] would like t o add a anot her but t on , som et hing which is
+called like " ev ent s " or , I don’t know , yeah , I guess I call it " event s "
+m n021 [ b] : Hm m ?
+fn083 [ s^ cs^ df] : like [ vocalsound] where we could s uh , announce
+t alks which are , y ou know , fut ure [ disfm arker] t alks for t he fut ure ,
+fn083 [ s^ cs^ df] : or [ disfm arker] and where we could also have a link
+on [ disfm arker] [ v ocalsound] for inst ance t he t wo workshops which
+have going on , uh , last sum m er ,
+fn083 [ s^ e] : so , Hannes ’ workshop and t hen t he workshop from
+Oliver ,
+fn083 [ s] : t hat t here m ight be a link behind t hese workshops and
+[ disfm arker] or form er t alks we have ,
+fn083 [ s^ e] : so like from people who have been here before
+fn083 [ s^ e] : and he want s t o , uh , publish t heir slides , or an art icle ,
+or what soev er , behind t here .
+fn083 [ s^ df] : So , t hat we have like a but t on for event s which are
+[ disfm arker] where [ vocalsound] workshops can be announced or old
+workshops could [ disfm arker] could be , um , shown or what ever .
+m n021 [ b] : Mm − hm m .
+m n082 [ s] : Of course t hat is a living t hing .
+m n082 [ s^ ba] : I t hink it ’s a good idea ,
+m n082 [ s] : not only t hat t he workshop was a t alk announce because
+t hey are st ill announce it is a broader sense .
+m n082 [ fh|s^ ba^ df] : Eh , but I t hink t he idea from Claudia is very
+good , t hat t he slides from t he t alks here , if it ’s wort h t o have it on
+t he web , anyway um , should be published in t hat way t hat t he people
+can access it .
+m n021 [ b] : Mm − hm m .
+m n082 [ s^ e] : For inst ance I hav e m y USAIA slides .
+m n082 [ s^ cs^ e] : m aybe if som e t hings and [ disfm arker] is going on
+m ay be y ou have som e Mult icast slides concerning your work at IGMP
+m n021 [ s^ aa] : Yeah ,
+m n021 [ s^ na] : t hat ’s OK , t oo .
+m n082 [ fh] : and uh
+m n082 [ s^ cs] : and if we have som e t alks from EXTERM , and we had
+som e in t he past , we can also put t he slides on [ disfm arker] on t hese
+t hings [ disfm arker]
+m n082 [ s^ df] : because t hen t hey ’re st ill cau st ill a growing cont ext
+for us , opport unit y for t he people you know t here ,
+m n082 [ s:s^ bk] : " Oh ,
+m n082 [ s:s] : t his guy did som et hing t here ,
+m n082 [ s:s] : m aybe I can cont act him and ask him would you like t o
+do som et hing , cont ribut e , what ever . "
+
+m n021 [ b] : Hm m − hm m − hm m .
+m n082 [ fh] : Uh , so
+m n082 [ s^ ba] : t hat ’s [ disfm arker] and I t hink it ’s a great idea from
+Claudia t o [ disfm arker] t o have t his ev ent page
+m n082 [ s^ df] : because [ vocalsound] it ’s not a big deal ,
+m n082 [ fh] : you know .
+fn083 [ s^ aa|s^ df^ na] : No , it ’s easy t o [ disfm arker] t o add it ,
+m n082 [ %−] : It ’s [ disfm arker] it ’s [ disfm arker]
+fn083 [ fh] : I m ean .
+m n082 [ s^ aa] : Yeah ,
+m n082 [ s.%−−] : and t hen it ’s [ disfm arker]
+m n082 [ fg] : Nah , OK .
+m n082 [ s] : If t here are no event s , t hen t here are no event s .
+fn083 [ s^ aa] : Yeah , yeah .
+m n082 [ s^ rt ] : But we st ill have a few which happened in t he last year
+m n082 [ fh|s^ bk] : and OK ,
+m n082 [ s] : t hen it is a growing t hing
+m n082 [ s] : but it ’s done aut om at ically t hat t he group leader
+[ v ocalsound] or t he group , uh , put som e t hings eh , also on t he web .
+m n082 [ s^ e] : Som et hing in t he cent er pipe .
+m n082 [ qy ^ d^ f^ g^ rt ] : Yeah ?
+m n082 [ qy ^ d^ rt ] : Everybody agree ?
+m n030 [ h|s^ no] : Um , I don’t know .
+m n021 [ s^ aa] : OK .
+m n030 [ s^ cs] : Maybe it could be a good t hing if we have such an
+ev ent but t on [ v ocalsound] t hat , um , som ewhere beneat h t his but t on
+or wherev er , [ v ocalsound] t hat t here ’s a dat e , when t he last updat e
+was .
+m n030 [ s^ df] : So t hat you know it ’s wort h t o click t his but t on t o see
+t here ’s a new , um , [ vocalsound] announcem ent or not .
+fn083 [ s^ bk] : Yeah , OK .
+m n030 [ s^ df] : S So ot herwise , you are oft en clicking t his but t on
+m n030 [ s^ df] : and you get your old inform at ion or even an
+[ disfm arker] uh em pt y page .
+m n082 [ %−] : Maybe t here ’s [ disfm arker]
+fn083 [ s^ bk|s^ ng] : Yeah but t his will be t hen down on t he but t on of
+t he page any way s .
+m n082 [ s^ bk|s^ cs^ rt ] : Yeah , m aybe we can have " updat ed on " ,
+y ou know t he but t on it self ?
+m n030 [ fh] : So
+m n030 [ s^ aa] : Yeah ,
+m n030 [ s^ na] : som et hing like t hat .
+m n082 [ s^ cs] : And t hen , " updat ed " and t he current dat e , when
+[ disfm arker] when som et hing happened .
+m n030 [ s^ 2] : " Last updat ed " ,
+m n030 [ b] : y eah .
+
+m n082 [ s^ no] : I don’t know how we deal wit h t hat .
+fn083 [ b] : Yep .
+m n082 [ qy^ rt ] : Is it anot her t hing we have t o ?
+fn083 [ b] : Yep .
+m n030 [ s] : So it ’s just a su suggest ion
+m n030 [ s^ no] : I don’t know how easy it is t o [ disfm arker] t o
+im plem ent som et hing like t hat .
+m n082 [ b] : Yeah .
+fn083 [ b] : Huh !
+fn083 [ s^ bk] : OK .
+m n082 [ s^ bk|%−−] : OK you
+m n082 [ fh] : Well .
+m n082 [ s^ t 1] : Let ’s consider [ vocalsound] [ vocalsound] " updat e
+ev ent but t on " .
+m n082 [ fg] : OK .
+m n082 [ s^ t c] : So , and t hen t he next point and , I believe , yeah ,
+[ nonv ocalsound] So , [ com m ent ] not t he last one , @ @ is one t hat I
+would like t o know t he st at us as far it is possible from everybody
+concerning his fut ure int ent ion here at ICSI or whet her e when he will
+leav e whet her he can cont ri or will he consider current ly , [ vocalsound]
+uh , cont ribut e here t o t he proposal
+m n082 [ s^ df] : because you know , I ’ve [ disfm arker] I ’m facing t he
+problem , if I go back t o Siem ens
+m n082 [ s:s^ bk] : and I say " OK ,
+m n082 [ s:s] : t here ’s a pot ent ial . "
+m n082 [ s:s] : " There are pot ent ial cont act s . "
+m n082 [ s] : current ly , m aybe no m oney ,
+m n082 [ s] : but if we go in one direct ion [ vocalsound] it [ disfm arker]
+[ disfm arker] it is wort h t o know if people can st ill go on in t hat area of
+t hat kind of work t hen t hey are back in t heir universit y or t heir
+com pany or what ev er .
+m n082 [ s^ cs] : and even if it ’s nur unschl part − t im e jobs and
+[ disfm arker] and if it ’s com e t o a real proposal , t hat m aybe t he
+people can hook in , uh , one m ore t im e
+m n082 [ s^ df] : because I need t his inform at ion definit ely t uh , t o
+inform t he uh , t he Siem ens m anagem ent t hat it ’s wort h t o send m e
+back here .
+m n082 [ s^ co] : So m aybe Wilbert y ou can st art .
+m n082 [ s] : You will leave end of January definit ely .
+m n082 [ fh|s^ rt ] : And current ly you see no chance , as far as I know ,
+uh , t o st ay longer here
+m n082 [ s^ bu] : and eit her you will go back t o KPN or you will st ay here
+and find t hen a job opport unit y anot her com pany ,
+m n082 [ qy ^ g^ rt ] : is t hat right ?
+m n081 [ s^ aa] : Yes ,
+m n081 [ s^ aa] : yeah .
+
+m n082 [ qy ^ rt ] : Can you give us m ore det ails of [ disfm arker]
+concerning t he st at us ?
+m n081 [ s^ ar] : No ,
+m n082 [ qy^ bu^ d^ m ^ rt ] : No ?
+m n081 [ s^ aa] : no .
+m n081 [ s^ df] : Pending .
+m n082 [ s^ bk^ m ] : Pending .
+m n081 [ s^ aa] : Yeah .
+fn083 [ s] : See for m e it ’s t he sam e
+fn083 [ s.%−−] : I can also say , uh ,
+fn083 [ s] : for m e everyt hing has com plet ely changed ,
+fn083 [ s] : so now I go back and I don’t any t hing what t o do ,
+fn083 [ s] : so it ’s like I have t o sort everyt hing out when I ’m back in
+Germ any
+m n082 [ s^ bk] : Yes ,
+m n082 [ s.%−] : but y ou have no [ disfm arker]
+fn083 [ s] : but I won’t go back t o t he univ ersit y
+m n082 [ b] : yeah ?
+fn083 [ fh] : so
+fn083 [ s^ nd] : I don’t t hink so .
+m n082 [ s] : So y ou are looking for a job .
+m n082 [ s] : That ’s probably t hen [ disfm arker] OK .
+m n082 [ s] : in principle , I would like t o say you are lost for t he NSA
+group ,
+fn083 [ s.%−] : Then it ’s like
+fn083 [ b] : yeah .
+m n082 [ s^ df] : because ffft [ com m ent ] t hat ’s uh , it would be a
+[ disfm arker] a wonder if , uh , it hook in at t he sam e area , you know .
+fn083 [ b] : Yeah ,
+fn083 [ s^ ar] : No , no , no .
+fn083 [ b] : Yeah .
+m n081 [ s] : Uh , but t hat ’s also for m e ,
+m n082 [ b] : Yeah .
+m n081 [ s^ df] : I ’m kind of lost for t he NSA group .
+m n082 [ b] : Yeah .
+m n082 [ s^ bk] : Yeah .
+m n082 [ s^ na] : I t hink so , yeah .
+fn083 [ s.%−] : " Lost " is m aybe a bit like [ disfm arker]
+m n081 [ s.%−] : And oh , also [ disfm arker] also
+m n082 [ s^ aa] : Ja
+m n082 [ s] : from t he work cont ribut ions , you know .
+m n081 [ fg] : Well ,
+m n081 [ s^ rt ] : b but I t hink even [ disfm arker] also K P N . i is lost for
+t he , uh , for t he I C
+m n082 [ b] : Yeah .
+m n082 [ b] : Yeah .
+
+m n082 [ qy .%−] : Uh , do you know whet her t hey have [ disfm arker]
+m n081 [ s^ df] : There ’s a lot of , uh , z budget cut s going on
+m n081 [ s] : and not hing is possible anym ore ,
+m n081 [ fh] : so .
+m n082 [ fg|s^ bu] : Um , so from your side t he st at em ent is , um , t hat ,
+uh , independent ly of your person uh , t he KPN is not [ disfm arker] t hey
+’re not willing t o send us anot her guy here t o ICSI anyway .
+m n081 [ s^ aa] : Yes .
+m n081 [ s^ na] : Absolut ely .
+m n082 [ fh|s^ bu] : And , if t hey are int erest ed in uh , a cert ain kind of
+project t hen it m ust be relat ed t o a cert ain kind of really service or a
+cert ain kind of end syst em or real product or what ever kind of t hing
+[ v ocalsound] wit h respect t o UMTS ,
+m n081 [ s] : I it [ disfm arker] It will be different t hing .
+m n082 [ qy ^ d^ g] : right ?
+m n081 [ s] : It will be a [ disfm arker] it will be a st art − up .
+m n081 [ s] : And I know t hey ’re [ disfm arker] t hey ’re working on a w a
+few of t hem in t his area ,
+m n081 [ s] : but it ’s [ pause] ou out side of ICSI .
+m n082 [ s^ bk] : Mm m .
+m n082 [ fg] : So ,
+m n082 [ s^ bs] : KPN and [ disfm arker] and ICSI in principle .
+m n081 [ s^ aa] : Yeah .
+m n082 [ s^ bs^ e] : Aft er you will leave here t hat is .
+m n082 [ s^ t c.%−] : Yeah , and t hen [ com m ent ] what do you int end t o
+do in t he last t wo m ont hs beside of course , looking for ,
+m n081 [ %] : u
+m n030 [ s] : Holiday s
+m n081 [ %] : Th
+m n082 [ b] : y eah .
+m n081 [ fg|s] : Um , I am working now on [ disfm arker] on som et hing ,
+m n081 [ s^ e^ rt ] : uh an open source rout er .
+m n082 [ s^ bu|qy ^ d^ g^ rt ] : This is t hat from from Mark , right ?
+m n081 [ s^ ar] : No ,
+m n081 [ %−−] : in [ disfm arker]
+m n082 [ qy ^ bu^ d] : Not ?
+m n081 [ s^ arp] : well , it ’s a lit t le bit u out of Mark .
+m n081 [ %−−] : I ’m [ disfm arker]
+m n081 [ s] : Right now I ’m int erest ed and I ’m looking int o it
+m n081 [ s] : and I ’m working [ disfm arker] st art ed yest erday , act ually
+working on it ,
+m n081 [ s] : t o do t he , uh [ disfm arker] u t o do an im plem ent at ion of
+t he prot ocol t hat was designed by Mark , [ vocalsound] um , on an
+open − source rout er t hat ’s different from t he one t hat [ disfm arker] of
+Mark ’s project .
+m n082 [ s^ bk] : Mm − hm m .
+
+m n082 [ qy ^ rt ] : Yeah , do you finish t hat and do you believe t hat you
+can finish t hat unt il end of January ?
+m n081 [ %−] : S s
+m n081 [ s^ na] : I hope so .
+m n081 [ %−] : I
+m n082 [ s|qy ^ d^ g^ rt ] : It sounded [ disfm arker] sounded t o m e a lit t le
+bit [ disfm arker] lit t le bit , [ pause] hard t hard [ disfm arker] hard t im e
+const raint , right ?
+m n081 [ s^ ba] : That would be cool .
+m n081 [ b] : Yeah .
+m n081 [ %−−] : It ’s
+m n081 [ s^ 2] : hard work .
+m n081 [ s^ aa] : Yeah .
+m n081 [ s^ aa] : That ’s right .
+m n081 [ s^ df] : But I ’m working on it .
+m n082 [ b] : Mm − hm m .
+m n082 [ s^ bk] : OK ,
+m n082 [ s^ co^ t c] : Mi − Miguel , m ay be you can say also .
+m n021 [ s^ rt ] : Oh , I ’ll be [ disfm arker] I ’ll be here unt il t he end of July .
+m n021 [ fh] : And , uh ,
+m n021 [ fh] : well , eh
+m n021 [ s^ e] : ev en lat er [ vocalsound] if , uh , t here is som e
+int erest ing work , uh , going on ,
+m n021 [ s] : well I [ disfm arker] I will [ v ocalsound] be able t o
+[ v ocalsound] t o do som e work from Spain t oo .
+m n082 [ b] : Mm − hm m .
+m n021 [ s] : So , t hat ’s m y [ pause] fut ure [ vocalsound] uh forecast .
+m n082 [ s^ bk] : Mm − hm m ,
+m n082 [ fh|qy.%−−] : and , uh , do you have som e st udent s which could
+be join if t here is [ disfm arker]
+m n021 [ b] : Yeah .
+m n082 [ s] : I assum e t here is a cert ain act ivit y .
+m n082 [ s.%−] : Maybe i if you will leav e in July
+m n021 [ s^ bk|s] : Yeah , well , y ou know , uh t he problem t he
+[ disfm arker] I t hink t hat we have a [ disfm arker] a problem [ disfm arker]
+or a difference in Spain , at least , [ vocalsound] com pared wit h t he
+Am ericans .
+m n021 [ s^ df] : And i is t hat our st udent s are , uh [ disfm arker]
+[ v ocalsound] are not get t ing involved [ vocalsound] in research unt il
+t hey have , uh , finished t heir st udies .
+m n021 [ s^ ba] : So , uh , it ’s som et hing a lit t le bit , uh , st range
+m n021 [ s.%−] : but it is t his [ disfm arker] t his is t he w
+m n082 [ qw^ br^ rt ] : What ?
+m n082 [ qy ^ d.%−−] : They are not [ disfm arker]
+m n082 [ qw^ br] : sorry ?
+
+m n082 [ qy ^ bu^ d^ rt ] : They are not involved in [ disfm arker] in
+research ?
+m n021 [ s^ aa] : Yeah .
+m n021 [ %−] : You know [ disfm arker]
+m n082 [ qw] : What t hey are doing t hen ?
+m n082 [ s^ fa] : I ’m sorry .
+m n081 [ s] : Lect ures .
+m n082 [ qw^ br^ rt ] : Huh ?
+m n021 [ s.%−−] : You know , t hey [ disfm arker]
+m n082 [ %] : Ach so , ach so ,
+m n082 [ s^ bk] : OK .
+m n021 [ s^ rt ] : You [ disfm arker] you have t o [ disfm arker] t o pass t he
+different t est s
+m n021 [ s^ rt ] : and you have t o st udy t he different subject s .
+m n021 [ s] : And , [ vocalsound] unt il y ou have [ vocalsound] finished
+wit h t his , uh well [ disfm arker] OK , you can do it by [ disfm arker] by your
+own ,
+m n082 [ b] : Mm − hm m .
+m n021 [ s^ rt ] : but [ disfm arker] but t he t hing is t hat [ vocalsound] you
+’re not supposed t o do it .
+m n021 [ s] : And usually st udent s are pret t y busy [ vocalsound] for not
+doing ot her t hings .
+m n082 [ b] : Mm − hm m .
+m n021 [ fh] : Uh .
+m n030 [ qy ^ bu^ d^ rt ] : And t here ’s no final m ast er ’s t hesis or
+som et hing like t hat what t hey have t o perform ?
+m n021 [ h|s^ nd] : Ah yeah em nnn , [ com m ent ] not really .
+m n021 [ s^ na] : You know , t here is .
+m n021 [ s^ na^ r] : There is .
+m n030 [ b] : Mm − hm m .
+m n021 [ s^ df] : But , [ vocalsound] uh , it is not a research work .
+m n021 [ s^ df] : Usually it ’s an applicat ion work .
+m n021 [ s] : So y ou build a web sit e , your own E − com m erce sit e , uh ,
+[ v ocalsound] what ever ,
+m n030 [ b] : Mm − hm m .
+m n021 [ s.%−−] : or a program or [ disfm arker]
+m n082 [ qw^ j^ rt ] : Why I didn’t st udy in Spain ?
+m n021 [ %−] : but [ disfm arker]
+m n021 [ s^ df] : But it is not , uh , som et hing your t eacher prov ides you
+som e research papers and you , [ vocalsound] let ’s say , build a
+sim ulat or or t ry t o .
+m n082 [ b] : Mm m .
+m n082 [ b] : Mm − hm m .
+m n030 [ b] : Mm − hm m .
+m n082 [ qy ^ rt ] : Are cert ain t asks
+m n030 [ b] : OK .
+
+m n082 [ %−] : and so ?
+m n021 [ fg] : So
+m n021 [ s^ t c] : we have , uh , ot her st udent s are which are , uh , m m m
+people t hat has a grant
+m n021 [ s] : and t hey are [ disfm arker] [ vocalsound] t hey are st art ing
+as , uh , researchers ,
+m n021 [ fh|s] : aaa , [ com m ent ] but t his is only connect ed [ vocalsound]
+t o your own funding
+m n021 [ s] : so if y ou [ disfm arker] if you have project s [ vocalsound] you
+can have , uh , people working wit h y ou .
+m n082 [ b] : Mm − hm m .
+m n021 [ s] : If you don’t have , [ vocalsound] a research project
+[ v ocalsound] well , you cannot pay t hem
+m n021 [ s] : so u u usually [ vocalsound] you don’t have anybody .
+m n021 [ s] : So it ’s kind of , uh , [ vocalsound] dependent on t he
+funding we have in som e project s .
+m n021 [ fh] : So
+m n021 [ %] : w
+m n021 [ s] : it ’s not sure ,
+m n082 [ s^ ar^ t 3] : Hm m ? No ,
+m n021 [ s] : not really sure .
+m n082 [ s^ t 3] : t here .
+m n082 [ s] : We ’re not t alking about t o send t he st udent s here t o I C
+m n082 [ s^ df.%−] : S I . I ’m t alking if t here is an act ivit y , at least wit h
+t he NSA group , t hat cert ain kind of act iv it ies also in t he universit y
+could apply for t he m ast er works , of diplom as t hesis , [ pause] uh ,
+what ev er kind of t hing t hat [ disfm arker]
+m n021 [ s^ bk] : Yeah ,
+m n021 [ %−] : we [ disfm arker] we [ disfm arker]
+m n021 [ s] : I t hink we could [ disfm arker] We could find , uh , som e , eh
+work force .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n082 [ b] : Mm − hm m .
+m n021 [ s.%−−] : Because [ disfm arker] well , you [ disfm arker] you can ,
+eh , fo [ v ocalsound] redirect you know , t he [ disfm arker] t he work as
+[ disfm arker] uh let ’s say as a subject work of som et hing [ vocalsound]
+t hat y ou can [ disfm arker] [ vocalsound] you can t ry t o , eh , s
+m n021 [ s] : In som e subject s , in fact , [ vocalsound] eh , t he
+[ disfm arker] t he [ disfm arker] t he , uh , t opics are m ore open
+m n021 [ s] : so [ v ocalsound] you can int roduce som e research t opics
+t oo .
+m n021 [ fh] : So
+m n021 [ s] : but t he m ain t hing is t hat t here is a , uh , t his big
+difference
+m n021 [ s^ df] : because , eh , st udent s are not supposed t o do
+research , eh , work unt il t hey hav e finished t heir gra t heir grade .
+
+m n082 [ b] : Mm − hm m .
+m n081 [ s] : You can change t hat .
+m n021 [ s^ aa] : Yeah ,
+m n021 [ s^ aa] : sure .
+m n081 [ s.%−−] : M uh , m aybe you sh
+m n021 [ s^ aa^ r] : Sure .
+m n081 [ s] : I t hink it ’s pret t y healt hy for a st udent t o [ disfm arker]
+[ v ocalsound] t o hav e a project , eh , where you have t o writ e act ually
+som e part of research
+m n081 [ fh] : or .
+m n021 [ s^ aa|s^ na] : Yeah , I t hink so t oo ,
+m n021 [ s] : but , eh , you know , it also depends on t he subject s
+m n021 [ s^ df] : because som et im es subject s are fixed
+m n081 [ s^ aa] : Sure .
+m n021 [ s^ df] : so y ou cannot [ disfm arker] you cannot , uh uh , give
+any [ disfm arker] any st uff you want .
+m n081 [ s^ bk] : OK .
+m n021 [ s^ df] : You have t o [ disfm arker] [ vocalsound] t o provide a
+cert ain [ disfm arker] a cert ain prim e [ pause] for t he subject t oo ,
+m n081 [ %] : O
+m n081 [ s^ aa] : Of course .
+m n021 [ s] : but , y ou know , som et im es , especially in t he [ disfm arker]
+[ v ocalsound] in t he lat est , eh uh , courses uh , t hings are probably
+m ore open
+m n021 [ s] : and , well , it [ disfm arker] it is som et hing t hat can be
+changed .
+m n082 [ b] : Mm − hm m .
+m n082 [ b] : OK .
+m n082 [ s^ ft .%] : Thank you .
+m n082 [ qy ^ rt ] : Claudia , I st ill m ent ioned , Have you ot her t hings ?
+m n082 [ s] : For m e , as I said before I will be funded by a d uh by t he
+m inist ry of , uh , t he Germ an gov ernm ent for research in t he project so
+− called Invinet
+m n082 [ s] : That seem s t o be sure .
+m n082 [ s] : And I got absolut ely freedom t o do what I would like t o do ,
+m n082 [ s] : and I would like t o go on wit h t he QS in advance
+m echanism
+m n082 [ fh] : and , uh ,
+m n082 [ s] : in t he relat ion of USAIA I also hav e t he [ vocalsound]
+act ivit ies wit h Georgia Tech .
+m n082 [ s] : They have now a PHD .
+m n082 [ s] : It is set t led ,
+m n082 [ s] : and m y ot her next , uh , generat ion of cont ract is also
+going in t hat sense so t he t opic is st ill going [ disfm arker] go going on .
+
+m n082 [ s] : and when I will com e back here , I would like t o use t hese
+t hings t oo t o m aybe com e t o a [ vocalsound] closer , a bigger project
+um , out side of t his goal , wit h cont ribut ions here from , uh [ pause]
+first of all from t he NSA group and t hen from [ disfm arker] from ot her
+part ners .
+m n082 [ s^ rt ] : But t his I have definit ely ou uh discussed wit h m y
+m anagem ent
+m n082 [ s] : and [ pause] t his will happened , I believe , in Decem ber ,
+m n082 [ s] : m ay be , and in t he beginning of January .
+m n082 [ s^ cc] : and I will keep inform ed t o t he m anagem ent of ICSI
+anyway ,
+m n082 [ s^ cs] : but also , I assum e t hat m y suggest ions t hat we have
+a weekly phone conference and em ail exchange [ pause] during t hat
+t im e
+m n082 [ s^ df] : so t hat we can inform each ot her [ vocalsound]
+concerning what are t he quest ions , what are t he problem s , what is
+t he st at us and so on .
+m n082 [ fh] : Uh ?
+m n082 [ s] : But I t hink we will uh det ail t hese t hings t hen in one of t he
+last m eet ings .
+m n082 [ fh] : So
+m n082 [ qw.%−−] : how is your st at us and [ disfm arker] and your ideas
+and your plans and y our fut ure and [ disfm arker]
+m n030 [ s^ bk] : Yeah .
+m n030 [ fh] : Well
+m n030 [ s.%−] : I will [ disfm arker]
+m n082 [ s^ j] : You ’re addict ed t o t he t est beds you run on t he hour ,
+m n030 [ s^ ar] : No , no , no , no , no .
+m n082 [ s.%−] : so t hat ’s [ disfm arker]
+m n030 [ s^ rt ] : So I will st ay here t ill t he end of February
+m n030 [ fh] : and
+m n030 [ s] : aft erwards , um , at Berlin I ’m yeah , funded by an
+inst it ut ion of t he Germ an governm ent ,
+m n030 [ fh] : so ,
+m n030 [ s^ rt ] : t hey are paying m e ,
+m n030 [ s] : and I hav e t o do research for t hem , of course .
+m n030 [ s] : I have t o [ vocalsound] um well , uh , reach som e goals and
+so on .
+m n030 [ s^ rt ] : But on t he ot her hand t here will be som e t im e left I
+t hink t o do som e work on [ pause] t his area I st art ed here .
+m n030 [ s^ rt ] : And for m e , m y self , I ’m also very int erest ed in
+[ disfm arker] in cont inue t his work
+m n030 [ s] : and so t hat will be m anageable
+m n030 [ fh] : and , um ,
+m n030 [ s.%−−] : on t he ot her hand t here are also [ vocalsound] uh ,
+som e st udent s or [ disfm arker]
+
+m n030 [ fh] : well ,
+m n030 [ s] : at t he m om ent it ’s [ pause] quit e difficult t o find st udent s ,
+eh , who are doing t heir m ast er ’s t hesis and so on
+m n030 [ s^ df] : because t here are not a lot of st udent s , uh , which
+are in t his st at e in Germ any now ,
+m n030 [ fh] : but um ,
+m n030 [ s] : about t wo years ago t he num bers of st udent s were , um ,
+st udy ing com put er science , [ v ocalsound] uh , st art ed t o increase
+again
+m n030 [ s] : and so in one or t wo y ears we will have , [ vocalsound] uh ,
+m any st udent s , uh , which are perform ing t heir m ast er ’s t hesis
+m n030 [ s] : and so [ vocalsound] I t hink t here will also be , uh , m any
+st udent s [ v ocalsound] which are joining in t his work .
+m n030 [ fh|s] : So , hopefully , [ v ocalsound] uh , I will found [ disfm arker]
+will find som e st udent s which are joining in
+m n030 [ fh] : and , um
+m n030 [ s] : So , hopefully t his work will be go on .
+m n082 [ b] : Mm − hm m .
+m n082 [ s^ bk] : OK ,
+m n082 [ s^ ba] : sounded good t o m e .
+m n082 [ qy^ co^ d^ rt ] : And Michael ?
+m n035 [ h|s^ cc] : So , [ pause] I won’t change t he t opic t hen .
+m n035 [ s^ rt ] : I ’m here unt il end of May
+m n035 [ s] : and aft er t hat I presum ably going t o a Siem ens project
+wit h som e [ disfm arker] depart m ent of gee − m ens ,
+m n035 [ s] : but relat ed t o t hat t opic what I have done here .
+m n035 [ fh] : So ,
+m n035 [ s] : it ’s som e of pre − st age [ pause] t o t hat ,
+m n035 [ s^ df] : so it m ight be m ore [ vocalsound] relat ed or loosely
+relat ed .
+m n035 [ s^ bu] : So it ’s at least it ’s in t he sam e t opic .
+m n035 [ s^ rt ] : And [ pause] progress , it ’s [ pause] going on ,
+m n035 [ s] : but it ’s not t hat fast going on as I would have like it .
+m n082 [ b] : Mm − hm m .
+m n035 [ %] : Oh ,
+m n035 [ s] : I would like t o have it .
+m n035 [ s^ fa] : Sorry .
+m n035 [ fh] : Well
+m n035 [ %] : but oder ?
+m n082 [ s^ bk|qw^ rt ] : Yeah , t hen , what is t he current st at us anyway
+?
+m n035 [ h|s] : Um , I ’m [ disfm arker] current ly I ’m looking int o
+[ v ocalsound] Qualit y of Service Rout ing ,
+m n082 [ s] : t his is .
+m n035 [ s] : and I had discussions wit h a post − doc from t he U − UCB .
+m n035 [ fh] : Well ,
+
+m n035 [ s^ rt ] : we want t o [ disfm arker] we st art ed t o collect
+inform at ion t o [ vocalsound] writ e t he paper about Qualit y of Serving
+[ pause] rout ing . [ vocalsound] for MPLS in an MPLS dom ain .
+m n082 [ b] : Mm − hm m .
+m n035 [ s] : So you have [ pause] um dist ribut ed rout ing at t he edges ,
+m n035 [ s] : and one aspect is [ vocalsound] t hat t he inform at ion is
+out dat ed , so t hat y ou know t o always have t he exact inform at ion of
+y our links , dat es , and so on .
+m n035 [ s] : It what we have plans of t hat .
+m n035 [ s] : And t ry ing t o [ vocalsound] look at som e rout ing [ pause]
+policies , or rout ing algorit hm s .
+m n082 [ b] : Mm − hm m .
+m n082 [ s^ ba] : Now as I see , in principle , uh fff [ com m ent ] t hat ’s a
+really raw view .
+m n082 [ s] : MPLS offers cert ain kind of success of act ive rout ing ,
+m n082 [ s^ df] : because in principle , t he forwarding pass is a lit t le bit
+decoupled from t his [ disfm arker] from t he rout ing pass ,
+m n035 [ s^ aa] : Yeah .
+m n082 [ s^ df] : and t his was , in principle [ disfm arker]
+m n082 [ s^ bk] : OK ,
+m n082 [ s] : it ’s [ disfm arker] it ’s not really t he subject
+m n035 [ %−] : It [ disfm arker] it [ disfm arker]
+m n082 [ s] : but in a broader sense it could be seen in t hat sense .
+m n035 [ b] : It d yeah .
+m n082 [ s] : I t hink uh , t here are in a cert ain degree som e alignm ent
+wit h [ disfm arker] wit h bot h of you guys ,
+m n035 [ s^ aa] : Yeah .
+m n082 [ qy ^ d^ g] : right ?
+m n035 [ s] : So at least from t he desh definit ion of Christ ian Tschudin ,
+MPLS is a subset of [ disfm arker] [ vocalsound] of act ive [ pause] rout e
+act ive rout ing .
+m n035 [ qy^ bu^ d^ rt ] : So it ’s very [ disfm arker] [ pause] It ’s st at ic ?
+m n035 [ s^ ar|qy ^ bu^ d^ rt ] : It ’s [ disfm arker] No , act ive ?
+m n035 [ s^ df] : But it ’s sort of act ive [ pause] because t hey have t hese
+program st at em ent s .
+m n082 [ b] : Yeah .
+m n082 [ s^ bk] : Yeah ,
+m n082 [ s] : m aybe it ’s a separat ion , in principle , t hat I do not use
+t he norm al t radit ional , [ vocalsound] uh , dat a forwarding pass
+[ v ocalsound] and updat e , in principle , only t he rout ing inform at ion uh
+, t o [ disfm arker] t o [ disfm arker] t o use it .
+m n035 [ %−] : But y
+m n035 [ b] : Yeah .
+m n035 [ b] : Yeah .
+
+m n021 [ s] : Well , t hey are [ disfm arker] t hey are using t he [ disfm arker]
+t he [ disfm arker] t he sam e idea of labelling [ pause] packet s
+[ v ocalsound] wit h a [ disfm arker] wit h a cont ent descript or or
+som et hing .
+m n082 [ b] : Yeah .
+m n082 [ b] : Yeah .
+m n035 [ b] : Yeah .
+m n035 [ s^ aa] : That ’s right .
+m n082 [ s^ bk] : Yeah ,
+m n082 [ s] : so what I m ean is at a cert ain degree , yeah , t hat has t o
+be figured out .
+m n021 [ b] : Yeah .
+m n021 [ s] : There ’s a connect ion point .
+m n082 [ s^ na] : There is , uh , t here are som e linkage bet ween t hem .
+@ @ in bot h of your [ disfm arker] your work .
+m n021 [ b] : Mm − hm m .
+m n035 [ b] : Yeah .
+m n082 [ fg] : So ,
+m n082 [ s^ t c] : m y last point , uh , in principle , is t he proposal it self .
+m n082 [ fh] : Um
+m n082 [ s] : I know , in t he past it was always if I ’m not writ ing
+som et hing not hing gonna happen .
+m n082 [ s] : So , I believe , Wilbert , you are going out of t hese act ivit y .
+m n082 [ s^ co] : You have t o use your t im e t o finish your work as you uh
+, hav e in m ind unt il your end of February ,
+m n082 [ qy ^ g] : or is t hat right ?
+m n081 [ s^ nd] : January ,
+m n081 [ s^ aa] : yes .
+m n082 [ s^ bk] : End of January ,
+m n082 [ s^ fa] : sorry ,
+m n082 [ s^ bu] : so you will not [ disfm arker] y you will not find any t im e
+t o cont ribut e anym ore t o t his act iv it y .
+m n081 [ s^ aa] : No .
+m n082 [ s^ bk] : OK .
+m n082 [ s^ co^ rt ^ t c] : Then from Miguel ’s side I expect m ore det ailed
+v ision .
+m n082 [ s^ cs] : We can do it , as I m ent ioned before , bilat eral
+aft erwards , [ v ocalsound] uh , concerning your work and how you t hink
+it could be beneficial cont ribut ion t o t he act ivit y m aybe based on t he
+generic uh , uh , USAIA archit ect ure .
+m n021 [ s^ 2] : Lat er .
+m n082 [ s^ cc^ rt ] : I will writ e as long as I have t im e here , uh , on t he
+proposal it self
+m n082 [ s^ cc^ rt ] : and in t he near − t erm fut ure , I will dist ribut e a list
+of t he sm all clust er of people .
+m n082 [ s] : I t ried t o access Juan Peire several t im es ,
+
+m n082 [ s] : he didn’t answer , because he st ill had m ent ioned t hat
+t here ’s som e m inor funding , t hat I t hink would help ,
+m n082 [ s^ e] : for inst ance , t o hav e init ial m eet ing eit her here or in
+Europe or [ disfm arker] or wherever .
+m n082 [ s] : I ’v e , uh , cont act one m ore t im e t he professor ,
+m n082 [ qw] : what is his nam e ?
+m n082 [ qy^ d] : Rao ?
+m n082 [ qrr.%−−] : or [ disfm arker] ?
+m n082 [ fh|s.%−] : uh , L Landay m ent ioned , uh ,
+m n035 [ %−−] : L Lan
+m n035 [ qy^ d^ rt ] : Landay ?
+m n082 [ s|qy^ d^ g^ rt ] : Rao , right ?
+m n082 [ s^ aa] : Yeah .
+m n082 [ s] : because he ’s a professor in [ disfm arker] uh , responsible
+for t he infrast ruct ure at UCB and he has som e project s which are
+relat ed t o [ v ocalsound] um , t hese [ disfm arker] t hese , uh , act ivit ies
+m n035 [ s^ bk] : Landay .
+m n035 [ s^ bk.%] : Ah .
+m n082 [ s] : I would c c nam e it cor int elligent classroom .
+m n082 [ s^ no] : I don’t know whet her I can succeed t o get an
+appoint m ent t hen
+m n082 [ s^ cc] : but I will dist ribut e a list [ disfm arker] cont act list and @
+@ t he int erest s of each part ner
+m n082 [ s^ df] : so t hat everybody can see [ vocalsound] and everybody
+knows , y eah , I have in m ind
+m n082 [ s^ am ] : m aybe it ’s a sm all NSA group act ivit y it self , wit h no
+linkage t o t he out er world
+m n082 [ s^ am ] : m aybe it ’s a NSA group act ivit y wit h a linkage t o t he
+out er world based on t he uh universit ies at hom e or t he com panies at
+hom e
+m n082 [ s] : t here ’s som e linkage
+m n082 [ s] : and t he t hird st age is , let ’s say t here ’s a NSA group
+act ivit y in t his area , [ vocalsound] uh , wit h t he support ed , um , hom e
+ent it ies and wit h cert ain kind of linkage here t o t he com panies or u or
+univ ersit ies here in t his area .
+m n082 [ s^ ba] : The last one , I t hink it ’s , uh , t he best one .
+m n082 [ s] : But , you see t he quest ion is always " Where ’s t he m oney
+?"
+m n082 [ s:s^ fe] : and I say " Oh poo ,
+m n082 [ s:s^ no] : current ly I don’t know . "
+m n082 [ s] : The second quest ion is how long I st ay here
+m n082 [ s:s^ no] : and say ooo , [ com m ent ] [ pause] I don’t know " ,
+m n082 [ fh] : so
+m n082 [ s] : ev ery body ’s wait ing .
+m n082 [ qy ^ d^ f^ g] : Yeah ,
+
+m n082 [ s] : and t he only rea um , act ivit y could com e from t he NSA
+group it self ,
+m n082 [ s] : but I t hink it ’s a [ disfm arker] a work in process and t hat it
+will t ake som e t im e and , uh , [ vocalsound] everyt hing m ust be just
+set t led a lit t le bit m ore .
+m n082 [ fg|s^ cs] : So , but anyway , I would like t o get cont ribut ions
+from t he people here of t he NSA group concerning proposals ,
+m n082 [ s^ df] : t his is a living t hing
+m n082 [ fh] : and
+m n082 [ s^ ba] : it ’s a pit y t hat Mult icast is , in principle , rem oved
+m n082 [ s] : and we do not have any expert from Mult icast anym ore .
+m n082 [ fh|s] : And , uh , t hat ’s m akes very hard , I believe .
+m n082 [ s^ df] : Because t hat is a m ajor @ @ , at least t went y − five
+percent of t he whole net work uh , st uff
+m n082 [ fh] : and , um ,
+m n082 [ s] : but nev erless we hav e t o live wit h t his sit uat ion .
+m n082 [ fh] : Right .
+m n082 [ qy^ bu^ d] : You are laughing , again ?
+m n081 [ s^ aa] : Right .
+m n081 [ s^ aa^ r] : Right .
+m n082 [ s^ cs] : So m aybe we have t o [ nonvocalsound] rewrit e
+som et hing ,
+m n082 [ s^ cs^ rt ] : have new ideas going forward m ore in cert ain kind
+of really t elecom m unicat ion net work and t he rout ing and QS st uff ,
+m n082 [ s^ rt ] : and rem ove , in principle , t he Mult icast st uff
+m n082 [ s^ ba^ e] : which , in principle , a pit y because I t hink t hat ’s a
+really really good eh [ disfm arker] uh [ pause] m m m source of research
+work for t he fut ure t elecom m unicat ion core net works
+m n082 [ s^ df] : because t hey are st ill not able t o deal wit h Mult icast ,
+m n082 [ s^ df] : t hey st ill have t here t hat t unnel generat ions and all
+t hose kind of t hings
+m n082 [ fh|s^ ba^ df] : and I [ disfm arker] I believe t hat would be very
+beneficial t o use it for t he really [ pause] uh , m obile scenarios in
+[ disfm arker] in t hat net work ,
+m n082 [ s] : so [ disfm arker] but anyway we have t o live wit h a real
+sit uat ion
+m n082 [ s] : and t hat m eans we have t o drop Mult icast from t he
+proposal .
+m n082 [ qy ^ d^ rt ] : Any com m ent s ?
+m n021 [ s^ nd] : Oh , not really , you know ,
+m n021 [ fh|s] : uh , I [ disfm arker] I [ disfm arker] I [ disfm arker] I t hink
+t hat [ disfm arker] Well , in t he fut ure , som ebody will com e t o t he NSA
+group
+m n021 [ fh] : eh
+m n082 [ s] : Then we can ext end t he proposal one m ore t im e wit h
+Mult icast .
+
+m n021 [ %] : Ah ,
+m n021 [ fh] : so [ disfm arker]
+m n021 [ s^ ar|s.%−−] : No , I m ean [ vocalsound] t hat [ disfm arker]
+m n021 [ fg] : OK ,
+m n021 [ s^ nd] : I [ disfm arker] I [ disfm arker] I t hink t hat it cannot , eh ,
+be , eh considered t he first t ype t ask t o do
+m n021 [ s^ df] : because nobody is [ disfm arker] is knowledgeable
+about m ult icast ing
+m n021 [ s^ cs] : but I t hink t hat , eh , any of us could address t hese
+t hings in t he fut ure ,
+m n021 [ s^ cs] : or m aybe a new person could address t his . in t he
+fut ure .
+m n021 [ fh] : So
+m n021 [ %−−] : if [ disfm arker]
+m n021 [ s] : I m ean , wh what I t hink is t hat , uh , it [ disfm arker] it
+m akes no sense t o m e [ vocalsound] t o reduce , [ vocalsound] uh , uh ,
+uh , uh , som et hing which is m ore or less com plet e ,
+m n021 [ s^ df] : because we don’t have t he person .
+m n021 [ s^ cs] : I t hink t hat t he [ disfm arker] t he way t o [ disfm arker] t o
+go is probably t he opposit e , t o t ry t o find [ vocalsound] som et hing
+which has [ v ocalsound] a m eaning by it self
+m n021 [ s^ cs] : and t hen t ry t o get t he resources t o [ disfm arker] t o
+[ disfm arker] [ v ocalsound] t o do t his [ disfm arker]
+m n082 [ s^ ng] : Oh , m aybe you underst and m e in t he wrong way .
+m n082 [ fh] : Uh ,
+m n082 [ s^ df] : I do not m ean t o drop it , t o rem ove t he t ext from t he
+proposal .
+m n021 [ s^ bk] : OK ,
+m n021 [ s^ bk] : OK .
+m n082 [ s^ df] : I m ean , act ivit ies , planning act ivit ies .
+m n021 [ s^ fa] : Sorry .
+m n021 [ s^ bk] : Yeah ,
+m n021 [ s] : t hat ’s OK .
+m n082 [ s] : Work packages .
+m n021 [ s^ fa] : Sorry , sorry ,
+m n021 [ fh] : heh ?
+m n082 [ s^ bk] : Yeah ,
+m n021 [ %−] : Now I
+m n082 [ fg] : so
+m n082 [ s^ ar] : no , no ,
+m n082 [ s] : because t hat ’s , uh , t hat ’s why I m ent ioned t hat it is
+im port ant t hing .
+m n082 [ fh|s] : But , current ly t here ’s only one new group m em ber ,
+Sven Buchholz , who will figure out t he t hing , hm m how t o say , um ,
+t he t aking int o account t he end syst em , or t he lim it ed end syst em
+capabilit ies wit h respect t o m obilit y and t he net work it self .
+
+m n082 [ qw] : Where it should be ada @ @ [ disfm arker] where should
+be , uh , t he adapt at ion process perform ed [ vocalsound] t o deal wit h
+t he different devices , for ubiquit ous access t o t he net work ?
+m n082 [ qy ^ rt ] : Should it be in t he end syst em it self ?
+m n082 [ qy ] : Should be in t he edge device ?
+m n082 [ qy ^ d] : It should it be in t he core ?
+m n082 [ qy ] : should it be on t he server ?
+m n082 [ s] : These are t he quest ions he would like t o figure out .
+m n082 [ s] : And t o p uh , t o have , in principle , t he pro and cons
+[ nonv ocalsound] of , uh , different [ disfm arker] of all t hese different
+approaches .
+m n082 [ s] : So t hat ’s t he only new m em ber .
+m n081 [ qw^ rt ] : Who is t hat ?
+m n082 [ s] : Sven Buchholz .
+m n082 [ s^ e] : He was here .
+m n082 [ s^ e] : I inv it ed him and discussed wit h him his pot ent ial work ,
+I@@.
+m n082 [ s] : quit e sure
+m n081 [ s^ bk|s^ bu] : Oh , he was here one day .
+m n082 [ s^ aa] : Yeah .
+fn083 [ s^ aa] : Yeah .
+m n035 [ s^ aa] : Hm m .
+m n082 [ s^ e] : But he showed up t he [ pause] next day
+m n035 [ s^ e] : Sev eral days .
+m n082 [ s^ e] : but only for adm inist rat ion st uff ,
+m n035 [ b] : Yeah .
+m n082 [ s^ e] : but for t he t echnical discussion he was here one day .
+m n035 [ b] : Yeah .
+m n035 [ b] : Yeah .
+m n082 [ s^ no.%−] : I I ’m do not rem em ber whet her [ disfm arker] w
+whet her you were [ disfm arker]
+fn083 [ s] : That m ust be t hree weeks ago ,
+fn083 [ s^ df] : cuz I r I [ pause] just m et him when I arriv ed .
+m n081 [ s^ bk|s] : Yeah , I do rem em ber him ,
+m n035 [ b] : Yeah .
+m n081 [ s] : but I didn’t t alk wit h him about , uh [ disfm arker] [ pause]
+about t he research t opic .
+m n082 [ s^ bk] : Mm − hm m .
+m n081 [ s^ df] : So I didn’t know what he was going t o do .
+m n082 [ s^ bk|s] : Yeah , he will com e m id of January , I believe ,
+m n082 [ s^ aa] : y eah ,
+m n035 [ b] : Mm − hm m .
+m n082 [ s^ df] : as far as I know .
+m n082 [ s] : So , but t his is t he only guy , you know ,
+m n082 [ s] : but t hat is not reflect ed in t hat sense t hat we rem ove t he
+t ex t .
+
+m n082 [ s] : what I m ean is [ disfm arker] is , uh , t he [ disfm arker] t hat
+we [ disfm arker] what ’s kind of act ivit y we are going m ore in det ail in
+describing , t he net work packages and [ disfm arker] and det ailed , uh ,
+uh , descript ions [ disfm arker] m ore det ailed descript ions .
+m n021 [ s^ bk] : OK .
+m n082 [ fh] : So
+m n082 [ qy^ d^ rt ] : Any ot her quest ion ?
+m n082 [ qy ^ d] : Any ot her com m ent ?
+m n082 [ s^ bk] : Oh .
+m n082 [ s^ co^ t c] : Then we pu should st art wit h reading t he num bers
+m n082 [ s] : one m ore t im e .
+fn083 [ qy ^ d^ rt ] : Oh , again ?
+m n081 [ qy ^ d^ rt ] : We have t o do t hat ?
+m n081 [ s^ bk] : Oh !
+m n082 [ s^ aa] : Yes ,
+m n082 [ s^ na] : we [ pause] hav e t o do it ,
+fn083 [ s^ no] : I don’t know .
+m n082 [ s] : so t hat m eans we have t o read t he t ranscript script
+num ber and t hen t he num bers ,
+m n082 [ s] : and if t here ’s a new line , a short break .
+m n082 [ fh|s.%−−] : And , aft erwards we hav e t o ,
+m n082 [ fh|s] : uh , t hat device is swit ched on ,
+m n082 [ s^ cs] : so please do not swit ch off t he devices .
+m n082 [ s] : And I will call Herr Janin and t hat [ disfm arker] Adam @ @ .
+m n082 [ s^ cc] : So I will st art .
+m n082 [ z] : one [ com m ent ] OK ,
+fn083 [ z] : Should I ?
+m n082 [ z] : Oh . Yeah , yeah . Fine .
+fn083 [ z] : OK ,
+m n082 [ z] : He ’s laughing all t he t im e .
+fn083 [ z] : Oh , oh Wilbert
+fn083 [ z] : Oh , I ’m sorry .
+m n081 [ z] : Did you get t hat ?
+fn083 [ z] : Oh , I ’m so sorry .
+fn083 [ z] : That was m ean ,
+fn083 [ z] : OK .
+m n081 [ z] : No , it wasn’t .
+m n081 [ z] : I [ disfm arker] I [ disfm arker] I saw it already st anding t here
+[ com m ent ] when I was here [ com m ent ] so t hen I st art ed laughing ,
+m n081 [ z] : oh , oh ,
+m n082 [ z] : OK , Michael please .
+m n030 [ z] : That ’s it .
+m n082 [ z] : OK .
+m n082 [ z] : Thank you .
+m n082 [ z] : OK ,
+m n082 [ z] : t hen I will call Adam .
+
+m n082 [ z] : Adam ?
+
+

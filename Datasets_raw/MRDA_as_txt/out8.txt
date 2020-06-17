@@ -1,0 +1,1631 @@
+m e003 [ z] : How m any bat t eries do you go t hrough ?
+m e045 [ z] : Thank y ou .
+m e010 [ z] : Alright .
+m n036 [ z] : Sure .
+m e010 [ fg] : Good .
+m e010 [ fg] : Yeah .
+m e010 [ s^ t c] : OK so , let ’s get st art ed .
+m e010 [ s] : Nancy said she ’s com ing
+m e010 [ s] : and t hat m eans she will be .
+m e010 [ fh|s^ t ] : Um . My suggest ion is t hat Robert and Johno sort of
+giv e us a report on last week ’s advent ures uh t o st art .
+m e010 [ s] : So everybody knows t here were t hese guys f uh from
+Heidelber − uh , uh , act ually from uh DFKI uh , part of t he Germ an
+Sm art Kom project , who were here for t he week
+m e010 [ s] : and , I t hink got a lot done .
+m n015 [ s^ aa] : Yeah , I t hink so t oo .
+m n015 [ fh] : Um .
+m n015 [ s] : The [ disfm arker] we got t o t he point where we can now
+speak int o t he Sm art Kom syst em , and it ’ll go all t he way t hrough and
+t hen say som et hing like " Rom an num eral one , am Sm art icus . "
+m n015 [ s] : It act ually says , " Roem isch einz , am Sm art icus , "
+m n015 [ s] : which m eans it ’s just using a Germ an syt hesis m odule for
+English sent ences .
+m e045 [ b] : OK .
+m e045 [ s^ bk] : OK .
+m n015 [ %−] : So uh ,
+m e010 [ s^ j.x] : It doesn’t know " I " .
+m e045 [ s^ bk] : OK .
+m n015 [ fh|%−] : Um , t he uh
+m e045 [ s^ bk] : Oh ,
+m e045 [ s^ 2] : Am Spart acus . "
+m e003 [ s] : " I am Sm − I am Sm art icus " is what it ’s saying .
+m e045 [ s] : Verst ehe .
+m n036 [ s^ aa] : Right .
+m e003 [ %] : I gue
+m e045 [ b] : OK .
+m n015 [ s] : The uh syt hesis is just a quest ion of um , hopefully it ’s just
+a quest ion of exchanging a couple of files , once we have t hem .
+m n015 [ fh|s] : And , um , it ’s not going t o be a problem because we
+decided t o st ick t o t he so − called concept t o speech approach .
+m n015 [ s] : So I ’m [ disfm arker] I ’m [ disfm arker] I ’m going backwards
+now ,
+m n015 [ fh|s] : so " synt hesis " is where y ou sort of m ake t his
+[ disfm arker] uh , m ake t hese sounds ,
+
+m n015 [ s] : and " concept t o speech " is feeding int o t his synt hesis
+m odule giv ing it what needs t o be said , and t he whole synt act ic
+st ruct ure
+m n015 [ s^ df] : so it can pronounce t hings bet t er , presum ably . Then ,
+just wit h t ex t t o speech .
+m e045 [ b] : Mm − hm m .
+m n015 [ fh|s] : And , uh , Johno learned how t o writ e XML t ags .
+m n015 [ fh|s] : Uh , and did writ e t he t ree adjoining gram m ar for som e
+[ disfm arker] som e sent ences .
+m n015 [ qy^ d^ g] : No ,
+m n015 [ qy ^ d^ g^ rt ] : right ?
+m n015 [ s.%−] : Yeah , for a couple [ disfm arker]
+m e003 [ s^ aa] : Yeah .
+m e003 [ s] : So . Bu − Uh , i The way t he uh , t he dialogue m anager
+works is it dum ps out what it want s t o know , or what it want s t o t ell
+t he person , t o a [ disfm arker] er in XML
+m e003 [ s] : and t here ’s a conversion syst em for different uh , t o go
+from XML t o som et hing else .
+m e003 [ s] : And t h so , t he knowledge base for t he syst em , t hat
+generat es t he sy nt ast i synt act ic st ruct ures for t he ge generat ion is uh
+, in a LISP − like [ disfm arker] t he knowledge base is in a LISP − like form .
+m e003 [ s] : And t hen t he t hing t hat act ually builds t hese synt act ic
+st ruct ures is som et hing based on Prolog .
+m e003 [ s] : So , y ou have a [ disfm arker] basically , a goal
+m e003 [ s] : and it , you know , says " OK , well I ’m gonna t ry t o do t he
+Greet − t he − person goal ,
+m e045 [ b] : Mm − hm m .
+m e003 [ s] : so it just st art s [ disfm arker] uh , it binds som e variables
+and it just decides t o , you know , do som e subscold .
+m e003 [ s^ e] : Basically , it just m eans " build t he t ree . "
+m e003 [ s] : And t hen it passes t he t ree ont o , uh , t he ge t he
+generat ion m odule .
+m e045 [ b.%] : OK .
+m n015 [ s] : But I t hink t hat t he point is t hat out of t he t welve possible
+ut t erances t hat t he Germ an syst em can do , we ’ve already writ t en t he
+[ disfm arker] t he sy nt ax t rees for t hree or four .
+m e003 [ fg] : We
+m e003 [ fg] : y eah .
+m e003 [ s] : So , t he synt ax t rees are very sim ple .
+m e003 [ s^ rt ] : It ’s like m ost of t he sent ences in one t ree ,
+m e045 [ b] : Mm − hm m .
+m e003 [ s] : and inst ead of , you know , breaking down t o , like , sm all
+unit s and building back up , t hey basically t ook t he sent ences , and
+basically cut t hem in half , or you know , int o t hirds or som et hing like
+t hat , and m ade t rees out of t hose .
+
+m e003 [ fh|s] : And so uh , uh Tilm an wrot e a lit t le t ool t hat you could
+t ake LISP not at ion and generat e an XML , uh , t ree . Uh , S what do ca
+st ruct ure from t he [ disfm arker] from t he LISP .
+m e003 [ s.%−−] : And so basically you just say , you know , " noun goes
+t o " , y ou know ,
+m e003 [ s^ no] : Er , nah , I don’t re I ’ve never been good at t hose .
+m e003 [ s] : So t here ’s like t he VP goes t o N and t hose t hings in LISP ,
+and it will generat e for you .
+m e045 [ s^ bk] : OK . N ,
+m e045 [ s^ bk^ m ] : N , V
+m e045 [ s^ bk] : y eah ,
+m e045 [ s^ bk] : OK .
+m e045 [ s^ t c] : Alright .
+m n015 [ s] : And because we ’re st icking t o t hat st ruct ure , t he
+sy nt hesis m odule doesn’t need t o be changed . So all t hat f fancy st uff
+,
+m n015 [ s] : and t he Texas speech version of it , which is act ually t he
+sim pler version , is gonna be done in Oct ober which is m uch t oo lat e
+for us .
+m n015 [ fh] : So .
+m n015 [ s^ rt ] : This way we [ disfm arker] we worked around t hat .
+m n015 [ s^ cc] : The , uh [ disfm arker] t he syst em , um [ disfm arker] I
+can show you t he syst em .
+m n015 [ s] : I act ually want , at least , m aybe , you should be able t o
+st art it on y our own . If you wanna play around wit h it , in t h in t he
+fut ure .
+m n015 [ s] : Right now it ’s brit t le and y ou need t o ch st art it up and
+t hen m ake t s t went y changes on [ disfm arker] on [ disfm arker] on
+[ disfm arker] on sev ent een m odules before t hey act ually can st om ach
+it , anyt hing .
+m n015 [ s] : And send in a [ disfm arker] a [ disfm arker] a couple of side
+queries on som e dum m y cent er set − up program so t hat it act ually
+works
+m n015 [ s^ df] : because it ’s designed for t his seevit t hing , where you
+have t he gest ural recognit ion running wit h t his s Siem ens virt ual t ouch
+screen , which we don’t have here .
+m e045 [ b] : Mm − hm m .
+m n015 [ s] : And so we ’re doing it v ia m ouse ,
+m n015 [ s] : but t he whole syst em was designed t o work wit h t his t hing
+m n015 [ s] : and it was [ disfm arker] It was a lot of engineering st uff .
+m n015 [ s^ rt ] : No science in t here what soever ,
+m n015 [ s] : but it ’s working now ,
+m n015 [ fh|s] : and um , t hat ’s t he good news .
+m n015 [ s^ rt ] : So ev eryt hing else act ually did prove t o be language
+independent except for t he parsing and t he generat ion .
+
+m e003 [ s^ ng^ rt ] : Why [ disfm arker] I had [ disfm arker] I did need t o
+chan generat e different t rees t han t he Germ an ones ,
+m e003 [ s^ df] : m ainly because you know like uh , t he gerund in
+[ disfm arker] in Germ an is aut om at ically t aken care of wit h just a
+regular verb ,
+m n015 [ s^ t 3] : You have t o swit ch it on .
+m e045 [ b] : Mm − hm m .
+m e003 [ s:s] : so I ’d uh have t o add " am walking , "
+m e003 [ s] : or I ’d have t o add a lit t le st em for t he " am " , when I build
+t he [ disfm arker] built t he t ree .
+m e045 [ s^ bk] : OK .
+m e045 [ fg] : OK .
+m e045 [ s] : Yeah , I not iced t hat um , t hat som e of t he exam ples t hey
+had , had you know , non − English word orders and so on ,
+m e045 [ s] : y ou know . And t hen all t hat good st uff .
+m e045 [ fh] : So .
+m e003 [ s^ aa] : Yeah .
+m e010 [ s^ bk] : Alright .
+m e045 [ %−] : Like .
+m e010 [ s^ cs] : So it m ight be wort h , Keit h , you looking at t his ,
+m e045 [ s^ aa] : Yeah .
+m e010 [ h] : um
+m e003 [ %−] : Well Tilm an s
+m e045 [ s^ no.%−−] : I [ disfm arker] I st ill don’t [ disfm arker] I st ill don’t
+really underst and e like [ disfm arker]
+m e045 [ s.%−−] : I m ean we sort of say , um [ disfm arker]
+m e045 [ s^ no] : You know , I [ disfm arker] I st ill don’t exact ly
+underst and sort of t he inform at ion flow uh in [ disfm arker] in t his t hing ,
+or what t he m odules are and so on .
+m e045 [ s^ bu] : So , you know , like just t hat such − and − such m odule
+uh um decides t hat it want s t o achieve t he goal of greet ing t he user ,
+m e045 [ s.%−−] : and t hen m agically it sort of s
+m e010 [ fg] : Yeah [ disfm arker]
+m e045 [ qw] : I m ean , how does it know which synt act ic st ruct ure t o
+pull out , and all t hat ?
+m e010 [ fg] : I t hi
+m e010 [ fg] : Yeah .
+m e010 [ s] : So . I t hink it ’s not wort h going over in t he group ,
+m e045 [ %] : R uh
+m e010 [ s^ cc] : but sort of when you get free and you have t he t im e uh
+eit her Robert or Johno or I can walk you t hrough it .
+m e045 [ s^ bk] : Sure .
+m e045 [ s^ aa] : Yeah ,
+m e045 [ s^ 2] : soon .
+m e045 [ s^ bk] : OK .
+
+m e010 [ s] : And you can ask all t he quest ions about how t his all fit s
+t oget her .
+m e045 [ s^ ba] : That ’s fine .
+m e010 [ s] : It ’s eee [ com m ent ] m essy
+m e010 [ s] : but once you underst and it you underst and it .
+m e010 [ s] : It ’s [ disfm arker] it ’s [ disfm arker] There ’s not hing really
+com plicat ed about it .
+m e045 [ s^ bk] : OK .
+m n015 [ s^ aa] : No .
+m e045 [ s.%−−] : And I rem em ber one t hing t hat [ disfm arker] t hat cam e
+up in t he t alk last Wednesday . Um , was t his ,
+m e045 [ s.%−−] : I [ disfm arker] I t hink he t alked about t he idea of like ,
+um [ disfm arker] He was t alking about t hese lexicalized uh , uh , t ree
+adjoining gram m ars where you sort of [ disfm arker] for each word you ,
+um [ disfm arker]
+m e003 [ qw^ rt ^ t 3] : OK , you know how t o do it ?
+m e045 [ s^ e^ rt ] : For each lex ical it em , t he lexical ent ry says what all
+t he uh t rees are t hat it can appear in .
+m e045 [ fh|s] : And of course , t hat ’s not v That ’s t he opposit e of
+const ruct ional .
+m e045 [ s] : That ’s , you know , t hat ’s [ disfm arker] t hat ’s HPSG or
+what ev er .
+m e010 [ s^ aa] : Right .
+m e010 [ fg] : Right .
+m e045 [ qy^ d^ g^ rt ] : You know ?
+m e010 [ s] : Now , we ’re [ disfm arker] we ’re not com m it t ed for our
+research t o [ pause] do any of t hose t hings .
+m e045 [ b] : Yeah .
+m e045 [ b] : Mm − hm m .
+m e010 [ fh|s^ e] : So uh we are com m it t ed for our funding .
+m e045 [ b] : Right .
+m e010 [ qy^ d^ f] : OK ?
+m e010 [ %−] : t o [ pause] uh [ disfm arker]
+m e045 [ s^ 2] : Make our st uff fit t o t hat .
+m e010 [ s^ aa|%−−] : Yeah , t o [ disfm arker]
+m e010 [ s^ ar|s^ df] : n no , t o just get t he dem get t he dem os t hey
+need .
+m e045 [ b] : Uh − huh .
+m e010 [ qy ^ d^ f] : OK ?
+m e010 [ s] : So bet ween us all we have t t o get t h t he dem os t hey
+need .
+m e010 [ s^ cs] : If it t urns out we can also give t hem lot s m ore t han
+t hat by , you know , t apping int o ot her t hings we do , t hat ’s great .
+m e003 [ s^ cs^ t 3] : You should probably m ove t he m icrophone closer
+t o your face .
+m e045 [ b] : Mm − hm m .
+
+m e010 [ s] : But i it t urns out not t o be in an any of t he cont ract s
+m e003 [ s^ t 3] : There ’s like a lit t le [ disfm arker] The t wist y t hing , you
+can m ov e it wit h .
+m e045 [ s^ bk] : OK .
+m e010 [ fh|s^ e] : and , s deliberat ely .
+m e010 [ fh|s^ df] : So , t he reason I ’d like you t o underst and uh what ’s
+going on in t his dem o syst em is not because it ’s im port ant t o t he
+research .
+m e010 [ s] : It ’s just for closure .
+m e010 [ s:qw] : So t hat if we com e up wit h a quest ion of " could we fit
+t his deeper st uff in t here ? " or som et hing .
+m e010 [ s] : You know what t he hell we we ’re t alking about fit t ing in .
+m e045 [ s^ aa] : Right .
+m e045 [ s^ bk] : OK .
+m e010 [ s] : So it ’s just , uh in t he sam sam e act ually wit h t he rest of
+us
+m e010 [ s] : we just need t o really underst and what ’s t here .
+m e010 [ qy ] : Is t here anyt hing we can m ake use of ?
+m e010 [ fh|qy ] : Uh , is t here anyt hing we can give back , beyond t h t he
+sort of m inim um requirem ent s ?
+m e010 [ s] : But none of t hat has a short t im e fuse .
+m e045 [ s^ bk] : OK .
+m e010 [ s] : So t h t he dem o t he dem o requirem ent s for t his Fall are
+sort of t aken care of as of lat er t his week or som et hing .
+m e010 [ s] : And t hen [ disfm arker] So , it ’s probably fift een m ont hs or
+som et hing unt il t here ’s anot her serious dem o requirem ent .
+m e010 [ s] : That doesn’t m ean we don’t t hink about it for fift een
+m ont hs ,
+m e045 [ s^ bk] : Oh OK .
+m e010 [ s] : but it m eans we can not t hink about it for six m ont hs .
+m e045 [ s^ bk] : Right .
+m e045 [ s^ aa] : Right , yeah .
+m e010 [ fh|s^ t ^ t c] : So . The plan for t his sum m er uh , really is t o st ep
+back from t he applied project ,
+m n015 [ b.x] : Right .
+m e010 [ s] : keep t he d keep t he cont ex t open , but act ually go aft er
+t he basic issues .
+m e045 [ b] : Hm m .
+m e045 [ s^ bk] : Oh OK .
+m e010 [ fh] : And ,
+m e010 [ fh|s] : so The idea is t here ’s t his uh , ot her subgroup t hat ’s
+worrying about form alizing t he not a get t ing a not at ion .
+m e010 [ s^ co] : But sort of in parallel wit h t hat , uh , t he hope is t ha in
+part icularly you will work on const ruct ions in English Ge − and Germ an
+for t his dom ain ,
+m e045 [ b] : Mm − hm m .
+
+m e010 [ s^ e] : but y not worry about parsing t hem or fit t ing t hem int o
+Sm art Kom or any of t he ot her [ disfm arker] anyt hing lik any ot her
+const raint s for t he t im e being .
+m e045 [ b] : Yeah .
+m e045 [ s^ bk] : OK .
+m e045 [ s^ bk] : Got it .
+m e010 [ s] : It ’s hard enough t o get it sem ant ically and synt act ically
+right and t hen [ disfm arker] and get t he const ruct ions in t heir form and
+st uff .
+m e045 [ s^ aa] : Yeah .
+m e010 [ s] : And , I don I don’t want you f feeling t hat you have t o
+som ehow m eet all t hese ot her const raint s .
+m e045 [ s^ bk] : Right , OK .
+m e010 [ fh|s] : Um . And sim ilarly wit h t he parsing , uh we ’re gonna
+worry about parsing uh , t he general case
+m e010 [ s^ e] : you know , const ruct ion parser for general
+const ruct ions .
+m e010 [ fh|s] : And , if we need a cut − down version for som et hing , or
+what ev er , we ’ll worry about t hat lat er .
+m e045 [ s^ bk] : OK .
+m e010 [ s^ cc] : So I ’d like t o , for t he sum m er t urn int o science m ode .
+m e045 [ s^ bk] : OK .
+m e010 [ s] : And I assum e t hat ’s also , uh , your plan as well .
+m e010 [ b] : Right .
+m e045 [ fh|s] : So I m ean , t he [ disfm arker] t he point is t hat like t he
+m eet ings um so far t hat I ’ve been at hav e been [ disfm arker] sort of
+been geared t owards t his dem o ,
+m e010 [ b] : Yeah .
+m e010 [ fg] : Yeah .
+m e010 [ s.%−] : But [ disfm arker] but we we ’re swit
+m e045 [ s] : and t hen t hat ’s going t o go away pret t y soon .
+m e010 [ s^ aa] : Right .
+m e045 [ s^ bk] : OK .
+m e045 [ s] : And t hen we ’ll sort of shift gears a Fairly subst ant ially ,
+m e010 [ s^ aa] : Yeah .
+m n015 [ %−] : It ’s [ disfm arker]
+m e010 [ s^ aa] : Yeah .
+m n015 [ s.%−] : It ’s got .
+m e045 [ qy ^ d^ g^ rt ] : huh ?
+m e010 [ s^ aa] : Yeah .
+m n015 [ s] : What I [ disfm arker] what I t hink is [ disfm arker] is a good
+idea t hat I can [ disfm arker] can show t o anyone who ’s int erest ed ,
+m n015 [ s] : we can even m ake a [ disfm arker] sort of an int ernal dem o
+,
+m n015 [ s^ rt ] : and I [ disfm arker] I show you what I do ,
+m e045 [ b] : Mm − hm m .
+
+m n015 [ s] : I speak int o it and you hear it t alk ,
+m e045 [ s^ bk] : OK .
+m n015 [ s] : and I can sort of walk f t hrough t he inform at ion .
+m n015 [ s] : So , t his is like in half hour or fort y − five m inut es .
+m n015 [ s] : Just fun .
+m e045 [ s^ bk] : OK .
+m n015 [ s] : And so you [ disfm arker] when som ebody on t he st reet s
+com com es up t o y ou and asks y ou what is Sm art Kom so you can , sort
+of , giv e a sensible answer .
+m e045 [ s^ bk] : Right .
+m e045 [ s^ bk] : OK .
+m e010 [ qy ^ d^ rt ] : So , c sh we could set t hat up as act ually an
+inst it ut e wide t hing ?
+m e010 [ s^ e^ rt ] : Just give a t alk in t he big room , and [ disfm arker]
+and so peo people know what ’s going on ?
+m e010 [ s^ e] : when you ’re ready ?
+m n015 [ s^ aa] : Absolut ely .
+m e010 [ fg|s.%−−] : Yeah I m ean , t hat ’s t he kind of t hing [ disfm arker]
+m e010 [ s] : That ’s t he level at which you know we can just li invit e
+ev ery body and say " t his is a project t hat we ’ve been working on and
+here ’s a dem o version of it " and st uff like t hat .
+m e045 [ b] : Yeah .
+m n015 [ s^ bk] : OK .
+m n015 [ s^ aap.%−−] : Well d we [ disfm arker] we do wanna have all t he
+bugs out b where y ou have t o sort of pipe in ext ra XML m essages from
+left and right before you ’re [ disfm arker]
+m e045 [ b] : Uh − huh .
+m e010 [ s^ aa] : Indeed .
+m n015 [ s^ bk] : Yeah .
+m n015 [ s^ rt ^ t c] : OK .
+m n015 [ s] : Makes sense .
+m e010 [ %−−] : But any so t hat [ disfm arker] e e
+m e010 [ s] : It ’s clear , t hen , I t hink .
+m e010 [ s] : Act ually , roughly st art ing uh let ’s say , nex next m eet ing ,
+cuz t his m eet ing we have one ot her t hing t o t ie up besides t he t rip
+report .
+m e045 [ b] : Yeah .
+m e045 [ b] : OK .
+m e010 [ fh|s^ cc.%−−] : But uh st art ing next m eet ing I t hink we want t o
+flip int o t his m ode where [ disfm arker]
+m e010 [ fh|s] : Uh . I m ean t here are a lot of issues ,
+m e010 [ s:qw] : what ’s t he ont ology look like ,
+m e045 [ b] : Mm − hm m .
+m e010 [ s:qw] : y ou know what do t he const ruct ions look like ,
+m e010 [ s:qw] : what ’s t he execut ion engine look like ,
+m e010 [ fh|s] : m m m lot s of t hings .
+
+m e045 [ b] : Mm − hm m .
+m e010 [ s] : But , m ore focused on uh an idealized version t han just
+get t ing t he dem o out .
+m e010 [ s^ t c.%−−] : Now before we do t hat , let ’s get back in
+[ disfm arker]
+m e010 [ s^ fe] : Oh !
+m e010 [ s] : But , it ’s st ill , I t hink , useful for you t o underst and t he
+dem o v ersion enough , so t hat you can [ disfm arker] can see what
+[ disfm arker] what it is t hat [ disfm arker] t hat uh it m ight event ually get
+ret ro − fit t ed int o or som et hing .
+m e045 [ b] : Yeah .
+m e045 [ s^ bk] : OK ,
+m e045 [ s^ bk] : right .
+m e010 [ s] : And Johno ’s already done t hat , uh , looked at t he dem uh
+t he [ disfm arker] looked at t he Sm art Kom st uff .
+m e003 [ %−] : Wa
+m e003 [ fg] : uh [ disfm arker]
+m e003 [ s^ aap.%−−] : To som e de
+m e003 [ fh|qw] : uh what [ disfm arker] what part of t h t he Sm art Kom
+st uff ?
+m e010 [ s] : Well , t he parser , and t hat st uff .
+m e003 [ s^ aa] : Oh yeah [ disfm arker] yeah .
+m e010 [ s^ t c] : OK . Anyway .
+m e010 [ s.%−−] : So , t he t rip [ disfm arker]
+m e010 [ s.%−−] : t he report on t hese [ disfm arker]
+m e010 [ s^ t ] : t he last we we sort of int errupt ed you guys t elling us
+about what happened last week .
+m e045 [ b] : Yeah .
+m e045 [ s] : It ’s alright .
+m n015 [ h|s] : Um . [ vocalsound] Well it was just am azing t o
+[ disfm arker] t o see uh how [ disfm arker] how inst able t he whole t hing is
+,
+m e010 [ s] : May be you ’re done , t hen .
+m n015 [ s.%−−] : and if you just t ake t he [ disfm arker]
+m n015 [ s] : And I g I got t he feeling t hat we are [ pause] t he only ones
+right now who hav e a running syst em .
+m n015 [ s^ no] : I don’t know what t he guy s in Kaiserslaut ern have
+running
+m n015 [ %−−] : because
+m n015 [ s] : e t he v ersion [ disfm arker] t hat is , t he full version t hat ’s
+on t he server d does not work .
+m n015 [ s] : And you need t o do a lot of st uff t o m ake it work .
+m n015 [ %−−] : And so it ’s [ disfm arker]
+m n015 [ s] : And even Tilm an and Ralf sort of said " yeah t here never
+was a really working version t hat uh did it wit hout t h all t he short cut s
+t hat t hey built in for t he uh Oct ober @ @ version " .
+
+m n015 [ s] : So we ’re act ually m aybe ahead of t he Syst em Gruppe by
+now ,
+m n015 [ s^ e] : t he syst em [ disfm arker] t he int egrat ion group .
+m n015 [ s] : And it was , uh [ disfm arker] It was fun t o som e ext ent ,
+m n015 [ fh|s.%−−] : but t he uh t he out com e t hat is sort of of scient ific
+int erest is t hat I t hink bot h Ralf and Tilm an [ disfm arker]
+m n015 [ fh|s^ rt ] : um , I know t hat t hey enjoyed it here ,
+m n015 [ s] : and t hey r t hey [ disfm arker] t hey liked , uh , a lot of t he
+st uff t hey saw here ,
+m n015 [ s^ e^ rt ] : what [ disfm arker] what we have been t hinking about
+,
+m n015 [ s] : and t hey ’re m ore t han willing t o [ disfm arker] t o um ,
+cooperat e , by all m eans .
+m n015 [ fh|s] : And um , part of m y responsibilit y is uh t o use our
+int ernal " group − ware " server at EML ,
+m n015 [ s] : m ake t hat open t o all of us and t hem ,
+m n015 [ s] : so t hat what ever we discuss in t erm s of parsing and
+[ disfm arker] and generat ing and const ruct ions w we [ disfm arker] we
+sort of uh put it in t here
+m n015 [ s] : and t hey put what t hey do in t here
+m n015 [ s.x ] : and m aybe we can even um , get som e overlap , get
+som e sy nergy out of t hat .
+m n015 [ fh] : And um ,
+m n015 [ %−−] : t he , uh [ disfm arker]
+m n015 [ s^ cs] : If I find som eone at [ disfm arker] in EML t hat is
+int erest ed in t hat , um I [ disfm arker] I m ay even t hink t hat we could
+look [ disfm arker] t ake const ruct ions and [ disfm arker] and generat e
+from t hem
+m n015 [ s^ df] : because t he t ree adjoining gram m ars t hat [ disfm arker]
+t hat Tilm an is using is as you said not hing but a m at hem at ical
+form alism .
+m n015 [ s] : And y ou can just do any t hing wit h it , whet her it ’s
+sy nt act ic t rees , H P S G − like st uff , or whet her it ’s const ruct ion .
+m n015 [ s] : So if y ou ever get t o t he generat ion side of const ruct ing
+t hings and t here m ight be som et hing of int erest t here ,
+m n015 [ s] : but in t he m om ent we ’re of course definit ely focused on
+t he underst anding , um , pipeline .
+m e010 [ qy ^ d^ rt ] : Anyt h − any ot her [ vocalsound] [ com m ent ] uh repo
+v isit report s sort of st ories ?
+m e010 [ fh|s] : uh we [ disfm arker] so we now know I t hink , what t he
+landscape is like .
+m e045 [ b] : Mm − hm m .
+m e010 [ s^ co] : And so we just push on and [ disfm arker] and uh , do
+what we need t o do .
+
+m e010 [ s^ co] : And one of t he t hings we need t o do is t he um , and
+t his I t hink is relat ively t ight [ disfm arker] t ight ly const rained , is t o
+finish up t his belief − net st uff .
+m e010 [ fh] : So .
+m e010 [ fh|s^ t ^ t c] : Uh . And I was going t o swit ch t o st art t alking
+about t hat unless t here ’re m ot her m ore general quest ions .
+m e010 [ fh|s] : OK so here ’s where we are on t he belief − net st uff as
+far as I underst and it .
+m e010 [ fh|s] : Um . Going back I guess t wo weeks ago uh Robert had
+laid out t his belief − net , m issing only t he connect ions .
+m e010 [ qy ^ d^ g^ rt ] : Right ?
+m e010 [ s] : That is [ disfm arker] [ com m ent ] So , he ’d put all t h all t he
+dot s down ,
+m e010 [ s] : and we went t hrough t his , and , I t hink , m ore or less
+conv inced ourselv es t hat at least t he v ast m ajorit y of t he nodes t hat
+we needed for t he dem o level we were t hinking of , were in t here .
+m e010 [ s] : Yeah [ com m ent ] we m ay run across one or t wo m ore .
+m e010 [ s] : But of course t he connect ions weren’t .
+m e010 [ fh|s] : So , uh Bhaskara and I went off and looked at som e
+t echnical quest ions about were cert ain operat ions sort of legit im at e
+belief − net com put at ions and was t here som e known problem wit h
+t hem or had som eone already uh , solved you know how t o do t his and
+st uff .
+m e010 [ fh|s] : And so Bhaskara t racked t hat down .
+m e010 [ s] : The answer seem s t o be uh , " no , no one has done it ,
+but y es it ’s a perfect ly reasonable t hing t o do if t hat ’s what you set
+out t o do " .
+m e010 [ s^ cs] : And , so t he current st at e of t hings is t hat , again ,
+st art ing now , um we ’d like t o act ually get a running belief − net for t his
+part icular subdom ain done in t he next few weeks .
+m e010 [ s^ rt ] : So Bhaskara is swit ching project s as of t he first of June
+,
+m e010 [ fh|s] : and uh , he ’s gonna leave us an inherit ance , which is a
+uh [ disfm arker] hopefully a belief − net t hat does t hese t hings .
+m e010 [ s] : And t here ’re t wo aspect s t o it , one of which is , you know
+, t echnical ,
+m e010 [ s^ e] : get t ing t he coding right , and m aking it run , and uh
+st uff like t hat .
+m e010 [ s^ e] : And t he ot her is t he act ual sem ant ics .
+m e010 [ fh|qw] : OK ? What all [ disfm arker] you know , what are t he
+considerat ions and how and what are t he ways in which t hey relat e .
+m e010 [ s] : So he doe h he doesn’t need help from t his group on t he
+t echnical aspect s or if he does uh we ’ll do t hat separat ely .
+m e045 [ b] : Mm − hm m .
+m e010 [ s] : But in t erm s of what are t he decisions and st uff like t hat ,
+t hat ’s som et hing t hat we all have t o work out .
+
+m e010 [ qy ^ bu^ rt ] : Is [ disfm arker] is t hat right ?
+m e010 [ qy ^ bu^ d^ rt ] : I m ean t hat ’s [ disfm arker] t hat ’s bot h you
+guy s ’ underst anding of where we are ?
+m n015 [ s^ aa] : Absolut ely .
+m e010 [ s^ bk] : OK .
+m e012 [ fg|qy^ rt ] : So , I guess , um [ disfm arker] Is t here like a lat est
+v ersion of t he belief − net [ disfm arker] of t he proposed belief − net ?
+m e012 [ %−] : Like [ disfm arker]
+m n015 [ s.%−−] : We had um decided [ disfm arker]
+m e012 [ %−] : like [ disfm arker]
+m n015 [ fh|s^ bsc] : Um . Well , no , we didn’t decide .
+m n015 [ s] : We want ed t o look int o m ay be get t ing it , t he visualizat ion ,
+a bit clearer ,
+m n015 [ s] : but I t hink if we do it , um , sort of a paper version of all
+t he nodes and t hen t he connect ions bet ween t hem , t hat should
+suffice .
+m e012 [ b^ rt ] : Mm − hm m .
+m e012 [ s^ aa] : Yeah ,
+m e012 [ s^ 2^ ba] : t hat should be fine .
+m e003 [ fg] : Yeah , I [ disfm arker]
+m e010 [ fg|s^ aap] : Yeah I m ean , t hat ’s a separat e problem .
+m e010 [ s] : We do in t he long run wanna do bet t er visualizat ion and all
+t hat st uff .
+m n015 [ b] : Yeah .
+m e010 [ s] : That ’s separable ,
+m e010 [ fh] : y eah .
+m e003 [ s.%−−] : I did look int o t hat , uh in t erm s of , you know ,
+ex ploding t he nodes out and down ag
+m e010 [ b] : Yep .
+m e010 [ b] : Right .
+m e003 [ s] : JavaBayes does not support t hat .
+m e003 [ s^ cs] : I can im agine a way of hacking at t he code t o do t hat .
+m e003 [ s^ rt ] : It ’d probably t ake t wo weeks or so t o act ually go
+t hrough and do it ,
+m e010 [ s^ nd] : Not [ disfm arker] not at t his point .
+m e003 [ s^ rt ] : and I went t hrough all t he ot her packages on Murph −
+Kevin Murphy ’s page ,
+m e010 [ s^ bk] : Right .
+m e003 [ s] : and I couldn’t find t he necessary m ix of free and uh wit h
+t he GUI and , wit h t his t hing t hat we want .
+m e010 [ s^ cs.%−−] : Well , we can p If it ’s [ disfm arker] If we can pay
+[ disfm arker]
+m e010 [ s] : Yeah . If y ou know it ’s pay ing a t housand dollars or
+som et hing we can do t hat .
+m e010 [ qy^ d^ f^ rt ] : OK ?
+m e003 [ s^ bk] : OK .
+
+m e010 [ s] : So [ disfm arker] so don’t v iew free as [ disfm arker] as a
+absolut e const raint .
+m e003 [ s^ bk|s^ cc.%−] : OK , so t hen I ’ll go back and look at t he ones
+on t he list t hat [ disfm arker]
+m e010 [ s^ bk] : OK .
+m e012 [ b.x] : Yeah .
+m n015 [ fg] : But [ disfm arker]
+m e010 [ s^ cs] : And y ou can ask Kevin .
+m e012 [ fg|s^ rt ] : Yeah , t he one t hat uh people seem t o use is uh
+Hugin or what ev er ?
+m e003 [ b] : Mm m .
+m n015 [ fg] : But [ disfm arker]
+m e010 [ s^ m ] : Hugin ,
+m e010 [ s] : yeah t hat ’s free .
+m e012 [ qw.%−] : How exp
+m e012 [ s^ ng.%−−] : I don’t t hink it ’s [ disfm arker]
+m e012 [ qy ^ rt ] : Is it free ?
+m e012 [ s^ df.%−−] : Because I ’v e seen it advert ised in places so I
+[ disfm arker] it seem s t o [ disfm arker]
+m e010 [ h|s] : Uh , it m ay be free t o academ ics .
+m e010 [ s^ no] : Like I [ disfm arker] I don’t know .
+m e010 [ s^ df] : I hav e a co [ com m ent ] I have a copy [ com m ent ] t hat I l I
+downloaded .
+m e012 [ s^ bk] : OK .
+m e010 [ s^ df] : So , at one point it was free .
+m e012 [ s^ bk] : OK .
+m e010 [ fh|s] : Uh but yo I not iced people do use Hugin
+m e010 [ fh] : so um ,
+m e003 [ qw^ rt ] : How do you spell t hat ?
+fe004 [ qw^ t 3] : Why
+m e010 [ s] : HUGIN .
+m e010 [ s] : And Bhaskara can give you a point er .
+m e010 [ s.%−−] : So t hen , in any case , um [ disfm arker]
+m e010 [ s.%−−] : But paying a lit
+m e010 [ s.%−−] : You know , if i if it ’s uh [ disfm arker]
+m e010 [ s] : Probably for universit y , it ’s [ disfm arker] it ’s gonna be real
+cheap anyway .
+m e010 [ fh|s] : But um , you know , if it ’s fift y t housand dollars we
+aren’t gonna do it .
+m e010 [ s^ df] : I ’m m ean , we have no need for t hat .
+m n015 [ s^ cs] : I [ disfm arker] I also s would suggest not t o d spend
+t wo weeks in [ disfm arker] in [ disfm arker] in changing t he [ disfm arker]
+t he JavaBay es code .
+m e010 [ s^ aa] : No ,
+m e010 [ s] : he ’s not gonna do t hat .
+m e045 [ b] : Yeah .
+
+m e003 [ s^ bk] : OK .
+m n015 [ s^ cc] : I [ disfm arker] I will send you a point er t o a Java applet
+t hat does t hat ,
+m n015 [ s^ e] : it ’s sort of a fish − eye .
+m n015 [ s^ e^ rt ] : You [ disfm arker] you have a node , and you click on
+it , and it shows you all t he connect ions ,
+m n015 [ s] : and t hen if you click on som et hing else t hat m oves away ,
+t hat goes int o t he m iddle .
+m e003 [ b] : Mm m .
+m n015 [ s^ am ] : And m aybe t here is an easy way of int erfacing t hose
+t wo .
+m n015 [ s] : If t hat doesn’t work , it ’s not a problem we [ disfm arker] we
+need t o solve right now .
+m n015 [ s^ cc] : What I ’m [ disfm arker] what m y job is , I will , um , give
+y ou t he input in t erm s of [ disfm arker] of t he int ernal st ruct ure .
+m n015 [ s^ cs^ rt ] : Maybe node by node , or som et hing like t his ?
+m n015 [ qrr] : Or should I collect it all
+m e012 [ b] : Mm − hm m .
+m n015 [ fh] : and [ disfm arker]
+m e010 [ s] : Doesn’t m at t er .
+m e012 [ h|s] : Um , just any like [ disfm arker] like sort of rough
+represent at ion of t he ent ire belief − net is probably best .
+m n015 [ s^ bk.%] : OK .
+m n015 [ fh|qy^ bu^ d^ rt ] : And um you ’re gonna be around ? t again ,
+always Tuesday s and Thursdays aft ernoon − ish ? As usual ?
+m e012 [ s^ aa] : Yeah [ disfm arker]
+m n015 [ qr^ rt ] : Or will t hat change ?
+m e012 [ h|s^ aa] : I m ean , yeah ,
+m e012 [ s.%−−] : I can [ disfm arker] like I c
+m e012 [ h|s] : Um . This week I guess um , kind of [ disfm arker] I hav e a
+lot of project s and st uff but aft er t hat I will generally be m ore free .
+m e012 [ s^ am |s^ cc] : So yes , I m ight [ disfm arker] I can be around .
+m e012 [ s] : And g I m ean , generally if you em ail m e also I can be
+around on ot her days .
+m n015 [ b] : Yeah .
+m n015 [ s^ bk] : OK .
+m e010 [ s^ co] : Yeah and t his is not a crisis t hat [ disfm arker] I m ean ,
+y ou do , e ev ery body who ’s a st udent should , you know do t heir work ,
+get t heir c courses all in good shape
+m e010 [ s^ cc] : and [ disfm arker] and [ disfm arker] and [ disfm arker]
+and t hen we ’ll dig [ disfm arker] d dig down on t his .
+m n015 [ s^ aa|%−−] : Yeah , t hat ’s [ disfm arker]
+m n015 [ b] : Yeah .
+m n015 [ fg] : OK .
+m n015 [ s^ ba] : No , t hat ’s good .
+m n015 [ s] : That m eans I have I h I can spend t his week doing it .
+
+m n015 [ fh] : So .
+m e012 [ b] : OK .
+m e045 [ qw] : How do you go about t his process of deciding what t hese
+connect ions are ?
+m e045 [ s] : I know t hat t here ’s an issue of how t o weight t he different
+t hings t oo , and st uff .
+m e010 [ s^ aa] : Right .
+m e045 [ qy^ d^ g^ rt ] : Right ?
+m e045 [ s.%−] : I m ean do you just sort of guess and see if it sort of
+[ disfm arker]
+m e010 [ s] : Well t here [ disfm arker] t here [ disfm arker] t here There ’re
+t wo different t hings y ou do .
+m n015 [ fg] : It ’s [ disfm arker]
+m e010 [ s^ e] : One is you design and t he ot her is you learn .
+m e010 [ qy ^ d^ f^ rt ] : OK ?
+m e010 [ fh|s^ co] : So uh what we ’re gonna do init ially is [ disfm arker] is
+do design , and , i if you will , guess .
+m e045 [ b] : OK .
+m e010 [ qy^ d^ f^ g^ rt ] : OK .
+m e010 [ s] : Uh t hat is you know use your best knowledge of
+[ disfm arker] of t he dom ain t o uh , hypot hesize what t he dependencies
+are and st uff .
+m e045 [ b] : Right .
+m e045 [ b] : OK .
+m e010 [ s] : If it ’s done right , and if you have dat a t hen , t here are
+t echniques for learning t he num bers giv en t he st ruct ure
+m e045 [ b] : Yeah .
+m e010 [ s] : and t here are even t echniques for learning t he st ruct ure ,
+alt hough t hat t akes a lot m ore dat a ,
+m e010 [ s] : and it ’s not as @ @ and so fort h and so on .
+m e010 [ fh] : So uh
+m e010 [ s^ cs] : but for t he lim it ed am ount of st uff we have for t his
+part icular ex ercise I t hink we ’ll just design it .
+m e045 [ s^ bk] : Alright .
+m n015 [ s^ bk] : Yeah .
+m n015 [ s] : Fo − Hopefully as t im e passes we ’ll get m ore and m ore
+dat a from Heidelberg and from people act ually using it and st uff .
+m e045 [ s^ bk] : OK .
+m n015 [ s] : So but t his is t he [ pause] [ vocalsound] [ com m ent ] [ pause]
+long run .
+m e045 [ b] : Yeah .
+m n015 [ s] : But t o solve our problem s ag uh a m ediocre design will do I
+t hink in t he beginning .
+m e045 [ s^ aa] : Yeah ,
+m e045 [ s^ aa^ rt ] : t hat ’s right .
+
+m e045 [ fg|s.%−−:qy .%−−] : Yeah , oh , and by t he way , speaking of dat a ,
+um , are t here
+m e045 [ s] : I could swore [ disfm arker] uh , I could swear I saw it sit t ing
+on som eone ’s desk at som e point ,
+m e045 [ qy^ rt ] : but is t here a [ disfm arker] um a t ranscript of any of
+t he , sort of , init ial int eract ions of people wit h t he [ disfm arker] wit h
+t he sy st em ?
+m e010 [ s^ aa^ rt ] : Mm − hm m .
+m e045 [ s^ df] : Cuz you know , I ’m st ill sort of it ching t o [ disfm arker] t o
+look at what [ disfm arker] look at t he st uff , and see what people are
+say ing .
+m e010 [ b] : Yeah .
+m e010 [ s^ co] : Yeah m ake yourself a not e .
+m e010 [ s] : So and [ disfm arker] and , of course Keit h would like t he
+Germ an as well as t he English ,
+m e010 [ s] : so what ever you guy s can get .
+m n015 [ qy ^ bu^ d^ rt ] : The Germ an .
+m n015 [ s^ na] : Oh y eah , of course , Germ an .
+m n015 [ b] : Yeah .
+m e010 [ s] : Yeah , t he y your nat ive language ,
+m e010 [ qy ^ d^ g^ rt ] : right ?
+m e010 [ s^ j] : You rem em ber t hat one .
+m n015 [ s^ bk] : OK .
+m n015 [ s^ ba] : That ’s im port ant , y eah .
+m e010 [ s^ co] : So he ’ll get you som e dat a .
+m e045 [ fg] : Yeah ,
+m e045 [ s^ bk] : u OK .
+m e045 [ s] : Yeah , I m ean I [ disfm arker] I sort of um found t he uh , uh
+t he audio of som e of t hose ,
+m n015 [ b] : Hm m .
+m e045 [ fh|s] : and um , it kind of sounded like I didn’t want t o t rudge
+t hrough t hat , y ou know .
+m e045 [ s] : It was just [ disfm arker] St range ,
+m e045 [ fh] : but .
+m e010 [ s^ aa] : Yep .
+m n015 [ s] : We probably will not get t hose t o describe because t hey
+were t rial runs .
+m e045 [ s^ aa] : Oh yeah ,
+m e045 [ s^ bk] : OK .
+m n015 [ fh|s] : Um , but uh t hat ’s t h but we have dat a in English and
+Germ an already .
+m n015 [ fh] : So . [ disfm arker]
+m e045 [ s^ bk] : OK ,
+m e045 [ fg] : yeah , I m ean .
+m n015 [ s^ e] : Transcribed .
+m n015 [ s^ cc] : I will send you t hat .
+
+m n015 [ s^ bk] : OK .
+m e010 [ fg] : OK ,
+m e010 [ fh|qy ^ d^ t ] : so while we ’re st ill at t his sort of t op level ,
+anyt hing else t hat we ought a t alk about t oday ?
+m n015 [ qw^ t ] : Ho − how was y our t hingy .
+m e045 [ fg|s^ t ^ t c] : Oh , um , I just want ed t o , uh , s like m ent ion as
+an issue , um , y ou know last m eet ing I wasn’t here
+m e045 [ s^ df] : because I went t o a linguist ics colloquium on t he fict ive
+m ot ion st uff ,
+m e010 [ s^ aa] : Oh right .
+m e045 [ s^ ba] : and t hat was pret t y int erest ing
+m e045 [ fh] : and y ou know , I m ean ,
+m e045 [ s] : seem s t o m e t hat t hat will fairly obviously be of relevance
+t o uh [ disfm arker] t o what we ’re doing here
+m e045 [ s] : because you know people are likely t o give descript ions
+m e045 [ s^ e] : like you know , " What ’s t hat t hing uh right where you
+st art t o go up t he hill , " or som et hing like t hat ,
+m e045 [ s^ e] : y ou know , m eaning a few feet up t he hill or what ever
+from som e reference point and all t hat st uff
+m e045 [ s] : so I m ean , I ’m sure in t erm s of you know , people t rying t o
+st at e locat ions or , you know , all t hat kind of st uff , t his is gonna be
+v ery relevant .
+m e045 [ fh] : So ,
+m e045 [ fh|s.%−−] : um , now t hat was [ disfm arker] t he t alk was about
+English v ersus Japanese , um , which obviously t he Japanese doesn’t
+affect us direct ly , ex cept t hat , um , som e of t he const ruct ion
+[ disfm arker]
+m e045 [ s:s] : he ’d [ disfm arker] what he t alked about was t hat you
+know in English we say t hings like t h you know , " your bike is parked
+across t he st reet "
+m e045 [ s:s] : and we use t hese preposit ional phrases , you know , "
+well , if you were t o m ove across t he st reet you would be at t he bike " ,
+m e045 [ s:s] : but um in [ disfm arker] in Japanese t he [ disfm arker] t he
+m ore convent ionalized t endency is t o use a [ disfm arker] sort of a
+descript ion of " where one has crossed t o t he river , t here is a t ree " .
+m e045 [ fh|s:s] : Um , and you know , you can act ually say t hings like ,
+um , " t here ’s a t ree where one has crossed t he river , but no one has
+ev er crossed t he riv er " , or som et hing like t hat .
+m e045 [ s] : So t he idea is t hat t his really is you know t hat ’s supposed
+show t hat ’s it ’s really fict ive and so on .
+m e045 [ fh] : But um [ disfm arker]
+m e045 [ s:s] : But t he point is t hat t hat kind of const ruct ion is also
+used in English , y ou know , like " right where you st art t o go up t he hill
+" , or " just when y ou get off t he t rain " , or som et hing like t hat t o
+[ disfm arker] uh , t o indicat e where som et hing is .
+m e010 [ b] : Mm m .
+
+m e045 [ s^ cc.%−] : So we ’ll have t o t hink about [ disfm arker]
+m e010 [ fg] : So [ disfm arker]
+m e010 [ qw] : how m uch is t hat used in Germ an ?
+m n015 [ h|s] : Um . The uh [ disfm arker] Well [ disfm arker] I wa I was on a
+uh [ disfm arker] on a [ disfm arker] on a different sidet rack .
+m n015 [ s] : I m ean , t he [ disfm arker] t he Deep Map project which um is
+undergoing som e renovat ion at [ disfm arker] at t he m om ent ,
+m e010 [ s^ bk] : Oh , OK .
+m n015 [ s] : but t his is a [ disfm arker] a t hree language project :
+Germ an , English , Japanese .
+m e045 [ s^ bk] : OK .
+m n015 [ fh|s] : And um , we have a uh , uh [ disfm arker] I hav e t aken
+care t hat we hav e t he [ disfm arker] t he Japanese generat ion and st uff .
+m n015 [ fh|s] : And so I looked int o uh spat ial descript ion .
+m n015 [ s^ df] : So we can generat e spat ial descript ions , how t o get
+from A t o B . And [ disfm arker] and inform at ion on object s , in Germ an ,
+English , and Japanese .
+m e045 [ b] : Mm − hm m .
+m n015 [ s] : And t here is a huge uh project on spat ial descript ions uh
+[ disfm arker] differences in spat ial descript ions .
+m n015 [ s^ e] : Well , if yo if you ’re int erest ed in t hat ,
+m n015 [ qw.%−−] : so how [ disfm arker] how ,
+m n015 [ s] : I m ean it does sort of go d all t he way down t o t he
+concept ual lev el t o som e ext ent .
+m e045 [ s^ bk] : OK .
+m n015 [ fh] : So .
+m n015 [ fh] : Um .
+m e010 [ qw^ rt ] : So , where is t his huge project ?
+m n015 [ s] : It ’s KLEIST .
+m n015 [ s] : It ’s t he uh Bielefeld generat ion of uh spat ial descript ions
+and what ever .
+m e010 [ b^ rt ] : Mm − hm m .
+m n015 [ %] : [ no m at ched cont ent ]
+m e010 [ s^ cs] : Well , t hat m ay be anot her t hing t hat Keit h want s t o
+look at .
+m e045 [ s^ bk] : OK .
+m n015 [ fh|s^ cs] : But um , I [ disfm arker] I t hink we should leave
+Japanese const ruct ions m aybe out side of t he scope for [ disfm arker]
+for now ,
+m e045 [ s^ aa] : Yeah .
+m n015 [ fh|s^ ba] : but um definit ely it ’s int erest ing t o look at
+[ disfm arker] at cross t he bordered t here .
+m e010 [ b] : Mm − hm m .
+m n036 [ qy ] : Are [ disfm arker] are you going t o p pay any at t ent ion t o
+t he relat ive posit ion [ disfm arker] of [ disfm arker] of t he direct ion
+relat iv e [ disfm arker] relat ive t o t he speaker ?
+
+m n036 [ s^ e] : For exam ple , t here are som e differences bet ween
+Hebrew and English .
+m n036 [ s] : We can say um " park in front of t he car " as you com e beh
+y ou driv e behind t he car .
+m n036 [ s] : In Hebrew it m eans " park behind t he car " , because t o
+follow t he car is defined as it faces y ou .
+m n015 [ b] : Mm − hm m .
+m n015 [ s] : Int rinsic ,
+m n015 [ b] : y eah .
+m n036 [ s] : While in English , front of t he car is t he absolut e front of
+t he car .
+m e045 [ s^ bk] : OK .
+m e045 [ fg|s^ bu] : Right , so t he canonical direct ion of m ot ion
+det erm ines where t he front is .
+m n036 [ fh] : So .
+m n036 [ s^ aa] : Right .
+m n036 [ s^ aa^ r] : Right .
+m e045 [ s^ bk] : OK .
+m n036 [ qy .%−−] : So , i i i is Germ an uh closer t o [ disfm arker] t o E uh ,
+uh , uh , uh [ disfm arker] t o E I m ean uh
+m n015 [ b] : Mm − hm m .
+m n036 [ s] : I don’t t hink it [ disfm arker] it ’s relat ed t o synt ax , t hough ,
+so it m ay be ent irely different .
+m n015 [ fh|s.%−] : Um , as a m at t er of fact [ disfm arker]
+m e010 [ s^ aa] : No , it ’s not .
+m e045 [ s^ aa] : Right .
+m n036 [ b] : Yeah .
+m n015 [ fg|qy^ rt ] : Um . Did you ever get t o look at t he [ disfm arker] t he
+rou paper t hat I sent you on t he [ disfm arker] on t hat problem in
+English and Germ an ?
+m e045 [ s.%−] : I t hink [ disfm arker]
+m n015 [ s^ e] : Carroll , ninet y − t hree .
+m n015 [ fh|s] : Um . I [ disfm arker] There is a [ disfm arker] a st udy on
+t he differences bet ween English and Germ an on exact ly t hat problem .
+m n036 [ b] : Hm m .
+m n015 [ s:s] : So it ’s [ disfm arker] t hey act ually say " t he m onkey in
+front of t he car ,
+m n015 [ qw^ rt ] : where ’s t he m onkey ? "
+m e045 [ b] : Mm − hm m .
+m n015 [ s] : And , um , t hey found st at ist ically very significant
+differences in English and Germ an ,
+m n015 [ %−−] : so I [ disfm arker] I [ disfm arker] I [ disfm arker]
+m n015 [ s] : It m ight be , since t here are only a finit e num ber of ways of
+doing it , t hat [ disfm arker] t hat Germ an m ight be m ore like Hebrew in
+t hat respect .
+
+m n015 [ s] : The solut ion t hey proposed was t hat it was due t o
+sy nt act ic fact ors .
+m e045 [ b] : Hm m .
+m n036 [ s^ arp.%−−] : That [ disfm arker] but it wasn’t [ disfm arker] was
+[ disfm arker]
+m n015 [ s] : That synt act ic fact o fact ors do [ disfm arker] do play a role
+t here , wh whet her y ou ’re m ore likely , y ou know , t o develop uh ,
+choices t hat lead y ou t owards using uh int rinsic versus ext rinsic
+reference fram es .
+m n036 [ %] : Right .
+m n036 [ b] : Mm − hm m .
+m n036 [ b] : Right .
+m e010 [ b] : Hm m .
+m e045 [ s.%−−] : I m ean , it seem s t o m e t hat you can get bot h in
+[ disfm arker] in English depending o
+m e045 [ s.%−−] : You know , like , " in front of t he car " could you know
+[ disfm arker] Like ,
+m e045 [ s] : here ’s t he car sideways t o m e in bet ween m e and t he car
+or som et hing ’s in front of t he car , or what ever .
+m e045 [ s] : I could see t hat ,
+m e010 [ s^ aa] : Absolut ely .
+m e045 [ fh] : but [ disfm arker]
+m e045 [ s^ t c] : But anyway , so you know , I m ean , t his was
+[ disfm arker] t his was a [ disfm arker] a very good t alk on t hose kinds of
+issues and so on .
+m e045 [ fh] : So uh .
+m n015 [ s^ cc] : I can also give you uh , a point er t o a paper of m ine
+which is t he [ disfm arker] t he ult im at e t axonom y of reference fram es .
+m e045 [ s^ ba] : Alright !
+m n015 [ fh] : So .
+m e045 [ s^ ba] : Cool !
+m n015 [ s] : I ’m t he only person in t he world who act ually knows how it
+works .
+m e010 [ b] : Oh .
+m e010 [ s^ bk] : Oh .
+m n015 [ s^ e] : Not really .
+m e010 [ s^ ba] : Great .
+m e010 [ s] : No , I ’ve not seen t hat .
+m n015 [ s.%−] : It ’s called a [ disfm arker]
+m n036 [ qw] : What do you m ean . Um . " reference fram es " ?
+m n036 [ fh] : uh uh
+m n015 [ s] : It ’s [ disfm arker] it ’s spat ial reference fram es .
+m n015 [ s.%−−] : You act ually hav e only [ disfm arker]
+m n015 [ h|s.%−−] : Um . If you wanna hav e a [ disfm arker]
+m n015 [ s.%−−] : This is usually um [ disfm arker]
+m n015 [ s] : I should [ disfm arker] t here should be an " L " , t hough .
+
+m n015 [ s] : Well act ually you have [ disfm arker] only have t wo choices .
+m n015 [ s] : You can eit her do a t wo − point or a t hree − point
+m n015 [ qy ^ rt ] : which is you You ’re fam iliar wit h t h wit h t he " origo " ?
+m n015 [ s] : where t hat ’s t he cent er [ disfm arker] " Origo " is t he cent er
+of t he f fram e of reference .
+m n015 [ s] : And t hen you have t he reference object and t he object t o
+be localized .
+m e045 [ b] : Hm m .
+m e045 [ b] : Hm m .
+m n015 [ qy ^ d^ f^ rt ] : OK ?
+m n036 [ b] : Mm − hm m .
+m n015 [ s] : In som e cases t he origo is t he sam e as t he reference
+object .
+fe004 [ s.%−] : This was like [ disfm arker]
+m e010 [ s^ bu] : So t hat would be " origin " in English ,
+m e045 [ s^ aa^ r] : The origin .
+m e010 [ qy ^ d^ g^ rt ] : right ?
+m e045 [ b] : Yeah .
+m n036 [ s^ aa] : Right
+m n015 [ s] : " Origo " is a Term inus t echnikus . in t hat sense ,
+m n015 [ s] : t hat ’s even used in t he English lit erat ure .
+m n015 [ s] : " Origo . "
+m e045 [ s^ bk] : Oh , OK .
+m e010 [ s^ bk^ rt ] : Alright .
+m e045 [ s^ rt ] : I never heard it .
+m n036 [ b] : OK .
+m e045 [ s^ bk^ rt ] : OK .
+m n015 [ fh] : And um , so ,
+m n015 [ s] : t his v ideo t ape is in front of m e .
+m n015 [ s] : I ’m t he origo and I ’m also t he reference object .
+m e045 [ b] : Mm − hm m .
+m e045 [ b] : Mm − hm m .
+m n015 [ s] : Those are t wo − point .
+m n036 [ b] : Right .
+m e010 [ b] : Mm − hm m .
+m n015 [ s] : And t hree − point relat ions is if som et hing has an int rinsic
+front side like t his chair t hen y our f shoe is behind t he chair .
+m e010 [ b] : Yeah .
+m e045 [ b] : Mm − hm m .
+m n015 [ s] : And , reference object and [ disfm arker] Um . No , from
+[ disfm arker] from m y point of view y our shoe is left of t he chair .
+m e045 [ fg] : Right .
+m e045 [ s] : You [ disfm arker] y ou can act ually say t hings like , um , " it
+’s behind t he t ree from m e " or som et hing like t hat , I t hink , in
+[ disfm arker] in [ disfm arker] in cert ain circum st ances in English ,
+m e045 [ qy ^ d^ g^ rt ] : right ?
+
+m n015 [ s^ aa] : Yeah .
+m e045 [ s.%−−] : As sort of " from where I ’m st anding it would appear
+t hat " [ disfm arker]
+m n015 [ b] : Yeah .
+m n015 [ fg] : So ,
+fe004 [ s] : Looks a lit t le bit like Reichenbach for t im e .
+m e010 [ s^ na] : Yeah , it sounds like it ,
+m e010 [ qy ^ d^ g^ rt ] : doesn’t it ,
+fe004 [ s^ aa^ m ] : It ’s a lot like it .
+m e010 [ b] : y eah .
+m e045 [ b] : Yeah .
+m n015 [ s.%−] : And t hen [ disfm arker] and t hen here you [ disfm arker]
+fe004 [ fh] : Um .
+m n015 [ s] : On t his scale , you have it eit her be ego or allocent ric .
+m e010 [ s^ aa^ rt ] : Mm − hm m .
+m n015 [ s] : And t hat ’s [ com m ent ] [ disfm arker] t hat ’s basically it .
+m n015 [ fh|s] : So . Egocent ric t wo − point , egocent ric t hree − point , or
+y ou can hav e allocent ric .
+m n015 [ fh|s] : So , " as seen from t he church , t he t own hall is right of
+t hat um , fire st at ion " .
+m e045 [ s^ bk] : Oh , OK .
+m n015 [ fh|s.%−] : aa − huh [ com m ent ] It ’s hardly ever used but it ’s w
+m n036 [ s] : I ’d lov e t o see it if you [ disfm arker] if you have a copy kind
+of .
+m e010 [ fg] : Yeah .
+m e010 [ s] : I see t his is [ disfm arker] t his is get t ing int o Am i ’s t hing .
+m e045 [ b] : Yeah .
+m n036 [ b] : Uh .
+m e045 [ b] : Mm − hm m .
+m e010 [ s] : He ’s [ disfm arker] he ’s v ery int erest ed in t hat .
+m n036 [ %] : Here
+m n015 [ s^ bk] : OK .
+m e010 [ fh] : So .
+m e010 [ fh] : Uh . Yeah .
+m e045 [ s] : Me t oo .
+m e010 [ qw] : Well , why don’t you just put it on t he web page ?
+m e010 [ s.%−−] : There ’s t his EDU [ disfm arker]
+m e010 [ qy ^ d^ g^ rt ] : Right ?
+m n015 [ fg] : Yeah
+m n015 [ s.%−−] : it ’s [ disfm arker] or [ disfm arker] or just [ disfm arker]
+m n015 [ s^ bk] : Yeah .
+m n015 [ s] : It ’s also all on m y [ disfm arker] m y hom e page at EML .
+m e010 [ s] : Or a link t o it .
+m n015 [ s] : It ’s called " An Anat om y of a Spat ial Descript ion " .
+m e010 [ %−] : Just
+m n015 [ s^ cc] : But I ’ll send t hat link .
+
+m n036 [ b] : OK , great .
+m e010 [ s^ cs] : Maybe just put a link on .
+m n015 [ s^ bk] : Yep .
+m e010 [ fh] : Yeah .
+m n015 [ fh] : Yep .
+m e010 [ fg|s] : By t he way , t here [ disfm arker] som et hing t hat I didn’t
+know unt il about a week ago or so , is apparent ly , t here are separat e
+brain areas for t hings wit hin reach , and t hings t hat are out of reach .
+m e010 [ s] : So t here ’s [ disfm arker] t here ’s uh all t his linguist ic st uff
+about y ou know , near and far , or yon and [ disfm arker] and so fort h .
+m e045 [ b] : Huh .
+m e045 [ b] : Mm − hm m .
+m e010 [ s] : So t his is all [ disfm arker] This is [ disfm arker] There ’s t his
+linguist ic fact s .
+m e010 [ s] : But apparent ly , t he [ disfm arker] Uh . Here ’s t he way t he
+findings go .
+m e010 [ s] : That , you know t hey do MRI , and [ disfm arker] and if you
+’re uh [ disfm arker] got som et hing wit hin reach t hen t here ’s one of
+y our areas light s up ,
+m e010 [ s] : and if som et hing ’s out of reach uh a different one .
+m e010 [ s^ ba] : But here ’s t he [ disfm arker] t he am azing result , um ,
+t hey say .
+m e010 [ s] : You get som eone wit h a [ disfm arker] wit h a deficit so t hat
+t hey have a perfect ly norm al abilit y at dist ance t hings .
+m e010 [ fh|s] : So t he s t ypical t ask is subdivision .
+m e010 [ s:qw] : So t here ’s a [ disfm arker] a line on t he wall over t here ,
+and you give t hem a laser point er , and you say , " Where ’s t he
+m idpoint ? "
+m e010 [ s] : And t hey do fine .
+m e010 [ s] : If you giv e t hem t he line , and t hey have t o t ouch it ,
+m e010 [ s^ e] : t hey can’t .
+m e010 [ s] : There ’s just t hat part of t he brain isn’t funct ioning , so
+t hey can’t do t hat .
+m e010 [ s] : Here ’s t he real experim ent .
+m e010 [ s:qw] : The sam e t hing on t he wall , you give t hem a laser , "
+where is it ? " ,
+m e010 [ s^ e] : t hey do it .
+m e045 [ b] : Mm − hm m .
+m e010 [ s:s] : Giv e t hem a st ick , long st ick , and say " do it " ,
+m e010 [ s^ e] : t hey can’t do it .
+m e010 [ s] : So t here ’s a rem apping of dist ant space int o nearby
+space .
+m n036 [ b] : Right .
+m n036 [ s^ bu.%−] : So t hey doubled [ disfm arker]
+fe004 [ qy ^ bu^ d^ rt ] : Because it ’s wit hin reach now ?
+
+m n036 [ s.%−] : t he [ disfm arker] t he end [ disfm arker] t he end of t his
+[ disfm arker]
+m e010 [ s^ ng] : It ’s not wit hin reach and you use t he Wit hin − Reach
+uh , m echanism .
+m e045 [ s^ aa] : Yeah ,
+fe004 [ s^ fe] : Oh . Wow .
+m e045 [ b] : yeah .
+m e045 [ s^ 2] : Circuit s .
+m e010 [ s^ cc] : So I ’ll d I ’ll dig y ou up t his reference .
+m n036 [ b] : Right .
+m e045 [ s^ ba] : That ’s cool .
+m e010 [ s.%−−] : And so t his doe This is , uh [ disfm arker]
+m e010 [ s] : First of all , it explains som et hing t hat I ’ve always
+wondered about
+m e010 [ s^ cc] : and I ’ll do t his [ disfm arker] t his t est on you guys as
+well .
+m e010 [ fh] : So .
+m e010 [ fh|s] : Uh . How − I have had an ex perience , not oft en , but a
+cert ain num ber of t im es , when , for exam ple , I ’m working wit h a t ool ,
+a screwdriv er or som et hing , for a long t im e , I st art feeling t he t ip
+direct ly .
+m e010 [ s^ e] : Not indirect ly ,
+m e010 [ s] : but y ou act ually can feel t he t ip .
+m e045 [ b] : Yeah
+m e045 [ b] : yeah .
+m e010 [ s] : And people who are uh accom plished violinist s and st uff
+like t hat , claim t hey also have t his kind of t hing where you get a direct
+sensat ion of , physical sensat ion , of t he end affect or .
+m e045 [ b] : Yeah .
+m e045 [ s^ 2] : What ’s going on at t he end of t he t ool ,
+m e045 [ b] : yeah .
+m n036 [ s] : The ex t t he [ disfm arker] t he [ disfm arker] The ext ension ,
+m e010 [ qw^ br^ d^ rt ] : Huh ?
+m e045 [ s^ r] : What ’s going on at t he end of t he t ool , or what ever .
+m e010 [ s^ aa] : Yeah ,
+m e010 [ %−] : wit hin [ disfm arker]
+m n036 [ s^ aa] : right .
+m e010 [ qw^ br^ d^ rt ] : Huh ?
+m n036 [ s^ r] : The ext ension of [ disfm arker] of your hand , right .
+m e010 [ s^ aa] : Yeah ,
+m e010 [ s^ aa] : right .
+m e010 [ qy^ rt ] : Have you hav y h had t his ?
+m n036 [ %] : The [ disfm arker]
+m n036 [ s^ am ] : I [ disfm arker] I t hink so .
+
+m n036 [ s^ e] : I m ean i i it ’s not exact ly t he t h sam e t hing , but
+[ disfm arker] but s it [ disfm arker] it [ disfm arker] it ’s get t ing close t o
+t hat .
+fe004 [ qw] : W what does it feel like ?
+m e045 [ b] : Yeah .
+m e010 [ s] : Oh i it feels like your [ disfm arker] as if your uh neurons had
+ex t ended t hem selv es out t o t his t ool , and you ’re feeling forces on it
+and so fort h
+m e010 [ s] : and [ disfm arker] and you deal direct ly wit h it .
+m n036 [ s] : I once [ disfm arker] I [ disfm arker] I was playing you know
+wit h t hose um uh devices t hat allow you t o m anipulat e object s when it
+’s dangerous t o get close ?
+m e010 [ s^ bk] : Right , yeah [ disfm arker] yeah [ disfm arker] yeah .
+m e045 [ s^ bk] : Oh , OK .
+m n036 [ s] : So you can insert your hand som et hing
+m e010 [ b] : Yeah .
+m n036 [ s.%−−] : and t here ’s a correspondence bet ween [ disfm arker]
+m e010 [ b] : Yeah .
+m n036 [ s] : So I played wit h it .
+m n036 [ s] : Aft er a while , you don’t feel t he difference anym ore .
+m e010 [ s^ aa] : Yeah , right .
+m n036 [ s.%−] : I [ disfm arker] I m ean it ’s kind of [ disfm arker]
+m e045 [ b] : Mm − hm m .
+m n036 [ s] : Very [ disfm arker] kind of [ disfm arker] you st op back and
+suddenly it goes away
+m n036 [ s] : and y ou have t o kind of work again t o recapt ure it , but
+y eah .
+m e045 [ b] : Yeah .
+m e010 [ b] : Right ,
+m e010 [ fg|s^ t c] : Yeah , so anyway , so [ disfm arker] So t his was t he
+first act ual experim ent al evidence I ’d seen t hat was consist ent wit h
+t his anecdot al st uff .
+m e045 [ s^ ba] : That ’s cool .
+m e010 [ s] : And of course it m akes a lovely def uh st ory about why
+languages uh , m ake t his dist inct ion .
+m e010 [ s] : Of course t here are behavioral differences t oo .
+m e010 [ s] : Things you can reach are really quit e different t han t hings
+y ou can’t .
+m e045 [ b] : Yeah .
+m e010 [ s] : But t here seem s t o be an act u really deep em bodied
+neural difference .
+m e010 [ s.%−−] : And i t his is , um [ disfm arker]
+m e010 [ s.%−] : So . In addit ion t o t he e
+m n015 [ s] : This is m ore proxim al − dist al .
+m e010 [ s^ aa] : Yeah uh exact ly .
+
+m e010 [ s] : So in addit ion t o e ego and allocent ric uh which appear all
+ov er t he place , y ou also apparent ly have t his proxim al − dist al t hing
+which is v ery deeply uh em bedded .
+m e010 [ %] : S
+m n015 [ s.%−−] : Well , Dan Mont ello sort of ,
+m n015 [ s] : he [ disfm arker] he does t he uh uh [ disfm arker] t h t he
+cognit iv e m ap world , down in Sant a Barbara .
+m n015 [ s] : And he [ disfm arker] he always t alks about t hese
+[ disfm arker]
+m n015 [ s.%−−] : He [ disfm arker] he already [ disfm arker] well
+[ disfm arker]
+m n015 [ s] : i probably m ost likely wit hout knowing t his [ disfm arker] t his
+ev idence uh is t alking about t hese sm all scale spaces t hat you can
+m anipulat e versus large scale environm ent al spaces .
+m e010 [ b] : Yeah .
+m e010 [ s] : Well t here ’s [ disfm arker] t here ’s uh been a lot of
+behav ioral t hings o on t his , but t hat was t he first neur neuro −
+phy siological t hing I saw .
+m e010 [ s^ cc^ t c] : Anyway yeah , so we ’ll [ disfm arker] we ’ll look at
+t his .
+m e010 [ fh|s] : And . So , all of t hese issues now [ disfm arker] are now
+st art ing t o com e up .
+m e010 [ s] : So , now [ disfm arker] we ’re now done wit h dem os .
+m e010 [ s] : We ’re st art ing t o do science ,
+m e010 [ qy^ d^ g^ rt ] : right ?
+m e010 [ fh|s] : And so t hese issues about uh , reference , and
+[ disfm arker] spat ial [ com m ent ] reference , discourse reference , uh −
+uh − uh − uh [ com m ent ] all t his sort of st uff , uh , deixis which is part of
+what y ou were t alking about ,
+m e045 [ b] : Mm − hm m .
+m e045 [ b] : Mm − hm m .
+m e010 [ fh|s] : um [ disfm arker] So , all of t his st uff is com ing up
+essent ially st art ing now .
+m e010 [ s^ co] : So we got t a do all t his .
+m e010 [ s^ t ] : So t here ’s t hat .
+m e010 [ s^ t ] : And t hen t here ’s also a set of syst em t hings t hat com e
+up .
+m e010 [ s:s] : So " OK , we ’re not using t heir syst em . That m eans we
+need our syst em . "
+m e045 [ s^ aa] : Mm − hm m .
+m e010 [ qy ^ d^ g^ rt ] : Right ?
+m e010 [ s] : It [ disfm arker] it follows .
+m e045 [ s^ aa] : Yeah .
+m e010 [ fh|s^ cc] : And so , uh , in addit ion t o t he business about just
+get t ing t he linguist ics right , and t he form alism and st uff , we ’re
+act ually gonna build som et hing
+
+m e010 [ fh|s] : and uh , Johno is point person on t he parser , analyzer ,
+what ev er t hat is ,
+m e010 [ fh|s] : and we ’re gonna st art on t hat in parallel wit h t he um ,
+t he gram m ar st uff .
+m e010 [ s] : But t o do t hat we ’re gonna need t o m ake som e decisions
+like ont ology ,
+m e045 [ b] : Alright .
+m e010 [ fh|s.%−−:qy .%−−] : so , um [ disfm arker] And so t his is anot her
+t hing where we ’re gonna , you know , have t o get involved and m ake s
+relat iv ely early I t hink , m ake som e decisions on uh , " is t here an
+ont ology API t hat [ disfm arker] t hat " [ disfm arker]
+m e010 [ s] : There ’s a sort of st andard way of get t ing t hings from
+ont ologies
+m e010 [ s] : and we build t he parser and st uff around t hat ,
+m e010 [ qy ] : or is t here a part icular ont ology t hat we ’re gonna
+st andardize on , and if so [ disfm arker] For exam ple , is t here
+som et hing t hat we can use t here .
+m e010 [ qy ] : i Does uh eit her t he uh Sm art Kom project or one of t he
+project s at EML hav e som et hing t hat we can just p pull out , for t hat .
+m e010 [ fh|s] : Uh , so t here are gonna be som e [ disfm arker] som e
+[ disfm arker] som e t hings like t hat , which are not science but syst em .
+m e010 [ s] : But we aren’t gonna ignore t hose
+m e010 [ s^ df] : cuz we ’re [ disfm arker] we ’re not only going
+[ disfm arker] The plan is not only t o lay out t his t hing , but t o act ually
+uh build som e of it .
+m e010 [ s] : And how m uch we build , and [ disfm arker] and so fort h .
+m e045 [ %−−] : I [ disfm arker]
+m e010 [ fh|s.%−−] : Uh . Part of it , if it works right , is wh
+m e010 [ s] : It looks like we ’re now in a posit ion t hat t he const ruct ion
+analy zer t hat we want for t his applied project can be t he sam e as t he
+const ruct ion analyzer t hat Nancy needs for t he child language
+m odeling .
+m e010 [ s] : So . It ’s always been out of phase
+m e010 [ s] : but it now seem s t hat um , t here ’s a good shot at t hat .
+m e010 [ s] : So we ’v e t alked about it ,
+m e010 [ s] : and t he hope is t hat we can m ake t hese t hings t he sam e
+t hing ,
+m e045 [ s^ bk] : OK .
+m e010 [ s] : and of course it ’s only w In bot h cases it ’s only one piece
+of a bigger sy st em .
+m e045 [ b] : Mm − hm m .
+m e010 [ s] : But it would be nice if t hat piece were exact ly t he sam e
+piece .
+m e010 [ s] : It was just t his uh const ruct ion analyzer .
+m e045 [ b] : Right .
+
+m e010 [ fh|s] : And so we t hink [ disfm arker] we t hink we have a shot at
+[ disfm arker] at t hat .
+m e045 [ b] : OK .
+m e010 [ s.%−−] : So . The for
+m e010 [ fh] : So .
+m e010 [ s.%−−] : To [ disfm arker] t o com e full circle on t hat , t his
+form alizat ion t ask ,
+m e010 [ qy^ d^ f] : OK ?
+m e010 [ s^ e.%−] : is t rying t o get t he form alism int o [ disfm arker] int o a
+shape where it can act ually uh
+m e045 [ fg] : Yeah .
+m e045 [ s^ 2] : Be of use t o som eone who ’s t rying t o do t his ,
+m e045 [ qy ^ d^ g^ rt ] : right ?
+m e010 [ s^ aa] : d Well , yeah ,
+m e010 [ s] : where it act ually is [ disfm arker] is [ disfm arker] covers t he
+whole range of t hings .
+m e010 [ s] : And t he [ disfm arker] t he [ disfm arker] t he [ disfm arker] t he
+t hing t hat got Mark int o t he worst t rouble is he had a very am bit ious
+t hing he was t rying t o do ,
+m e010 [ s] : and he insist ed on t ry ing t o do it wit h a lim it ed set of
+m echanism s .
+m e010 [ s] : It t urned out , inherent ly not t o cover t he space .
+m e045 [ s^ bk] : OK .
+m e010 [ s] : And it just [ disfm arker] it was just t erribly frust rat ing for
+him ,
+m e045 [ b] : Yeah .
+m e010 [ fh|s] : and he seem ed fully com m it t ed t o bot h sides of t his i i
+irreconcilable t hing .
+m e045 [ b] : I see .
+m e045 [ b] : Right .
+m e010 [ fh] : And .
+m e010 [ fh|s] : Uh . Johno is m uch m ore pragm at ic .
+m e045 [ s^ bk] : OK .
+m e010 [ qy ^ br^ rt ] : Uh . Huh ?
+m e045 [ s] : Good t o know .
+m e010 [ s] : Is [ disfm arker] This is t rue ,
+m e010 [ qy^ d^ g^ rt ] : is it not ?
+m e003 [ s^ aa] : Yes .
+m e010 [ s^ bk] : OK .
+m e010 [ s] : So t here ’s you know sort of , yeah , deep , really deep ,
+em ot ional com m it m ent t o a cert ain t heory being uh , com plet e .
+m e045 [ s^ bk] : Oh , OK .
+fe004 [ qy ^ d^ j^ rt ] : You don’t have a hidden purist st reak ?
+m e003 [ s^ ar] : Oh no .
+fe004 [ s^ bk] : OK .
+
+m e010 [ s^ j] : We − well it hasn’t it [ disfm arker] it cert ainly hasn’t been
+observed , in any case .
+fe004 [ s^ df] : Just checking .
+m e003 [ s^ aa] : No sir .
+m e045 [ s^ bk] : Alright .
+m e010 [ fh|s] : Um . Now , you do , but t hat ’s OK .
+m e010 [ fh|%−] : Uh . So . For [ disfm arker] for [ disfm arker]
+m e045 [ s^ df^ j] : Cuz I don’t have t o im plem ent anyt hing .
+m e010 [ s^ aa] : Exact ly right .
+fe004 [ s^ j] : I have a problem , t hen .
+m e010 [ s^ aa] : Ex act ly .
+fe004 [ s^ j] : It ’s [ disfm arker] So . Whet her I do depends on whet her I
+’m t alking t o him or him probably .
+m n036 [ b] : Hm m .
+m e045 [ s^ aa] : Yeah , right .
+m e010 [ b] : Right .
+fe004 [ s^ e] : Which m eet ing I ’m in .
+m e010 [ fg|s.%−−] : Why [ disfm arker] a act ually , uh , t he t hing is , you
+[ disfm arker] you do but , t h t he t hing you have t o im im plem ent is so
+sm all t hat [ disfm arker] Uh .
+fe004 [ s^ 2^ j] : It ’s OK t o be purist wit hin t hat cont ext .
+m e010 [ s^ aa^ m ] : Wit hin t hat ,
+fe004 [ s^ bk] : Yes ,
+m e010 [ s^ aa] : y eah ,
+fe004 [ s^ ba] : good .
+m e010 [ fh|s] : and uh , it ’s [ disfm arker] a and st ill , I t hink , you know ,
+get som et hing done .
+m e045 [ s^ fe] : Cool !
+m e010 [ s] : But t o t ry t o do som et hing upscale and purist Part icularly if
+[ disfm arker] if um what you ’re purist about doesn’t act ually work ,
+[ v ocalsound] is real hard .
+fe004 [ b.%] : Yay .
+m e045 [ b] : Mm − hm m .
+m e045 [ b] : Yeah .
+m e010 [ fh] : OK .
+m e010 [ s^ t ] : And t hen t he ot her t hing is while we ’re doing t his uh
+Robert ’s gonna pick a piece of t his space ,
+m n036 [ s] : It ’s possible yeah .
+m e045 [ s^ bk] : OK .
+m e010 [ qy^ d^ f^ m ] : OK ,
+m e010 [ fh|s^ e] : uh , for his absent ee t hesis .
+m e010 [ s] : I t hink y ou all know t hat [ disfm arker] t hat you can just , in
+Germ any [ disfm arker] alm ost just send in your t hesis .
+m e045 [ s^ 2^ j] : Just a drive up .
+m e045 [ %] : Ca − chuk !
+m e010 [ s^ aa] : Yeah right .
+
+m n036 [ fg] : Um
+m e045 [ s^ j] : There you go .
+m e010 [ s^ bk^ j] : OK .
+m n015 [ s^ j] : The − t h There [ disfm arker] t here ’s a drive − in t hesis uh
+sh [ vocalsound] joint over in Saarbruecken .
+m e045 [ s^ aa] : Exact ly .
+m e045 [ s^ 2^ aa] : Drive t hrough , y eah .
+m e010 [ s^ j] : It cost s a lot .
+m e010 [ s^ e] : The [ disfm arker] t he am ount [ disfm arker] You put in
+y our credit card and [ disfm arker] [ vocalsound] as well .
+m e010 [ fh] : But , uh , [ disfm arker]
+m e010 [ fh] : But any way ,
+m e010 [ fh|s^ co] : so , uh , t hat ’s um , also got t a be worked out ,
+hopefully ov er t he next few weeks ,
+m e010 [ s^ df] : so t hat [ disfm arker] t hat it becom es clear uh , what
+piece uh , Robert want s t o jum p int o .
+m e010 [ s^ t ] : And , while we ’re at t his lev el , uh , t here ’s at least one
+new doct oral st udent in com put er science who will be joining t he
+project , eit her nex t week or t he first of August , depending on t he
+blandishm ent s of Microsoft .
+m e045 [ s^ bk] : OK .
+m e010 [ fh|s^ e] : So , de Uh . And her nam e is Eva .
+m e045 [ b.%] : OK .
+m e010 [ s^ df] : It really is .
+m e010 [ s] : Nobody believed t h t h t hat [ disfm arker]
+fe004 [ fg|s] : Yeah , I t hought it had t o be a joke , of your part , you
+know
+fe004 [ s^ j] : like [ disfm arker] [ com m ent ] " Johno m ade it up ,
+m e010 [ s^ aa] : Yeah .
+fe004 [ s.%] : I ’m sure . "
+m e012 [ qy^ rt ] : Is t his person som eone who ’s in first − year t his year ,
+m e010 [ s^ aa] : No , first year com ing .
+m e012 [ qrr.%−−] : or
+m e010 [ s] : So , she ’s [ disfm arker] she ’s now out here
+m e010 [ s] : she ’s m oved ,
+m e012 [ b] : OK .
+m e010 [ s] : and she ’ll be a st udent as of t hen .
+m e010 [ s] : And probably she ’ll pick up from you on t he belief − net
+st uff ,
+m e010 [ s] : so sh she ’ll be chasing you down and st uff like t hat .
+m e012 [ s^ bk] : OK .
+m n015 [ s] : Docum ent .
+m e010 [ fh] : Uh .
+m e012 [ qy ^ d^ g^ rt ] : Right .
+m e010 [ fh|s^ na] : Uh , against all t radit ions .
+
+m e010 [ s] : And act ually I t alked t oday t o a uh undergraduat e who
+want s t o do an honors t hesis on t his .
+m e010 [ fh] : Uh [ disfm arker]
+fe004 [ qy ^ bu^ d^ rt ] : Som eone from t he class ?
+m e010 [ s^ ar] : No ,
+m e010 [ s] : int erest ingly enough .
+fe004 [ s.%−] : We always get t hese people who are not in t he class ,
+who [ disfm arker]
+m e010 [ s^ arp] : Som e of t h som e of t hem , yeah .
+fe004 [ s^ ba] : It ’s int erest ing .
+m e010 [ fh] : So any way ,
+m e010 [ fh|s] : uh , but uh she ’s anot her one of t hese ones wit h a
+t hree point nine av erage and so fort h and so on .
+m e045 [ b] : Mm − hm m .
+m e010 [ fh|s] : Uh , so , um , I ’v e give I ’ve given her som e t hings t o
+read .
+m e010 [ s] : So we ’ll see how t his goes .
+m e010 [ s] : Oh t here ’s yet anot her one of t he incom ing first
+[ disfm arker] [ com m ent ] incom ing first − year graduat e st udent s who ’s
+ex pressed int erest ,
+m e010 [ s] : so we ’ll see how t hat goes .
+m e010 [ fh] : Um ,
+m e010 [ fh] : anyway ,
+m e010 [ fh|s^ t ] : so , I t hink as far as t his group goes , um , it ’s
+cert ainly wort h cont inuing for t he nex t few weeks t o get closure on t he
+uh belief − net and t he ideas t hat are involved in t hat , and what are t h
+what are t he concept s .
+m e010 [ s] : We ’ll see whet her it ’s gonna m ake sense t o have t his be
+separat e from t he ot her bigger effort wit h t he form alizat ion st uff or not
+,
+m e010 [ s^ no] : I ’m not sure .
+m e010 [ s] : It part ly depends on w what your t hesis t urns out t o be
+and how t hat goes .
+m e010 [ s] : S so , we ’ll see .
+m e010 [ s^ co] : And t hen , Am i , you can decide , you know , how m uch
+t im e y ou wanna put int o it
+m e010 [ s] : and uh , it it ’s beginning t o t ake shap shape ,
+m n036 [ b] : OK .
+m e010 [ fh] : so uh and ,
+m n036 [ fg.%] : Right
+m e010 [ s] : I t hink y ou will find t hat if you want t o look t echnically at
+som e of t he [ disfm arker] your t radit ional quest ions in t his light , uh
+Keit h , who ’s buil building const ruct ions , will be quit e happy t o uh see
+what , y ou know , you envision as t he issues and t he problem s and um
+, how t hey m ight uh get reflect ed in const ruct ions .
+m e045 [ s^ aa] : Sure .
+
+m e010 [ s] : I suspect t hat ’s right .
+m e045 [ s^ aa] : Yeah .
+m e045 [ s^ aa^ r] : Yeah .
+m n036 [ s] : I [ disfm arker] I m ay have t o go t o Swit zerland for
+[ disfm arker] in June or beginning of July for bet ween t wo weeks and
+four weeks , but uh , aft er t hat or before t hat .
+m e010 [ s^ bk] : OK ,
+m e010 [ s^ bk] : fine .
+m e010 [ fh|s^ cs] : And , um , if it ’s useful we can probably arrange for
+y ou t o drop by and v isit eit her at Heidelberg or at t he Germ an AI
+cent er , while you ’re in [ disfm arker] in t he neighborhood .
+m n036 [ s^ bk] : Right .
+m n036 [ %−−] : Yeah be uh
+m n036 [ s] : act u act ually I ’m invit ed t o do som e consult ing wit h a bank
+in Geneva which has an affiliat ion wit h a research inst it ut e in Geneva ,
+which I forgot t he nam e of .
+m e010 [ b] : Yeah .
+m e010 [ b] : Yep .
+m e010 [ %−−] : E o do y
+m e010 [ fg|s.%−−] : Well , we we ’re connect ed t o uh [ disfm arker]
+m n036 [ b] : Yeah .
+m e010 [ s.%−−] : There ’s a [ disfm arker] t here ’s a [ disfm arker] a very
+significant connect ion bet ween [ disfm arker]
+m e010 [ s^ cc] : We ’ll [ disfm arker] we ’ll go t hrough t his ,
+m n036 [ b] : Yeah .
+m e010 [ s.%−−] : ICSI and EPFL , which is t he , uh [ disfm arker] It ’s t he
+[ disfm arker] Fr
+m e010 [ s] : Ge − Germ any ’s got t wo big t echnical inst it ut es .
+m e010 [ s] : There ’s one in [ disfm arker] in Zurich ,
+m n036 [ b^ rt ] : Mm − hm m .
+m e010 [ s^ e] : E T
+m e010 [ s^ e] : and t hen t here ’s one , t he French speaking one , in
+Lausanne ,
+m e010 [ qy^ d^ f^ rt ] : OK ?
+m e045 [ s^ bs] : Oh , so in Swit zerland .
+m e010 [ s^ e] : which is uh E P
+m e010 [ s^ co] : F L . So find out who t hey are associat ed wit h in
+Genev a .
+m n036 [ b] : Great .
+m e010 [ s] : Probably we ’re connect ed t o t hem .
+m n036 [ b] : Right .
+m n036 [ s^ ba] : Great .
+m n036 [ s^ cc] : I ’ll let you know .
+m n036 [ s^ cc] : S I ’ll send you em ail .
+m e010 [ s^ bk] : OK .
+m e010 [ s^ bk] : Yeah ,
+
+m e010 [ s^ cs.%−−] : and so anyway we c uh [ disfm arker] We can m
+undoubt edly get Am i uh t o giv e a t alk at uh EML or som et hing like t hat
+. While he ’s in [ disfm arker] in uh [ disfm arker]
+m n015 [ b] : Hm m .
+m n015 [ fh|s] : Uh . I [ disfm arker] I t hink t he one you [ disfm arker] you
+gave here a couple of weeks ago would be of int erest t here , t oo .
+m n036 [ s^ aa] : Sure , yeah .
+m e010 [ s.%−−] : A lot of int erest . Act ually , eit her place , DFKI or uh
+[ disfm arker]
+m e010 [ fh|s] : Yeah , so , and [ disfm arker] and if t here is a book , t hat
+y ou ’ll be building up som e audience for it .
+m n036 [ b] : Yeah .
+m n036 [ s^ bk] : Right .
+m e010 [ s] : And y ou ’ll get feedback from t hese guys .
+m n036 [ s^ ba.%] : Great , yeah .
+m e010 [ s^ df] : Cuz t hey ’ve act ually [ disfm arker] t hese DFKI guys have
+done as m uch as anyone over t he last decade in t rying t o build t hem .
+m e010 [ s^ cc] : So we ’ll set t hat up .
+m n036 [ s^ ba] : Cool .
+m e010 [ fh] : OK .
+m e010 [ fh|s.%−] : So , uh , unless we wanna st art digging int o t he
+[ disfm arker] uh t he belief − net and t he decisions now , which would be
+fine , it ’s probably [ disfm arker]
+m n015 [ %−] : I [ disfm arker] I t ho
+m n015 [ s] : It ’s probably bet t er if I com e next week wit h t he um
+v ersion O point nine of t he st ruct ure .
+m e010 [ s^ bk] : OK .
+m e010 [ s^ cs] : So , how about if you t wo guys bet ween now and next
+week com e up wit h som et hing t hat is part ially proposal , and part ially
+quest ions ,
+m e010 [ s^ e:s] : saying " here ’s what we t hink we underst and , here
+are t he t hings we t hink we don’t underst and " .
+m e010 [ s^ cc] : And t hat we as a group will t ry t o [ disfm arker] t o finish
+it .
+m e010 [ s^ cs] : What I ’d like t o do is shoot f for finishing all t his next
+Monday .
+m e012 [ s^ aa] : Sure .
+m e010 [ qy ^ d^ g^ rt ] : OK ?
+m e010 [ fh|s.%−−] : Uh , " t hese are t he decisions " [ disfm arker]
+m e010 [ s] : I don’t t hink we ’re gonna get lot s m ore inform at ion .
+m e010 [ s] : It ’s a design problem .
+m e045 [ b] : Mm − hm m .
+m e012 [ b] : Yeah .
+m e010 [ %−−] : You know . We [ disfm arker]
+m e010 [ h] : Yeah .
+
+m e010 [ s^ co] : And let ’s com e up wit h a first cut at what t his should
+look like . And t hen finish it up .
+m e045 [ b] : OK .
+m e010 [ qy^ rt ] : Does t hat so m ake sense ?
+m e045 [ s^ aa] : OK .
+m n015 [ fh|qy^ bu^ d^ rt ] : And um , t he [ disfm arker] t he sem sem est er
+will be ov er nex t week but t hen you hav e project s for one m ore week t o
+com e ?
+m e012 [ s^ ar|s] : No , I [ disfm arker] I t hink I ’ll be done [ disfm arker]
+ev ery t hing by t his uh [ disfm arker] by t he end of t his week .
+m n015 [ qy ^ d^ rt ] : Sam e wit h you ?
+m n015 [ s^ ar] : No .
+m e003 [ fh] : Nnn .
+m e003 [ s] : This [ disfm arker] Well , I ’ve [ disfm arker] I have project s ,
+but t hen t he [ disfm arker] m y prof professor of one of m y classes also
+wa has a final t hat he ’s giving us .
+m e003 [ s] : And he ’s giving us five days t o do it which m eans it going
+t o be hard .
+m e010 [ s^ aa] : Yeah .
+m e045 [ s^ aa] : Yeah .
+m e010 [ qy^ bu^ rt ] : Oh . is it a t ake − hom e final ?
+m e003 [ s^ aa] : Yeah .
+m e010 [ qw] : Who ’s doing t his ?
+m e003 [ s] : Aikin , Alex , yeah .
+m e010 [ s^ bk] : Yeah , figured .
+m e010 [ s] : That would have been i m y guess .
+m e012 [ b] : Hm m .
+m e010 [ fh] : Right .
+m e010 [ fh|s] : Um , But anyway , yeah .
+m e045 [ s] : Pret t y soon .
+m n015 [ b] : OK .
+m e010 [ fh|s.%−] : OK , so I guess t hat ’s
+m e003 [ s] : So , t he sevent eent h will definit ely be t he last day , like it
+or not for m e .
+m e010 [ b] : Right .
+m e010 [ b] : right .
+m e010 [ s^ co] : So let ’s do t his ,
+m e010 [ s.%−−] : and t hen we we well t here ’s gonna be som e separat e
+co
+m e010 [ s] : t hese guy s are t alking ,
+m e010 [ fh|s] : uh we have a group on t he form alizat ion ,
+m e010 [ fh|s] : uh Nancy and Johno and I are gonna t alk about parsers
+.
+m e010 [ s.%−−] : So t here ’re various kinds of uh [ disfm arker]
+m e045 [ b] : OK .
+
+m e010 [ s] : Of course , not hing get s done even in a m eet ing of seven
+people ,
+m e010 [ qy ^ d^ g^ rt ] : right ?
+m e010 [ fh|s] : So , um , t wo or t hree people is t he size in which act ual
+work get s done .
+m e045 [ b] : Right .
+m n015 [ b] : Mm m .
+m e045 [ s^ aa] : Yeah .
+m e010 [ s^ cc] : So we ’ll do t hat .
+m e010 [ fh] : Great .
+m e010 [ s^ t ] : Oh , t he ot her t hing we wanna do is cat ch up wit h uh ,
+Ellen and see what she ’s doing
+m e010 [ s^ df.%−−] : because t he um im age schem as are going t o be
+um , an im port ant pa
+m e045 [ b] : Yeah .
+m e045 [ s^ 2] : Quit e relevant , yeah .
+m e010 [ s] : We [ disfm arker] we want t hose ,
+m e010 [ qy ^ d^ g^ rt ] : right ?
+m e045 [ b] : Yeah ,
+m e010 [ s] : And we want t hem form alized and st uff like t hat .
+m e045 [ s^ aa] : oh y eah .
+m e045 [ b] : Yeah .
+m e010 [ s^ co] : So let m e [ disfm arker] let m e m ake a not e t o do t hat .
+m e045 [ fg] : OK .
+m e045 [ s] : Yeah , I ’m act ually probably going t o be in cont act wit h her
+uh pret t y soon anyway because of various of us st udent s were going
+t o hav e a reading group about precisely t hat sort of t hing over t he
+sum m er ,
+m e003 [ s^ bk^ t 3] : OK .
+m e010 [ s^ aa] : Oh right !
+m e010 [ s^ aa^ r] : Right right right !
+m e010 [ s^ ba] : That ’s great !
+m e045 [ fh.%] : so .
+m e010 [ s] : Yeah , I [ disfm arker] I [ disfm arker] Shwet a m ent ioned t hat
+, alt hough she said it ’s a secret .
+m e045 [ s^ bk] : OK .
+m e003 [ s^ t 3] : Hi
+m e045 [ fg] : Right ,
+m e010 [ s^ j] : Th − t he facult y aren’t [ disfm arker] facult y aren’t
+supposed t o know .
+m e045 [ s^ 2] : no facult y !
+m e003 [ s^ t 3] : Wednesday ’s m uch bet t er for m e , yeah .
+m e010 [ fh] : But um ,
+m e010 [ s.%−−] : I ’m sufficient ly clueless t hat I count as a [ disfm arker]
+m e045 [ s^ aa] : Yeah , right .
+m e045 [ s] : It ’s as if we didn’t t ell anyone at all ,
+
+m e003 [ s] : Bhaskara .
+m e045 [ s^ bk] : right .
+
+

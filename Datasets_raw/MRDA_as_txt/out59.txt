@@ -1,0 +1,1891 @@
+m e018 [ z] : Yep .
+m n049 [ z] : So what [ disfm arker] what [ disfm arker] from [ disfm arker]
+what [ disfm arker]
+m n049 [ z] : What ever we say from now on , it can be held against us ,
+m e006 [ z] : Hello ?
+m n049 [ z] : right ?
+m e018 [ z] : That ’s right .
+m n049 [ z] : and uh
+m e006 [ z] : It ’s your right t o rem ain silent .
+m n049 [ z] : Yeah .
+m n049 [ s^ rt ] : So I [ disfm arker] I [ disfm arker] t he [ disfm arker] t he
+problem is t hat I act ually don’t know how t h t hese held m eet ings are
+held ,
+m n049 [ s] : if t hey are very inform al and sort of just people are say
+what ’s going on
+m e018 [ s^ aa] : Yeah .
+m n049 [ %−] : and
+m e018 [ s^ aa] : Yeah , t hat ’s usually what we do .
+m e018 [ s^ df.%−−:qw.%−−] : We just sort a go around and people say
+what ’s going on , what ’s t he lat est uh [ disfm arker]
+m n049 [ s^ bk] : OK .
+m n049 [ b] : Yeah .
+m n049 [ b] : OK .
+m n049 [ s^ t ] : So I guess t hat what m ay be a [ disfm arker] reasonable
+is if I uh first m ake a report on what ’s happening in Aurora in general ,
+at least what from m y perspect ive .
+m e018 [ b] : Yeah .
+m e018 [ s^ ba] : That would be great .
+fn002 [ %−] : Uh o
+m n049 [ fg|s^ rt ] : And [ disfm arker] and uh so , I [ disfm arker] I t hink
+t hat Carm en and St ephane report ed on uh Am st erdam m eet ing ,
+m n049 [ s^ ba] : which was kind of int erest ing
+m n049 [ s^ rt ] : because it was for t he first t im e we realized we are not
+friends really , but we are com pet it ors .
+m n049 [ s] : Cuz unt il t hen it was sort of like everyt hing was like
+wonderful
+m n049 [ %−] : and [ disfm arker]
+m e018 [ fg] : Yeah .
+m e018 [ s] : It seem ed like t here were st ill som e issues ,
+m n049 [ b] : Yeah .
+m e018 [ qy^ d^ g^ rt ] : right ?
+m e018 [ s^ rt ] : t hat t hey were t ry ing t o decide ?
+m n049 [ s^ na] : There is a plent y of [ disfm arker] t here ’re plent y of
+issues .
+m e018 [ s.%−] : Like t he voice act ivit y det ect or ,
+
+m n049 [ s] : Well and what happened was t hat t hey realized t hat if t wo
+leading proposals , which was French Telecom Alcat el , and us bot h
+had uh v oice act iv it y det ect or .
+m e018 [ b] : Right .
+m n049 [ s:s] : And I said " well big surprise , I m ean we could have t old
+y ou t hat [ pause] n n n four m ont hs ago , except we didn’t because
+nobody else was bringing it up " .
+m n049 [ s] : Obviously French Telecom didn’t volunt eer t his inform at ion
+eit her ,
+m e018 [ b] : Right .
+m n049 [ s] : cuz we were working on [ disfm arker] m ainly on voice
+act ivit y det ect or for past uh several m ont hs
+m n049 [ s^ df] : because t hat ’s buying us t he m ost uh t hing .
+m n049 [ s] : And everybody said " Well but t his is not fair . We didn’t
+know t hat . "
+m n049 [ s] : And of course uh t he [ disfm arker] it ’s not working on
+feat ures really .
+m e018 [ b] : Right .
+m n049 [ s] : And be I agreed .
+m n049 [ s:s] : I said " well yeah ,
+m n049 [ s^ aa] : you are absolut ely right ,
+m n049 [ s.%−−] : I m ean if I wish t hat y ou provided bet t er end point at
+speech because uh [ disfm arker]
+m n049 [ s^ cs] : or at least t hat if we could m odify t he recognizer , uh
+t o account for t hese long silences ,
+m n049 [ s] : because ot herwise uh t hat [ disfm arker] t hat [ disfm arker]
+t h t hat wasn’t a correct t hing . "
+m n049 [ fh|s:s] : And so t hen ev ev everybody else say s " well we should
+[ disfm arker] we need t o do a new eval evaluat ion wit hout voice act ivit y
+det ect or ,
+m n049 [ s:s] : or we have t o do som et hing about it " .
+m e018 [ b] : Right .
+m n049 [ s] : And in principle I [ disfm arker] uh I [ disfm arker] we agreed .
+m e018 [ b] : Mm − hm m .
+m n049 [ s:s] : We said uh " yeah " .
+m n049 [ %−−] : Because uh [ disfm arker]
+m n049 [ s^ cs] : but in t hat case , uh we would like t o change t he uh
+[ disfm arker] t he algorit hm
+m n049 [ s^ df] : because uh if we are working on different dat a , we
+probably will use a different set of t ricks .
+m e018 [ b] : Right .
+m n049 [ s^ rt ] : But unfort unat ely nobody ever officially can som ehow
+acknowledge t hat t his can be done ,
+m n049 [ s] : because French Telecom was saying " no , no , no , now
+ev ery body has access t o our code ,
+m n049 [ s] : so ev ery body is going t o copy what we did . "
+
+m n049 [ fh] : Yeah
+m n049 [ s] : well our argum ent was everybody ha has access t o our
+code , and ev ery body always had access t o our code .
+m n049 [ s] : We nev er uh [ disfm arker] uh denied t hat .
+m n049 [ s] : We t hought t hat people are honest , t hat if you copy
+som et hing and if it is prot ect ed [ disfm arker] prot ect ed by pat ent t hen
+y ou negot iat e , or som et hing ,
+m e018 [ b] : Yeah .
+m e018 [ b] : Right .
+m n049 [ qy^ d^ g^ rt ] : right ?
+m n049 [ s] : I m ean , if you find our t echnique useful , we are very
+happy .
+m e018 [ s^ aa] : Right .
+m e018 [ b] : Mm − hm m .
+m n049 [ s:s] : But [ disfm arker] And French Telecom was saying " no ,
+no , no ,
+m n049 [ s] : t here is a lot of lit t le t ricks which uh sort of uh cannot be
+prot ect ed and y ou guys will t ake t hem , " which probably is also t rue .
+m n049 [ fh|s] : I m ean , you know , it m ight be t hat people will t ake uh
+uh t h t he algorit hm s apart and use t he blocks from t hat .
+m n049 [ s] : But I som ehow t hink t hat it wouldn’t be so bad , as long as
+people are happy abou uh uh uh honest about it .
+m e018 [ b] : Yeah .
+m n049 [ s] : And I t hink t hey have t o be honest in t he long run ,
+because winning proposal again [ disfm arker] uh what will be available
+t h is [ disfm arker] will be a code .
+m e018 [ b] : Mm − hm m .
+m n049 [ s] : So t he uh [ disfm arker] t he people can go t o code and say
+" well list en t his is what you st ole from m e "
+m e018 [ b] : Right .
+m n049 [ qy^ d^ g^ rt ] : you know ?
+m e018 [ b] : Right .
+m n049 [ s^ co] : " so let ’s deal wit h t hat " .
+m n049 [ s] : So I don’t see t he problem .
+m n049 [ s:s] : The biggest problem of course is t hat f t hat Alcat el
+French Telecom cl claim s " well we fulfilled t he condit ions .
+m n049 [ s^ ba] : We are t he best .
+m n049 [ s] : Uh . We are t he st andard . "
+m n049 [ s^ rt ] : And e and ot her people don’t feel t hat ,
+m n049 [ s] : because t hey [ disfm arker] so t hey now decided t hat
+[ disfm arker] t hat [ disfm arker] is [ disfm arker] t he whole t hing will be
+done on well − endpoint ed dat a ,
+m n049 [ s^ rt ] : essent ially t hat som ebody will endpoint t he dat a based
+on clean speech ,
+m n049 [ s] : because m ost of t his t he SpeechDat − Car has t he also
+close speaking m ike and endpoint s will be provided .
+
+m e018 [ b] : Mm − hm m .
+m e018 [ s^ bk] : Ah .
+m n049 [ fh|s] : And uh we will run again [ disfm arker]
+m n049 [ s] : st ill not clear if we are going t o run t he [ disfm arker] if we
+are allowed t o run uh uh new algorit hm s ,
+m n049 [ s] : but I assum e so .
+m n049 [ s] : Because uh we would fight for t hat , really .
+m n049 [ fh|%−−] : uh but [ disfm arker] since uh u u n u [ disfm arker]
+m n049 [ s] : at least our experience is t hat only endpoint ing a
+[ disfm arker] a m el cepst rum get s uh [ disfm arker] get s you t went y −
+one percent im prov em ent overall and t went y − seven im provem ent on
+SpeechDat − Car
+m e018 [ b] : Hm m .
+m n049 [ s] : t hen obv ious t he dat abase [ disfm arker] uh I m ean t he
+[ disfm arker] t he [ disfm arker] t he [ disfm arker] uh t he baseline will go
+up .
+m e018 [ b] : Right .
+m n049 [ s] : And nobody can t hen achieve fift y percent im provem ent .
+m n049 [ s.%−] : So t hey agreed t hat uh t here will be a t went y − five
+percent im prov em ent required on [ disfm arker] on uh h u m bad m is
+badly m ism at ched [ disfm arker]
+m e018 [ s^ co] : But wait a m inut e ,
+m e018 [ s] : I t hought t he endpoint ing really only helped in t he noisy
+cases .
+m n049 [ %−] : It uh [ disfm arker]
+m e018 [ s^ bu] : Oh , but you st ill hav e t hat wit h t he MFCC .
+m e018 [ s^ bk] : OK .
+m n049 [ s^ aa] : Y yeah .
+m e018 [ s^ bk] : Yeah .
+m n049 [ fg|s] : Yeah but you have t he sam e prob I m ean MFCC basically
+has an enorm ous num ber of uh insert ions .
+m e018 [ b] : Right .
+m e018 [ b] : Yeah .
+m e018 [ b] : Yeah .
+m e018 [ b] : Yeah .
+m n049 [ fh|s] : And so , so now t hey want t o say " we [ disfm arker] we
+will require fift y percent im provem ent only for well m at ched condit ion ,
+and only t went y − fiv e percent for t he serial cases . "
+m e018 [ b] : Hm m .
+m n049 [ fh|s] : And uh [ disfm arker] and t hey alm ost agreed on t hat
+ex cept t hat it wasn’t a hundred percent agreed .
+m n049 [ s] : And so last t im e uh during t he m eet ing , I just uh brought
+up t he issue ,
+m n049 [ s] : I said " well you know uh quit e frankly I ’m surprised how
+light ly you are m aking t hese decisions
+m n049 [ s] : because t his is a m ajor decision .
+
+m n049 [ s] : For t wo years we are fight ing for fift y percent im provem ent
+m n049 [ s] : and suddenly you are say ing " oh no we [ disfm arker] we
+will do som et hing less " ,
+m n049 [ s^ cs^ t ] : but m aybe we should discuss t hat .
+m n049 [ s] : And everybody said " oh we discussed t hat and you were
+not a m ee t here "
+m n049 [ s:s] : and I said " well a lot of ot her people were not t here
+because not ev ery body part icipat es at t hese t eleconferencing c t hings
+."
+m n049 [ s] : Then t hey said " oh no no no because uh everybody is
+inv it ed . "
+m n049 [ s] : Howev er , t here is only t en or fift een lines , so people can’t
+ev en con y ou know part icipat e .
+m n049 [ s] : So eh t hey agreed , and so t hey said " OK , we will discuss
+t hat . "
+m n049 [ s] : Im m ediat ely Nokia uh raised t he quest ion
+m n049 [ s] : and t hey said " oh yeah we agree t his is not good t o t o uh
+dissolve t he uh uh [ disfm arker] t he uh [ disfm arker] t he crit erion . "
+m e018 [ b] : Mm − hm m .
+m n049 [ s^ rt ] : So now officially , Nokia is uh uh com plaining and said
+t hey [ disfm arker] t hey are looking for support ,
+m n049 [ fh|s] : uh I t hink QualCom m is uh saying , t oo " we shouldn’t
+abandon t he fift y percent yet .
+m n049 [ s^ cs] : We should at least t ry once again , one m ore round . "
+m e018 [ b] : Mm − hm m .
+m e018 [ b] : Mm − hm m .
+m n049 [ s^ t ] : So t his is where we are .
+m e018 [ b] : Hm m .
+m n049 [ s] : I hope t hat [ disfm arker] I hope t hat t his is going t o be a
+adopt ed .
+m n049 [ s] : Nex t Wednesday we are going t o have uh anot her uh
+t eleconferencing call , so we ’ll see what uh [ disfm arker] where it goes
+.
+m e018 [ qo^ t c] : So what about t he issue of um t he weight s on t he
+[ disfm arker] for t he different syst em s ,
+m e018 [ s^ e.%−] : t he well − m at ched , and m edium − m ism at ched and
+[ disfm arker]
+m n049 [ fg] : Yeah ,
+m n049 [ s^ ba] : t hat ’s what [ disfm arker] t hat ’s a g very good uh point
+,
+m n049 [ s^ df] : because David says " well you know we ca we can
+m anipulat e t his num ber by choosing t he right weight s anyways . "
+m e018 [ b] : Mm − hm m .
+m n049 [ s.%−−] : So while you are right but [ disfm arker] uh you know but
+m n049 [ fh] : Uh yeah ,
+
+m n049 [ s] : if of course if you put a zero [ disfm arker] uh weight zero on
+a m ism at ched condit ion , or highly m ism at ched t hen [ disfm arker] t hen
+y ou are done .
+m e018 [ b] : Mm − hm m .
+m n049 [ s] : But weight s were also det er already decided uh half a year
+ago .
+m e018 [ qy^ d^ rt ] : And t hey ’re t he [ disfm arker] st aying t he sam e ?
+m n049 [ fh] : So [ disfm arker]
+m n049 [ h|s] : Well , of course people will not like it .
+m e018 [ b] : Mm − hm m .
+m n049 [ s] : Now [ disfm arker] What is happening now is t hat I t h I t hink
+t hat people t ry t o m at ch t he crit erion t o solut ion .
+m n049 [ s] : They have solut ion .
+m n049 [ s.%−−] : Now t hey want t o [ vocalsound] m ake sure t heir
+crit erion is [ disfm arker]
+m e018 [ b] : Right .
+m n049 [ s] : And I t hink t hat t his is not t he right way .
+m e018 [ b] : Yeah .
+m n049 [ s.%−−] : Uh it m ay be t hat [ disfm arker] t hat [ disfm arker]
+m n049 [ s] : Event ually it m ay ha m ay ha it m ay have t o happen .
+m e018 [ b] : Mm − hm m .
+m n049 [ s] : But it ’s should happen at a point where everybody feels
+com fort able t hat we did all what we could .
+m e018 [ b] : Mm − hm m .
+m n049 [ s] : And I don’t t hink we did .
+m n049 [ s] : Basically , I t hink t hat [ disfm arker] t hat t his t est was a lit t le
+bit bogus because of t he dat a
+m n049 [ s] : and uh essent ially [ pause] t here were t hese arbit rary
+decisions m ade , and [ disfm arker] and everyt hing .
+m n049 [ s^ t c] : So , so [ disfm arker] so t his is [ disfm arker] so t his is
+where it is .
+m n049 [ s^ rt ] : So what we are doing at OGI now is uh uh uh working
+basically on our part s which we I t hink a lit t le bit neglect ed ,
+m n049 [ s] : like noise separat ion .
+m n049 [ fh|s] : Uh so we are looking in way s is [ disfm arker] in uh which
+[ disfm arker] uh wit h which we can provide bet t er init ial est im at e of t he
+m el spect rum basically ,
+m n049 [ s] : which would be a l uh , f m ore robust t o noise ,
+m n049 [ s] : and so far not m uch uh success .
+m e018 [ b] : Hm m .
+m n049 [ s] : We t ried uh t hings which uh a long t im e ago Bill Byrne
+suggest ed ,
+m n049 [ s] : inst ead of using Fourier spect rum , from Fourier t ransform
+, use t he spect rum from LPC m odel .
+m n049 [ s] : Their argum ent t here was t he LPC m odel fit s t he peaks of
+t he spect rum , so it m ay be m nat urally m ore robust in noise .
+
+m n049 [ s] : And I t hought " well , t hat m akes sense , " but so far we
+can’t get m uch [ disfm arker] m uch out of it .
+m e018 [ b] : Hm m .
+m n049 [ fh|s.%−] : uh we m ay t ry som e st andard t echniques like
+spect ral subt ract ion and [ disfm arker]
+m e018 [ qy ^ d^ rt ] : You haven’t t ried t hat yet ?
+m n049 [ s^ nd] : not [ disfm arker] not [ disfm arker] not m uch .
+m e018 [ b] : Hm m .
+m n049 [ s] : Or even I was t hinking about uh looking back int o t hese
+t ot ally ad − hoc t echniques
+m n049 [ s^ cs] : like for inst ance uh Dennis Klat t was suggest ing uh t he
+one way t o uh deal wit h noisy speech is t o add noise t o everyt hing .
+m e018 [ b] : Hm m !
+m n049 [ s] : So . [ com m ent ] I m ean , uh uh add m oderat e am ount of
+noise t o all dat a .
+m e018 [ s^ fe] : Oh !
+m e018 [ s^ bk] : I see .
+m n049 [ s] : So t hat m akes uh t h any addit ive noise less addi less a a
+effect ive ,
+m n049 [ qy ^ d^ g^ rt ] : right ?
+m e018 [ s^ aa] : Right .
+m n049 [ s.%−−] : Because you already uh had t he noise uh in a
+[ disfm arker]
+m n049 [ s] : And it was working at t he t im e .
+m n049 [ s.%−−] : It was kind of like one of t hese t hings , you know , but
+m n049 [ s^ ba] : if you t hink about it , it ’s act ually pret t y ingenious .
+m n049 [ s] : So well , you know , just t ake a [ disfm arker] t ake a
+spect rum and [ disfm arker] and [ disfm arker] and add of t he const ant ,
+C , t o ev ery [ disfm arker] every value .
+m e018 [ s.%−] : Well y ou ’re [ disfm arker] you ’re basically y
+m e018 [ b] : Yeah .
+m e018 [ s^ bs] : So you ’re m aking all your t raining dat a m ore uniform .
+m n049 [ s^ aa] : Exact ly .
+m n049 [ s] : And if [ disfm arker] if t hen [ disfm arker] if t his dat a becom es
+noisy , it b it becom es eff effect ively becom es less noisy basically .
+m e018 [ b] : Hm m .
+m n049 [ s] : But of course you cannot add t oo m uch noise because
+t hen you ’ll s t hen you ’re clean recognit ion goes down ,
+m n049 [ s] : but I m ean it ’s yet t o be seen how m uch ,
+m n049 [ s] : it ’s a very sim ple t echnique .
+m e018 [ s^ no^ rt ] : Mm − hm m .
+m n049 [ s] : Yes indeed it ’s a very sim ple t echnique ,
+m n049 [ s^ cs] : y ou just t ake your spect rum and [ disfm arker] and use
+what ev er is com ing from FFT , [ pause] add const ant ,
+m e018 [ b] : Hm m .
+m n049 [ qy^ d^ g^ rt ] : you know ?
+
+m n049 [ s^ rt ] : on [ disfm arker] ont o power spect rum .
+m n049 [ %−−] : That [ disfm arker] t hat [ disfm arker]
+m n049 [ s^ cs] : Or t he ot her t hing is of course if you have a spect rum ,
+what y ou can s st art doing , you can leave [ disfm arker] st art leaving
+out t he p t he part s which are uh uh low in energy
+m n049 [ s^ cs] : and t hen perhaps uh one could t ry t o find a
+[ disfm arker] a all − pole m odel t o such a spect rum .
+m n049 [ s] : Because a all − pole m odel will st ill t ry t o [ disfm arker] t o
+[ disfm arker] t o put t he [ disfm arker] t he cont inuat ion basically of t he
+[ disfm arker] of t he m odel int o t hese part s where t he issue set t o zero .
+m n049 [ s] : That ’s what we want t o t ry .
+m n049 [ s] : I have a visit or from Brno .
+m n049 [ s] : He ’s a [ disfm arker] kind of like young facult y .
+m n049 [ s] : pret t y hard − working so he [ disfm arker] so he ’s
+[ disfm arker] so he ’s looking int o t hat .
+m e018 [ b] : Hm m .
+m n049 [ s] : And t hen m ost of t he effort is uh now also aim ed at t his e
+e TRAP recognit ion .
+m n049 [ s^ e] : This uh [ disfm arker] t his is t his recognit ion from
+t em poral pat t erns .
+m e018 [ b] : Hm m !
+m e018 [ qw^ rt ] : What is t hat ?
+m n049 [ s^ fe|s] : Ah , you don’t know about TRAPS !
+m e006 [ b] : Hm m .
+m e018 [ s.%−] : The TRAPS sound fam iliar , I [ disfm arker] but I don’t
+[ disfm arker]
+m n049 [ fg] : Yeah
+m n049 [ %−−] : I m ean t ha
+m n049 [ s] : This is fam iliar like sort of because we gave you t he nam e ,
+m n049 [ fh|s] : but , what it is , is t hat norm ally what you do is t hat you
+recognize uh speech based on a short ened spect rum .
+m e018 [ b] : Mm − hm m .
+m e018 [ b^ rt ] : Mm − hm m .
+m n049 [ s] : Essent ially L P − LPC , m el cepst rum , uh , everyt hing st art s
+wit h a spect ral slice .
+m n049 [ fh|s] : Uh so if you s So , given t he spect rogram you essent ially
+are sliding [ disfm arker] sliding t he spect rogram along t he uh f
+frequency axis
+m e018 [ b] : Mm − hm m .
+m n049 [ s^ e] : and you keep shift ing t his t hing , and you have a
+spect rogram .
+m e018 [ b] : Mm − hm m .
+m n049 [ s] : So y ou can say " well you can also t ake t he t im e t raject ory
+of t he energy at a given frequency " ,
+m e018 [ b] : Mm − hm m .
+
+m n049 [ s] : and what you get is t hen , t hat you get a p [ pause] vect or
+.
+m n049 [ s] : And t his vect or can be a [ disfm arker] a [ disfm arker] s
+assigned t o s som e phonem e .
+m n049 [ s] : Nam ely you can say i it [ disfm arker] I will [ disfm arker] I will
+say t hat t his v ect or will eh [ disfm arker] will [ disfm arker] will describe
+t he phonem e which is in t he cent er of t he vect or .
+m n049 [ s] : And y ou can t ry t o classify based on t hat .
+m e018 [ s^ bk] : Hm m .
+m n049 [ %−−] : And y ou [ disfm arker] so you classi
+m n049 [ s^ rt ] : so it ’s a very different v ect or , very different propert ies
+,
+m n049 [ s^ rt ] : we don’t know m uch about it ,
+m e018 [ b] : Hm m .
+m n049 [ %−] : but t he t rut h is [ disfm arker]
+m e018 [ s^ ng] : But you have m any of t hose vect ors per phonem e ,
+m n049 [ s] : Well , so you get m any decisions .
+m e018 [ qy ^ d^ g^ rt ] : right ?
+m e018 [ s^ bk] : Uh − huh .
+m n049 [ s] : And t hen you can st art dec t hinking about how t o com bine
+t hese decisions .
+m e018 [ b] : Hm m .
+m n049 [ s] : Exact ly , t hat ’s what [ disfm arker] yeah , t hat ’s what it is .
+m e018 [ b] : Hm m .
+m n049 [ s] : Because if you run t his uh recognit ion , you get
+[ disfm arker] you st ill get about t went y percent error [ disfm arker]
+m n049 [ s^ bsc] : uh t went y percent correct .
+m e018 [ b] : Hm m .
+m n049 [ qy^ d^ g^ rt ] : You know ,
+m n049 [ s] : on [ disfm arker] on like for t he fram e by fram e basis ,
+m n049 [ s] : so [ pause] uh [ disfm arker] uh so it ’s m uch bet t er t han
+chance .
+m e018 [ qw] : How wide are t he uh frequency bands ?
+m n049 [ s] : That ’s anot her t hing .
+m n049 [ s] : Well c current ly we st art [ disfm arker] I m ean we st art
+always wit h crit ical band spect rum .
+m n049 [ s^ df] : For various reasons .
+m n049 [ s^ rt ] : But uh t he lat est uh observ at ion uh is t hat you
+[ disfm arker] you [ disfm arker] you are [ disfm arker] you can get quit e a
+big advant age of using t wo crit ical bands at t he sam e t im e .
+m e006 [ qy ^ rt ] : Are t hey adjacent ,
+m e006 [ qrr.%−] : or are t hey s
+m n049 [ s^ aa^ m ] : Adjacent , adjacent .
+m e006 [ s^ bk] : OK .
+m n049 [ s] : And t he reasons [ disfm arker] t here are som e reasons for
+t hat .
+
+m n049 [ s^ rt ] : Because t here are som e reasons I can [ disfm arker] I
+could t alk about , will have t o t ell you about t hings like m asking
+ex perim ent s which uh uh uh uh y ield crit ical bands ,
+m n049 [ s] : and also experim ent s wit h release of m asking , which
+act ually t ell you t hat som et hing is happening across crit ical bands ,
+across bands .
+m n049 [ %−] : And [ disfm arker]
+m e018 [ qw] : Well how do you [ disfm arker] how do you uh convert t his
+uh energy ov er t im e in a part icular frequency band int o a vect or of
+num bers ?
+m n049 [ s.%−] : It ’s uh uh uh I m ean t im e T − zero is one num ber ,
+[ pause] t im e t
+m e018 [ qw] : Yeah but what ’s t he num ber ?
+m e018 [ qy .%−] : Is it just t he [ disfm arker]
+m n049 [ s] : It ’s a spect ral energy , logarit hm ic spect ral energy ,
+m e018 [ s^ bu] : it ’s just t he am ount of energy in t hat band from f in
+t hat t im e int erval .
+m n049 [ s^ aa] : yeah .
+m n049 [ s^ aa] : Yes , yes .
+m n049 [ s^ aa] : Yes , yes .
+m e018 [ s^ bk] : OK .
+m n049 [ fg|s] : And t hat ’s what [ disfm arker] t hat ’s what I ’m saying
+t hen ,
+m n049 [ s.x ] : so t his is a [ disfm arker] t his is a st art ing vect or .
+m n049 [ s] : It ’s just like short ened f [ pause] spect rum , or som et hing .
+m e018 [ b] : Mm − hm m .
+m n049 [ s^ rt ] : But now we are t ry ing t o underst and what t his vect or
+act ually represent s ,
+m n049 [ s:qw] : for inst ance a quest ion is like " how correlat ed are t he
+elem ent s of t his vect or ? "
+m n049 [ s] : Turns out t hey are quit e correlat ed , because I m ean ,
+especially t he neighboring ones ,
+m e018 [ b] : Yeah .
+m n049 [ qy^ d^ g^ rt ] : right ?
+m n049 [ s] : They [ disfm arker] t hey represent t he sam e [ disfm arker]
+alm ost t he sam e configurat ion of t he vocal t ract .
+m e018 [ s^ aa] : Yeah .
+m e018 [ b] : Mm − hm m .
+m n049 [ s^ bs] : So t here ’s a v ery high correlat ion .
+m n049 [ s] : So t he classifiers which use t he diagonal covariance m at rix
+don’t like it .
+m n049 [ s] : So we ’re t hinking about de − correlat ing t hem .
+m e018 [ b] : Hm m .
+m n049 [ s:qw] : Then t he quest ion is uh " can you describe elem ent s of
+t his v ect or by Gaussian dist ribut ions " , or t o what ext ent ?
+m n049 [ %−] : Because uh [ disfm arker]
+
+m n049 [ s] : And [ disfm arker] and [ disfm arker] and so on and so on .
+m n049 [ s] : So we are learning quit e a lot about t hat .
+m e018 [ b] : Hm m .
+m n049 [ s] : And t hen anot her issue is how m any vect ors we should be
+using ,
+m n049 [ s] : I m ean t he [ disfm arker] so t he m inim um is one .
+m e018 [ b] : Mm − hm m .
+m n049 [ qy ^ rt ] : But I m ean is t he [ disfm arker] is t he crit ical band t he
+right uh uh dim ension ?
+m n049 [ s] : So we som ehow m ade arbit rary decision , " yes " .
+m n049 [ fh|s] : Then [ disfm arker] but t hen now we are t hinking a lot
+how t o [ disfm arker] uh how t o use at least t he neighboring band
+because t hat seem s t o be happening [ disfm arker]
+m n049 [ s] : This I som ehow st art t o believe t hat ’s what ’s happening
+in recognit ion .
+m n049 [ s^ df^ rt ] : Cuz a lot of experim ent s point t o t he fact t hat
+people can split t he signal int o crit ical bands ,
+m n049 [ %−−] : but t hen oh uh uh
+m n049 [ s] : so you can [ disfm arker] you are quit e capable of
+processing a signal in uh uh independent ly in individual crit ical bands .
+m n049 [ s] : That ’s what m asking ex perim ent s t ell you .
+m n049 [ s^ rt ] : But at t he sam e t im e y ou m ost likely pay at t ent ion t o at
+least neighboring bands
+m n049 [ s] : when you are m aking any decisions , you com pare what ’s
+happening in [ disfm arker] in t his band t o what ’s happening t o t he
+band [ disfm arker] t o [ disfm arker] t o [ disfm arker] t o t he [ disfm arker] t o
+t he neighboring bands .
+m n049 [ s^ bs] : And t hat ’s how you m ake uh decisions .
+m n049 [ s] : That ’s why t he art iculat ory event s , which uh F F Flet cher
+t alks about , t hey are about t wo crit ical bands .
+m n049 [ s] : You need at least t wo , basically .
+m n049 [ s] : You need som e relat ive , relat ive relat ion .
+m e006 [ b] : Hm m .
+m e018 [ b] : Hm m .
+m n049 [ s] : Absolut e num ber doesn’t t ell you t he right t hing .
+m n049 [ s] : You need t o [ disfm arker] you need t o com pare it t o
+som et hing else , what ’s happening
+m n049 [ s] : but it ’s what ’s happening in t he [ disfm arker] in t he close
+neighborhood .
+m n049 [ s] : So if you are m aking decision what ’s happening at one
+kilohert z , you want t o know what ’s happening at nine hundred hert z
+and it [ disfm arker] and m aybe at eleven hundred hert z ,
+m n049 [ s] : but y ou don’t m uch care what ’s happening at t hree
+kilohert z .
+m e018 [ s^ bu.%−−] : So it ’s really w
+
+m e018 [ s^ bu] : It ’s sort of like saying t hat what ’s happening at one
+kilohert z depends on what ’s happening around it .
+m e018 [ s] : It ’s sort of relat ive t o it .
+m n049 [ s^ aap] : To som e ext ent , it [ disfm arker] t hat is also t rue .
+m e018 [ b] : Mm − hm m .
+m n049 [ fg] : Yeah .
+m n049 [ s] : But it ’s [ disfm arker] but for [ disfm arker] but for inst ance ,
+[ v ocalsound] t h uh [ v ocalsound] uh what [ disfm arker] what uh hum ans
+are v ery m uch capable of doing is t hat if t h if t hey are exact ly t he sam e
+t hing happening in t wo neighboring crit ical bands , recognit ion can
+discard it .
+m e018 [ b] : Hm m .
+m n049 [ qw] : Is what ’s happening [ disfm arker]
+m n049 [ s^ fe] : Hey !
+m e006 [ s^ fe] : Hey !
+m n049 [ s] : OK , we need us anot her [ disfm arker] anot her voice here .
+m e018 [ s] : Hey St ephane .
+m n049 [ qy^ d^ g^ rt ] : Yeah ,
+m n049 [ s] : I t hink so .
+m e018 [ s^ aa] : Yep .
+m n049 [ qy^ d^ g^ rt ] : Yeah ?
+m e018 [ s^ aa] : Sure .
+m e018 [ s^ co] : Go ahead .
+m n049 [ fg|s] : And so so [ disfm arker] so for inst ance if you d if you a if
+y ou add t he noise t hat norm ally m asks [ disfm arker] m asks t he uh
+[ disfm arker] t he [ disfm arker] t he signal
+m e018 [ b] : Mm − hm m .
+m n049 [ qy^ d^ g^ rt ] : right ?
+m n049 [ s] : and you can show t hat in [ disfm arker] t hat if t he
+[ disfm arker] if y ou add t he noise out side t he crit ical band , t hat
+doesn’t affect t he [ disfm arker] t he decisions you ’re m aking about a
+signal wit hin a crit ical band .
+m e018 [ b] : Hm m .
+m n049 [ s^ e] : Unless t his noise is m odulat ed .
+m n049 [ s] : If t he noise is m odulat ed , wit h t he sam e m odulat ion
+frequency as t he noise in a crit ical band , t he am ount of m asking is
+less .
+m e018 [ b] : Mm m .
+m n049 [ s] : The m om ent you [ disfm arker] m om ent you provide t he
+noise in n neighboring crit ical bands .
+m n049 [ s.%−−] : So t he s m m asking curve , norm ally it looks like sort of
+[ disfm arker]
+m n049 [ s] : I st art from [ disfm arker] from here ,
+m n049 [ s] : so you [ disfm arker] [ com m ent ] you have uh no noise t hen
+y ou [ disfm arker] you [ disfm arker] you are expanding t he crit ical band ,
+so t he am ount of m aching is increasing .
+
+m n049 [ s] : And when you e hit a cert ain point , which is a crit ical band
+, t hen t he am ount of m asking is t he sam e .
+m e018 [ b] : Mm m .
+m n049 [ s^ bs] : So t hat ’s t he fam ous ex perim ent of Flet cher , a long
+t im e ago .
+m n049 [ s] : Like t hat ’s where people st art ed t hinking " wow t his is
+int erest ing ! "
+m e018 [ b] : Yeah .
+m n049 [ fh] : So .
+m n049 [ s] : But , if y ou [ disfm arker] if you [ disfm arker] if you m odulat e
+t he noise , t he m asking goes up and t he m om ent you st art hit t ing t he
+[ disfm arker] anot her crit ical band , t he m asking goes down .
+m n049 [ s] : So essent ially [ disfm arker] essent ially t hat ’s a very clear
+indicat ion t hat [ disfm arker] t hat [ disfm arker] t hat [ pause] cognit ion
+can t ake uh uh int o considerat ion what ’s happening in t he
+neighboring bands .
+m n049 [ s] : But if y ou go t oo far in a [ disfm arker] in a [ disfm arker] if
+y ou [ disfm arker] if t he noise is v ery broad , you are not increasing
+m uch m ore ,
+m n049 [ s] : so [ disfm arker] so if you [ disfm arker] if you are far away
+from t he signal [ disfm arker] uh from t he signal f uh t he frequency at
+which t he signal is , t hen t he m even t he [ disfm arker] when t he noise
+is co − m odulat ed it [ disfm arker] it ’s not helping you m uch .
+m e018 [ b] : Mm − hm m .
+m e018 [ b] : Yeah .
+m e018 [ b] : Mm − hm m .
+m n049 [ fh] : So .
+m e006 [ b] : Hm m .
+m n049 [ s] : So t hings like t his we are kind of playing wit h [ disfm arker]
+wit h [ disfm arker] wit h t he hope t hat perhaps we could event ually u use
+t his in a [ disfm arker] in a real recognizer .
+m e006 [ b] : Mm − hm m .
+m n049 [ s] : Like uh part ially of course we prom ised t o do t his under
+t he [ disfm arker] t he [ disfm arker] t he Aurora uh program .
+m e018 [ s] : But y ou probably won’t have anyt hing before t he next t im e
+we have t o evaluat e ,
+m e018 [ qy^ d^ g^ rt ] : right ?
+m n049 [ s^ aa] : Probably not .
+m e018 [ s^ bk] : Yeah .
+m n049 [ s] : Well , m aybe , m ost likely we will not have anyt hing which c
+would com ply wit h t he rules .
+m e018 [ s^ bk] : Ah .
+m n049 [ %−] : like because uh uh
+m e018 [ s^ 2] : Lat ency and t hings .
+m n049 [ s] : lat ency current ly chops t he require uh significant uh
+lat ency am ount of processing ,
+
+m e018 [ b] : Mm − hm m .
+m n049 [ s] : because uh we don’t know any bet t er , yet , t han t o use
+t he neural net classifiers , uh and uh [ disfm arker] and uh TRAPS .
+m e018 [ b] : Yeah .
+m e006 [ b] : Mm − hm m .
+m n049 [ s] : Though t he [ disfm arker] t he work which uh everybody is
+looking at now aim s at s t rying t o find out what t o do wit h t hese
+v ect ors , so t hat a g sim ple Gaussian classifier would be happier wit h it
+.
+m n007 [ b] : Hm m .
+m e018 [ b] : Mm − hm m .
+m n049 [ s.%−−] : or t o what ext ent a Gaussian classifier should be
+unhappy uh
+m n049 [ s] : t hat , and how t o Gaussian − ize t he vect ors ,
+m n049 [ %−−] : and [ disfm arker]
+m e018 [ b] : Hm m .
+m n049 [ s^ t c] : So t his is uh what ’s happening .
+m n049 [ s] : Then Sunil is uh uh uh asked m e f for one m ont h ’s
+v acat ion
+m n049 [ s] : and since he did not t ake any vacat ion for t wo years , I
+had no [ disfm arker] I didn’t have heart t o t ell him no .
+m n049 [ s] : So he ’s in India .
+m e018 [ s^ fe] : Wow .
+m n049 [ %−] : And uh [ disfm arker]
+m e018 [ qy ^ rt ] : Is he get t ing m arried or som et hing ?
+m n049 [ s^ j^ ng] : Uh well , he m ay be looking for a girl , for
+[ disfm arker] for I don’t [ disfm arker] I don’t [ disfm arker] I don’t ask .
+m n049 [ s^ j^ rt ] : I know t hat Naran − when last t im e Naray anan did
+t hat he cam e back engaged .
+m e018 [ b] : Right .
+m e018 [ s] : Well , I m ean , I ’ve known ot her friends who [ disfm arker]
+t hey [ disfm arker] t hey go t o Ind − t hey go back hom e t o India for a
+m ont h , t hey com e back m arried ,
+m n049 [ b] : Yeah .
+m n049 [ b] : I know .
+m n049 [ s^ aa] : I know , I know ,
+m e018 [ qy ^ d^ g] : y ou know , huh .
+m n049 [ s] : and t hen of course t hen what happened wit h Narayanan
+was t hat he st art pushing m e t hat he needs t o get a PHD because
+t hey wouldn’t give him his wife .
+m n049 [ s] : And she ’s very pret t y and he lov es her
+m n049 [ s.%−] : and so [ disfm arker] so we had t o really [ disfm arker]
+m e018 [ s^ j] : So he finally had som e incent iv e t o finish ,
+m n049 [ s^ aa] : Oh yeah .
+m e018 [ qy^ d^ g^ rt ] : huh ?
+
+m n049 [ s] : We had [ disfm arker] well I had a incent ive because he
+[ disfm arker] he always had t his plan except he never t old m e .
+m e018 [ s^ bk] : Oh .
+m n049 [ s] : Sort of figured t hat [ disfm arker] That was a uh t hat he uh
+he t old m e t he day when we did very well at our NIST evaluat ions of
+speaker recognit ion , t he t echnology , and he was involved t here .
+m n049 [ s] : We were [ disfm arker] aft er present at ion we were driving
+hom e and he t old m e .
+m e018 [ s^ j] : When he knew you were happy ,
+m e018 [ qy ^ d^ g^ rt ] : huh ?
+m n049 [ s^ aa] : Yeah .
+m n049 [ s] : So I [ disfm arker] I said " well , yeah , OK " so he t ook
+anot her [ disfm arker] anot her t hree quart er of t he year but uh he was
+out .
+m n049 [ s] : So I [ disfm arker] wouldn’t surprise m e if he has a plan like
+t hat , t hough [ disfm arker] t hough uh Prat ibha st ill needs t o get out
+first .
+m e018 [ b] : Hm m .
+m n049 [ s] : Cuz Prat ibha is t here a [ disfm arker] a year earlier .
+m e018 [ b] : Hm m .
+m n049 [ s] : And S and Sat ya needs t o get out very first because he ’s
+[ disfm arker] he already has uh four years serv ed ,
+m n049 [ s^ e] : t hough one year he was get t ing m ast ers .
+m n049 [ fh] : So .
+m n049 [ fh] : So .
+m n007 [ b] : Hm m .
+m e018 [ qy.%−−] : So have t he um [ disfm arker]
+m e018 [ qw^ rt ] : when is t he next uh ev aluat ion ?
+m e018 [ qr^ d^ rt ] : June or som et hing ?
+m n049 [ qw^ bu^ rt ] : Which ?
+m n049 [ qy ^ bu^ d^ rt ] : Speaker recognit ion ?
+m e018 [ s^ ar^ rt ] : No , for uh Aurora ?
+m n049 [ h|s] : Uh t here , we don’t know about evaluat ion ,
+m n049 [ s^ no] : nex t m eet ing is in June .
+m e018 [ s^ bk] : Hm m .
+m n049 [ s] : And uh uh but like get t ing [ disfm arker] get t oget her .
+m e018 [ s^ bk] : Oh , OK .
+m e018 [ qy^ rt ] : Are people supposed t o rerun t heir syst em s ,
+m n049 [ s^ no] : Nobody said t hat y et .
+m e018 [ qrr.%−] : or [ disfm arker] ?
+m n049 [ s^ aa] : I assum e so .
+m e018 [ b] : Hm m .
+m n049 [ s] : Uh y es , uh , but nobody even set up yet t he [ pause] dat e
+for uh delivering uh endpoint ed dat a .
+m e018 [ s^ bk] : Wow .
+
+m n049 [ s] : And t his uh [ disfm arker] t hat [ disfm arker] t hat sort of st uff
+.
+m n049 [ %−−] : But I uh ,
+m n049 [ fh] : y eah ,
+m n049 [ s^ cs:s] : what I t hink would be of course ext rem ely useful , if
+we can com e t o our next m eet ing and say " well you know we did get
+fift y percent im prov em ent .
+m n049 [ s] : If [ disfm arker] if you are int erest ed we event ually can t ell
+y ou how " , but uh we can get fift y percent im provem ent .
+m e018 [ b] : Mm − hm m .
+m n049 [ s] : Because people will s will be say ing it ’s im possible .
+m e018 [ b] : Hm m .
+m e018 [ qy^ rt ] : Do you know what t he new baseline is ?
+m e018 [ s.%−] : Oh , I guess if you don’t have [ disfm arker]
+m n049 [ s^ na^ rt ] : Twent y − t wo [ disfm arker] t t went y [ disfm arker]
+t went y − t wo percent bet t er t han t he old baseline .
+m e018 [ qy ^ bu^ d^ rt ] : Using your uh voice act ivit y det ect or ?
+m n049 [ s^ aa] : u Yes .
+m n049 [ s^ aa] : Yes .
+m n049 [ s] : But I assum e t hat it will be sim ilar , I don’t [ disfm arker] I
+[ disfm arker] I don’t see t he reason why it shouldn’t be .
+m e018 [ s^ aa^ m ] : Sim ilar , yeah .
+m e018 [ b] : Mm − hm m .
+m n049 [ s] : I d I don’t see reason why it should be worse .
+m e018 [ b] : Yeah .
+m n049 [ s] : Cuz if it is worse , t hen we will raise t he object ion ,
+m n049 [ s:qw] : we say " well you know how com e ? "
+m n049 [ s] : Because eh if we just use our voice act ivit y det ect or ,
+which we don’t claim even t hat it ’s wonderful , it ’s just like one of
+t hem .
+m n007 [ b] : Mm − hm m .
+m e018 [ b] : Yeah .
+m n049 [ s] : We get t his sort of im provem ent ,
+m n049 [ qw] : how com e t hat we don’t see it on [ disfm arker] on
+[ disfm arker] on [ disfm arker] on y our endpoint ed dat a ?
+m n007 [ fg] : Yeah .
+m n007 [ s] : I guess it could be even bet t er ,
+m n007 [ s^ df] : because t he voice act ivit y det ect or t hat I choosed is
+som et hing t hat cheat ing , it ’s using t he alignm ent of t he speech
+recognit ion syst em ,
+m n049 [ s^ aa] : I t hink so .
+m n049 [ b] : Yeah .
+m n049 [ %−] : C y eah uh
+m n007 [ s^ e] : and only t he alignm ent on t he clean channel , and t hen
+m apped t his alignm ent t o t he noisy channel .
+m n049 [ s^ 2] : and on clean speech dat a .
+
+m e018 [ s^ bk] : Oh , OK .
+m n049 [ b] : Yeah .
+m n049 [ fg|s.%−] : Well David t old m e [ disfm arker]
+m n049 [ s] : Dav id t old m e yest erday or Harry act ually he t old Harry
+from QualCom m
+m n049 [ s] : and Harry uh brought up t he suggest ion we should st ill go
+for fift y percent
+m n049 [ s:qy ] : he says are you aware t hat your syst em does only t hirt y
+percent uh com paring t o [ disfm arker] t o endpoint ed baselines ?
+m n007 [ b] : Yeah .
+m n049 [ s] : So t hey m ust have run already som et hing .
+m e018 [ b] : Hm m .
+m n049 [ fh] : So .
+m n049 [ s] : And Harry said " Yeah .
+m n049 [ s] : But I m ean we t hink t hat we [ disfm arker] we didn’t say t he
+last word yet , t hat we have ot her [ disfm arker] ot her t hings which we
+can t ry . "
+m e018 [ b] : Hm m .
+m n049 [ fh|s] : So . So t here ’s a lot of discussion now about t his uh
+new crit erion .
+m n007 [ b] : Mm − hm m .
+m n049 [ s^ df] : Because Nokia was object ing , wit h uh QualCom m ’s
+[ disfm arker] we basically support ed t hat , we said " yes " .
+m n007 [ b] : Mm − hm m .
+m n049 [ s.x] : Now ev erybody else is saying " well you guys m ight
+[ disfm arker] m ust be out of your m ind . "
+m n049 [ s] : uh The [ disfm arker] Guent er Hirsch who d doesn’t speak
+for Ericsson anym ore because he is not wit h Ericsson
+m n049 [ s] : and Ericsson m ay not [ disfm arker] m ay wit hdraw from t he
+whole Aurora act iv it y because t hey have so m any t roubles now .
+m e018 [ s^ fe] : Wow .
+m n049 [ s] : Ericsson ’s laying off t went y percent of people .
+m e006 [ s^ fe] : Wow .
+m e018 [ qw] : Where ’s uh Guent er going ?
+m n049 [ s] : Well Guent er is already [ disfm arker] he got t he job uh
+already was working on it for past t wo years or t hree years
+[ disfm arker]
+m e018 [ b] : Mm − hm m .
+m n049 [ s] : he got a job uh at som e [ disfm arker] som e Fachschule ,
+t he t echnical college not t oo far from Aachen .
+m e018 [ s^ fe] : Hm m !
+m n049 [ s] : So it ’s like professor [ disfm arker] u universit y professor
+m e018 [ b] : Mm − hm m .
+m n049 [ s^ rt ] : y ou know , not quit e a universit y , not quit e a sort of
+[ disfm arker] it ’s not Aachen Universit y , but it ’s a good school and he
+[ disfm arker] he ’s happy .
+
+m e018 [ b] : Mm − hm m .
+m e018 [ b] : Hm m !
+m n049 [ s] : And he [ disfm arker] well , he was hoping t o work uh wit h
+Ericsson like on t uh like consult ing basis ,
+m e018 [ b] : Mm − hm m .
+m n049 [ s] : but right now he says [ disfm arker] says it doesn’t look like
+t hat any body is even t hinking about speech recognit ion .
+m e018 [ s^ fe] : Wow !
+m n049 [ s^ df] : They t hink about surv ival .
+m n049 [ fh] : Yeah .
+m e018 [ b] : Hm m .
+m n049 [ fh] : So .
+m n049 [ s] : So . But t his is being now discussed right now ,
+m n049 [ s] : and it ’s possible t hat uh [ disfm arker] t hat [ disfm arker]
+t hat it m ay get t hrough , t hat we will st ill st ick t o fift y percent .
+m n007 [ b] : Mm − hm m .
+m n049 [ s] : But t hat m eans t hat nobody will probably get t his im t his
+im provem ent .
+m n049 [ s] : yet , wi wit h t he current syst em .
+m n049 [ s] : Which ev ent es essent ially I t hink t hat we should be happy
+wit h
+m n049 [ s] : because t hat [ disfm arker] t hat would m ean t hat at least
+people m ay be forced t o look int o alt ernat ive solut ions
+m n007 [ b] : Mm − hm m .
+m n007 [ b] : Mm − hm m .
+m n049 [ %−−] : and [ disfm arker]
+m n007 [ s] : But m aybe [ disfm arker] I [ disfm arker] I m ean we are not
+t oo far from [ disfm arker] from fift y percent , from t he new baseline .
+m n049 [ s^ ar.%−] : Uh , but not [ disfm arker]
+m n007 [ s.%−] : Which would m ean like sixt y percent over t he current
+baseline , which is [ disfm arker]
+m n049 [ s^ aa] : Yeah .
+m n049 [ s^ aa] : Yes . Yes .
+m n049 [ s^ aa] : We [ disfm arker] we get t ing [ disfm arker] we get t ing
+t here , right .
+m n007 [ fg] : Well .
+m n007 [ s] : We are around fift y , fift y − fiv e .
+m n049 [ b] : Yeah .
+m n007 [ fh] : So .
+m n049 [ b] : Yeah .
+m n007 [ b] : Mm − hm m .
+m n049 [ qy .%−−] : Is it like sort of [ disfm arker] is [ disfm arker]
+m n049 [ qw^ rt ] : How did you com e up wit h t his num ber ?
+m n049 [ qy ^ d^ rt ] : If you im prov e t went y [ disfm arker] by t went y
+percent t he c t he f t he all baselines , it ’s just a quick c com p co
+com put at ion ?
+
+m n007 [ h] : Yeah .
+m n007 [ s^ no.%−] : I don’t know exact ly if it ’s [ disfm arker]
+m n049 [ b] : Uh − huh .
+m n049 [ s] : I t hink it ’s about right .
+m n007 [ s] : Yeah , because it de it depends on t he weight ings
+m n007 [ %−−] : and [ disfm arker]
+m n049 [ b] : Yeah , y eah .
+m n007 [ fh] : Yeah .
+m n007 [ fh] : But .
+m n007 [ fh] : Mm − hm m .
+m e018 [ b] : Hm m .
+m e018 [ qw.%−−] : How ’s your docum ent at ion or what ever
+m e018 [ qw] : it w what was it you guy s were working on last week ?
+m n007 [ h] : Yeah ,
+m n007 [ s^ rt ] : finally we [ disfm arker] we ’ve not finished wit h t his .
+m n007 [ s] : We st opped .
+fn002 [ s^ ar] : More or less it ’s finished .
+m n007 [ s^ aa] : Yeah .
+fn002 [ s^ cs] : Ma − nec t o need a lit t le m ore t im e t o im prove t he
+English , and m ay be s t o fill in som et hing [ disfm arker] som e sm all
+det ail , som et hing like t hat ,
+m n007 [ b] : Mm − hm m .
+m e018 [ b] : Hm m .
+fn002 [ s^ bs] : but it ’s m ore or less ready .
+m n007 [ s^ aa] : Yeah .
+m n007 [ s] : Well , we have a docum ent t hat explain a big part of t he
+ex perim ent s ,
+fn002 [ s^ 2] : Necessary t o [ disfm arker] t o include t he bi t he
+bibliography .
+m n007 [ %−−] : but
+fn002 [ b] : Mm − hm m .
+m n007 [ s] : it ’s not , yeah , finished yet .
+m n007 [ b] : Mm − hm m .
+m e018 [ qw^ rt ] : So have you been running som e new experim ent s ?
+m e018 [ s] : I [ disfm arker] I t hought I saw som e jobs of yours running
+on som e of t he m achine [ disfm arker]
+m n007 [ s^ aa] : Yeah .
+m n007 [ s^ aa] : Right .
+m n007 [ s^ rt ] : We ’ve fff [ com m ent ] done som e st range t hings like
+rem oving C − zero or C − one from t he [ disfm arker] [ vocalsound]
+[ v ocalsound] t he v ect or of param et ers ,
+m n007 [ s] : and we not iced t hat C − one is alm ost not useful at all .
+m n007 [ s^ rt ] : You can rem ov e it from t he vect or , it doesn’t hurt .
+m e018 [ qh] : Really ? !
+m e018 [ qy ^ d^ rt ] : That has no effect ?
+m n007 [ h] : Um .
+
+m e018 [ qy ^ rt ] : Eh [ disfm arker] Is t his in t he baseline ?
+m e018 [ qrr.%−−] : or in uh [ disfm arker]
+m n007 [ s^ m .%−−] : In t he [ disfm arker]
+m n007 [ s^ ar] : No ,
+m n007 [ s^ rt ] : in t he proposal .
+m e018 [ s^ m .%−−] : in [ disfm arker]
+m e018 [ s^ bk] : uh − huh , uh − huh .
+m n049 [ s.%−−] : So we were just discussing , since you m ent ioned t hat ,
+in [ disfm arker] it w
+m n007 [ b] : Mm − hm m .
+m n049 [ s^ rt ] : driving in t he car wit h Morgan t his m orning , we were
+discussing a good experim ent for b for beginning graduat e st udent
+who want s t o run a lot of [ disfm arker] who want s t o get a lot of
+num bers on som et hing
+m n007 [ b] : Mm − hm m .
+m n049 [ s^ cs] : which is , like , " im agine t hat you will [ disfm arker] you
+will st art put t ing ev ery co any coefficient , which you are using in your
+v ect or , in som e general power .
+m e018 [ qw^ rt ] : In som e what ?
+m n049 [ s] : General pow power .
+m n049 [ s] : Like sort of you t ake a s power of t wo , or t ake a square
+root , or som et hing .
+m e018 [ b] : Mm − hm m .
+m n007 [ b] : Mm − hm m .
+m e018 [ b] : Mm − hm m .
+m n049 [ s^ cs] : So suppose t hat you are working wit h a s C − zer C −
+one .
+m n049 [ s^ cs] : So if you put it in a s square root , t hat effect ively
+m akes your m odel half as efficient .
+m n049 [ s^ df] : Because uh your uh Gaussian m ixt ure m odel ,
+m n049 [ qy ^ d^ rt ] : right ?
+m n049 [ s^ df] : com put es t he m ean .
+m e018 [ b] : Mm − hm m .
+m n049 [ %−−] : And [ disfm arker] and uh i i i
+m n049 [ s] : but it ’s [ disfm arker] t he m ean is an exponent of t he
+what ev er , t he [ disfm arker] t he [ disfm arker] t his Gaussian funct ion .
+m e018 [ s] : You ’re com pressing t he range ,
+m e018 [ qy ^ d^ g^ rt ] : right ?
+m e018 [ %−] : of t hat [ disfm arker]
+m n049 [ s^ na] : So you ’re com pressing t he range of t his coefficient ,
+so it ’s becom ing less efficient .
+m n049 [ qy ^ d^ f^ rt ] : Right ?
+m e018 [ s^ aa] : Mm − hm m .
+m n049 [ fh] : So .
+m n049 [ fh] : So .
+
+m n049 [ s] : Morgan was @ @ and he was [ disfm arker] he was saying
+well t his m ight be t he alt ernat ive way how t o play wit h a [ disfm arker]
+wit h a fudge fact or ,
+m n049 [ qy ^ d^ f] : y ou know ,
+m n049 [ %−] : uh in t he [ disfm arker]
+m e018 [ s^ bk] : Oh .
+m n049 [ s] : you know , just com press t he whole vect or .
+m e018 [ s^ aa] : Yeah .
+m n049 [ s.%−−] : And I said " well in t hat case why don’t we just st art
+com pressing indiv idual elem ent s , like when [ disfm arker] when
+[ disfm arker]
+m n049 [ s] : because in old days we were doing [ disfm arker] when
+[ disfm arker] when people st ill were doing t em plat e m at ching and
+Euclidean dist ances , we were doing t his lift ering of param et ers ,
+m n049 [ qy ^ d^ g^ rt ] : right ?
+m e018 [ s^ aa^ rt ] : Uh − huh .
+m n049 [ s] : because we observed t hat uh higher param et ers were
+m ore im port ant t han lower for recognit ion .
+m n049 [ s] : And basically t he [ disfm arker] t he C − ze C − one
+cont ribut es m ainly slope ,
+m e018 [ b] : Right .
+m n049 [ s^ e] : and it ’s highly affect ed by uh frequency response of
+t he [ disfm arker] of t he recording equipm ent and t hat sort of t hing ,
+m n007 [ b] : Mm − hm m .
+m e018 [ b] : Mm − hm m .
+m n049 [ fh] : so [ disfm arker]
+m n049 [ s] : so we were com ing wit h all t hese f various lift ers .
+m e018 [ b] : Mm − hm m .
+m n049 [ s] : uh Bell Labs had he [ disfm arker] t his uh uh r raised cosine
+lift er which st ill I t hink is built int o H [ disfm arker] HTK for reasons n
+unknown t o any body ,
+m n049 [ fh|s] : but [ disfm arker] but uh we had exponent ial lift er , or
+t riangle lift er , basic num ber of lift ers .
+m e018 [ b] : Hm m .
+m n049 [ fh|s.%−] : And . But so t hey m ay be a way t o [ disfm arker] t o
+fiddle wit h t he f wit h t he f
+m e018 [ qy ^ 2^ d^ rt ] : Insert ions .
+m n049 [ s^ aap^ m ] : Insert ions , delet ions , or t he [ disfm arker] t he
+[ disfm arker] giving a relat ive [ disfm arker] uh basically m odify ing
+relat iv e im port ance of t he various param et ers .
+m n007 [ b] : Mm − hm m .
+m n049 [ s] : The only of course problem is t hat t here ’s an infinit e
+num ber of com binat ions
+m e018 [ b] : Oh .
+m e018 [ b] : Uh − huh .
+m n049 [ %−] : and if t he [ disfm arker] if you s if y
+
+m e018 [ s^ cs.%−] : You need like a [ disfm arker] som e kind of a
+[ disfm arker]
+m n049 [ s^ cs] : Yeah , you need a lot of graduat e st udent s , and a lot
+of com put ing power .
+m e018 [ s^ cs] : You need t o have a genet ic algorit hm , t hat basically
+t ries random perm ut at ions of t hese t hings .
+m n049 [ b] : I know .
+m n049 [ s^ aa] : Exact ly .
+m n049 [ fg] : Oh .
+m n049 [ s.%−−] : If y ou were at Bell Labs or [ disfm arker] I d d
+m n049 [ s] : I shouldn’t be saying t his in [ disfm arker] on [ disfm arker] on
+a m ike ,
+m n049 [ qy^ d^ g^ rt ] : right ?
+m n049 [ s] : Or I [ disfm arker] uh [ disfm arker] IBM ,
+m n049 [ s] : t hat ’s what [ disfm arker] m ay be t hat ’s what som ebody
+would be doing .
+m e018 [ b] : Yeah .
+m e006 [ b] : Hm m .
+m n049 [ s] : Oh , I m ean , I m ean t he places which have a lot of
+com put ing power ,
+m e018 [ b] : Mm − hm m .
+m n049 [ s] : so because it is really it ’s a p it ’s a [ disfm arker] it ’s
+[ disfm arker] it will be reasonable search
+m e018 [ b] : Yeah .
+m n049 [ fh] : uh
+m n049 [ s] : but I wonder if t here isn’t som e way of doing t his uh search
+like when we are searching say for best discrim inant s .
+m e018 [ s^ ba] : You know act ually , I don’t know t hat t his wouldn’t be
+all t hat bad .
+m e018 [ s] : I m ean you [ disfm arker] you com put e t he feat ures once ,
+m n049 [ s^ aa] : Yeah .
+m e018 [ qy^ d^ g^ rt ] : right ?
+m n049 [ s^ aa] : Yeah .
+m e018 [ s] : And t hen t hese exponent s are just applied t o t hat
+[ disfm arker]
+m n049 [ s^ aa] : Absolut ely .
+m n049 [ s] : And hev everyt hing is fixed .
+m e018 [ fg] : So .
+m n049 [ s^ r] : Everyt hing is fixed .
+m e018 [ qy ^ rt ] : And is t his som et hing t hat you would adjust for
+t raining ?
+m n049 [ %−] : Each [ disfm arker] each [ disfm arker]
+m e018 [ qrr] : or only recognit ion ?
+m n049 [ s] : For bot h , you would hav e t o do .
+m e018 [ s^ bu^ m ] : You would do it on bot h .
+m n049 [ s^ aa] : Yeah .
+
+m e018 [ s.%−] : So you ’d act ually [ disfm arker]
+m n049 [ s^ r] : You have t o do bo bot h .
+m n049 [ s] : Because essent ially you are saying " uh t his feat ure is not
+im port ant " .
+m e018 [ b] : Mm − hm m .
+m n049 [ s] : Or less im port ant ,
+m n049 [ s] : so t hat ’s [ disfm arker] t h t hat ’s a [ disfm arker] t hat ’s a
+painful one ,
+m n049 [ b] : y eah .
+m e018 [ s^ bu] : So for each [ disfm arker] uh set of exponent s t hat you
+would t ry , it would require a t raining and a recognit ion ?
+m n049 [ s^ aa] : Yeah .
+m n049 [ s^ co] : But [ disfm arker] but wait a m inut e .
+m n049 [ s] : You m ay not need t o re uh uh ret rain t he m m odel .
+m n049 [ s^ cs] : You just m ay n m ay need t o c uh give uh less weight t o
+[ disfm arker] t o uh a m od uh a com ponent of t he m odel which
+represent s t his part icular feat ure .
+m n049 [ s] : You don’t have t o ret rain it .
+m e018 [ s^ bk] : Oh .
+m e018 [ %−−] : So if you [ disfm arker]
+m e018 [ s^ bu] : Inst ead of alt ering t he feat ure vect ors t hem selves ,
+y ou [ disfm arker] you m odify t he [ disfm arker] t he [ disfm arker] t he
+Gaussians in t he m odels .
+m n049 [ s^ 2] : You just m ult iply .
+m n049 [ b] : Yeah .
+m n049 [ b] : Yep .
+m n049 [ s^ m ^ na] : You m odify t he Gaussian in t he m odel ,
+m n049 [ s^ e] : but in t he [ disfm arker] in t he t est dat a you would have
+t o put it in t he power ,
+m n049 [ s] : but in a t raining what you c in a t raining uh [ disfm arker] in
+t rained m odel , all y ou would have t o do is t o m ult iply a m odel by
+appropriat e const ant .
+m e018 [ b] : Uh − huh .
+m e018 [ qw] : But why [ disfm arker] if you ’re [ disfm arker] if you ’re m ult i
+if y ou ’re alt ering t he m odel , why w in t he t est dat a , why would you
+have t o m uck wit h t he uh cepst ral coefficient s ?
+m n049 [ s] : Because in uh t est [ disfm arker] in uh t est dat a you ca
+don’t hav e a m odel .
+m n049 [ s^ e] : You have uh only dat a .
+m n049 [ %−] : But in a [ disfm arker] in a t r
+m e018 [ s^ nd] : No . But you ’re running y our dat a t hrough t hat sam e
+m odel .
+m n049 [ s^ aa] : That is t rue ,
+
+m n049 [ s] : but w I m ean , so what you want t o do [ disfm arker] You
+want t o say if uh obs you [ disfm arker] if you observe som et hing like
+St ephane observes , t hat C − one is not im port ant , you can do t wo
+t hings .
+m e018 [ b] : Mm − hm m .
+m e018 [ b] : Mm − hm m .
+m n049 [ s.%−] : If you have a t rained [ disfm arker] t rained recognizer , in
+t he m odel , y ou know t he [ disfm arker] t he [ disfm arker] t he
+[ disfm arker] t he com ponent which [ disfm arker] I [ disfm arker] I m ean di
+dim ension [ vocalsound] wh
+m e018 [ b] : Mm − hm m .
+m e018 [ s] : All of t he [ disfm arker] all of t he m ean and variances t hat
+correspond t o C − one , you put t hem t o zero .
+m n049 [ s^ na] : To t he s you [ disfm arker] you know it .
+m e018 [ s^ bk] : Yeah .
+m n049 [ s^ cs] : But what I ’m proposing now , if it is im port ant but not
+as im port ant , y ou m ult iply it by point one in a m odel .
+m n049 [ %−] : But [ disfm arker] but [ disfm arker] but [ disfm arker]
+m e018 [ qy ] : But what are you m ult iplying ?
+m e018 [ s] : Cuz t hose are m eans ,
+m e018 [ qy^ d^ rt ] : right ?
+m e018 [ %−] : I m ean you ’re [ disfm arker]
+m e006 [ qy ^ d^ rt ] : You ’re m ult iply ing t he st andard deviat ion ?
+m e006 [ %−] : So it ’s [ disfm arker]
+m n049 [ s^ cs.%−] : I t hink t hat you m ult iply t he [ disfm arker]
+m n049 [ s] : I would [ disfm arker] I would have t o look in t he [ disfm arker]
+in t he m at h ,
+m n049 [ qw.%−] : I m ean how [ disfm arker] how does t he m odel uh
+[ disfm arker]
+m e018 [ %−] : I t hink you [ disfm arker]
+m e018 [ s^ cs] : Yeah , I t hink y ou ’d have t o m odify t he st andard
+deviat ion or som et hing , so t hat you m ake it [ vocalsound] wider or
+narrower .
+m n049 [ b] : Yeah .
+m e006 [ %−] : Cuz [ disfm arker]
+m n049 [ b] : Yeah .
+m e006 [ b] : Yeah .
+m n007 [ b] : Yeah .
+m n049 [ %−] : Effect ively , t hat ’s [ disfm arker] t hat [ disfm arker] t hat ’s
+[ disfm arker] I [ disfm arker]
+m n049 [ s^ aa] : Exact ly .
+m n049 [ s] : That ’s what you do .
+m n049 [ s^ r] : That ’s what you do , you [ disfm arker] you [ disfm arker]
+y ou m odify t he st andard deviat ion as it was t rained .
+m e006 [ b] : Yeah .
+
+m n049 [ s] : Effect ively you , you know y in f in front of t he [ disfm arker]
+of t he m odel , you put a const ant .
+m n049 [ s] : S y eah effect ively what y ou ’re doing is you [ disfm arker] is
+y ou are m odifying t he [ disfm arker] t he [ disfm arker] t he deviat ion .
+m n049 [ qy ^ d^ g^ rt ] : Right ?
+m e018 [ b] : Oop .
+m e006 [ s] : The spread ,
+m e018 [ s^ fa] : Sorry .
+m e006 [ qy^ d^ g] : right .
+m n049 [ s^ aa] : Yeah ,
+m n049 [ s^ aa^ m ] : t he spread .
+m e018 [ fg] : So .
+m e006 [ s] : It ’s t he sam e [ disfm arker] sam e m ean ,
+m n049 [ fg] : And [ disfm arker] and [ disfm arker] and [ disfm arker]
+m e006 [ qy ^ d^ g^ rt ] : right ?
+m e018 [ s^ bu.%−−] : So by m aking t h t he st andard deviat ion narrower ,
+[ com m ent ] uh y our scores get worse for [ disfm arker]
+m n049 [ s^ aa] : Yeah .
+m e018 [ s^ bu] : unless it ’s exact ly right on t he m ean .
+m n049 [ %−] : Your als
+m n049 [ s^ ar] : No .
+m n049 [ s.%−] : By m aking it narrower ,
+m e018 [ qy ^ d^ g^ rt ] : Right ?
+m e018 [ s] : I m ean t here ’s [ disfm arker] you ’re [ disfm arker] you ’re
+allowing for less variance .
+m n049 [ %−] : uh y y our [ disfm arker]
+m e006 [ b] : Mm − hm m .
+m n049 [ s^ aa] : Yes ,
+m n049 [ s^ bs] : so you m aking t his part icular dim ension less im port ant
+.
+m n049 [ s] : Because see what y ou are fit t ing is t he m ult idim ensional
+Gaussian ,
+m n049 [ qy^ d^ f^ rt ] : right ?
+m e018 [ s^ aa] : Mm − hm m .
+m n049 [ s] : It ’s a [ disfm arker] it has [ disfm arker] it has uh t hirt y − nine
+dim ensions , or t hirt een dim ensions if you g ignore delt as and double −
+delt as .
+m e018 [ b] : Mm − hm m .
+m e018 [ b] : Mm − hm m .
+m n049 [ s^ cs] : So in order [ disfm arker] if you [ disfm arker] in order t o
+m ake dim ension which [ disfm arker] which St ephane sees uh less
+im port ant , uh uh I m ean not [ disfm arker] not useful , less im port ant ,
+what y ou do is t hat t his part icular com ponent in t he m odel you can
+m ult iply by w you can [ disfm arker] you can basically de − weight it in t he
+m odel .
+m n049 [ s] : But y ou can’t do it in a [ disfm arker] in a t est dat a
+
+m n049 [ s^ df] : because you don’t have a m odel for t h I m ean uh when
+t he t est com es ,
+m n049 [ s^ cs] : but what you can do is t hat you put t his part icular
+com ponent in [ disfm arker] and [ disfm arker] and you com press it .
+m n049 [ s] : That becom es uh t h get s less variance , subsequent ly
+becom es less im port ant .
+m e018 [ qy^ rt ] : Couldn’t you just do t hat t o t he t est dat a and not do
+anyt hing wit h your t raining dat a ?
+m n049 [ s^ ba] : That would be very bad ,
+m n049 [ s^ df.%−−] : because uh your t your m odel was t rained uh
+ex pect ing uh ,
+m n049 [ s] : t hat wouldn’t work .
+m n049 [ s^ df] : Because your m odel was t rained expect ing a cert ain
+v ar v ariance on C − one .
+m e018 [ b] : Uh − huh .
+m n049 [ s] : And because t he m odel t hinks C − one is im port ant .
+m n049 [ s^ cs] : Aft er you t rain t he m odel , you sort of [ disfm arker] y
+y ou could do [ disfm arker] you could do st ill what I was proposing
+init ially ,
+m n049 [ s^ cs] : t hat during t he t raining you [ disfm arker] you com press
+C − one t hat becom es [ disfm arker] t hen it becom es less im port ant in a
+t raining .
+m e018 [ b] : Mm − hm m .
+m n049 [ s] : But if you have [ disfm arker] if you want t o run e ex
+ex t ensiv e experim ent wit hout ret raining t he m odel , you don’t have t o
+ret rain t he m odel .
+m n049 [ s] : You t rain it on t he original v ect or .
+m n049 [ s^ rt ] : But aft er , you [ disfm arker] wh when you are doing t his
+param et ric st udy of im port ance of C − one you will de − weight t he C −
+one com ponent in t he m odel ,
+m n049 [ s] : and y ou will put in t he [ disfm arker] you will com press t he
+[ disfm arker] t his com ponent in a [ disfm arker] in t he t est dat a . s by
+t he sam e am ount .
+m e018 [ qy .%−−] : Could you also if you want ed t o [ disfm arker]
+m e018 [ qy ^ rt ] : if y ou want ed t o t ry an ex perim ent uh by [ pause]
+leav ing out say , C − one , couldn’t y ou , in your t est dat a , uh m odify
+t he [ disfm arker] all of t he C − one v alues t o be um way out side of t he
+norm al range of t he Gaussian for C − one t hat was t rained in t he m odel
+?
+m e018 [ qy ^ d^ rt ] : So t hat effect ively , t he C − one never really
+cont ribut es t o t he score ?
+m n007 [ b.%] : Mm − hm m .
+m e018 [ qy.%−] : Do you know what I ’m say
+m n049 [ s^ ar] : No ,
+m n049 [ s] : t hat would be a sev ere m ism at ch ,
+m n049 [ qy ^ d^ g^ rt ] : right ?
+
+m n049 [ qy ^ d^ rt ] : what you are proposing ?
+m e018 [ s^ aa] : Yeah ,
+m e018 [ %−] : som et h
+m n049 [ s^ ar] : N no you don’t want t hat .
+m n049 [ s^ df] : Because t hat would [ disfm arker] t hen your m odel
+would be unlikely .
+m n049 [ s^ e] : Your likelihood would be low ,
+m n049 [ qy ^ d^ g^ rt ] : right ?
+m e018 [ s^ aa] : Mm − hm m .
+m n049 [ s] : Because you would be prov iding severe m ism at ch .
+m e018 [ qw] : But what if you set if t o t he m ean of t he m odel , t hen ?
+m e018 [ s] : And it was a cons you set all C − ones com ing in t hrough
+y our t est dat a , y ou [ disfm arker] you change what ever value t hat was
+t here t o t he m ean t hat your m odel had .
+m n049 [ s^ ba] : No t hat would be very good m at ch ,
+m n049 [ qy ^ d^ g^ rt ] : right ?
+m e018 [ s^ aa] : Yeah .
+m n049 [ %−] : That y ou would [ disfm arker]
+m n007 [ %−] : Which [ disfm arker]
+m n007 [ s^ aap] : Well , yeah , but we have several m eans .
+m n007 [ fh] : So .
+m n049 [ s^ bk] : I see what you are sa [ pause] saying ,
+m n007 [ %] : Right ?
+m e006 [ s^ 2] : Say ing .
+m n049 [ fh] : but
+m n049 [ fh|s^ ar] : uh , [ vocalsound] no , no I don’t t hink t hat it would
+be t he sam e .
+m n049 [ %−−] : [ no m at ched cont ent ]
+m n049 [ s^ cs.%−−] : I m ean , no , t he [ disfm arker] If you set it t o a m ean
+, t hat would [ disfm arker]
+m n049 [ s^ ar^ co] : No , you can’t do t hat .
+m e018 [ s^ aa] : Oh , t hat ’s t rue ,
+m n049 [ s^ ar^ co] : Y you ca you ca Ch − Chuck , you can’t do t hat .
+m e018 [ qy ^ d^ g^ rt ] : right ,
+m e018 [ s.%−] : yeah , because you [ disfm arker] you have [ disfm arker]
+m n007 [ s^ co.%] : Wait .
+m n007 [ %−] : Which [ disfm arker]
+m e018 [ b] : Yeah .
+m n049 [ s^ df] : Because t hat would be a really f fiddling wit h t he dat a ,
+m n049 [ s^ co] : you can’t do t hat .
+m e018 [ b] : Mm − hm m . Mm − hm m .
+m e018 [ b] : [ no m at ched cont ent ]
+m e018 [ b] : [ no m at ched cont ent ]
+m n049 [ s^ cs.%−−] : But what you can do , I ’m confident you ca
+m n049 [ s] : well , I ’m reasonably confident and I put t ing it on t he
+record ,
+
+m n049 [ qy ^ d^ f^ rt ] : right ?
+m n049 [ s^ j] : I m ean y people will list en t o it for [ disfm arker] for
+cent uries now ,
+m n049 [ s^ cs] : is [ pause] what y ou can do , is you t rain t he m odel uh
+wit h t he [ disfm arker] wit h t he original dat a .
+m e006 [ b] : Mm − hm m .
+m n049 [ s] : Then y ou decide t hat you want t o see how im port ant C
+[ disfm arker] C − one is .
+m n049 [ s] : So what you will do is t hat a com ponent in t he m odel for C
+− one , y ou will div ide it by [ disfm arker] by t wo .
+m n049 [ s] : And y ou will com press y our t est dat a by square root .
+m e018 [ b] : Mm − hm m .
+m n049 [ s] : Then y ou will st ill have a perfect m m at ch .
+m n049 [ s] : Except t hat t his com ponent of C − one will be half as
+im port ant in a [ disfm arker] in a overall score .
+m e018 [ b] : Mm − hm m .
+m e018 [ b^ rt ] : Mm − hm m .
+m n049 [ s] : Then you divide it by four and you t ake a square , f fourt h
+root .
+m n049 [ s.%−] : Then if you t hink t hat som e com ponent is m ore
+[ disfm arker] is m ore im port ant t hen t h t h t h it t hen [ disfm arker] t hen
+uh uh i it is , based on t raining , t hen you uh m ult iply t his part icular
+com ponent in t he m odel by [ disfm arker] by [ disfm arker] by [ disfm arker]
+m e018 [ qy ^ d^ rt ] : You ’re t alking about t he st andard deviat ion ?
+m n049 [ s^ aa] : y eah .
+m e018 [ b] : Yeah .
+m n049 [ s^ aa|s^ rt ] : Yeah , m ult iply t his com ponent uh i it by num ber b
+larger t han one ,
+m e018 [ b] : Mm − hm m .
+m n049 [ s] : and you put your dat a in power higher t han one .
+m n049 [ s] : Then it becom es m ore im port ant . In t he ov erall score , I
+believ e .
+m e018 [ qy^ rt ] : But [ pause] don’t you have t o do som et hing t o t he
+m ean , also ?
+m n007 [ b] : Yeah ,
+m n007 [ %−] : but , at t he [ disfm arker]
+m n049 [ s^ ar] : No .
+m n007 [ s^ ar] : No .
+m n049 [ s^ ar] : No .
+m e006 [ b] : Yeah .
+m n007 [ s] : But I t hink it ’s [ disfm arker] uh t he [ disfm arker] The
+v ariance is on [ disfm arker] on t he denom inat or in t he [ disfm arker] in
+t he Gaussian equat ion .
+m n007 [ s] : So . I t hink it ’s m ay be it ’s t he cont rary .
+m n007 [ s.x ] : If y ou want t o decrease t he im port ance of a c param et er
+, you hav e t o increase it ’s variance .
+
+m n049 [ s^ aa] : Yes .
+m n049 [ s^ aa.x] : Right .
+m n049 [ s^ aa] : Yes .
+fn002 [ s.x] : Mult iply .
+m n049 [ s^ aa] : Ex act ly .
+m n049 [ fg] : Yeah .
+m n049 [ s^ cs] : So you [ disfm arker] so you m ay want t o do it ot her way
+around ,
+m n007 [ b] : Hm m .
+m n007 [ s^ aa] : That ’s right .
+m n007 [ b] : OK .
+m n049 [ b] : yeah .
+m n007 [ b] : Mm − hm m .
+m e006 [ b] : Right .
+m e018 [ %−−] : But if your [ disfm arker]
+m e018 [ s] : If y our um original dat a for C − one had a m ean of t wo .
+m n049 [ b^ rt ] : Uh − huh .
+m e018 [ s] : And now you ’re [ disfm arker] you ’re [ disfm arker] you ’re
+changing t hat by squaring it .
+m e018 [ s] : Now your m ean of your C − one original dat a has
+[ disfm arker] [ com m ent ] is four .
+m e018 [ s] : But y our m odel st ill has a m ean of t wo .
+m e018 [ s] : So even t hough you ’ve expended t he range , your m ean
+doesn’t m at ch anym ore .
+m n007 [ b] : Mm − hm m .
+m e018 [ qy^ rt ] : Do y ou see what I m ean ?
+m n049 [ s^ co] : Let ’s see .
+m n007 [ s^ cs^ rt ] : I t hink [ disfm arker] What I see [ disfm arker] What
+could be done is y ou don’t change your feat ures , which are com put ed
+once for all ,
+m n049 [ b] : Uh − huh .
+m n007 [ s] : but you just t une t he m odel .
+m n007 [ s^ rt ] : So . You have your feat ures .
+m n007 [ s^ rt ] : You t rain your [ disfm arker] your m odel on t hese
+feat ures .
+m e018 [ b] : Mm − hm m .
+m n007 [ s.%−−] : And t hen if you want t o decrease t he im port ance of C −
+one you just t ake t he variance of t he C − one com ponent in t he
+[ disfm arker] in t he m odel and increase it if you want t o decrease t he
+im port ance of C − one or decrease it [ disfm arker]
+m e018 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m e018 [ b] : Right .
+m n049 [ b] : Yeah .
+m n049 [ s] : You would have t o m odify t he m ean in t he m odel .
+m n049 [ s^ aa] : I [ disfm arker] you [ disfm arker] I agree wit h you .
+
+m n049 [ b] : Yeah .
+m n049 [ b] : Yeah ,
+m e018 [ fg] : Yeah , so y
+m n049 [ s] : but I m ean , but it ’s [ disfm arker] it ’s i it ’s do − able ,
+m n007 [ fg] : Well .
+m n049 [ qy^ d^ g^ rt ] : right ?
+m n049 [ s] : I m ean , it ’s predict able .
+m n049 [ b] : Uh . Yeah .
+m e018 [ s^ aa^ m ] : It ’s predict able , yeah .
+m n049 [ b] : Yeah .
+m n049 [ s^ aa^ r] : Yeah , it ’s predict able .
+m e018 [ b] : Yeah .
+m n007 [ b] : Mm m .
+m e018 [ s^ cs] : But as a sim ple t hing , you could just [ disfm arker] just
+m uck wit h t he variance .
+m n007 [ s^ 2] : Just adjust t he m odel ,
+m n007 [ b] : y eah .
+m e018 [ s^ df] : t o get uh t his [ disfm arker] uh t his [ disfm arker] t he
+effect I t hink t hat y ou ’re t alking about ,
+m n049 [ b] : Mm − hm m .
+m e018 [ qy ^ d^ g^ rt ] : right ?
+m n049 [ s^ am ] : It m ight be .
+m e018 [ s] : Could increase t he v ariance t o decrease t he im port ance .
+m n049 [ b] : Mm − hm m .
+m n007 [ b] : Mm − hm m .
+m e018 [ fg|s] : Yeah , because if you had a huge variance , you ’re
+div iding by a large num ber , [ com m ent ] you get a very sm all
+cont ribut ion .
+m n007 [ b] : Yeah ,
+m n007 [ s] : it becom es m ore flat
+m e006 [ %−] : Doesn’t m at t er [ disfm arker]
+m n007 [ %−] : and [ disfm arker]
+m e006 [ b] : Right .
+m n049 [ b] : Yeah .
+m e018 [ b] : Yeah .
+m n007 [ b] : Yeah .
+m e018 [ b] : Hm m .
+m e006 [ s] : Yeah , t he sharper t he v ariance , t he m ore [ disfm arker]
+m ore im port ant t o get t hat one right .
+m n049 [ b] : Mm − hm m .
+m e018 [ fg|s] : Yeah , you know act ually , t his rem inds m e of som et hing
+t hat happened uh when I was at BBN .
+m e018 [ s] : We were playing wit h put t ing um pit ch int o t he Mandarin
+recognizer .
+m n049 [ b] : Mm − hm m .
+
+m e018 [ s] : And t his part icular pit ch algorit hm um when it didn’t t hink
+t here was any v oicing , was spit t ing out zeros .
+m e018 [ s.%−] : So we were get t ing [ disfm arker] uh when we did
+clust ering , we were get t ing groups uh of feat ures
+m n049 [ s] : p Pret t y new out liers , int erest ing out liers ,
+m e018 [ fg|s] : yeah , wit h [ disfm arker] wit h a m ean of zero and
+basically zero v ariance .
+m n049 [ qy^ d^ g^ rt ] : right ?
+m n049 [ s^ m ] : Variance .
+m e018 [ fh|s] : So , when ener [ com m ent ] when anyt im e any one of
+t hose v ect ors cam e in t hat had a zero in it , we got a great score .
+m e018 [ s] : I m ean it was just , [ nonvocalsound] you know , incredibly
+[ nonv ocalsound] high score , and so t hat was t hrowing everyt hing off .
+m n007 [ b] : Mm − hm m .
+m e018 [ fh|s] : So [ v ocalsound] if you have very sm all variance you get
+really good scores when you get som et hing t hat m at ches .
+m n049 [ b] : Yeah .
+m e018 [ fh|s.%−−] : So . [ vocalsound] So t hat ’s a way , yeah , yeah
+[ disfm arker]
+m n007 [ b] : Mm − hm m .
+m e018 [ s.%−−] : That ’s a way t o increase t he [ disfm arker] yeah , n
+m e018 [ s^ ba] : That ’s int erest ing .
+m e018 [ s.%−−] : So in fact , t hat would be [ disfm arker]
+m e018 [ s^ bu] : That doesn’t require any ret raining .
+m n049 [ s^ aa] : Yeah .
+m n007 [ s^ aa] : No ,
+m n049 [ s^ aa^ m ] : No . No .
+m n007 [ s^ aa] : t hat ’s right .
+m e018 [ s.%−] : So t hat m eans it ’s just
+m n007 [ s.%−] : So it ’s
+m n007 [ s] : just t uning t he m odels and t est ing , act ually .
+m n049 [ b] : Yeah .
+m e018 [ s] : recognit ions .
+m e018 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m e018 [ s] : You [ disfm arker] you hav e a st ep where you you m odify t he
+m odels , m ake a d copy of your m odels wit h what ever variance
+m odificat ions y ou m ake , and rerun recognit ion .
+m n007 [ s] : It would be quick .
+m n049 [ b] : Yeah .
+m n007 [ b] : Mm − hm m .
+m n049 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m e018 [ s^ rt ] : And t hen do a whole bunch of t hose .
+m n049 [ b] : Yeah .
+
+m n007 [ b] : Mm − hm m .
+m e018 [ s] : That could be set up fairly easily I t hink ,
+m e018 [ s.%−−] : and you have a whole bunch of
+m e018 [ fh] : y ou know [ disfm arker]
+m n049 [ s^ j] : Chuck is get t ing him self in t rouble .
+m e018 [ s^ ba] : That ’s an int erest ing idea , act ually .
+m e018 [ %−−] : For t est ing t he [ disfm arker]
+m e018 [ fh] : Yeah .
+m e018 [ fh] : Huh !
+m e006 [ qy ^ rt ] : Didn’t you say y ou got t hese uh HTK ’s set up on t he
+new Linux boxes ?
+m e018 [ s^ aa] : That ’s right .
+m e018 [ s] : In fact , and [ disfm arker] and t hey ’re just t right now t hey
+’re inst alling uh [ disfm arker] increasing t he m em ory on t hat uh
+[ disfm arker] t he Linux box .
+m e006 [ b] : Yeah .
+m n049 [ s^ fe] : Hey !
+m n049 [ s^ j] : And Chuck is sort of really fishing for how t o keep his
+com put er busy ,
+m e006 [ b] : Right .
+m e018 [ s^ aa] : Yeah .
+m n049 [ qy ^ d^ g^ rt ] : right ?
+m e018 [ s] : Absint he .
+m e018 [ s^ m ] : Absint he .
+m n049 [ s.%−] : Well , you know , t hat ’s [ disfm arker]
+m e018 [ s] : We ’ve got five processors on t hat .
+m n049 [ s^ ba] : t hat ’s [ disfm arker] yeah , t hat ’s a good t hing
+m e006 [ s^ bk] : Oh y eah .
+m e018 [ s^ e] : And t wo gigs of m em ory .
+m e006 [ s^ aa] : That ’s right .
+m n049 [ s^ j] : because t hen y y ou just writ e t he " do " − loops and t hen
+y ou pret end t hat you are working while you are sort of [ disfm arker] you
+c y ou can go fishing .
+m n007 [ b] : Yeah .
+m e018 [ b] : Yeah .
+m e018 [ s^ aa] : Ex act ly .
+m e006 [ s^ aa] : Pret end , yeah .
+m e018 [ b] : Yeah .
+fn002 [ s] : Go fishing .
+m e018 [ qy^ d^ rt ] : See how m any cycles we used ?
+m n049 [ s^ aa] : Yeah .
+m n049 [ s] : Then you are sort of in t his m ode like all of t hose ARPA
+people are ,
+m e018 [ s^ aa] : Yeah .
+m n049 [ qy^ d^ g^ rt ] : right ?
+
+m n049 [ s] : Uh , since it is on t he record , I can’t say uh which
+com pany it was ,
+m n049 [ s] : but it was report ed t o m e t hat uh som ebody visit ed a
+com pany
+m n049 [ s^ j] : and during a [ disfm arker] d during a discussion , t here
+was t his guy who was always hit t ing t he carriage ret urns uh on a
+com put er .
+m e018 [ b] : Uh − huh .
+m n049 [ s^ j:qw] : So aft er t wo hours uh t he visit or said " wh why are
+y ou hit t ing t his carriage ret urn ? "
+m n049 [ s^ j] : And he said " well you know , we are being paid by a
+com put er t y I m ean we are [ disfm arker] we have a governm ent
+cont ract .
+m n049 [ s^ j] : And t hey pay us by [ disfm arker] by am ount of com put er
+t im e we use . "
+m n049 [ s^ j] : It was in old days when t here were uh [ disfm arker] of
+PDP − eight s and t hat sort of t hing .
+m e018 [ s^ fe] : Oh , m y gosh !
+m e018 [ s^ bu.%−−] : So he had t o m ake it look like [ disfm arker]
+m n049 [ s] : Because so t hey had a [ disfm arker] t hey lit erally had t o c
+m onit or at t he t im e [ disfm arker] at t he t im e on a com put er how m uch
+t im e is being spent I [ disfm arker] i i or on [ disfm arker] on t his
+part icular project .
+m e018 [ b] : Yeah .
+m e018 [ s^ m .%−] : How [ disfm arker]
+m e018 [ s^ 2] : Idle t im e .
+m e018 [ b] : Yeah .
+m e006 [ b] : Yeah .
+m n049 [ s] : Nobody was looking even at what was com ing out .
+m e018 [ qy .%−−] : Have you ever seen t hose lit t le
+m e018 [ h] : um [ disfm arker]
+m e018 [ s^ rt ] : It ’s [ disfm arker] it ’s t his t hing t hat ’s t he shape of a
+bird and it has a red ball and it s beak dips int o t he wat er ?
+m n049 [ s^ aa] : Yeah , I know ,
+m n049 [ b] : right .
+m e018 [ s^ j.%−−] : So [ vocalsound] if y ou could hook t hat up so it hit
+t he key board [ disfm arker]
+m n049 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m e018 [ s^ ba] : That ’s an int erest ing experim ent .
+m n049 [ s.%−] : It would be sim ilar [ disfm arker] sim ilar t o [ disfm arker]
+m n049 [ s] : I knew som e people who were uh t hat was in old
+Com m unist uh Czechoslovakia ,
+m n049 [ qy ^ d^ f^ rt ] : right ?
+
+m n049 [ s] : so we were wat ching for Am erican airplanes , com ing t o
+spy on [ disfm arker] on uh [ disfm arker] on us at t he t im e ,
+m e018 [ b] : Mm − hm m .
+m e018 [ b] : Mm − hm m .
+m n049 [ s] : so t here were t hree guy s uh uh st at ioned in t he m iddle of
+t he woods on one l lonely uh wat ching t ower , pret t y m uch spending a
+y ear and a half t here because t here was t his service
+m n049 [ qy ^ d^ f^ rt ] : right ?
+m e018 [ b] : Ugh !
+m n049 [ s] : And so t hey [ disfm arker] very quickly t hey m ade friends
+wit h local girls and local people in t he village
+m n049 [ fh] : and [ disfm arker]
+m e018 [ b] : Yeah .
+m n049 [ fh|s] : and so but t hey [ disfm arker] t here was one plane flying
+ov er s always uh uh above ,
+m n049 [ s] : and so t hat was t he only work which t hey had .
+m n049 [ s] : They [ disfm arker] like four in t he aft ernoon t hey had t o
+report t here was a plane from Prague t o Brno Basically f flying t here ,
+m e018 [ b] : Yeah .
+m n049 [ s] : so t hey f very q f first t hing was t hat t hey would always run
+back and [ disfm arker] and at four o ’ clock and [ disfm arker] and
+quickly m ake a call , " t his plane is uh uh passing "
+m n049 [ s] : t hen a second t hing was t hat t hey [ disfm arker] t hey t ook
+t he line from t his u u post t o uh uh a local pub .
+m n049 [ s] : And t hey were calling from t he pub .
+m n049 [ s] : And t hey [ disfm arker] but t hird t hing which t hey m ade ,
+and when t hey screwed up , t hey [ disfm arker] finally t hey had t o p t he
+[ disfm arker] t he p t he pub owner t o m ake t hese phone calls because
+t hey didn’t even bot her t o be t here anym ore .
+m n049 [ s] : And one day t here was [ disfm arker] t here was no plane .
+m n049 [ s] : At least t hey were sort of sm art enough t hat t hey looked if
+t he plane is flying t here ,
+m n049 [ qy^ d^ f^ rt ] : right ?
+m e018 [ s^ aa] : Yeah .
+m n049 [ s] : And t he pub owner says " oh m y [ disfm arker] four o ’ clock
+, OK , quickly p pick up t he phone , call t hat t here ’s a plane flying . "
+m n049 [ s] : There was no plane for som e reason ,
+m e018 [ qy ^ d^ rt ] : And t here wasn’t ?
+m n049 [ s] : it was downed ,
+m n049 [ fh] : or [ disfm arker] [ v ocalsound] and [ disfm arker]
+m n049 [ s] : so t hey got in t rouble .
+m n049 [ fh] : But . [ v ocalsound] But uh .
+m e018 [ s^ fe] : Huh !
+m e018 [ s.%−] : Well t hat ’s [ disfm arker] t hat ’s a really i
+m n049 [ b] : So . So . Yeah .
+m e018 [ s] : That wouldn’t be t oo difficult t o t ry .
+
+m e018 [ s^ cc] : May be I could set t hat up .
+m n049 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m e018 [ %−] : And we ’ll just [ disfm arker]
+m n049 [ s^ co] : Well , at least go t est t he s t est t he uh assum pt ion
+about C − C − one I m ean t o begin wit h .
+m n049 [ s] : But t hen of course one can t hen t hink about som e
+predict able result t o change all of t hem .
+m n007 [ b] : Mm − hm m .
+m n049 [ s] : It ’s just like we used t o do t hese uh [ disfm arker] t hese uh
+[ disfm arker] um t he [ disfm arker] t he uh dist ance m easures .
+m n049 [ %−] : It m ight be t hat uh [ disfm arker]
+m e018 [ fg|s] : Yeah , so t he first set of uh variance weight ing vect ors
+would be just y ou know one [ disfm arker] m odifying one and leaving t he
+ot hers t he sam e .
+m n049 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m n007 [ b] : Yeah .
+m n007 [ s^ am ] : Maybe .
+m e018 [ s] : And [ disfm arker] and do t hat for each one .
+m n049 [ s] : Because you see , I m ean , what is happening here in a
+[ disfm arker] in a [ disfm arker] in a [ disfm arker] in such a m odel is t hat
+it ’s [ disfm arker] t ells you yeah what has a low variance uh is uh
+[ disfm arker] is uh [ disfm arker] is m ore reliable ,
+m e018 [ s.%−] : That would be one set of ex perim ent [ disfm arker]
+m n049 [ qy ^ d^ g^ rt ] : right ?
+m n049 [ qw.%−] : How do we [ disfm arker]
+m e018 [ s^ aa.%−−] : Wh − yeah , when t he dat a m at ches t hat , t hen you
+get really [ disfm arker]
+m n049 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m e018 [ b] : Yeah .
+m e018 [ b] : Right .
+m n049 [ qw] : How do we know , especially when it com es t o noise ?
+m e018 [ s] : But t here could just nat urally be low variance .
+m n049 [ b^ rt ] : Yeah ?
+m e018 [ s^ df] : Because I [ disfm arker] Like , I ’ve not iced in t he higher
+cepst ral coefficient s , t he num bers seem t o get sm aller ,
+m e018 [ qy ^ d^ g^ rt ] : right ?
+m e018 [ %−−] : So d
+
+m n007 [ %−] : They [ disfm arker] t
+m e018 [ s] : I m ean , just nat urally .
+m n007 [ s^ aa] : Yeah .
+m n049 [ s^ aa.%−] : Yeah , t h t hat ’s [ disfm arker]
+m n007 [ s] : They have sm aller m eans , also .
+m e018 [ s^ aa] : Yeah .
+m n007 [ h] : Uh .
+m e018 [ s^ aa] : Ex act ly .
+m e018 [ s] : And so it seem s like t hey ’re already sort of com pressed .
+m n007 [ b] : Uh − huh .
+m e018 [ s^ e] : The range [ pause] of values .
+m n049 [ s] : Yeah t hat ’s why uh people used t hese lift ers were inverse
+v ariance weight ing lift ers basically t hat m akes uh uh Euclidean
+dist ance m ore like uh Mahalanobis dist ance wit h a diagonal covariance
+when y ou knew what all t he variances were over t he old dat a .
+m e018 [ b] : Mm − hm m .
+m e018 [ b] : Mm − hm m .
+m e018 [ b] : Hm m .
+m n049 [ s] : What t hey would do is t hat t hey would weight each
+coefficient by inv erse of t he variance .
+m n049 [ s] : Turns out t hat uh t he v ariance decreases at least at fast ,
+I believ e , as t he index of t he cepst ral coefficient s .
+m e018 [ b] : Mm − hm m .
+m n049 [ s] : I t hink y ou can show t hat uh uh analyt ically .
+m e018 [ b] : Hm m .
+m n049 [ s] : So t ypically what happens is t hat you [ disfm arker] you
+need t o weight t he [ disfm arker] uh weight t he higher coefficient s m ore
+t han uh t he lower coefficient s .
+m e018 [ b] : Mm − hm m .
+m e018 [ b] : Hm m .
+m n007 [ b] : Mm m .
+m n049 [ fh] : So .
+m e018 [ b] : [ no m at ched cont ent ]
+m n049 [ %−−] : When [ disfm arker] Yeah .
+m n049 [ s] : When we t alked about Aurora st ill I want ed t o m m ake a
+plea [ disfm arker] uh encourage for uh m ore com m unicat ion bet ween
+[ disfm arker] bet ween uh [ pause] uh different uh part s of t he
+dist ribut ed uh [ pause] uh cent er .
+m n049 [ s] : Uh ev en when t here is absolut ely not hing t o [ disfm arker]
+t o s t o say but t he weat her is good in Ore − in [ disfm arker] in Berkeley .
+m n049 [ s] : I ’m sure t hat it ’s being appreciat ed in Oregon and m aybe
+it will generat e sim ilar responses down here ,
+m n049 [ %−−] : like , uh [ disfm arker]
+m n007 [ s^ cs] : We can set up a webcam m aybe .
+m n049 [ s^ aa] : Yeah .
+m e006 [ s^ aa^ j] : Yeah .
+
+m n049 [ s.%−−] : What [ disfm arker] you know , nowadays ,
+m n049 [ s^ aa] : y eah .
+m n049 [ s] : It ’s act ually do − able , alm ost .
+m e018 [ qy .%−−] : Is t he um [ disfm arker]
+m e018 [ qy ^ rt ] : if we m ail t o " Aurora − inhouse " , does t hat go up t o
+y ou guy s also ?
+m n049 [ s^ ar] : I don’t t hink so .
+m n007 [ s^ ar] : No .
+m n049 [ s^ ar] : No .
+m e018 [ s^ bk] : OK .
+m e018 [ qw.%−] : So i What is it [ disfm arker]
+m n049 [ s^ co] : So we should do t hat .
+m e018 [ s^ aa^ m .%−−] : Yeah we sh
+m n049 [ s^ co] : We should definit ely set up [ disfm arker]
+m e006 [ s^ aa] : Yeah .
+m e018 [ qy ^ rt ] : Do we have a m ailing list t hat includes uh t he OGI
+people ?
+m n049 [ b] : Yeah .
+m n007 [ h|s^ ar] : Uh no .
+m n007 [ s^ ar] : We don’t have .
+m e018 [ s^ fe] : Oh !
+m n049 [ b] : Uh − huh .
+m e018 [ s^ cs] : May be we should set t hat up .
+m e018 [ s^ df] : That would m ake it m uch easier .
+m n049 [ b] : Yeah .
+m n049 [ s^ aa] : Yeah .
+m n049 [ s^ aa] : Yeah , t hat would m ake it easier .
+m e018 [ s^ cs.%−−] : So m aybe just call it " Aurora " or som et hing t hat
+would [ disfm arker]
+m n049 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m n049 [ s] : And t hen we also can send t he [ disfm arker] t he dis t o t he
+sam e address
+m n049 [ qy^ d^ g^ rt ] : right ,
+m n049 [ qy^ bu^ d^ rt ] : and it goes t o everybody
+m e018 [ b] : Mm − hm m .
+m e018 [ b] : Mm − hm m .
+m n007 [ b] : Yeah .
+m e018 [ s^ bk] : OK .
+m e018 [ s^ cs] : May be we can set t hat up .
+m n049 [ s] : Because what ’s happening nat urally in research , I know ,
+is t hat people essent ially st art working on som et hing and t hey don’t
+want t o be m uch bot hered ,
+m n049 [ qy ^ d^ g^ rt ] : right ?
+
+m n049 [ s] : but what t he [ disfm arker] t he [ disfm arker] t hen t he
+danger is in a group like t his , is t hat t wo people are working on t he
+sam e t hing and i c of course bot h of t hem com e wit h t he s very good
+solut ion , but it could have been done som ehow in half of t he effort or
+som et hing .
+m e018 [ b] : Mm − hm m .
+m n049 [ s^ t ] : Oh , t here ’s anot her t hing which I want ed t o uh uh
+report .
+m n049 [ s] : Lucash , I t hink , uh wrot e t he soft ware for t his Aurora −
+t wo sy st em .
+m n049 [ s] : reasonably uh good one , because he ’s doing it for Int el ,
+m n049 [ s] : but I t rust t hat we have uh right s t o uh use it uh or
+dist ribut e it and everyt hing .
+m n049 [ s] : Cuz Int el ’s int ent ions originally was t o dist ribut e it free of
+charge any way s .
+m e018 [ b] : Hm m !
+m n049 [ fh|s^ cc] : u s And so [ disfm arker] so uh we [ disfm arker] we will
+m ake sure t hat at least you can see t he soft ware and if [ disfm arker] if
+[ disfm arker] if [ disfm arker] if it is of any use .
+m n049 [ %−−] : Just uh [ disfm arker]
+m n007 [ b] : Mm − hm m .
+m n049 [ s] : It m ight be a reasonable point for p perhaps uh st art
+conv erging .
+m n007 [ b] : Mm − hm m .
+m n049 [ s] : Because Morgan ’s point is t hat [ disfm arker] He is an
+ex perienced guy .
+m n049 [ s^ rt ] : He say s " well y ou know it ’s very difficult t o collaborat e
+if y ou are working wit h supposedly t he sam e t hing , in quot es , except
+which is not s is not t he sam e .
+m e018 [ b] : Mm − hm m .
+m n049 [ s^ rt ] : Which [ disfm arker] which uh uh one is using t hat set of
+hurdles , anot her one set [ disfm arker] is using anot her set of hurdles .
+m n049 [ fh|s] : So . And [ disfm arker] And t hen it ’s difficult t o c com pare
+.
+m n007 [ qo] : What about Harry ?
+m n007 [ fh|s^ rt ] : Uh . We received a m ail last week and you are
+st art ing t o [ disfm arker] t o do som e experim ent s .
+m n049 [ s] : He got t he [ disfm arker] he got t he soft ware .
+m n049 [ s] : Yeah . They sent t he release .
+m n007 [ s] : And use t his Int el version .
+m n049 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m n007 [ b] : Hm m .
+m n049 [ s.%−−] : Yeah because Int el paid us uh
+
+m n049 [ qy ^ rt ] : should I say on a m icrophone ?
+m n049 [ fh|s] : uh som e am ount of m oney , not m uch .
+m n049 [ s] : Not m uch I can say on a m icrophone .
+m n049 [ s] : Much less t hen we should have got t en [ vocalsound] for
+t his am ount of work .
+m n049 [ s] : And t hey want ed uh t o [ disfm arker] t o have soft ware so
+t hat t hey can also play wit h it , which m eans t hat it has t o be in a
+cert ain environm ent [ disfm arker]
+m e018 [ b] : Hm m .
+m n049 [ s] : t hey use act u act ually som e Int el libraries , but in t he
+process , Lucash just rewrot e t he whole t hing because he figured
+rat her t han t ry ing t o f m ake sense uh of uh [ disfm arker] including ICSI
+soft ware uh not for t raining on t he net s
+m e018 [ b] : Hm m .
+m e006 [ b] : Oh .
+m n049 [ s] : but I t hink he rewrot e t he [ disfm arker] t he [ disfm arker] t he
+[ disfm arker] or so m aybe som ehow reused over t he part s of t he t hing
+so t hat [ disfm arker] so t hat [ disfm arker] t he whole t hing , including
+MLP , t rained MLP is one piece of uh soft ware .
+m e018 [ b] : Mm − hm m .
+m e018 [ s^ fe] : Wow !
+m n049 [ qy ^ rt ] : Is it useful ?
+m n049 [ fh.%] : Yeah ?
+m e006 [ s^ aa] : Ye − Yeah .
+m e006 [ s] : I m ean , I rem em ber when we were t rying t o put t oget her
+all t he ICSI soft ware for t he subm ission .
+m n049 [ %−] : Or [ disfm arker]
+m n049 [ s] : That ’s what he was say ing ,
+m n049 [ fh] : right .
+m n049 [ s] : He said t hat it was like [ disfm arker] it was like just so m any
+libraries and nobody knew what was used when ,
+m n049 [ s] : and [ disfm arker] and so t hat ’s where he st art ed and t hat
+’s where he realized t hat it needs t o be [ disfm arker] needs t o be uh uh
+at least cleaned up ,
+m e006 [ b] : Yeah .
+m n007 [ b] : Mm − hm m .
+m n049 [ s] : and so I t hink it [ disfm arker] t his is available .
+m e006 [ b] : Hm m .
+m n007 [ b] : Yeah .
+m n049 [ fh] : So [ disfm arker]
+m n007 [ s] : Well , t he [ disfm arker] t he only t hing I would check is if he
+[ disfm arker] does he use Int el m at h libraries ,
+m n007 [ s] : because if it ’s t he case , it ’s m aybe not so easy t o use it
+on anot her archit ect ure .
+m n049 [ %−] : uh e ev
+
+m n049 [ s^ am ] : n not m aybe [ disfm arker] Maybe not in a first
+[ disfm arker] m ay be not in a first ap approxim at ion
+m n007 [ s^ bk] : Ah y eah .
+m n049 [ s.%−−] : because I t hink he st art ed first just wit h a plain C
+[ disfm arker] C or C − plus − plus or som et hing before [ disfm arker]
+m n007 [ b] : Mm − hm m .
+m n049 [ s^ cc] : I [ disfm arker] I can check on t hat .
+m n049 [ fh] : Yeah .
+m n007 [ b] : Yeah .
+m e018 [ b] : [ no m at ched cont ent ]
+m e018 [ b] : Hm m .
+m n049 [ s] : And uh in [ disfm arker] ot herwise t he Int el libraries , I t hink
+t hey are available free of f freely .
+m n049 [ s] : But t hey m ay be running only on [ disfm arker] on uh
+[ disfm arker] on uh Windows .
+m n007 [ b] : Yeah .
+m n007 [ b] : [ no m at ched cont ent ]
+m n049 [ %−] : Or on [ disfm arker] on t he [ disfm arker]
+m n007 [ s^ 2] : On Int el archit ect ure m aybe .
+m n049 [ s^ aa^ m ] : Yeah , on Int el archit ect ure , m ay not run in SUN .
+m n007 [ %−] : I ’m [ disfm arker]
+m n007 [ b] : Yeah .
+m n007 [ b] : Yeah .
+m n049 [ b] : Yeah .
+m n049 [ s] : That is p t hat is [ disfm arker] t hat is possible .
+m n049 [ s] : That ’s why Int el of course is dist ribut ing it ,
+m n007 [ %−] : Well .
+m n049 [ qy ^ d^ g^ rt ] : right ?
+m n049 [ %−−] : Or [ disfm arker] [ vocalsound] That ’s [ disfm arker]
+m n007 [ fg] : Yeah .
+m n007 [ s] : Well t here are [ disfm arker] at least t here are opt im ized
+v ersion for t heir archit ect ure .
+m n049 [ b] : Yeah .
+m n007 [ s^ no] : I don’t know .
+m n007 [ s.%−−] : I never checked carefully t hese sort s of [ disfm arker]
+m n049 [ s] : I know t here was som e issues t hat init ially of course we d
+do all t he dev elopm ent on Linux
+m n049 [ s] : but we use [ disfm arker] we don’t have [ disfm arker] we
+have only t hree uh uh uh uh s SUNs
+m n049 [ s] : and we have t hem only because t hey have a SPERT board
+in .
+m n049 [ s] : Ot herwise [ disfm arker] ot herwise we t alm ost exclusively
+are working wit h uh PC ’s now , wit h Int el .
+m n049 [ s] : In t hat way Int el succeeded wit h us , because t hey gave us
+t oo m any good m achines for v ery lit t le m oney or not hing .
+m e018 [ b] : Yeah .
+
+m n049 [ s] : So . So . So we run ev ery t hing on Int el .
+m e018 [ s^ fe] : Wow !
+m e018 [ b] : Hm m .
+m n049 [ %−−] : And [ disfm arker]
+m e018 [ qy ^ rt ^ t ] : Does anybody have anyt hing else ?
+m e018 [ %−−] : t o [ disfm arker]
+m e018 [ qy ^ rt ] : Shall we read som e digit s ?
+m n007 [ s^ aa] : Yeah .
+m n049 [ s^ aa] : Yes .
+m n049 [ s.%−] : I have t o t ake m y glasses [ disfm arker]
+m e018 [ fg] : So .
+m e018 [ s] : Hy nek , I don’t know if you ’v e ever done t his .
+m e018 [ s] : The way t hat it works is each person goes around in t urn ,
+[ com m ent ] and uh you say t he t ranscript num ber and t hen you read
+t he digit s , t he [ disfm arker] t he st rings of num bers as individual digit s .
+m n049 [ s^ aa] : No .
+m n049 [ b] : Mm − hm m .
+m e018 [ s] : So y ou don’t say " eight hundred and fift y " , you say "
+eight fiv e oh " , and so fort h .
+m n049 [ s^ bk] : OK .
+m n049 [ s^ bk^ r] : OK .
+m e018 [ fh] : Um .
+m n049 [ qy^ rt ] : So can [ disfm arker] m aybe [ disfm arker] can I t m aybe
+st art t hen ?
+m e018 [ s^ aa] : Sure .
+
+

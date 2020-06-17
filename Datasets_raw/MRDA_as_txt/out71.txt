@@ -1,0 +1,3466 @@
+fe008 [ z] : Um , w would you m ind t elling m e again , please ?
+fe008 [ z] : Oh , he ’s gonna writ e it .
+fe008 [ z] : OK .
+fe008 [ z] : Now , if t he bat t eries were t o go out during t he m eet ing ,
+t here ’s really [ disfm arker]
+fe008 [ z] : what do we do ?
+fe008 [ z] : Do we have bat t eries back t here ?
+fe008 [ z] : OK .
+fe008 [ z] : OK .
+fe008 [ z] : And you ’ll be in your office during t his ?
+fe008 [ z] : Oh , t hank you very m uch .
+fe008 [ z] : Thanks a lot .
+fe066 [ z] : What ’s [ disfm arker] so what do we do wit h t his ?
+fe008 [ z] : Appreciat e it .
+fe008 [ z] : Could you close t he door for m e please ?
+fe066 [ z] : Anyt hing ?
+fe067 [ z] : Just put your nam e on it , I t hink .
+fe066 [ z] : Oh , OK .
+fe008 [ z] : OK , t hanks .
+fe067 [ z] : Uh − huh .
+fe008 [ fg] : So ,
+fe008 [ s^ ft ] : t hanks very m uch for com ing .
+fe008 [ fg] : OK .
+fe008 [ fh] : So um [ disfm arker]
+fe008 [ s] : let ’s see ,
+fe008 [ fh|s^ t ^ t c] : so , um , as y ou know , t he m eet ing t oday is t o , um
+, @ @ [ com m ent ] benefit from your inv olv em ent in t he dat a ,
+fe008 [ s^ e] : all t he t hings t hat [ disfm arker] t hat you ’ve been
+ex posed t o in t hese m any m ont hs .
+fe008 [ fh|s] : And um , I just [ disfm arker] I just put down som e ideas
+[ disfm arker]
+fe008 [ s] : y ou ’v e seen som e of t his in t he em ail t hat I sent out earlier
+.
+fe008 [ fh] : And , um ,
+fe068 [ b] : Mm m .
+fe008 [ s] : none of t hese [ disfm arker] t hese are not obligat ory t oca
+t opics
+fe008 [ s^ df] : but t hey ’re just t hings t hat I t hought m ight be useful t o
+discuss ,
+fe008 [ s^ df] : just as a way of organizing t he discussion .
+fe008 [ s] : But if t here are ot her t opics y ou ’d like t o discuss t hat ’d be
+great t oo .
+fe008 [ fg] : Alright ,
+fe008 [ fh] : so um ,
+
+fe008 [ s^ cs] : it st ruck m e t hat , um , you know , we could st art out
+wit h som e sort of general t hing about , um , [ vocalsound] t hings t hat
+y ou found easier or m ore difficult wit h respect t o t ranscribing or
+checking or using t he int erface or , uh , dealing wit h t he t im e bins or
+any aspect of t hat t y pe .
+fe008 [ s^ cs] : And t hen , m aybe t alk about specifics [ disfm arker]
+specifics of t he dat a
+fe008 [ s^ cs] : and t hen m aybe t alk about , um , aspect s of t he
+conv ent ions
+fe008 [ s^ cs] : and t hen t he t echnical set − up regarding t he , um ,
+audit ory im age and t he int erface .
+fe008 [ fg] : OK ,
+fe008 [ fh] : so ,
+fe008 [ s^ cs.%−−] : m aybe we could just , um , st art wit h issues of t he
+[ disfm arker] @ @ [ com m ent ] t he t ar t i up t here at t he t op of
+[ disfm arker]
+fe008 [ qw] : What [ disfm arker] what did you find easiest or m ore s
+m ost difficult about t ranscribing t he dat a ?
+fe069 [ s^ bk] : OK .
+fe008 [ b] : Yeah .
+fe069 [ s] : One t hing t hat I rem em ber being really difficult at t he
+beginning and it got easier as we went along was , um , acronym s and
+t echnical t erm s .
+fe069 [ fh|s^ df^ rt ] : Um , because t here are so m any
+fe066 [ b] : Mm − hm m .
+fe069 [ s^ df.%−−] : and [ disfm arker] it ’s a field t hat I ’m not really l very
+[ disfm arker]
+fe069 [ fh] : I don’t know ,
+fe069 [ s^ no] : I don’t know very m uch about t his kind of st uff
+[ disfm arker]
+fe069 [ s^ e] : com put ers and speech recognit ion .
+fe069 [ s^ df] : I ’ve never t aken classes on it or anyt hing ,
+fe069 [ s] : so . I found t hat really hard .
+fe069 [ s.%−−] : And I rem em ber t ranscribing and having a bunch of
+[ disfm arker]
+fe069 [ s] : You know , every fiv e words t here ’d be som et hing I ’d put in
+parent heses cuz I didn’t know what it was .
+fe069 [ fh] : So .
+fe008 [ s^ bu] : Parent heses , m eaning uncert aint y .
+fe069 [ s^ aa] : Yeah .
+fe069 [ s^ aa^ r] : Yeah ,
+fe068 [ s^ aa] : Uh − huh .
+fe069 [ s] : but it ’s definit ely got t en easier because t he sam e t hings
+keep get t ing repeat ed ,
+fe008 [ b] : Mm − hm m .
+
+fe069 [ s:s] : once y ou learn what it is , and you can say , " OK I know
+what t hey m eant by t hat "
+fe069 [ s] : or " I know how t o spell t hat now "
+fe069 [ s] : or som et hing like t hat .
+fe069 [ s] : And t he Cast of Charact ers t hat you put up on t he Web was
+helpful
+fe008 [ %−] : Is [ disfm arker]
+fe068 [ s^ aa] : Yeah .
+fe069 [ s^ e] : also .
+m e070 [ b] : Yeah .
+fe008 [ s^ bk] : OK ,
+fe008 [ s^ ba] : good .
+fe008 [ s|qy^ d^ g] : It ’s sort a like a foreign language , isn’t it ?
+fe008 [ s^ df] : It ’s basically [ disfm arker] you have t hese [ vocalsound]
+specialized t erm s for t hings t hat I didn’t know n needed specialized
+t erm s .
+fe069 [ s^ aa] : Yeah .
+fe008 [ fh] : Yeah .
+fe069 [ s^ na] : Especially when describing like t he set − up in t his room
+, also , and t he different t ypes of m ikes .
+fe008 [ b] : Yeah .
+fe069 [ fh] : I don’t know .
+fe008 [ b] : Mm − hm m .
+fe069 [ s] : And it ’s hard t o t ell when people are t alking relat ively
+quickly .
+fe069 [ s^ df^ rt ] : They just glide ov er som e of t he let t ers .
+fe069 [ s^ df^ rt ] : They don’t fully pronounce t hem .
+fe069 [ s] : So y ou can’t really t ell ev en if you list en t o it t en t im es @ @
+[ com m ent ] what it is .
+fe008 [ b] : Mm − hm m .
+fe067 [ b] : Hm m .
+fe068 [ b] : Mm − hm m .
+m e070 [ s^ aa] : Yeah .
+m e070 [ s] : I usually put m ost of t he acronym s in parent heses
+m e070 [ s^ df] : cuz I t hink it ’s sort of safe ,
+m e070 [ s^ df] : cuz people can [ disfm arker] people can say t heir
+acronym s really fast
+fe069 [ b] : Uh − huh .
+m e070 [ s] : and I figure t hat even if I t hink I know exact ly what let t ers
+t hey said , it ’s probably best t o put t hem in parent heses
+m e070 [ s^ df] : cuz I probably don’t .
+fe008 [ s^ ba] : That ’s not a bad st rat egy .
+fe008 [ s] : I m ean , i it ’s [ disfm arker] it ’s t rue t hat I [ disfm arker] I
+always check t he parent heses at t he last st age
+fe008 [ s] : and t hose are pret t y easy t o clear , in t erm s of when t hey
+’re in cont ext .
+
+m e070 [ b] : Mm − hm m .
+m e070 [ b] : Right .
+fe067 [ b] : Hm m .
+fe008 [ s^ ba] : Not a bad st rat egy .
+fe068 [ b] : Uh − huh .
+fe008 [ fh] : Yeah .
+fe068 [ s] : Som e of t hem just occurred over and over t he [ disfm arker]
+again ,
+fe068 [ s^ e] : so like [ disfm arker] PDA . Like t hat got [ disfm arker] got
+easy .
+fe008 [ s^ bk] : Yes .
+fe008 [ b] : Mm − hm m .
+fe068 [ s.%−−] : There [ disfm arker] t here was a [ disfm arker] a bunch of
+t hem t hat , uh [ disfm arker]
+fe008 [ s.%−] : I suspect in cont ext .
+fe068 [ s^ e] : They just kept get t ing repeat ed oft en and oft en
+fe068 [ s^ df] : y ou know , over and ov er ,
+fe068 [ fh] : so .
+fe069 [ b] : Mm − hm m .
+m e070 [ b] : Yeah .
+fe068 [ s] : Just got bet t er ,
+fe008 [ s] : And also when you have t he [ disfm arker] t he juxt aposit ion
+of PDA and PZM [ disfm arker] [ vocalsound] t hen , you know , you
+[ disfm arker] @ @ [ com m ent ] in cont ext y ou can t ell which one it ’s
+[ disfm arker] is probably likely t o be t he one t hat you had .
+fe068 [ %−−] : but .
+fe068 [ s^ aa] : Mm − hm m .
+fe069 [ s^ aa] : Yeah .
+fe069 [ s] : Even t hough I st ill don’t know what t hey are .
+fe069 [ s^ df] : I m ean , I assum e t hey ’re m icrophones of som e sort ,
+fe069 [ s] : but t hat ’s all .
+fe008 [ s] : Well t hese here are t he P Z
+fe008 [ s] : t hat right t here .
+fe069 [ s^ bk] : Oh .
+m e070 [ s^ bk] : Oh .
+fe066 [ qy.%−−] : Is anybody wearing one of t hose awful quot e Crown
+m icrophones t hat people used t o be [ disfm arker]
+fe068 [ s^ ar] : No .
+fe008 [ s^ j] : Uh you ’ve heard , t he " crown of pain " .
+fe066 [ s^ aa] : Yeah .
+fe008 [ s] : No . He was t elling us , uh , before t he m eet ing t hat , um ,
+t hat t hey ’re not in circulat ion right now ,
+fe008 [ s^ e] : t hat t hey ’re [ disfm arker] t hey were unpopular .
+fe008 [ s] : I liked t hem ,
+fe066 [ b] : Huh .
+fe008 [ s] : and Adam liked t hem .
+
+fe066 [ s^ bk] : Oh . Oh , OK .
+fe008 [ s^ df] : I t hought t he qualit y was good .
+m e070 [ b] : Hm m .
+fe066 [ s] : Just curious .
+fe008 [ %] : What [ disfm arker]
+fe008 [ qw.%−−] : yeah , what did he say ?
+fe008 [ s] : He said som e m ore t hings about t hat ,
+fe008 [ s^ df] : but I was n I was working on som et hing else .
+fe069 [ qy ^ bu^ d^ rt ] : About t he m icrophone ?
+fe008 [ s^ aa] : Uh − huh .
+fe069 [ s^ no] : I can’t rem em ber .
+fe069 [ s.%−−] : I m ean he ’s e
+fe069 [ qy ^ bu^ d^ rt ] : he [ disfm arker] he said t hat t hey were designed
+for a specific sized head ?
+fe008 [ s^ aa] : Ah , yeah .
+fe008 [ s^ aa] : Yeah , t hat ’s right .
+fe069 [ qy ^ d^ g^ rt ] : Right ?
+m e070 [ b] : Yeah .
+fe069 [ s] : And so if [ disfm arker] if y our head happened t o be t hat size
+, t hen you were fine
+fe008 [ s^ aa] : That ’s right .
+fe066 [ s^ bk] : Oh .
+fe069 [ s] : and if it w was bigger , t hen it was like t ort ure ,
+fe066 [ s^ bk] : Oh .
+fe068 [ s^ bk] : Right .
+fe008 [ b] : Yeah ,
+fe069 [ s^ no] : o or [ disfm arker] I don’t know .
+fe008 [ %] : it ’s [ disfm arker]
+fe069 [ fh] : I don’t know .
+fe008 [ s] : I liked t hem .
+fe008 [ s] : And t here ’s t he [ disfm arker] act ually , t here ’s t he pict ure
+of t he [ disfm arker] of t he Crown adjust m ent on t he wall right t here .
+m e070 [ b] : Hm m .
+fe008 [ s] : So it sort of hooks over your ears from t he back .
+fe068 [ s^ bk] : Right .
+fe069 [ s^ bk] : Oh , yeah .
+fe066 [ s^ bk] : Oh , OK .
+fe008 [ %] : Yeah , good c
+fe069 [ s] : Oh , it doesn’t look so bad ,
+fe069 [ s^ bd] : but , I guess it depends really .
+fe008 [ x ] : Yeah .
+fe008 [ fg] : OK ,
+fe008 [ qw^ t c] : so now what about accent s ?
+fe008 [ qy .%−] : Do you have , uh [ disfm arker] Did you find any p
+fe066 [ s] : They ’re t ough som et im es .
+fe008 [ b] : Mm − hm m .
+
+m e070 [ b] : Yeah .
+fe066 [ s^ e] : Som et im es t he Germ an accent s can get a lit t le bit
+daunt ing .
+fe066 [ fh] : I m ean ,
+fe066 [ fh] : um ,
+fe066 [ s] : I forget who it was t hat I was t ranscribing
+fe066 [ s] : but , it was t ough t o figure out what e e he was saying , uh ,
+at any giv en point in t im e
+fe066 [ s:s^ fe] : and I would I would just list en t o it over and over and
+ov er again , going " Oh m y God ! My head ’s gonna explode ! "
+fe066 [ s.%−−] : like , not really underst anding a
+m e070 [ b] : Yeah .
+fe066 [ qy ^ d^ f^ g] : you know ?
+fe066 [ fh] : And so
+fe066 [ s] : I was get t ing a lit t le frust rat ed
+fe066 [ s^ df] : because I would put a lot of t hings int o parent heses
+fe066 [ s] : and t hen go back over it
+fe066 [ s] : and go back over it again
+fe066 [ s.%−−] : and st ill [ disfm arker]
+fe066 [ qy ^ d^ f^ g] : you know ,
+fe066 [ s^ df] : I [ disfm arker] I like t o t ry t o clear as m uch up as I
+possibly can
+fe066 [ s] : and I [ disfm arker] I just felt like you know , wit h t he Germ an
+accent s , just for m e personally , t hose were probably t he t oughest t o
+get around .
+fe008 [ b] : Mm − hm m .
+fe066 [ fh|s] : Um , t hey weren’t im possible
+fe066 [ s^ e] : but just [ disfm arker] like t hey t oo t he m t hey t ook t he
+m ost t im e t oo .
+fe066 [ s^ df^ rt ] : I m ean I would t ake m ay be t wice as long on a
+[ disfm arker] a g giv en channel w wit h a speaker who has a Germ an
+accent t han som ebody who ’s y ou know , a nat ive English speaker ,
+m e070 [ b] : Mm − hm m .
+fe069 [ b] : Hm − hm m .
+fe066 [ s^ e] : or ev en Asian [ disfm arker]
+fe066 [ s^ e] : like , uh , speaks an En − Asian language .
+fe066 [ s] : I found t hat easier .
+fe066 [ fh] : Uh ,
+fe066 [ fh] : you know .
+fe066 [ s^ e] : Uh , som ebody who speaks like Chinese or som et hing ,
+@@.
+fe008 [ qw.%−−] : What ’s [ disfm arker]
+fe008 [ s] : y ou ’v e [ com m ent ] st udied som e languages ,
+fe068 [ b] : Mm − hm m .
+fe008 [ qw^ rt ] : which [ disfm arker] which ones do you [ disfm arker] are
+y ou st udy ing ?
+
+fe008 [ qy ^ bu^ d] : It ’s m ore of a Rom ance direct ion ,
+fe008 [ qrr.%−−] : or [ disfm arker] ?
+fe066 [ h|s^ aa] : Um , yeah [ disfm arker]
+fe066 [ s] : well , I st udied [ disfm arker] I m ean , [ vocalsound] I st udied
+Old English for a while .
+fe008 [ s^ bk] : Mm − hm m .
+fe066 [ fh] : Um ,
+fe066 [ s] : and t hen I ’ve worked wit h Larry Hym an on like som e of t he
+Bant u languages .
+fe066 [ fh] : Um ,
+fe008 [ b] : Mm − hm m .
+fe066 [ fh|s] : and you know , I ’m also working wit h Ian Maddieson
+fe066 [ s^ e] : and he ’s been doing work on t he , uh , like also som e
+African languages .
+fe066 [ s] : So I ’ve [ nonvocalsound] like learned a lit t le bit .
+fe008 [ b] : Mm − hm m ,
+fe008 [ s^ bu] : so it ’s not really [ disfm arker] you ’re not really exposed
+t o Germ an v ery m uch .
+fe066 [ s^ ar] : No ,
+fe066 [ s^ df] : I m ean I sing in Germ an .
+fe008 [ s^ bk|s^ ba] : Ah ! [ com m ent ] Int erest ing .
+fe008 [ s^ ba^ r] : Int erest ing .
+fe066 [ %−−] : But [ disfm arker]
+fe066 [ s^ df] : I m ean , I can [ disfm arker] I can pronounce it
+fe008 [ b] : Huh .
+fe066 [ s] : but I don’t know any .
+fe008 [ b] : OK .
+fe069 [ s^ ba] : That ’s int erest ing .
+fe068 [ b] : Hm m − hm m .
+fe068 [ b] : [ no m at ched cont ent ]
+fe066 [ s] : I can do [ disfm arker] I can pronounce a lot of languages
+and not act ually speak t hem
+fe069 [ b] : Yeah .
+fe066 [ s^ df] : because of singing .
+fe069 [ b] : Yeah .
+fe067 [ b] : Hm m .
+m e070 [ b] : Huh .
+fe069 [ s] : For m e I found t he Spanish speakers t o be t he hardest .
+fe069 [ s] : And t he Germ an speakers I found a lit t le bit easier ,
+fe068 [ s^ aa] : Yeah .
+fe069 [ s^ df] : and I t hought m aybe t hat was because I had
+[ disfm arker] I t ook Germ an for a sem est er and I ’ve had exposure t o
+Germ an ,
+fe066 [ s^ bk] : Oh .
+fe069 [ s^ df] : um , because I had a lot of friends who were really int o
+Germ any and Germ an language
+
+fe069 [ fh] : and [ disfm arker]
+fe069 [ %−−] : But [ disfm arker]
+fe069 [ s.%−−] : And I found t hat I could [ disfm arker]
+fe069 [ s:s] : if t hey were pronouncing som et hing in a cert ain way I
+could say , " Oh well t hat ’s just t he Germ an way of pronouncing t his "
+fe069 [ s] : and t hen I figured out what t hey were saying .
+fe066 [ b] : Mm − hm m .
+fe069 [ fh|s.%−−] : um , but wit h t he Spanish speakers it was
+[ disfm arker]
+fe069 [ s] : I ’ve nev er t aken Spanish ,
+fe069 [ s^ df] : and even t hough I ’v e t aken French , and I speak French
+fairly well , um , I found t he Spanish t o be m uch harder
+fe069 [ s^ df^ rt ] : and [ disfm arker] m aybe also because t he level of
+fluency for t he Spanish speakers was a lit t le bit less t han t he lev el of
+fluency of t he Germ an speakers t hat are here ?
+fe066 [ s^ bk] : Oh .
+m e070 [ s] : If you ’re t alking about who I t hink you ’re t alking about
+[ disfm arker]
+fe069 [ s^ rt ] : I t hink
+m e070 [ qy .%−−] : are you t alking about
+m e070 [ fh] : um [ disfm arker]
+fe069 [ s] : There was a couple of different Spanish speakers .
+fe068 [ qy ] : Can we give nam es ?
+m e070 [ %−−] : O can [ disfm arker]
+m e070 [ s^ bk] : yeah .
+fe068 [ s^ bu|qy ^ d^ g^ rt ] : We [ disfm arker] w we probably shouldn’t ,
+right ?
+m e070 [ qy.%−] : Is t hat [ disfm arker]
+fe008 [ s] : I it ’s a good quest ion .
+fe008 [ fh] : Um ,
+fe008 [ s^ no] : And I can’t really answer t hat .
+m e070 [ s^ bk] : OK ,
+m e070 [ s] : well t here ’s one in part icular who I find t he hardest t o
+t ranscribe of all ,
+m e070 [ s^ e] : and it ’s [ disfm arker] d she ’s Spanish .
+fe008 [ s^ bk] : Oh .
+m e070 [ fh] : So .
+fe068 [ s^ aa] : Oh yeah ,
+fe068 [ s^ bk] : OK .
+m e070 [ fh] : And , um ,
+m e070 [ s.%−−] : and I ’ve t aken lot s [ disfm arker]
+m e070 [ s] : I ’m fluent in Spanish ,
+m e070 [ fh] : and so ,
+m e070 [ s^ rt ] : um , when I [ disfm arker] when I correct it , I can t I can
+t ay [ disfm arker] t ell t hat t he person who , um , t ranscribed it before
+m e probably didn’t speak Spanish ,
+
+m e070 [ s^ df] : cuz I can cat ch a lot of t hings
+m e070 [ s^ e] : like [ disfm arker] like " No , t hat ’s not what she said " ,
+m e070 [ s] : I can t ell she ’s [ pause] pronouncing [ disfm arker]
+pronouncing it t he way t hat if you read it from a [ disfm arker] you know
+, a Spanish speaker ’s m ind t hat y ou would , you know , pronounce it
+t he way t hat y ou would pronounce it in Spanish .
+m e070 [ s] : But t he sam e t im e , uh I can’t get m ost of it ,
+m e070 [ s^ df.%−] : cuz I [ disfm arker]
+fe069 [ s^ ba] : Huh , t hat ’s really int erest ing .
+fe008 [ s^ ba] : Oh , t hat ’s fascinat ing .
+fe066 [ b] : Huh .
+m e070 [ s] : I find it one of [ disfm arker] one of t he hardest ones t o
+t ranscribe .
+fe008 [ s.%−−] : Well , what you can see is t hat it ’s [ disfm arker] it ’s her
+lack of [ disfm arker] of English fluency t hat ’s being [ disfm arker]
+m e070 [ b] : Yeah .
+fe066 [ b] : Oh OK .
+fe069 [ s^ aa] : I t hink so ,
+fe069 [ s^ aa] : y eah .
+fe008 [ s^ bk|s^ ba] : Yeah , t hat ’s [ disfm arker] t hat ’s really int erest ing
+.
+fe008 [ s] : I do find t hat t he Germ an t ends t o be easier for m e t han s
+t han t he ot hers
+fe068 [ b] : Mm − hm m .
+fe068 [ b] : Mm − hm m .
+fe008 [ s^ df] : because of m y c exposure and int erest in Germ an .
+fe066 [ b] : Mm − hm m .
+fe069 [ b] : Yeah .
+fe008 [ fh] : But , um ,
+m e070 [ b] : Right .
+fe066 [ s] : May be I haven’t t ranscribed t his Spanish wom an ,
+fe066 [ s^ no] : I don’t know if I have .
+fe008 [ s^ na] : I suspect you hav en’t
+fe008 [ s^ df.%−−] : because t his was , uh , earlier on t hat we had a lot
+of [ disfm arker]
+fe069 [ s^ bk] : Mm − hm m .
+fe008 [ s] : act ually she [ disfm arker] she was in t he m iddle phase I
+would say .
+fe008 [ s] : We had anot her Spanish speaker who was earlier who was
+also difficult .
+m e070 [ b] : Hm m .
+fe069 [ b] : Mm − hm m .
+fe069 [ b] : Yeah .
+m e070 [ b] : Mm − hm m .
+fe069 [ s^ aa|s^ na] : Yeah , he was hard .
+fe068 [ s^ aa] : Yeah .
+
+fe008 [ s^ ba] : But t hat ’s really int erest ing .
+fe068 [ s] : He got easier t hough ,
+fe068 [ s^ df] : because he st art ed [ disfm arker] like he would say
+cert ain words ov er and over ,
+fe069 [ s^ aa] : Yeah .
+fe068 [ %−] : and [ disfm arker]
+fe069 [ s] : And y ou got t o know his pronunciat ion of t hem .
+fe068 [ s^ aa] : Yeah .
+fe068 [ s] : So when he said " sign − yah " , and it sounds like " sign " ,
+he was saying " signal " .
+fe069 [ s|s^ bk] : I rem em ber , yeah .
+fe008 [ s^ bk] : Yes . Yes yes yes .
+fe008 [ b] : Uh − huh .
+fe069 [ s^ bk|s] : Yeah , I rem em ber t hat .
+fe008 [ %−] : Ex
+fe068 [ s] : And so I would t ranscribe it as " signal " .
+fe008 [ %] : exact ly .
+fe066 [ %] : Huh .
+m e070 [ s^ fe] : Oh , wow .
+fe069 [ s] : And [ disfm arker] and m eh t he way he said " m ixed " was
+really st range , t oo .
+fe067 [ %] : Ah !
+fe008 [ s] : " Miss − ed " .
+fe068 [ s] : " Meexe " , " m eese " , " m ees − uh " , or som et hing .
+fe069 [ s^ e.%−−] : " Miss − ed " or som et hi
+m e070 [ s.%−−] : " Miss − "
+fe069 [ fh] : yeah .
+fe008 [ b] : Uh − huh .
+m e070 [ b] : Huh .
+fe068 [ s^ bk] : Right .
+fe069 [ b] : Yeah .
+fe008 [ s] : Which was [ disfm arker] you know , you could predict it ,
+fe069 [ %] : He [ disfm arker]
+fe008 [ s] : I m ean , if you knew [ disfm arker] look looked back at it ,
+fe069 [ b] : Mm − hm m .
+fe066 [ s^ ba] : That ’s kinda cool .
+fe069 [ s] : Especially because also in t he beginning m eet ings , I m ean
+, he ’d say som et hing and no one in t he m eet ing would underst and ,
+fe008 [ %−] : t hey [ disfm arker]
+fe069 [ s:qw^ rt ] : and t hen every one would say , " What was t hat again
+?"
+fe068 [ %] : Oh , eh [ disfm arker]
+fe069 [ s] : and t hen t hey ’d pronounce it in English
+fe068 [ s^ bk] : Yeah .
+fe069 [ s] : and so I could figure out what it was
+fe068 [ b] : Yeah .
+
+fe069 [ s^ e] : t hat way .
+fe008 [ s^ bk] : Yeah ,
+fe008 [ s^ ba] : int erest ing .
+fe069 [ b] : Yeah .
+fe008 [ s^ bk] : OK .
+fe068 [ fg|s.%−−] : Yeah , I m ean he was never like [ disfm arker]
+fe068 [ s^ rt ] : it was never up t o like a nat ive speaker ,
+fe068 [ s] : but like t hat [ disfm arker] it got a lit t le easier .
+fe068 [ fh] : Um [ disfm arker]
+fe069 [ qy ^ bu^ d^ rt ] : Like his English fluency got bet t er ?
+fe068 [ s] : I rem em ber in t he beginning you had [ disfm arker] and you
+were just sort a like [ disfm arker] you were beat ing your head against
+t he wall ,
+fe069 [ s^ na] : Oh , I went crazy .
+fe068 [ s] : but I [ disfm arker] it go but it got bet t er , it got bet t er .
+fe069 [ s] : I [ disfm arker] I would skip doing t hat port ion for as long as I
+could
+fe068 [ s^ na] : Yeah , I know . Yeah . [ com m ent ] I rem em ber .
+fe069 [ s^ df] : because i I just couldn’t deal wit h it ,
+fe068 [ b] : Yeah .
+fe069 [ fh] : and [ disfm arker]
+fe008 [ s^ bk|s] : Yeah , I had t he sam e ex perience .
+fe069 [ b] : Yeah .
+fe008 [ s.%−−] : Som et im es [ disfm arker]
+fe008 [ s.%−−] : And act ually [ disfm arker]
+fe008 [ s:qw] : Som et im es [ nonv ocalsound] when people lack a cert ain
+lev el of fluency y ou can ask t hem t hem selves , " What did you say t here
+?"
+fe008 [ s] : and t hey can’t t ell you .
+fe069 [ s^ 2] : And t hey won’t know .
+fe008 [ s^ df] : S I t hink it ’s [ disfm arker] it ’s sort of a general variabilit y
+when it ’s not [ disfm arker] when y ou ’re learning a language and you
+haven’t got t en t o a cert ain level .
+m e070 [ b] : Mm m .
+fe067 [ b] : Mm − hm m .
+fe066 [ b] : Oh .
+fe069 [ b] : Hm m .
+fe069 [ b] : Mm − hm m .
+m e070 [ b] : Mm − hm m .
+fe069 [ b] : Mm − hm m .
+fe069 [ b] : Yeah .
+m e070 [ b] : Yeah .
+fe008 [ s^ rt ] : I also wonder if [ disfm arker] if it ’s part ly t hat Span −
+Spanish has different pronunciat ions in different regions ?
+fe008 [ qy .%−−] : I m ean , do you t hink t hat , um , t hat , uh , m aybe
+[ disfm arker]
+
+fe008 [ s.%−−] : I m ean , being [ disfm arker]
+fe008 [ s^ df] : I m ean , not t hat I would know t hat .
+m e070 [ b] : Mm m .
+fe008 [ s.%−−] : But I just wondered if ,
+fe008 [ fh] : um [ disfm arker]
+fe008 [ s] : you know , she was from probably cont inent al Spain versus
+@ @ [ com m ent ] y y ou know ot her Spanish [ disfm arker]
+fe008 [ s] : I wonder if t hat would have a [ disfm arker] a cont ribut ing
+fact or .
+m e070 [ s^ no] : I don’t know .
+fe066 [ qy ^ bu] : Oh , like t he region ?
+fe069 [ s^ no] : I hav e no idea about Spain ,
+fe008 [ b] : Yeah .
+fe069 [ s^ e] : but I know t hat in France for exam ple Parisian French is
+m uch easier for m e t o underst and
+fe069 [ s^ df] : cuz I learned it
+fe069 [ s^ e] : versus France in like Marseilles or in t he sout h or in like
+t he prov in like [ v ocalsound] t he [ pause] villages in t he sout h ,
+fe066 [ b] : Sure .
+fe066 [ b] : Right .
+fe069 [ s] : it ’s really hard t o underst and .
+fe008 [ b] : Mm − hm m .
+fe066 [ s] : Ment on .
+fe068 [ s^ bu] : Or in Quebec ,
+fe008 [ b] : That ’s right .
+fe068 [ qy ^ d^ g^ rt ] : right ?
+fe068 [ s^ df.%−−] : In Canada it ’d be [ disfm arker]
+fe069 [ s^ aa] : Yeah .
+fe066 [ b] : Right .
+fe068 [ s^ df] : it ’s different .
+fe069 [ s^ na] : Much different .
+fe068 [ s] : A lot of t he pronunciat ions are different ,
+fe069 [ b] : Yeah .
+fe069 [ b] : Yeah .
+fe068 [ fh] : y eah .
+fe008 [ s] : And in m y case wit h [ disfm arker] wit h , uh , Germ an w I
+[ disfm arker] a cert ain region t hat I do well in
+fe008 [ s] : and t hen [ vocalsound] get fart her away from t hat region
+m e070 [ b] : Yeah .
+fe069 [ b] : Yeah .
+fe008 [ s] : and I not ice it ’s m ore and m ore difficult .
+fe069 [ b] : Mm − hm m .
+fe066 [ s.%−−] : There ’s anot her language t hat ’s spoken in Spain t oo ,
+t hat ’s um ,
+fe008 [ fh] : Yeah .
+fe066 [ qw] : what am I t hinking of ?
+
+fe068 [ qy ^ d^ rt ] : Cast illian ?
+fe066 [ s^ m ^ na] : Cast illian .
+fe066 [ s^ aa] : Yeah ,
+fe066 [ fh] : and uh ,
+fe069 [ %−−] : And [ disfm arker]
+fe066 [ fh] : um [ disfm arker]
+fe069 [ qy ] : isn’t it Cat alan ?
+fe066 [ s] : Cat alan .
+fe069 [ s^ bk] : Yeah .
+m e070 [ b] : Mm − hm m .
+fe066 [ s.%−−] : So m aybe [ disfm arker] I m ean , depending on where she
+is , like m ay be
+fe008 [ s^ rt ] : But she was also very low volum e .
+fe066 [ %] : ch
+fe008 [ fh|s] : And , um [ disfm arker] and didn’t say a lot .
+fe069 [ b] : Yeah .
+fe067 [ b] : Mm − hm m .
+fe008 [ s^ na] : I m ean , I [ disfm arker] I [ disfm arker] I c I t ot ally agree .
+fe008 [ s] : This was a [ disfm arker] a difficult person t o [ disfm arker] t o
+underst and .
+m e070 [ b] : Yeah .
+m e070 [ b] : Yeah .
+m e070 [ fg|s] : Well , t he last one I did she act ually said a lot ,
+fe069 [ b] : Yeah .
+fe008 [ fh] : But .
+m e070 [ s] : and it was kinda [ disfm arker] it was very hard t o t ranscribe
+.
+m e070 [ %−−] : You kno
+m e070 [ s^ df] : it was [ disfm arker] i j I just t hink t hat , um , her fluency
+in English wasn’t [ disfm arker] wa um , wasn’t very [ disfm arker] very
+high up t here ,
+m e070 [ s] : so it was really difficult .
+fe069 [ b] : Yeah .
+m e070 [ s] : But , I m ean , I did find t hat knowing Spanish helped m e a
+lot .
+fe008 [ s^ na] : I can im agine t hat ,
+m e070 [ s:s] : I could t ell t hat a lot of t hings t hat t he ot her t ranscriber
+had put in parent heses , I was like , " I can see how you [ disfm arker]
+how y ou couldn’t underst and t hat " ,
+fe068 [ b] : Hm m .
+fe008 [ s^ aa] : yeah .
+fe066 [ b] : Mm − hm m .
+m e070 [ s] : but I c I kn I t hink I know what she ’s doing .
+fe008 [ s^ bk] : Yeah , yeah , yeah .
+m e070 [ s] : I m ean , I t hink I know t he m ist ake she ’s m aking .
+m e070 [ fh] : And [ disfm arker]
+
+fe066 [ b] : Mm − hm m .
+fe069 [ s^ ba] : That ’s really good .
+fe008 [ s^ aa] : Yeah , yeah .
+fe069 [ fh] : Yeah ,
+fe069 [ s^ df] : cuz t hat ’s definit ely som et hing t hat I wouldn’t have be
+able t o do .
+m e070 [ b] : Yeah .
+fe008 [ s] : Yeah , I couldn’t do it in Spanish .
+fe008 [ s] : I ’v e [ disfm arker] I found m yself doing t hat som ewhat in
+[ disfm arker] in Germ an .
+fe069 [ b] : Yeah .
+fe066 [ s^ 2] : Germ an .
+m e070 [ s^ 2] : In Germ an ,
+m e070 [ b] : y eah .
+fe008 [ b] : Mm − hm m .
+fe069 [ s] : There were problem s even wit h , um , Am − English speakers
+t hough .
+fe069 [ s^ df] : I m ean , not in t heir level of fluency , obviously ,
+fe068 [ b] : Uh − huh .
+fe069 [ s^ df.%−−] : but in [ disfm arker]
+m e070 [ b] : Mm − hm m .
+fe069 [ s^ e^ rt ] : Som e people t end t o m um ble ,
+fe008 [ b] : Mm − hm m .
+fe067 [ b] : Mm m .
+fe066 [ b] : Yeah .
+fe008 [ s^ aa] : That ’s right .
+fe069 [ %−−] : and [ disfm arker]
+fe069 [ s] : and it ’s hard t o cat ch what it is
+fe069 [ s^ df] : is , cuz it goes by really quickly
+fe069 [ s^ df] : and y ou can’t really t ell
+fe068 [ b] : Uh − huh .
+fe069 [ fh] : and [ disfm arker]
+fe008 [ s] : Or t hey ’re laughing when t hey ’re t alking
+fe069 [ s^ na] : That t oo .
+fe008 [ s.%−−] : or t hey ’re [ disfm arker]
+m e070 [ b] : Mm − hm m .
+fe067 [ b] : Mm − hm m .
+fe069 [ s^ na^ r] : That t oo .
+fe069 [ fh] : Yeah .
+fe069 [ s.%−−] : Or just [ disfm arker]
+fe069 [ s^ no] : I don’t know .
+fe069 [ s] : And som e people t end t o get int errupt ed m ore ,
+fe069 [ s^ df] : I know t hat ’s not som et hing t hat t he person t hem selves
+can cont rol
+fe066 [ b] : He − yeah .
+fe069 [ %−−] : but [ disfm arker]
+
+m e070 [ b] : Hm m .
+fe066 [ s^ rt ] : If [ disfm arker] when people t alk over one anot her like
+const ant ly , [ com m ent ] like t here ’s t his whole barrage of voices
+com ing from every where ,
+fe069 [ fh] : um [ disfm arker]
+fe069 [ b] : Mm − hm m .
+fe066 [ s:s^ fe] : it ’s like " Oh m y God !
+fe066 [ s:qw] : What ’s going on right now ? "
+fe069 [ s^ rt ] : Especially when t hey ’re [ disfm arker] when you
+[ com m ent ] were using t he l t he m ikes t hat weren’t m headm ount ed
+m ikes .
+fe066 [ s.%−] : It ’s kind of [ disfm arker]
+fe008 [ s^ bk] : Oh .
+fe008 [ s^ aa] : Yeah .
+fe069 [ s^ df] : And t here was input from ot her people on t he sam e
+channel as t he person who was t alking .
+fe066 [ b] : Yeah .
+fe008 [ s^ bk] : Yeah ,
+fe069 [ s] : And t hat was really hard t o deal wit h .
+fe008 [ s.%−−] : we had lapels for d l brief
+fe008 [ s] : And t hen som et im es people would wear t hese around t heir
+necks ,
+m e070 [ b] : Hm m .
+fe008 [ s^ e] : which would m ean really basically u uh , a problem t hat
+y ou ’re saying of get t ing input from ot hers ,
+fe067 [ b] : Mm − hm m .
+fe069 [ s^ bk] : Oh , yeah .
+m e070 [ b] : Mm m .
+fe068 [ b] : Right .
+fe008 [ s^ e] : and also , um , it varying when t hey change t heir hea w
+head posit ion .
+fe069 [ b] : Mm − hm m .
+fe069 [ b] : Yeah .
+fe008 [ fh] : Yeah ,
+fe068 [ s^ bk] : Right .
+fe008 [ %−] : but [ disfm arker]
+fe068 [ s.%−−] : A big im
+fe068 [ s] : I t ha I t hink t he t ranscript ions im proved im m ensely ,
+fe068 [ s^ e] : like ex ponent ially ,
+fe068 [ s^ df] : um , aft er it was able t o sort of isolat e a single person
+ont o a single channel .
+fe069 [ s^ aa] : Yeah ,
+fe008 [ s^ ba] : Oh , excellent .
+fe069 [ s^ na] : absolut ely .
+fe068 [ fh] : Um [ disfm arker]
+fe008 [ s^ ba] : Oh , good t o know .
+
+fe069 [ b] : Yeah .
+fe068 [ s] : Oh , t here ’s no quest ion .
+fe069 [ b] : Yeah .
+fe067 [ b] : Oh , y eah .
+fe068 [ fh] : Um [ disfm arker]
+fe008 [ %−−] : S
+fe008 [ s^ bu] : so t hat was [ disfm arker] You ’re t alking about early on ,
+t he change fro int o Channelt rans ?
+fe068 [ s^ aa] : Yeah .
+fe069 [ s^ aa] : Yeah .
+m e070 [ qy^ bu^ d^ rt ] : You guy s didn’t have o one channel per person
+before ?
+fe008 [ b] : Mm − hm m .
+fe068 [ s^ aa] : No .
+fe069 [ s^ aa|s] : No , it was one like [ disfm arker] one ribbon for
+ev ery body
+fe068 [ s^ aa^ r] : No .
+fe066 [ s^ ba] : Oh , wow .
+fe067 [ b] : Euh .
+fe069 [ s.%−−] : and y ou had t o kind of [ disfm arker]
+fe069 [ s] : you could swit ch signals ,
+fe069 [ s^ e] : like y ou could list en t o a different one ,
+fe008 [ b] : Mm − hm m .
+fe069 [ s.%−−] : but y ou couldn’t really [ disfm arker]
+fe069 [ qy ^ rt ] : Well could you ?
+fe069 [ s] : Did [ disfm arker] we didn’t do t hat very m uch .
+fe066 [ qy ^ bu^ d^ rt ] : You couldn’t visually isolat e it ?
+m e070 [ qw] : What ?
+fe069 [ s^ na] : You couldn’t visually do it ,
+fe069 [ s^ aa] : no .
+fe066 [ s^ bk] : Huh .
+fe067 [ b] : Euh .
+fe068 [ s^ aa] : No .
+fe069 [ %−−] : And f
+fe069 [ fh] : Yeah .
+fe068 [ s^ bu] : And you had t o m ark int errupt ions by a slash ,
+fe008 [ s^ aa] : Mm − hm m ,
+fe008 [ s^ aa] : t hat ’s right .
+fe068 [ qy ^ d^ g] : right ?
+fe069 [ s] : And it was very hard t o be precise about it ,
+fe068 [ fh] : Um [ disfm arker]
+fe008 [ s] : Overlaps .
+fe069 [ s] : and it was very hard t o t ell [ disfm arker]
+fe069 [ s^ rt ] : I had so m uch t rouble at t he very beginning t rying t o
+figure out who was who .
+m e070 [ b] : Mm m .
+
+fe068 [ b] : Yeah .
+fe069 [ s^ df] : Cuz t here ’s m so m any m en and so few wom en .
+fe067 [ b] : Mm m .
+fe069 [ s] : The wom en were easy t o f figure out who was who ,
+fe069 [ s] : and t hen t he m en [ disfm arker] all t heir voices sounded t he
+sam e
+fe069 [ s^ e] : ex cept I t hink t here was one Brit ish English speaker
+fe069 [ s] : and t hat was easy
+fe069 [ fh] : but
+m e070 [ s^ ba] : Wow , t hat ’s difficult .
+fe069 [ s^ bk] : Eh . [ com m ent ] [ disfm arker] Yeah .
+fe068 [ qy ^ d^ rt ] : You know what ?
+fe068 [ s] : There m ight be a gender t hing t here , t hough , t oo ,
+fe067 [ b] : Yeah .
+fe068 [ s^ df.%−−] : cuz I t hink [ disfm arker] I t hink as wom en it m ight be
+easier t o different iat e [ disfm arker]
+fe068 [ s^ e] : Well , t here were fewer wom en , t oo ,
+fe068 [ s.%−−] : but I [ disfm arker] I wonder if a m an t ranscribing all t he
+guy s [ pause] would have had [ disfm arker]
+fe069 [ s^ aa] : Yeah .
+fe069 [ qy ^ bu^ d^ rt ] : An easier t im e ?
+fe068 [ s^ rt ] : Like if you [ com m ent ] had t ranscribed it you would have
+had an easier t im e different iat ing t hem ?
+m e070 [ b] : Mm − hm m .
+fe068 [ s^ no] : I don’t know why t hat would be t rue ,
+fe008 [ s^ ba] : That ’s int erest ing .
+fe066 [ s^ na] : That ’s possible .
+fe068 [ fh] : but
+fe069 [ s^ na] : That ’s possible .
+fe068 [ qy ^ bu^ d^ rt ] : you wonder if t here ’d be like a gender
+difference t here ?
+fe068 [ s^ no] : I don’t know ,
+fe068 [ s^ df] : I ’m t hinking about it as like a psychologist I suppose .
+fe069 [ s^ no] : I don’t know .
+fe008 [ s^ na] : It ’s possible .
+fe068 [ fh] : Any way .
+fe066 [ %−−] : Well , it ’s [ disfm arker]
+fe008 [ b] : Hm m .
+fe066 [ s^ aa] : oh , y eah ,
+fe066 [ s^ na] : yeah , t hat ’s possible .
+fe008 [ b] : Hm m .
+fe069 [ b] : Yeah .
+fe066 [ s] : I was just gonna say som et hing .
+fe066 [ s.%−−] : I was gonna say t hat ,
+
+fe066 [ s] : I m ean , it ’s easier for people t o m im ic like t he t im bre of
+som ebody ’s v oice if it ’s t he sam e [ disfm arker] if , uh , t hat person ’s
+v oice is t he sam e [ disfm arker]
+fe066 [ s] : if t hat person is t he sam e sex as you . So m aybe , like ,
+im plicit ly people pay at t ent ion m ore closely t o uh , speakers of t he
+sam e sex .
+fe069 [ b] : Mm − hm m .
+fe068 [ qy ^ bh] : Hm m .
+fe066 [ s^ no] : I don’t know .
+fe066 [ s^ no] : I don’t know if t hat ’s act ually t rue
+fe066 [ s] : but I ’m just t hrowing t hat out t here .
+fe008 [ b] : Hm m .
+fe069 [ s^ ba] : It ’s int erest ing .
+fe068 [ b] : Huh .
+fe069 [ fh] : I don’t know .
+fe008 [ b] : Huh .
+fe066 [ s] : Kind of an int erest ing research project .
+fe008 [ s^ bk] : Yeah ,
+fe008 [ s] : it seem s like it ’s [ disfm arker] it ’s relat ed t o t his product ion
+idea .
+fe008 [ s^ e] : How you [ disfm arker] you int ernalize what you ’re
+ex t ernalizing in a way ,
+fe008 [ fh] : but .
+fe069 [ b] : Yeah .
+fe008 [ b] : Yeah .
+fe069 [ fg|s] : Yeah , but it definit ely got m uch bet t er when t hat change
+happened .
+fe068 [ s^ aa] : Oh yeah ,
+fe068 [ s^ na] : it was so ea it [ disfm arker] it becam e m uch easier .
+fe069 [ b] : Mm − hm m .
+fe068 [ fh] : Um ,
+fe068 [ fh] : y ou know .
+fe008 [ s.%−−] : In t he prev
+fe008 [ s.%−−] : You ’v e also gone t hrough [ disfm arker]
+fe008 [ s] : They ’ve [ com m ent ] been here since t he beginning .
+fe008 [ s] : You ’ve also gone t hrough t he [ disfm arker] use t he int in in
+int roduct ion of t he pre − segm ent at ion , and t hat kind of t hing .
+fe069 [ s^ aa] : Oh , y eah .
+fe068 [ s^ aa] : Right .
+fe008 [ s] : So init ially t hey had t o act ually m ark all t he t im e bins
+t hem selves as well .
+fe067 [ s^ ba] : Wow .
+fe066 [ s^ bk] : Oh .
+m e070 [ s^ ba] : Oh , wow .
+fe068 [ s^ bk] : Right .
+fe069 [ s.%−] : That t ook a l
+
+fe068 [ s] : Which wasn’t as hard .
+fe008 [ b] : Yeah .
+fe068 [ s] : I m ean , it t ook t im e .
+fe069 [ s^ nd] : E No . [ com m ent ] It just t ook t im e . Yeah .
+fe068 [ s^ r] : It t ook t im e .
+m e070 [ b] : Yeah .
+fe008 [ b] : Mm − hm m .
+fe067 [ b] : Hm m .
+fe068 [ fg|s] : Um , I find t hat I have t o adjust t he t im e bins a lot anyway
+.
+fe008 [ b] : Mm − hm m .
+fe069 [ s^ na] : Me t oo ,
+fe066 [ s^ na] : Me t oo .
+fe069 [ s^ aa] : yeah . Yeah .
+m e070 [ s^ aa] : Yeah ,
+fe068 [ fh] : Um [ disfm arker]
+m e070 [ s^ na] : I always adjust t he t im e bins .
+fe067 [ b] : Yeah .
+fe068 [ s^ e] : Um , not for t he end of t he ut t erance but for t he
+beginning .
+fe069 [ b] : Yeah .
+fe068 [ s] : Som et im es t he beginning [ disfm arker] t he person st art ed
+t o say som et hing ,
+fe066 [ s^ bk] : Yeah .
+fe008 [ s^ bk] : I see .
+fe067 [ qy ^ bh] : Really ?
+fe068 [ s] : it ’s a v ery slight difference ,
+fe068 [ s] : and t hen t he t im e bin st art s .
+fe008 [ b] : Mm − hm m .
+fe069 [ s^ aa|s^ na] : Yeah , t hat happens a lot .
+m e070 [ b] : Yeah right .
+fe067 [ b] : Hm m .
+fe066 [ b] : Right .
+fe068 [ fh|s] : Um , so you have t o just m ov e it back a lit t le bit .
+fe068 [ s^ bu] : And besi and I t hink you [ com m ent ] m ent ioned at som e
+point t hat you want ed a lit t le pad of t im e anyway .
+m e070 [ b] : Mm − hm m .
+fe008 [ s^ na] : It doesn’t hurt t o have a pad .
+fe008 [ s^ na] : It ’s [ disfm arker] it ’s nicer t o have a pad t han not ,
+fe068 [ b] : Yeah .
+fe069 [ s^ 2] : Then t o have it be cut off .
+fe008 [ s.%−] : d but s don’t hav e t o be really [ disfm arker] Yeah , don’t
+[ disfm arker] doesn’t have t o be [ disfm arker]
+m e070 [ b] : Yeah .
+fe068 [ s^ 2] : Don’t have it just st art ,
+fe068 [ s^ bk] : yeah .
+
+m e070 [ s] : I alway s wonder about t he , um , t im e bins .
+fe069 [ s.%−] : I t hought [ disfm arker]
+fe068 [ fh] : Um , so .
+m e070 [ s] : I m ean , I usually ended adjust ing t hem a lit t le bit
+[ disfm arker]
+fe008 [ b] : Yeah .
+m e070 [ fh] : I m ean ,
+m e070 [ s^ e] : definit ely when som et hing ’s cut off at t he beginning or
+t he end
+m e070 [ s] : but also som et im es t here ’s just like huge pads of , you
+know , air before and [ disfm arker] or aft er , um , t hat I don’t really feel
+is necessary for t hat segm ent ,
+fe008 [ b] : Mm − hm m .
+m e070 [ s] : and I usually , um , y ou know , shrink it a bit
+fe067 [ b] : Hm m .
+fe069 [ s^ 2] : Shrink in t hem or what ever ,
+fe068 [ b] : Mm − hm m .
+fe069 [ b] : yeah .
+fe008 [ s^ ba] : Nice .
+m e070 [ s.%−] : and m ake it a lit t le bit [ disfm arker]
+fe067 [ s] : Seem s like I always have t o cut off pads at t he end .
+fe008 [ s^ ba] : Nice .
+fe067 [ s] : I don’t have so m uch problem at t he beginning ,
+fe067 [ fh] : but .
+fe069 [ qr^ bu^ d] : Of breat h or of uh [ disfm arker] not hing ?
+fe067 [ s^ ar|s] : No , of n just not hing .
+m e070 [ s] : Just not hing ,
+fe067 [ s^ aa] : Yeah .
+fe069 [ b] : Hm m , yeah .
+m e070 [ s^ aa] : y eah .
+fe068 [ s] : Yeah , t here ’s not hing going on .
+fe066 [ s] : At t he beginning it seem s t o happen when , um , voicing
+occurs lat er [ disfm arker]
+fe069 [ s^ bk] : Yeah .
+fe069 [ s^ aa] : Yeah .
+fe066 [ s^ e.%−] : l y ou know , like [ disfm arker]
+fe069 [ s] : Wit h fricat ives a lot .
+fe066 [ s^ aa|s^ na.%−−] : Yeah , wit h fricat ives and wit h like , uh
+[ disfm arker]
+fe067 [ b] : Mm m .
+fe066 [ s] : I m ean , like i it doesn’t happen wit h , uh , like " buh "
+[ com m ent ] so m uch
+fe066 [ s^ df^ rt ] : because you ’v e got t he pre − voicing before t he
+consonant act ually begins .
+
+fe069 [ s] : Alt hough I found one in [ disfm arker] act ually I was just
+working right before t his m eet ing , [ com m ent ] one where som eone
+said , " great "
+fe069 [ fh] : and
+fe069 [ s] : t he [ disfm arker] t he G [ disfm arker] it was pronounced as a
+K
+fe069 [ s^ e] : so it was unvoiced
+fe069 [ s] : and t hen part of t he R was cut off in t he beginning .
+fe066 [ s^ bk] : Oh .
+fe069 [ s.%−−] : And t hen
+fe069 [ s] : y ou [ disfm arker] It sounded like " great "
+fe069 [ s^ e] : if y ou just list ened t o t hat t im e bin it st ill sounded like "
+great " .
+m e070 [ b] : Uh − huh .
+fe069 [ s] : But if you list ened t o right before it you could hear a lit t le
+t he [ disfm arker] t he K or what ev er and a lit t le bit of t he R .
+fe066 [ b] : Mm − hm m .
+fe069 [ %−−] : So [ disfm arker]
+fe069 [ fh] : I don’t know .
+fe066 [ s^ ba] : That ’s kind of int erest ing .
+fe069 [ s.%−−] : Usually it ’s not [ disfm arker]
+fe069 [ s] : usually t hat doesn’t happen
+fe069 [ s] : but t his t im e it did .
+fe068 [ qw^ rt ] : So for t he non − linguist s , what ’s a fricat ive ?
+fe008 [ %] : I [ disfm arker]
+fe008 [ %] : Ah .
+fe066 [ s^ bk] : Oh .
+fe066 [ h|s] : Uh , it ’s like " fff " , " sss " .
+fe069 [ s] : Or " sss " .
+fe069 [ fh] : Or [ disfm arker]
+m e070 [ b] : Yeah .
+fe068 [ s^ bk] : Oh , OK .
+m e070 [ s.%] : Or " t hh " .
+fe066 [ s] : " Shh " .
+m e070 [ s.%−] : It ’s a sound t hat [ disfm arker]
+fe066 [ s^ rt ] : It ’s like t he noisy , uh , um , like airflow ones where you
+’v e got like a [ disfm arker] a st oppage in your m out h
+fe066 [ s^ e.%−−] : like , uh , like y our t ongue [ disfm arker]
+fe069 [ s^ rt ] : But it ’s not com plet ely blocking t he airflow .
+fe068 [ s^ bk] : Oh , I see .
+m e070 [ s^ bk] : Yeah ,
+m e070 [ s] : and y ou can sort of [ disfm arker] you can sort of keep it
+going a lit t le bit .
+fe066 [ s^ aa] : Right .
+fe068 [ s^ bk] : Oh , I see .
+fe068 [ s^ bk] : Oh , OK .
+
+fe067 [ s] : Unlike like a " t uh " or a " kuh " t hat just st ops .
+fe069 [ b] : Yeah .
+fe069 [ s^ aa] : Yeah .
+fe068 [ s^ bk] : Right .
+fe068 [ s^ bk] : Got it .
+fe066 [ s^ fa] : Sorry .
+fe008 [ %] : Have you [ disfm arker]
+fe068 [ s] : I guess I ’m t he only non − linguist .
+fe008 [ s^ arp] : Well , I ’m [ disfm arker] I ’m sort of a hybrid ,
+fe008 [ s] : so I [ disfm arker] I [ disfm arker] you know , I [ disfm arker] I
+appreciat e hav ing t hem do t his ,
+m e070 [ b] : Mm − hm m .
+fe068 [ s^ bk] : Oh , right ,
+fe068 [ s^ bk|%−−] : yeah , oh you [ disfm arker]
+fe008 [ s^ bk] : yeah .
+fe068 [ s^ bk] : Yeah .
+fe008 [ fh|qy .%−−] : So , um , in [ disfm arker] did you [ disfm arker] have
+y ou run int o places [ disfm arker]
+fe008 [ s] : I ’v e run int o a couple where act ually t he word was t ot ally
+different when you adjust ed t he t im e bin .
+fe008 [ qy ^ rt ] : Hav e you had t hat happen ?
+fe069 [ h|s^ aa] : Mm m , yeah .
+m e070 [ s^ aa] : Oh , yeah .
+fe066 [ s^ aa] : Yeah .
+fe008 [ s^ ba] : That ’s fascinat ing .
+m e070 [ fh] : Yeah .
+m e070 [ s] : I like t hat .
+fe066 [ b] : Yeah .
+fe008 [ s^ ba^ na] : Oh , it ’s really a kick .
+m e070 [ s] : I t hink t hat ’s fun .
+fe068 [ b] : Yeah .
+fe066 [ s] : And it som et im es changes t he ent ire ut t erance , t oo .
+fe069 [ s^ aa] : Oh it does .
+m e070 [ s^ aa] : Yeah .
+fe008 [ b] : Yeah .
+fe069 [ s^ na] : Com plet ely .
+fe069 [ fg] : Yeah ,
+fe069 [ s^ no] : I [ disfm arker] I don’t rem em ber t he words exact ly .
+fe069 [ s^ ba] : It ’s a sham e .
+fe069 [ s] : There was one t hat was a whole sent ence was broken up in
+t he m iddle , and t here was a lit t le like m illisecond of break in t he
+m iddle .
+fe069 [ fh] : And
+fe069 [ s] : if you connect ed it all t oget her , it com plet ely changed what
+was right before it and what was right aft er [ nonvocalsound] it .
+fe069 [ s] : It was writ t en as som et hing else ,
+
+fe069 [ s^ rt ] : and t hen it becam e a word t oget her from what was
+before and aft er
+fe069 [ s^ e] : and t hen wit h t his lit t le t iny m illisecond pause .
+fe069 [ s^ rt ] : So I guess [ disfm arker] I don’t know . I m ean , I guess
+when we t alk in bet ween different segm ent s of t he word m aybe ,
+[ com m ent ] t here ’s pauses som ehow ,
+fe069 [ s.%−−] : I guess [ disfm arker]
+fe068 [ b] : Hm m .
+fe069 [ s.%−−] : or t he [ disfm arker] you can [ disfm arker]
+fe066 [ s^ rt ] : We st op voicing som et im es .
+fe069 [ s^ aa] : Yeah ,
+fe069 [ s^ na] : or som et hing like t hat .
+fe069 [ s] : It ’s probably like inaudible for us
+fe069 [ fh] : but [ disfm arker]
+fe069 [ s] : And m aybe t he pause was just so short t hat it m ade up a
+pause .
+fe069 [ s] : I don’t [ disfm arker] is [ disfm arker] it [ disfm arker] That
+doesn’t m ake any sense ,
+fe069 [ fh] : but .
+fe008 [ s] : There are som e t im es when t here have been words t hat
+t hey just pause right in t he m iddle of .
+fe069 [ b] : Mm − hm m .
+fe008 [ %−−] : You ’re [ disfm arker]
+fe008 [ %−] : i it ’s h
+fe069 [ s] : On purpose , t hough .
+fe069 [ s] : Or not .
+fe008 [ fg] : Well ,
+fe008 [ s^ aap] : it ge u I ’m sure som et im es on purpose ,
+fe008 [ s^ df] : but som et im es it ’d just be s saying som et hing and
+especially people who have really lo elongat ion in t heir st yle ,
+fe069 [ b] : Mm − hm m .
+fe008 [ s^ ba] : and t hey say , " That ’s really fascinat ing "
+fe067 [ b] : Mm − hm m .
+fe008 [ s^ ba] : It ’s not a great exam ple ,
+fe008 [ fh] : but y ou know ?
+fe069 [ b] : Mm − hm m .
+fe066 [ %] : Sh
+fe008 [ %−−] : And [ disfm arker]
+fe008 [ fh] : Yeah .
+fe008 [ %−−] : Uh t here ’s [ disfm arker]
+fe008 [ s.%−−] : it ’s [ disfm arker] it ’s funny how , um ,
+fe008 [ s] : i it ’s funny t o m e t hat t h som et hing like t hat , you just
+change one lit t le boundary and suddenly t he whole m eaning changes
+fe008 [ s] : and I ’ve run across t hat also .
+fe068 [ b] : Mm − hm m .
+m e070 [ b] : Mm − hm m .
+
+fe068 [ b] : Yeah .
+fe069 [ s^ aa] : Yeah , t hat is t rue .
+m e070 [ fg|qy ^ rt ] : Hm m . Would you want , um , uh , a t ranscript ion of
+som et hing like t hat ,
+m e070 [ s^ e] : of a big pause in bet ween [ disfm arker] in t he m iddle of
+a word ?
+m e070 [ qrr^ rt ] : Or just leave it as , " fascinat ing " ?
+fe008 [ s.%−−] : What I ’ve done [ disfm arker] I ’ve [ disfm arker]
+fe008 [ s^ df] : It ’s v ery rare . I m ean , when I ’ve run across it .
+m e070 [ b] : Mm − hm m .
+fe008 [ s^ df] : And , you know , m ay be t here are t im es t hat I haven’t
+det ect ed it
+fe008 [ s^ df] : and I ’m not @ @ [ disfm arker] you know , fin I hav en’t
+looked at ev ery t hing .
+fe008 [ s^ e] : I ’ve looked at [ disfm arker] I ’ve probably looked at per
+uh s at least eight y percent of t he dat a ,
+fe008 [ s^ e] : you know , all t he way t hrough e every m eet ing
+[ disfm arker] [ v ocalsound] for about eight y percent of t he st uff t hat I
+’v e cleared so far .
+m e070 [ s^ fe] : Oh !
+fe008 [ fh] : And , um ,
+fe008 [ s] : i it s You guys are get t ing so good t hat it ’s like I ’m
+[ disfm arker] I [ disfm arker] I [ disfm arker] i I can get t hrough t hem fast er
+, and I ’m get t ing t o t he point where I m ay be don’t have t o go t hrough
+t hem all t he way ,
+fe008 [ qy ^ d^ f^ g] : you know ,
+fe069 [ b] : Mm − hm m .
+fe008 [ s] : so it ’s like [ disfm arker] it ’s just we ’ve got t en t o a level , it
+’s just really great , [ com m ent ] of , um , of [ disfm arker] of [ vocalsound]
+pre precision t hat um , it t akes a lot of a load off of m e .
+m e070 [ b] : Mm m .
+fe008 [ fh] : And , um [ disfm arker]
+fe008 [ s] : and so I ’m not gonna be checking t hem all I don’t t hink in
+t he @ @ [ com m ent ] for t hroughout t he whole rest of t he project .
+fe008 [ fh] : But , um [ disfm arker]
+fe008 [ s^ e] : Cert ainly have spot checking .
+fe008 [ fh|s] : But , um , hhh , [ com m ent ] t hose t hat I have found t hat
+way , [ com m ent ] t o m e , I t hink f f t he m ost sensible way t o handle it
+from m y perspect ive was t o t reat it as a pronunciat ion sit uat ion .
+fe069 [ b] : Mm − hm m .
+fe008 [ s^ co] : So just do a [ disfm arker] you know , a m ark , t hen "
+fascinat ing " , and t hen put " PRN " and uh " int errupt ed by a pause "
+or , y ou know , som e kind of ot her gloss like t hat , you know .
+fe066 [ b] : Mm − hm m ,
+fe066 [ b] : m m − hm m .
+fe066 [ s^ 2] : PRN .
+
+fe069 [ s^ 2] : How it was really pronounced ?
+m e070 [ b] : Mm − hm m .
+fe069 [ b] : Mm − hm m .
+m e070 [ b] : Right .
+fe068 [ s^ bk] : Mm m , oh right .
+fe068 [ s^ bk] : Uh − huh .
+fe008 [ s] : You know , " P R dot dot fascinat ing " , what ever it is .
+fe069 [ s] : I alway s get confused wit h t he pronunciat ion convent ion .
+fe008 [ s^ fa|qw^ br] : Sorry , what was t his ?
+fe069 [ s^ r] : I get confused wit h pronunciat ion , like when t here ’s a
+st range pronunciat ion t hat I wanna m ark .
+fe008 [ b] : OK .
+fe069 [ s.%−−] : Because I t hink w
+fe069 [ qy ^ bu^ rt ] : m m ay di in t he beginning did we do t he st range
+pronunciat ion and t hen writ e PRN and what it really was m eant t o be ?
+fe069 [ qy ^ bu^ rt ] : And now we ’re doing t he norm al word and t hen
+inside t he bracket s what it sounded like ?
+fe068 [ s^ aa] : Right .
+fe069 [ s^ bu|qy ^ d^ g^ rt ] : We did a swit ch , right ?
+fe069 [ s^ e] : Or not .
+fe069 [ s^ no.%−] : I don’t know if it ’s just m e t hat ’s confused or if it
+was swi
+fe008 [ fg|%−] : Well , I ’ve [ disfm arker]
+fe068 [ b] : Mm − hm m ,
+fe068 [ s^ na] : I [ disfm arker] it [ disfm arker] it never occurred t o m e ,
+but now t hat y ou ’re m ent ioning it , n y eah , yeah , possibly .
+fe008 [ s] : There was an adjust m ent ,
+fe008 [ s.%−−] : and I [ disfm arker] and I ’ve swit ched t hem all
+[ disfm arker] all t he way at t his point so t hat
+fe069 [ b] : OK .
+fe069 [ s^ bk] : OK .
+fe069 [ s^ bs] : So t he convent ion as it st ands now is writ e t he word as
+it is norm ally convent ionally spelled in English wit h t he lit t le
+[ v ocalsound] apost rophe , or what ev er you call it ,
+fe008 [ b] : Yeah .
+fe008 [ s^ aa] : Yep .
+fe008 [ s^ aa] : Mm − hm m , t hat ’s right .
+fe069 [ s^ bs] : and t hen " PRN " ,
+fe008 [ s^ 2.%−−] : And t hen in t he bracket s , what it [ disfm arker]
+fe069 [ s] : how it ’s pronounced .
+fe008 [ s^ bk] : Uh − huh .
+fe008 [ s] : So i y ou know , " OK " is a very e easy exam ple .
+fe069 [ b] : Mm − hm m .
+fe008 [ s^ e] : A person says , " Mm − kay "
+fe069 [ b] : Mm − hm m .
+fe008 [ %−−] : t hen ,
+
+fe067 [ b] : Oh .
+fe008 [ s^ df] : it ’s " OK " wit h a ha a lit t le hat ch
+fe008 [ s] : and t hen , " PRN " and t hen " m m m − kay " , or what ever it is
+in quot es .
+fe068 [ s^ bk] : Oh , right .
+fe069 [ s^ bk] : OK .
+fe066 [ s^ bk] : Oh . Right .
+fe068 [ s.%−−] : I t hink Nelson ’s t he only one who , uh [ disfm arker]
+fe068 [ s^ bsc] : Oh , Morgan .
+fe068 [ s] : You guy s call him Morgan .
+fe008 [ s^ aa] : Yeah , yeah .
+fe068 [ s] : He ’s t he only one who ever did t hat , I t hink .
+fe068 [ s^ e] : " Mm − kay . "
+fe069 [ s^ na] : He does it a lot .
+m e070 [ s^ m ] : " Mm − kay " [ disfm arker]
+m e070 [ %] : I [ disfm arker]
+fe068 [ s^ na.%−−] : He does it a [ disfm arker]
+fe066 [ b] : OK .
+fe068 [ s^ aa] : yeah .
+m e070 [ fg] : Yeah ,
+m e070 [ s] : and som e people just say , " Kay . "
+fe068 [ fg] : Um [ disfm arker]
+fe069 [ s^ aa] : Yeah .
+fe068 [ s^ m ] : " Kay " ,
+fe068 [ s^ aa] : y eah , t hat ’s t rue .
+fe008 [ s^ aa] : Yeah , t hat ’s right .
+m e070 [ %] : S
+fe066 [ b] : Yeah .
+fe008 [ s] : And of course , you know [ disfm arker] I m ean , t here ’s also
+t his ot her reduct ion t hat w t hat we ’ve done in t erm s of like not
+capt uring every t im e a person says " and " versus " nnn " [ com m ent ]
+v ersus , you know , " nd " , [ vocalsound] what ev er [ disfm arker]
+fe069 [ b] : Mm − hm m .
+fe008 [ s] : all t he different ways of reducing " and " .
+fe068 [ s^ aa] : That ’s t rue .
+fe008 [ s^ df] : Because you can assum e t hat t he speech recognit ion ,
+um , uh , pronunciat ion m odels will handle a cert ain am ount of
+reduct ions of t hese t ypes ,
+fe008 [ s] : and t he sam e t hing for , um , well " t he " . " The " [ com m ent ]
+v ersus " t he "
+fe008 [ s.%−] : t hat t here are t hose known variant s , and [ disfm arker]
+fe069 [ b] : Mm − hm m .
+m e070 [ b] : Uh − huh .
+fe069 [ s] : Or " a " [ com m ent ] versus " a " .
+fe008 [ s^ aa] : Exact ly .
+fe069 [ b] : Mm − hm m .
+
+fe068 [ b] : Mm − hm m .
+fe008 [ s] : And t hat t hey should be able t o handle t hem selv es ,
+fe008 [ s] : and [ disfm arker] and t hat we assum e also t hat for
+discourse purposes , t hose dist inct ions are not really t he focus right
+now ,
+fe008 [ s] : and t hose dist inct ions could be added lat er if needed
+fe008 [ s^ e] : but it ’s unlikely t hat t hey would be .
+fe008 [ s^ e] : And it ’s so t im e − consum ing .
+fe066 [ b] : Mm − hm m .
+fe008 [ s] : So we ’ve m ade t hese [ disfm arker] t hese sim plifying
+assum pt ions wit h t hat ,
+fe008 [ s:qw] : and so t hen you begin t o t hink , " Well what about " OK "
+?
+fe008 [ s] : I m ean , m aybe " m m − kay " is an appropriat e variant for "
+OK "
+fe008 [ s] : and it wouldn’t be necessary t o m ark t hose eit her ,
+fe008 [ s] : so it ’s [ disfm arker] [ nonvocalsound] it ’s definit ely
+[ disfm arker] t here ’s a , uh , choice of how far you go wit h t hat , and
+whet her " kay " is [ disfm arker] is enough of a variant [ disfm arker]
+fe068 [ b] : Mm − hm m .
+fe067 [ b] : Mm m .
+fe008 [ s] : y ou know , it ’s [ disfm arker] t h t his is a case where , um , I
+appreciat e it when people m ark t hose kinds of t hings
+fe008 [ s] : but I [ disfm arker] I sort of figure t hat i @ @ [ com m ent ] t hat
+[ disfm arker] t hat ’s not as far aw away from " OK " as " m m − kay " is ,
+fe008 [ s.%−−] : so it ’s not quit e so [ disfm arker]
+m e070 [ b] : Mm − hm m .
+fe069 [ b] : Mm m .
+fe008 [ s] : but I don’t change it back if it ’s t here ,
+fe068 [ b] : Mm − hm m .
+fe066 [ s^ rt ] : I t hink wit h like som e of t hem [ disfm arker] like you know
+wit h uh t he difference bet ween " t he " [ com m ent ] and " t he " ,
+[ com m ent ] you can [ disfm arker] you can dist inguished very , uh , u dif
+definit ively like what cont ext t hey ’re gonna be used in .
+fe008 [ qy ^ d^ f^ g] : you know .
+fe008 [ s^ bk] : Yes .
+fe008 [ b] : Mm − hm m .
+fe069 [ b] : Mm − hm m .
+fe066 [ s^ e] : Like um , [ vocalsound] like you would say " t he
+[ com m ent ] apple "
+fe066 [ s^ df] : because it ’s " t he " plus t hen t he next word st art s wit h
+a v owel .
+fe008 [ b] : Mm − hm m .
+fe066 [ s^ e.%−−] : Or " t he cat " because it ’s next word st art s wit h a
+[ disfm arker]
+fe069 [ b] : Yeah .
+
+fe069 [ s^ rt ] : There ’s a st udy done on when people say " uh " and
+when people say " um " .
+fe066 [ s^ bk|s.%−] : Yeah , I ’m sure it ’s [ disfm arker]
+fe069 [ s] : Also , t here ’s cont ec in concet cont ext ual variat ion ,
+m e070 [ qy ^ bh] : Oh , really ?
+fe069 [ s] : and it ’s predict able apparent ly ,
+fe067 [ b] : Hm m .
+fe066 [ b] : Mm − hm m .
+fe069 [ s^ df.%−] : I haven’t read t he [ disfm arker]
+m e070 [ s] : I was t ry ing t o figure t hat out m yself a couple t im es ,
+fe069 [ s^ ba] : It ’s really int erest ing .
+fe066 [ s.%−−] : But som et hing like [ disfm arker]
+m e070 [ s] : and I couldn’t get anyt hing .
+fe066 [ b] : Yeah .
+fe069 [ b] : Yeah .
+fe008 [ b] : Mm − hm m ,
+fe008 [ s^ ba] : int erest ing .
+m e070 [ s:s] : I kept looking at all t he " uh ’s " and " um ’s " and I was
+like , " Oh , t his would be hard t o do . "
+fe069 [ b] : Yeah .
+fe008 [ s^ ba] : Oh , t hat ’s int erest ing .
+fe069 [ s] : You know , what ’s [ disfm arker] On t hat sort of sim ilar t opic ,
+I just t hought of som et hing t hat ’s been hard for m e som et im es , is you
+can have a pronunciat ion of [ disfm arker] of t he word " a " [ com m ent ]
+as " a " .
+fe008 [ qy^ bh] : Huh .
+fe008 [ b] : Yeah .
+fe069 [ s] : And t hen you can have " uh " like a pause or what ever as "
+uh " ,
+m e070 [ b] : Mm − hm m .
+fe069 [ s] : and som et im es it ’s hard t o t ell what t he person m eant .
+fe069 [ qy ^ rt ] : Are [ disfm arker] did t hey m ean " uh " like t hey ’re
+pausing
+fe066 [ b] : Mm m , y eah .
+fe069 [ qrr] : or did t hey m ean " a " like " a person " ?
+fe066 [ b] : Yeah .
+fe008 [ b] : Yeah .
+fe066 [ s] : I ’ve run int o t hat .
+m e070 [ qy ^ bh] : Really ?
+fe008 [ s^ bk] : Yeah .
+fe066 [ s^ bk] : Yeah .
+fe069 [ fh] : Yeah .
+fe068 [ s^ bk] : Right .
+fe067 [ qy ^ bh] : Hm m .
+fe008 [ s] : Once in a while .
+fe069 [ fg] : And
+
+m e070 [ s.%−] : I don’t usually get con
+fe069 [ s] : y ou can kind of t ell from t he cont ex t
+fe069 [ s^ df] : but som et im es it ’s hard ,
+fe008 [ s^ aa] : Yes .
+m e070 [ b] : Right .
+fe069 [ fh] : y eah .
+fe068 [ s] : Yeah , t hat cam e up a couple of t im es ,
+fe008 [ fg] : Yeah , I [ disfm arker]
+fe069 [ b] : Yeah .
+m e070 [ b] : Huh .
+fe068 [ fh] : y eah .
+fe008 [ s^ aa] : I agree .
+fe008 [ s] : And [ disfm arker] and when I [ disfm arker] when I ’m t ot ally in
+doubt , if t here ’s a case where it really could be eit her , and I could flip
+a coin , [ vocalsound] I ’ll choose t he one t hat would m ake synt act ically
+t he m ost sense ,
+fe069 [ b] : Mm − hm m .
+m e070 [ b] : Uh − huh .
+fe069 [ b] : Mm − hm m .
+fe008 [ s] : giv e t hem t he benefit of t he doubt t hat t hey ’re being fluent
+about it .
+fe069 [ b] : Mm − hm m .
+m e070 [ b] : Uh − huh .
+fe066 [ s] : Som et im es I ’ll put in like a bracket like uh , you know , t he
+ort hographic A slash UH like if I ’m really confused .
+fe069 [ s^ 2] : Like you can’t t ell ,
+fe008 [ b] : Mm − hm m .
+fe069 [ b] : m m − hm m .
+fe066 [ s^ aa] : Yeah ,
+fe066 [ s^ e:s] : kinda go " Well t here ’s t wo ,
+fe066 [ s] : so here . "
+fe069 [ b] : Mm − hm m .
+fe008 [ s] : It m ust be really rare t hough ,
+fe008 [ s^ df] : I haven’t run across t hat oft en .
+fe008 [ qy ] : Ha − ha h Is it rare ?
+fe068 [ b] : Mm m − m m .
+fe066 [ s^ na] : A few t im es .
+fe069 [ s^ na] : A few .
+fe069 [ %] : It ’s really [ disfm arker]
+fe069 [ b.%] : y eah ,
+fe008 [ b.%] : OK .
+fe068 [ s^ na] : It ’s rare .
+fe069 [ s^ na] : relat ively rare .
+fe067 [ s] : I don’t t hink I ever have .
+fe069 [ b] : Yeah .
+fe069 [ fg] : Yeah .
+
+fe069 [ s] : I m ean I can only t hink of like t wo or t hree occasions where I
+sat and t hought about it for a while .
+m e070 [ b] : Hm m .
+fe069 [ s] : Ot her t im es just you figure [ disfm arker] you look at it and
+what ’s t he cont ex t .
+fe069 [ fh] : Yeah .
+fe069 [ s] : It ’s OK ,
+fe069 [ s^ no] : I don’t know .
+fe066 [ b] : Right .
+fe008 [ fg|s^ t c] : OK . Well , le let ’s see now ,
+fe008 [ s.%−−] : t here ’s anot her [ disfm arker] anot her m et hodo
+fe008 [ s] : what I go I wanna ask you at som e point , it just occurred t o
+m e , [ com m ent ] I ’d like t o ask you t he following quest ion , m aybe you
+can have t his in t he back of your m inds , som et hing like , um , you
+know , what sort s of hypot hesis [ disfm arker] your hypot hesis about t he
+[ disfm arker] you know , t i t rying t o find t he dist ribut ional explanat ions
+for som e of t hese t hings .
+fe068 [ qy ^ bh] : Huh .
+m e070 [ b] : Right .
+fe008 [ qw.%−−] : What kind of , uh , hy pot heses have [ disfm arker] has
+t his caused y ou [ disfm arker]
+fe008 [ s^ df^ j] : uh , I m ean , don’t wanna have you give away a paper
+t opic t hat you wanna explore ,
+fe008 [ fh] : but ,
+fe008 [ s] : you know , if t here ’s int erest ing t h uh , hypot heses t hat t he
+[ disfm arker] t hat y have been suggest ed t o you by looking at t he dat a
+.
+fe008 [ s] : That kinda t hing , m aybe , uh , at som e point .
+fe008 [ fh] : So ,
+fe068 [ b] : Hnh .
+fe008 [ s^ cs^ rt ] : and al Oh ! And I also wanna say , t hat , um , I ’d like
+t o m eet again also next week ,
+fe069 [ b] : Mm − hm m .
+fe008 [ fh|s^ no] : um , and I don’t know if t his is a good t im e fram e ,
+fe008 [ s^ cs] : uh , m aybe it ’d be good t o have it an hour lat er
+fe008 [ s] : or [ disfm arker] I don’t know [ disfm arker] I m ean , could do
+anyt hing
+fe066 [ s^ nd] : This is fine .
+fe069 [ s^ nd] : This t im e is fine for m e .
+fe008 [ %] : about [ disfm arker]
+m e070 [ s^ nd] : Yeah , t his is a good t im e for m e .
+fe008 [ qy ^ d] : Good t im e for y ou ?
+fe068 [ s^ na] : It should be .
+fe008 [ s^ bk] : OK .
+fe068 [ s^ df] : Um , I know I hav e som et hing in t he m orning , which I
+don’t norm ally hav e .
+
+fe068 [ s^ df^ no^ rt ] : I don’t rem em ber off t he t op of m y head when it
+ends .
+fe068 [ fh|s] : Um , I ’ll let you know if it ’s [ disfm arker] it ’ll be a problem
+fe068 [ s^ na] : but it should be OK .
+fe008 [ s^ bk] : OK .
+fe068 [ s] : Two − t hirt y should be lat e enough .
+fe068 [ fh] : So .
+fe008 [ s^ bk] : OK .
+fe008 [ s^ ba] : Ex cellent ,
+fe008 [ s^ cs] : cuz we could probably m ove it one hour lat er ,
+fe066 [ %−] : In m
+fe008 [ s.%−] : I m ean [ disfm arker] I t hink , u unless [ disfm arker]
+fe066 [ s^ aap] : I was just gonna say m aybe fift een m inut es lat er would
+help m e a lit t le bit
+fe066 [ s^ df] : just cuz I have a class up at Dwinelle b just before t his .
+fe008 [ s^ bk] : Oh , I see .
+fe066 [ s^ df] : That ’s why I was a lit t le lat e t oday
+fe008 [ s^ fe] : Wow .
+fe008 [ s^ ba] : You did really well .
+fe066 [ %−] : because [ disfm arker]
+fe008 [ fh] : Yeah .
+fe066 [ s^ ft ] : Thanks .
+fe066 [ s^ bd] : Well , I t ook t he bus for part of t he way .
+fe069 [ b] : Mm − hm m .
+fe008 [ qh] : Oh , did you ?
+fe008 [ s^ bk] : OK , OK .
+fe066 [ fh|s] : But um , t hat m ight help m e just a lit t le bit
+fe066 [ s^ df] : because t hen it [ disfm arker] I [ disfm arker] you know , I
+’m gonna [ disfm arker] gonna be hobbling a lit t le slowly .
+fe069 [ s] : Then you don’t have t o rush .
+fe008 [ qy ^ cs^ rt ] : Would anybody be const rained by having it be a full
+half hour lat er ?
+fe069 [ s^ ar] : Hnh − nn .
+fe068 [ s^ ar] : No .
+m e070 [ s^ ar] : No .
+fe008 [ s^ bk] : OK .
+fe008 [ s.%−] : And t h t he final quest ion i
+fe066 [ s^ ar] : No .
+fe068 [ s^ ng] : Ex cept we ’ll m iss t reat t im e .
+m e070 [ s^ bk^ fe] : Oh !
+fe066 [ s^ bk^ fe] : Tea !
+fe008 [ s^ bk] : Oh , t hat ’s right !
+fe008 [ s] : Oh ! [ com m ent ] I t hought she said " m ist reat t im e " .
+fe066 [ s^ fe] : Oh no .
+fe068 [ s^ cs] : May be we could have like a [ disfm arker] like a half hour
+, t hen t ake a lit t le break ,
+
+m e070 [ b] : Yeah .
+fe069 [ s^ fe] : Mist reat ? Oh !
+m e070 [ b] : Yeah ,
+fe068 [ s^ cs.%−] : t hen com e back and finish t he m eet
+m e070 [ s] : well t hat ’s [ disfm arker] t hat ’s som e good m ot ivat ion t o
+not st art a half hour lat er .
+fe069 [ qy ^ rt ] : You know what we could do ?
+fe008 [ s^ bk|s.%−] : Yeah , you know , t hat ’s [ disfm arker] t hat ’s
+[ disfm arker] t hat ’s an int erest ing [ disfm arker]
+fe069 [ s^ cs] : We could just ask t he [ disfm arker] som eone like t he
+front desk person or Lila t o like set aside a lit t le bit for us .
+fe066 [ s^ ba] : Tha − t hat ’s so funny .
+fe068 [ s] : Lit t le bit of t reat s .
+fe008 [ s^ na] : Hey , t hey would .
+fe066 [ s] : Oh t hat ’s t rue .
+fe067 [ b] : Mm − hm m .
+fe008 [ s^ na^ r] : Yeah , t hey would .
+m e070 [ b] : Yeah .
+fe008 [ s^ na] : That ’s [ disfm arker] t hat ’s not a bad solut ion .
+m e070 [ b] : Mm − hm m .
+fe068 [ s] : It ’s not gonna be birt hday cake ,
+fe068 [ fh] : so .
+fe069 [ s^ bk|s] : Yeah , so we ’ll survive .
+fe068 [ b] : Yeah .
+fe008 [ s] : Yeah , t hat ’s right ,
+fe066 [ s^ j] : This is very im port ant .
+fe008 [ s] : it ’s already done .
+fe008 [ s^ j] : It ’s good t o s good t o hav e t hese t hings all scheduled .
+fe008 [ fg] : OK ,
+fe008 [ fh] : so um [ disfm arker]
+fe008 [ s^ bk] : Oh ,
+fe008 [ qw] : uh , eh t hen I was gonna ask y ou , what about an hour
+lat er ?
+fe008 [ s^ e] : I m ean , if we h had t hose t hings an hour lat er
+fe008 [ qy .%−] : like , would people [ disfm arker]
+fe066 [ s^ na] : This is fine wit h m e .
+fe008 [ s^ bk] : OK ?
+fe069 [ s^ na] : That ’s fine t oo .
+fe068 [ s^ aa] : Yeah .
+fe008 [ s^ ba] : OK , good .
+fe067 [ b] : Hm m .
+m e070 [ s^ na] : Yeah . That ’s fine .
+fe008 [ s] : Alright , so , I ’ll [ disfm arker] I ’ll so set t le on t hat .
+fe069 [ b] : Yeah .
+
+fe008 [ s^ t c] : OK now , I want ed t o say , y ou ’ve been t hrough a couple
+of different , uh , @ @ im provem ent s in t he m et hods , t he pre −
+segm ent at ion .
+fe008 [ s.%−−] : There was anot her im pro anot her im provem ent in t hat
+[ disfm arker]
+fe008 [ s] : Well , s let ’s ask if it was an im provem ent from your
+st andpoint .
+fe008 [ s] : Uh , t he Tigerfish , um , approach .
+fe008 [ fh] : So ,
+fe008 [ fh|s] : uh , s m oving from hav ing t he first t ranscript ion done by
+an ext ernal service , and t hen y ou correct ing t hat versus doing t he
+init ial t ranscript ion y ourselves .
+fe008 [ qy .%−−] : Ho − ho how [ disfm arker] Have you [ disfm arker]
+fe066 [ s^ ng] : Oh .
+fe008 [ qy .%−−] : And so I t hink you [ disfm arker] Yeah , I t hink you
+[ disfm arker] Did you [ disfm arker]
+m e070 [ s.%−−] : I don’t t hink I hav e ever done one from an ext ernal
+[ disfm arker]
+fe008 [ qy .%−] : has t here already been t
+fe066 [ s] : I hav e .
+m e070 [ s^ rt ] : I t h I feel like t hey ’v e all been done probably by anot her
+t ranscriber here .
+fe066 [ qy ^ bu^ rt ] : You t alking about t he IBM ones ?
+fe008 [ s^ na] : Yeah , IBM or if [ disfm arker] if it was dash TF ,
+fe008 [ s^ e] : t hat ’s t he Tigerfish .
+fe068 [ s^ bk] : Right .
+m e070 [ %] : T
+fe066 [ s^ bk] : Right ,
+fe066 [ s^ aa] : yeah ,
+fe066 [ s^ aa] : oh , yeah yeah .
+m e070 [ s^ aa|s^ na] : Oh , m yeah , t hen I guess I have .
+m e070 [ s^ e] : Maybe t he o one I ’m working on now .
+fe066 [ s] : I could t ell you som et hing t hat I t hought [ disfm arker]
+fe069 [ b] : Mm − hm m .
+fe008 [ %−] : So d
+m e070 [ s^ bu|qy^ d^ g^ rt ] : They have different [ disfm arker] definit ely
+a different st yle , right ?
+m e070 [ qy ] : Do t hey end all [ disfm arker] t hem all in dot s ,
+fe066 [ s^ aa] : Yeah .
+m e070 [ s^ e] : like dot dot ?
+fe008 [ s^ na] : There ’s a lot of t hat .
+fe068 [ s^ aa] : Yes .
+fe069 [ s^ aa] : Yeah ,
+fe067 [ s^ na] : They used t o .
+fe069 [ b] : m m − hm m .
+
+m e070 [ s.%−] : And t hey [ disfm arker] and t hey capit alize like every
+single first [ disfm arker]
+fe066 [ s.%−] : I really t h
+fe008 [ s^ aa] : Yeah .
+fe069 [ s.%−−] : And t hey put paren
+fe069 [ s^ nd] : um , not parent heses .
+fe069 [ qw] : What ’s it called ?
+fe069 [ s] : Punct uat ion aft er bracket s .
+fe008 [ s^ aa] : Yeah ,
+fe008 [ s^ na] : t hat ’s right t oo .
+fe066 [ s^ aa] : Yep .
+m e070 [ s^ bk] : Oh , OK ,
+m e070 [ s] : yeah , t hen I ’m doing t hat right now .
+fe068 [ s^ aa] : Right .
+fe068 [ s^ aa] : Oh , right ,
+fe008 [ b] : Mm − hm m .
+fe069 [ b] : Yeah .
+fe068 [ s^ e] : " Laugh , period " .
+fe069 [ s^ aa] : Yeah .
+m e070 [ s^ bk] : Yeah .
+fe068 [ s^ bu|qy^ d^ g.%] : Som et hing like t hat , right ?
+fe066 [ b] : Right .
+fe069 [ b] : Yeah .
+m e070 [ s] : Which m akes no sense t o m e .
+fe069 [ s^ aa|s^ na] : No it doesn’t t o m e eit her
+m e070 [ s^ e] : Like " t hat ’s not a synt act ic part of t hat sent ence " .
+fe008 [ b] : Yeah .
+fe066 [ %] : If [ disfm arker]
+fe069 [ fh] : but .
+fe069 [ s^ aa] : No .
+fe008 [ s^ aa] : Ex act ly .
+fe008 [ s^ aa^ r] : Ex act ly ,
+fe008 [ s.%−−] : I ’m glad you [ disfm arker]
+fe068 [ b] : Yeah .
+fe008 [ s^ aa^ r] : Yeah , exact ly .
+fe068 [ s] : Well , t hey ’re not linguist s ,
+fe066 [ %] : if [ disfm arker]
+m e070 [ b] : Mm − hm m .
+fe068 [ fh] : so .
+fe069 [ s^ aa] : No .
+fe066 [ s^ ba] : if I could be com plet ely frank , I really didn’t like t he IBM
+ones .
+fe008 [ b] : Yeah .
+fe008 [ s^ ba] : Oh , good t o know .
+fe066 [ fh] : Yeah .
+fe069 [ s^ na] : I didn’t eit her .
+
+fe008 [ s^ ba] : Oh , t hat ’s helpful .
+fe066 [ s.%−−] : I found t hem t o be just [ disfm arker]
+fe066 [ s] : I just [ disfm arker] I [ disfm arker] I ended up basically redoing
+t hem .
+fe008 [ s^ bk] : OK .
+fe067 [ b] : Hm m .
+fe066 [ fh|s^ e] : Um , like from st art t o finish ,
+fe068 [ s^ t 3] : I don’t know if I did one .
+fe066 [ s] : so when I was checking t hem like it would t ake m e basically
+as long as it would have t aken m e t o just t o t ranscribe it by m yself .
+fe008 [ s^ ba] : Wow .
+fe068 [ b] : Hm m .
+m e070 [ b] : Hm m .
+fe008 [ s^ ba^ fe^ r] : Wow !
+fe069 [ s^ aap^ rt ] : I t hink it was a lit t le bit fast er t han just t ranscribing
+it ,
+fe008 [ s^ ba^ r] : Wow ,
+fe008 [ s^ bk] : OK .
+m e070 [ b] : Yeah .
+fe069 [ s.%−−] : but I definit ely saw a lot of [ disfm arker]
+fe066 [ s^ df^ j] : I ’m really picky .
+fe069 [ s^ df] : t here was a lot of errors t hat are not in t he Tigerfish
+ones .
+fe008 [ b] : Mm − hm m .
+fe066 [ s^ na] : Yeah , Tigerfish are bet t er .
+fe069 [ b] : Yeah .
+fe069 [ s^ df] : And t hey just have bet t er int uit ions , or I don’t know
+what but , about what ’s said .
+m e070 [ fg] : OK
+m e070 [ qw] : Which are [ disfm arker] What are t he t wo differences ?
+m e070 [ s^ no] : I ’m not sure .
+fe008 [ s^ no] : I ’m not sure if you had an IBM one .
+fe008 [ s] : So t his was earlier [ pause] on .
+m e070 [ qy ^ bu^ rt ] : So do I have a Tigerfish one right now ?
+fe067 [ b] : Hm m .
+fe069 [ s] : If it say s " TF " .
+fe066 [ s] : If it say s " TF " .
+fe008 [ s^ na] : You probably do .
+m e070 [ s^ bk] : Uh − huh .
+m e070 [ s^ bk] : OK .
+fe066 [ fg] : Yeah .
+fe066 [ s] : The ones t hat say " IBM " are like [ disfm arker] They act ually
+say " IBM " .
+m e070 [ s.%−−] : So I don’t t hink I ’ve ever [ disfm arker]
+m e070 [ s^ bu|qy^ d^ g] : The IBM ones were t he ones t hat cam e in
+huge , huge paragraphs , huh ?
+
+fe066 [ s^ aa] : Yes !
+fe069 [ s^ aa|s] : Yeah , and we had t o split t hem up .
+m e070 [ s] : See , I never got one of t hose .
+fe066 [ s^ aa|s] : Yeah , and you hav e t o parse t hem all down .
+m e070 [ s^ bk] : Right ,
+fe066 [ s^ aa] : Yeah , yeah , yeah , yeah .
+m e070 [ s^ bk] : OK ,
+m e070 [ s^ bk] : y eah .
+m e070 [ s] : Mm − hm m . Yeah , I didn’t g ever get one of t hose .
+fe008 [ s^ bu] : So y ou didn’t get one ?
+fe008 [ s^ ba] : Oh , int erest ing .
+m e070 [ s] : No . I ’m glad I didn’t .
+fe066 [ s^ bk] : OK .
+fe067 [ s] : I didn’t get one eit her .
+fe068 [ s] : I t hink t hose show up in Tigerfish t oo ,
+fe068 [ s^ df] : cuz I t hink I ’ve had a couple of Tigerfish where I ’ve had
+t o break t hem up .
+fe069 [ s^ 2.%−−] : Where t hey have li
+m e070 [ %] : Ye
+fe069 [ fg|s^ nd.%−] : Yeah , but t hey ’re not like [ disfm arker]
+m e070 [ s.%−] : They ’re not [ disfm arker]
+m e070 [ fg|s.%−] : Yeah , I can rem em ber , u I used t o see [ disfm arker]
+fe069 [ s^ ng] : t hey ’re not huge huge , t hough .
+fe068 [ s^ arp] : A couple were .
+fe069 [ qy ^ bh^ rt ] : Really ?
+fe068 [ s^ aa] : Yeah .
+fe069 [ s^ bk] : Oh .
+fe068 [ s] : And I had t o sort a break t hem down .
+fe069 [ s^ bk] : Oh .
+m e070 [ qy .%−−] : Do t hey get t hem , um [ disfm arker]
+fe069 [ fh] : I don’t know .
+m e070 [ qy .%−−] : Id − Is [ disfm arker]
+m e070 [ s^ bu|qy^ d^ g] : They don’t have like an int erface , right ?
+m e070 [ %−] : They just [ disfm arker]
+fe008 [ s^ aa] : No .
+fe008 [ s^ nd] : In neit her case .
+fe008 [ s] : And I ’m [ disfm arker] and I ’m t hinking [ disfm arker] I ’m
+t hinking [ disfm arker] you ’re causing m e t o t hink back over what t he
+differences were in t he [ disfm arker] what t hey got
+m e070 [ s^ bk] : Yeah .
+fe008 [ s.%−] : and IBM didn’t [ disfm arker]
+m e070 [ b] : Yeah .
+m e070 [ s] : They just have [ disfm arker] They just have it segm ent ed .
+fe008 [ b] : Yeah .
+m e070 [ s^ df] : You can t ell because som et im es t hey have it so wrong
+
+m e070 [ s:s] : and it ’s like , " Well , if you had just list ened t o what was
+before " .
+fe069 [ s^ bk] : Yeah .
+fe066 [ s^ bk] : Yeah .
+fe069 [ s^ ng] : But t hey don’t hav e t hat opt ion .
+m e070 [ s^ df] : Yeah , but t hey don’t hav e t hat .
+m e070 [ s^ na] : Yeah , I figured t hat t hey didn’t .
+fe066 [ s^ aa] : Right .
+fe069 [ b] : Yeah .
+fe068 [ b] : Right .
+fe008 [ s.%−−] : There ’s also som e i iffiness about how d if [ disfm arker]
+fe066 [ %−] : Als
+fe008 [ s] : We ’re not sure really how Tigerfish does it ,
+fe008 [ s^ e] : you know , t he m et hodology .
+fe008 [ qw] : How do t hey do t his .
+m e070 [ b] : Mm m .
+fe008 [ s^ df.%−−] : Because som et im es you ’ll have t he s t he sam e word
+,
+fe008 [ s.%−−] : and I ’v e seen t his , [ com m ent ] like , wit hin [ disfm arker]
+fe008 [ s] : well , wit hin a single t urn , l it ’ll be spelled in t hree different
+way s .
+fe008 [ s:qy^ rt ] : And it ’s like , you know , is t his t he sam e person who
+’s kind of forget ful ,
+fe066 [ b] : Huh .
+m e070 [ b] : Uh − huh .
+fe008 [ qrr^ rt ] : or is it t hat t hey hav e several people doing it t oget her
+?
+fe008 [ s^ am ] : You know , m ay be it ’s parallel .
+fe068 [ b] : Right .
+m e070 [ b] : Right .
+fe008 [ s^ am ] : Maybe t hey ’re all doing it in parallel
+fe008 [ s^ e] : and one falls behind and t he ot her one [ disfm arker]
+m e070 [ b] : Yeah .
+fe066 [ s^ ba] : Oh , t hat ’s int erest ing .
+fe008 [ qh^ rt ] : But , who knows ?
+fe069 [ %−−] : And t hey don’t [ disfm arker]
+fe069 [ s^ bu] : One person doesn’t list en t o all t he channels of one
+m eet ing ,
+fe069 [ qy^ d^ g^ rt ] : right ?
+fe069 [ qy ^ bu^ d^ rt ] : So t hey can’t get clues from t he ot her channels
+?
+fe008 [ h|s.%−−] : Well , you know , t he [ disfm arker] The way t hey ’re
+list ening t o it is t hey [ disfm arker] t hey get a [ disfm arker] t hey get
+[ disfm arker]
+fe069 [ qrr] : Or can t hey ?
+fe069 [ s^ no] : I don’t know .
+
+fe069 [ b] : Mm − hm m .
+fe008 [ s] : It ’s linearized .
+fe008 [ s] : So if y ou pict ure what we have on t he screen ,
+fe008 [ fh|s^ e.%−−] : um , you know , t here ’s t his block and it goes over
+[ disfm arker]
+fe008 [ s^ df] : I ’m doing it from m y perspect iv e .
+fe008 [ s^ e] : You have t his block
+fe008 [ s^ e] : and it goes over t o here and st ops
+fe008 [ s^ e] : and t his person st art s t o t alk
+fe008 [ s^ e] : and he goes over t o here
+fe069 [ b] : Mm − hm m .
+fe008 [ s^ e] : and t hen you have an overlap over here .
+fe008 [ s^ e] : And so what t hey would get is t his block from t he first
+guy ,
+fe008 [ s^ e] : t his block from t he second guy ,
+fe008 [ s^ e] : and t hen t he t op of t he ov erlap
+fe008 [ s^ e] : and t hen t he second guy in t he overlap .
+fe069 [ s^ bk] : Oh .
+m e070 [ s^ ba] : Oh , wow .
+fe068 [ s^ bk] : Hm m .
+fe008 [ s^ e] : And t hen it would m ove on .
+fe067 [ b] : Hm m .
+fe008 [ s^ e] : So it ’s sort of like t his [ disfm arker] you know , you go
+t his way as m uch as you can ,
+fe008 [ s^ e] : t hen you cycle t hrough t here
+fe008 [ s^ e] : and t hen you go up t o t his next level
+m e070 [ qy ^ bu^ d^ rt ] : So t hey hear all t he channels at once like you
+guy s were saying you first did ?
+fe008 [ fh] : and [ disfm arker]
+fe069 [ s^ bk] : Oh , OK .
+fe008 [ h] : Um ,
+fe008 [ h] : let ’s see ,
+fe008 [ s.%−−] : t hey hear t hem [ disfm arker]
+fe008 [ s^ bk] : Oh !
+fe008 [ fh|s^ nd] : uh , t hey hear t hem separat ely in t wo chunks ,
+fe008 [ s] : but t hen som et im es t hey get confused about who t he
+foreground speaker is , because t hey ’re not being t old who t he
+foreground speaker is .
+fe069 [ b] : Uh − huh .
+fe008 [ fh] : You know ,
+fe008 [ s^ e] : and especially you can see if you have like four speakers
+, it be reason y ou can m aybe find a way of doing t hat .
+fe008 [ s^ e.%−−] : But wit h nine speakers [ disfm arker]
+fe066 [ s^ aa] : Eee ! [ com m ent ] Yeah .
+
+fe008 [ s] : So what t hey get is t hey get a beep t hat t ells t hem when
+t here ’s som et hing t hat t hey t hink [ disfm arker] t hat t he f pre −
+segm ent er t hought t here should be s t ranscribed in t here .
+fe069 [ b] : Mm − hm m .
+fe066 [ b] : Mm − hm m .
+fe067 [ b] : Mm m .
+fe008 [ s.%−−] : And [ disfm arker] so t hey ’ll get [ disfm arker]
+fe008 [ s] : And it ’s num bered so t hat we end up wit h t he sam e
+num ber of [ disfm arker] of t ranscribed slot s .
+fe069 [ s^ 2] : As t here are slot s in t he pre − segm ent at ion .
+fe008 [ s^ aa] : Exact ly .
+fe069 [ s^ bk] : Mm − hm m .
+fe008 [ s^ df] : Cuz t he first t im e when we didn’t have t hem num bered ,
+we ended up wit h a [ pause] couple ext ra [ pause] segm ent s t hat were
+t ranscribed ,
+fe008 [ s] : and it was hard t o pat ch t he whole t hing back t oget her
+fe069 [ b] : Mm − hm m .
+m e070 [ b] : Hm m .
+fe008 [ s^ df] : because when it com es back t o our end , um , it ’s just
+t his long st ring of t hings t hat t hey ’ve uh , part it ioned according t o t he
+t ape t hat t hey were given .
+fe066 [ b] : Mm − hm m .
+fe008 [ s^ df] : Cuz t hey don’t [ disfm arker] t hey act ually don’t have
+digit al int erface eit her
+fe008 [ s] : so it ’s [ disfm arker] it ’s audiot ape .
+fe067 [ s^ ba] : Oh wow .
+fe069 [ s^ ba] : Oh , wow .
+fe068 [ qy ^ bh] : Huh .
+fe066 [ s^ bk] : Oh .
+m e070 [ s^ ba] : Hm m , wow .
+fe008 [ s] : And t hey t ype it on
+fe068 [ s^ ba] : Makes it really hard .
+fe008 [ s] : and t hen [ disfm arker] t hen it com es back t o us
+m e070 [ s^ ba^ r] : Wow .
+fe008 [ s] : and Adam and Thilo hav e a program wa t hey put it back
+t oget her int o our int erface form at
+fe008 [ s] : and t hen we can use it .
+m e070 [ b] : Mm − hm m .
+fe008 [ fh] : But ,
+fe008 [ fh] : um ,
+fe008 [ fh|s] : um , [ vocalsound] t here are f cases where you ’ll get a
+segm ent and it ’s som eone else ’s ut t erance
+fe008 [ s^ df] : and t hat ’s because t hat was overlapping wit h som eone
+else and t his is t he weaker speaker of t he t wo ,
+fe069 [ b] : Mm − hm m .
+
+fe008 [ s^ df] : and y ou ’ll have like t wo t ot ally parallel r rendit ions of
+t he sam e t hing .
+fe069 [ b] : Yeah .
+fe008 [ s^ df.%−−] : Because i it ’s just [ disfm arker] i n
+fe068 [ b] : Right .
+fe008 [ s] : So what t hey get is like [ disfm arker] i t is t hey get
+som et hing like " beep one " .
+fe008 [ s] : And t hen [ disfm arker] t hen t hey get " beep t wo " , " beep
+t hree " .
+fe008 [ s] : Chuck Woot ers does t he num bers .
+fe008 [ fh|s] : And , um , it cycles t hrough .
+fe068 [ s^ ba] : Wow .
+fe068 [ fg|%−−] : Oh , so t hey don’t [ disfm arker]
+fe068 [ qy ^ rt ] : Do t hey know t he nam es of t he speakers ?
+fe008 [ s^ ar] : No .
+fe068 [ s^ bk] : Oh , OK .
+fe008 [ s] : And t hey don’t know which channel is s l supposed t o be
+t oget her .
+fe068 [ %−−] : Cuz [ disfm arker]
+fe068 [ s^ bk] : y OK .
+fe066 [ b] : Huh .
+fe068 [ s.%−−] : Cuz som et im es t here ’d just be int erest ing t hings where
+t here ’d be a m isunderst anding about like [ disfm arker]
+fe068 [ %−−] : like
+fe068 [ s] : Morgan would be speaking but it ’d be on your [ com m ent ]
+channel ,
+fe068 [ s:s^ fe] : and it ’d be like , " This is clearly not a wom an
+speaking . "
+fe008 [ s^ aa] : Yes ,
+fe008 [ s^ aa] : ex act ly .
+m e070 [ b] : Hm m .
+fe069 [ b] : Yeah .
+fe008 [ s^ na] : Yeah , t hat ’s quit e right .
+fe068 [ s:qh] : It ’s like , " How could t hey do t hat ? "
+fe008 [ s^ na] : And t hat ’s why .
+fe068 [ s^ df] : It ’s like [ disfm arker] Well now it ’s [ disfm arker] it m
+seem s m ore reasonable t hat t hey ’d m ake a m ist ake like t hat if t hey
+had no idea .
+fe069 [ b] : Mm − hm m .
+fe008 [ s^ aa] : Ex act ly right .
+fe066 [ b] : OK .
+fe069 [ b] : Yeah .
+fe067 [ b] : Mm m .
+fe069 [ s] : God , it m ust t ake t hem a really long t im e t o do t hese .
+m e070 [ b] : Hm m .
+fe008 [ b] : Yeah .
+
+fe068 [ fg] : Um .
+fe008 [ s^ ng] : They ’re very fast .
+fe069 [ s^ ba] : That ’s am azing .
+fe008 [ %] : Is l
+fe008 [ s^ aa] : Yeah .
+fe069 [ s^ ba] : It sounds so hard .
+fe008 [ s^ aa^ r] : Yeah .
+fe008 [ s] : It [ disfm arker] it t urns out t hat t hey ’re really m uch fast er
+t han t he ot her approaches we ’ve used ,
+fe008 [ s] : and we don’t know exact ly how t hey do it
+fe069 [ b] : Mm − hm m .
+fe008 [ s^ df] : and I t hink t hat t hat ’s by int ent ion , t hat [ disfm arker] @
+@ [ disfm arker] not just m e who t hinks t hat [ disfm arker] it ’s t hat
+propriet arily , it ’s a very com pet it ive business
+fe069 [ b] : Mm − hm m .
+fe008 [ s^ df] : and t hey probably don’t wanna , uh , say t oo m uch
+about it .
+fe067 [ b] : Mm m .
+m e070 [ b] : Huh .
+fe066 [ b] : Right .
+fe069 [ qy ^ 2] : Leak t heir secret s ?
+fe008 [ s^ aa] : Yeah .
+fe008 [ s^ aa^ r] : Yeah .
+fe008 [ s] : But t hey ’re very fast .
+fe008 [ %−] : It ’s uh [ disfm arker]
+fe069 [ fg|%−−] : Well , I [ disfm arker]
+fe069 [ s] : I definit ely prefer not doing t he t ranscript
+fe069 [ s^ df^ rt ] : I m ean , I liked t ranscribing [ com m ent ] because I felt
+like I was m uch closer t o t he dat a
+fe008 [ s^ bk] : Yeah .
+fe069 [ s^ df] : and I had a lot m ore ideas , [ com m ent ] like you were
+say ing , hy pot heses of what ’s going on
+fe008 [ b] : Huh .
+fe069 [ fh] : and [ disfm arker]
+m e070 [ b] : Mm − hm m .
+fe067 [ b] : Mm m .
+fe069 [ s^ df] : but it t ook a really long t im e and I ’d get frust rat ed wit h
+it .
+fe069 [ s.%−−] : And I t hink t hat I would lose m y [ disfm arker]
+fe066 [ b] : Yeah .
+fe069 [ fh] : I don’t know ,
+fe069 [ s] : I would not be as t horough ,
+fe069 [ s^ e] : not be as careful .
+m e070 [ s] : I kinda m iss it .
+fe008 [ s^ ba] : Excellent .
+fe008 [ b] : Uh − huh .
+
+m e070 [ s.%−−] : I liked [ disfm arker]
+fe008 [ s.%−−] : You m iss [ disfm arker]
+m e070 [ s^ ar] : Yeah ,
+fe008 [ s^ bk] : Oh ! I see .
+m e070 [ s^ nd] : I liked t ranscribing .
+fe067 [ s^ na] : I kinda did t oo .
+fe068 [ s^ na] : Yeah , I liked t ranscribing .
+fe008 [ s^ ba] : Oh , int erest ing .
+fe069 [ b] : Mm − hm m .
+m e070 [ s] : I [ disfm arker] You know , I feel [ disfm arker] [ vocalsound] I
+feel like it was , um , m ore personal .
+m e070 [ %−−] : I was [ disfm arker]
+fe069 [ s^ na] : It was m ore personal .
+m e070 [ s.%−−] : You know , t he [ disfm arker] n This is sort of just , you
+know , correct ing ot her [ disfm arker]
+fe069 [ s^ aa] : Yeah .
+m e070 [ s] : I feel like I ’m just sort of like correct ing a t est or
+som et hing now ,
+fe069 [ b] : Mm − hm m .
+m e070 [ qy^ d^ f^ g] : you know ,
+m e070 [ s^ e] : t hat som ebody ’s already done ,
+fe008 [ s^ ba] : Oh , how int erest ing .
+m e070 [ fh] : and [ disfm arker]
+m e070 [ s] : But , I m ean , it ’s st ill [ disfm arker] It ’s st ill cool .
+fe008 [ s^ bk] : Yeah .
+fe069 [ b] : Yeah .
+m e070 [ fh] : But , um ,
+m e070 [ s] : y eah , I did [ disfm arker] I did like act ually doing t he
+t ranscribing a lit t le bit m ore .
+fe069 [ s] : You don’t t end t o not ice as m uch I don’t t hink at checking
+as y ou do t ranscribing ,
+fe069 [ s^ df] : because it ’s already t here
+fe069 [ s^ df] : so y ou don’t have t o pay as m uch at t ent ion .
+fe066 [ s^ aa] : That ’s t rue .
+m e070 [ s^ aa] : Yeah .
+fe008 [ b] : Yeah ,
+fe008 [ b] : OK .
+m e070 [ fg] : Yeah ,
+m e070 [ s] : and when you ’re [ disfm arker] when you ’re , um , just
+checking you ’re [ disfm arker] You ’re usually just looking for cert ain
+t hings t hat you know are gonna com e up ,
+fe067 [ b] : Mm m .
+m e070 [ s] : and I usually assum e t hat , um , t he words are m ost ly right
+,
+m e070 [ s^ df] : alt hough I g you know , I go t hrough and I look and
+m ake sure all t he words are right ,
+
+m e070 [ s] : but usually it ’s like , punct uat ion and capit alizat ion and
+ot her t hings t hat I ’m [ disfm arker] end up changing .
+fe069 [ s^ 2] : And t im e bin correct ions and t hings ,
+m e070 [ s^ m ^ na] : And t im e bins ,
+fe069 [ b] : y eah .
+m e070 [ s^ aa] : yeah .
+fe069 [ b] : Yeah .
+fe066 [ s^ rt ] : I guess I ’m such a perfect ionist t hat I sort of com bine
+t he t wo when I ’m checking ,
+fe066 [ s^ e] : like I act as t hough I ’m t ranscribing it .
+fe069 [ b] : Mm m .
+m e070 [ qy ^ bh] : Really ?
+fe066 [ fh] : And so [ disfm arker]
+fe066 [ s^ aa|s^ na] : Yeah , I really do .
+fe066 [ s^ na] : Like I ’m [ disfm arker] I t end t o t ake a lit t le [ vocalsound]
+longer m ay be t han ot her people [ com m ent ] doing checking
+fe066 [ s] : but like I [ disfm arker] I ’m like ult ra − careful .
+fe069 [ b] : Mm − hm m .
+fe066 [ s^ df] : I [ disfm arker] That ’s just how I am .
+fe066 [ s.%−−] : But , like I [ disfm arker]
+fe066 [ s] : I t hink I really , like , t hink of it in t erm s of re − t ranscribing it
+alm ost
+m e070 [ b] : Yeah .
+fe066 [ s.%−−] : and I only [ disfm arker] You know , b
+fe067 [ b] : Hm m .
+fe066 [ fh] : So ,
+fe066 [ s] : like , I [ disfm arker] I change t im e bins a lot ,
+fe066 [ s] : and I like will change what people writ e [ disfm arker] like for
+what ev er words t hey writ e a lot ,
+fe069 [ b] : Mm − hm m .
+m e070 [ b] : Right .
+m e070 [ b] : Mm − hm m .
+fe066 [ fh] : like [ disfm arker]
+fe066 [ s] : So , I guess I don’t see t oo m uch of a difference
+fe066 [ s^ df] : but t hat ’s just because it ’s m e .
+fe069 [ b] : Mm − hm m .
+fe066 [ s] : Like I t hink I like checking m ore for t hat reason
+fe066 [ s^ df] : because t hen it ’s sort of [ disfm arker] it ’s like it ’s a
+[ disfm arker] it ’s a lit t le helpful .
+m e070 [ b] : Mm − hm m .
+fe066 [ s^ e] : It ’s like kind of , y ou know , som ebody ’s helping m e a
+lit t le bit ,
+fe066 [ s] : but I ’m act ually doing t he work anyway ,
+fe069 [ b] : Mm − hm m .
+m e070 [ b] : Right .
+fe066 [ s^ df] : is kind of how I see it .
+
+fe069 [ b] : Hm m .
+fe067 [ b] : Hm m .
+m e070 [ b] : Hm m .
+fe008 [ b] : Yeah .
+fe069 [ s^ ba] : One t hing t hat ’s annoying I t hink wit h checking is t hat
+a lot of t im es in t he m eet ings you t end t o have one or t wo people who
+t alk a lot and t he rest of t he people just sit t here unt il it ’s t heir t urn t o
+giv e t heir lit t le report or what ev er .
+fe068 [ b] : Mm − hm m .
+fe067 [ b] : Mm m .
+fe066 [ s^ aa] : Right .
+fe069 [ fh|s] : And yet you have t o check t he channels for if t hey did
+backchannels or if t hey did ot her t hings t hat you need t o encode t hat
+weren’t on t he pre − segm ent er .
+fe069 [ s] : But som et im es it ’s not visually easy .
+m e070 [ b] : Yeah .
+fe069 [ fh] : And so
+fe069 [ %−−] : I ’m [ disfm arker]
+fe069 [ s] : Som et im e I debat e wit h m y self whet her it ’s really wort h it t o
+sit t here and list en t o t he whole t hing [ com m ent ] or risk m issing a lit t le
+bit and doing it v isually .
+fe008 [ b] : Mm − hm m .
+fe069 [ s] : It ’s hard t o decide som et im es .
+fe008 [ s] : And t his is when you crank up t he visual .
+fe068 [ b] : Mm − hm m .
+fe008 [ s.%−−] : I m ean , you ’ve st ill got t he m axim um [ disfm arker]
+fe069 [ s^ aa] : Yeah .
+fe069 [ s^ aa] : Mm − hm m .
+m e070 [ s^ bk] : Yeah .
+fe008 [ b] : Yeah . OK .
+fe069 [ s^ aa] : Yeah .
+m e070 [ s] : Well , som et im es when y ou crank up t he visual all it gives
+y ou is t he background speakers .
+fe066 [ b] : Yeah .
+fe069 [ %−] : And s
+fe069 [ s^ aa] : Yeah ,
+fe008 [ s^ aa] : Yeah , it ’s t rue .
+fe067 [ s^ aa] : Yeah .
+fe069 [ s^ na] : t hat ’s t he t hing .
+fe008 [ s^ aa^ r] : It ’s t rue ,
+fe069 [ s^ na] : i t hat ’s t he t hing t hat m akes it harder som et im es .
+fe066 [ b] : Yeah .
+fe008 [ s^ na] : it ’s just a big m ess .
+fe067 [ s] : Or if t hey ’re breat hing loudly .
+m e070 [ %] : So .
+fe008 [ b] : Yeah .
+
+m e070 [ b] : Yeah .
+fe069 [ b] : Yeah .
+fe008 [ s^ aa] : Yeah , t hat ’s right .
+fe008 [ s] : Well , i it ’s a judgm ent call .
+fe008 [ s:s] : And you can also say [ disfm arker] well , you know , if t he
+backchannels were so lim it so low on v olum e t hat t hey weren’t o
+v isually obv ious , t hen you can say , " Well , it ’s reasonable not t o
+worry about t hem . "
+fe069 [ b] : Yeah .
+m e070 [ b] : Yeah .
+m e070 [ %−−] : The [ disfm arker] I m ean [ disfm arker]
+m e070 [ s] : but also if t hey have it all pre − segm ent ed and t hey can
+only hear t he segm ent s , t hey oft en m iss what ’s in bet ween
+m e070 [ s^ df] : because t hey didn’t even have t he opt ion of list ening
+t o what ’s in bet ween .
+fe069 [ qy ^ bu] : You m ean t he t ranscribers ?
+fe066 [ b] : Right .
+fe069 [ s^ aa] : Yeah .
+m e070 [ b] : Mm − hm m ,
+fe067 [ b] : Yeah .
+m e070 [ fh|s] : so . And you know , t he [ disfm arker] t he segm ent er
+usually m isses lit t le t hings like " m m − hm m " and " yeah "
+fe008 [ s^ na] : Yeah , t hat ’s t r right , That ’s quit e right .
+m e070 [ fh] : and [ disfm arker]
+fe008 [ s^ aa] : Yeah , t hat ’s right .
+fe069 [ s^ 2] : And ev en bigger t hings .
+m e070 [ s^ aa] : y eah ,
+m e070 [ s.%−] : som et im es t he segm ent er will [ disfm arker]
+fe069 [ s] : I m ean you ’ve [ com m ent ] said t hings t hat weren’t caught
+on t he pre − segm ent er ,
+fe069 [ s^ e] : like whispers , kind of .
+fe066 [ s^ aa] : Yeah .
+m e070 [ b] : Mm − hm m .
+fe069 [ s^ e:s^ ba] : Just like , " Oh , t hat ’s int erest ing " ,
+fe008 [ b] : OK .
+fe069 [ s^ e] : or som et hing like t hat .
+fe066 [ s] : Well , like lit t le sighs ,
+fe066 [ s] : or like inbreat hs ,
+fe066 [ s^ e] : like as t hough you ’re gonna st art speaking ,
+fe069 [ s^ aa] : Yeah ,
+fe069 [ s^ 2] : y ou ’re about t o s speak .
+fe066 [ s^ ba] : which I feel is im port ant
+fe068 [ %] : Uh [ disfm arker]
+fe008 [ s^ aa] : Yes ,
+fe008 [ s^ aa] : I agree .
+fe067 [ b] : Hm m .
+
+fe066 [ s^ df] : because it m eans t hat som ebody ’s about t o int erject
+som et hing
+fe066 [ s^ df] : but t hen t hey decide for what ever reason t hat t hey ’re
+not going t o .
+fe069 [ s^ 2] : But t hen t hey don’t .
+fe008 [ b] : Mm − hm m .
+fe069 [ b] : Yeah .
+fe066 [ s] : And oft ent im es I find t hat t he segm ent er will m iss t hose
+kind of t hings ,
+fe066 [ s^ e] : t hose kind of vo v ocal cues .
+fe069 [ s] : And som et im es even laughs .
+fe066 [ s^ aa|s^ na] : Yeah , breat h − laughs especially .
+fe068 [ s^ aa] : Oh , y eah .
+m e070 [ b] : Yeah .
+fe069 [ b] : Uh − huh .
+fe069 [ b] : Uh − huh .
+fe067 [ s^ aa] : Oh y eah .
+m e070 [ b] : Hm m .
+m e070 [ s.%−−] : I usually t ake out [ disfm arker]
+m e070 [ fh|s] : um , I usually don’t put in any of t he breat hs unless t hey
+’re laughs .
+m e070 [ s] : I usually don’t t ranscribe t he [ disfm arker] t he inbreat hs or
+t hings like t hat .
+fe069 [ s] : I don’t eit her .
+fe069 [ s^ e] : M but , I m ean I don’t t ake t hem out if t hey ’re already
+t here .
+m e070 [ %] : You know ?
+fe069 [ %] : I don’t [ disfm arker]
+fe008 [ fg|s.%−] : c Yeah . It ’s [ disfm arker] it ’s good t o [ disfm arker]
+fe068 [ s.%−−] : If it sounds like a yawn .
+fe068 [ s] : I ’v e t ranscribed yawns ,
+m e070 [ b] : Mm − hm m .
+fe008 [ s^ bk] : Yeah .
+fe069 [ b] : Mm − hm m .
+fe066 [ b] : Yeah .
+fe068 [ fh] : um [ disfm arker]
+fe068 [ s^ e] : You can hear , t here ’s like .
+fe068 [ qy ^ d^ f^ g] : You know ,
+fe068 [ s] : it , like [ disfm arker] [ com m ent ] som et hing like t hat .
+fe069 [ s^ bk] : Yeah .
+m e070 [ s^ bk] : Yeah .
+fe069 [ b] : Mm − hm m .
+fe008 [ s] : It [ disfm arker] Well , it ’s com m unicat ive .
+fe068 [ fg] : Uh [ disfm arker]
+fe008 [ s^ aa] : Yeah .
+fe069 [ b] : Mm − hm m .
+
+fe068 [ b] : Yeah ,
+fe068 [ s] : or when it ’s a laugh .
+m e070 [ b] : Yeah .
+fe068 [ s] : I m ean , oft en in t he Tigerfish t here ’d [ disfm arker] it would
+si say " breat h " ,
+fe068 [ s] : but it [ disfm arker] it w it act ually seem ed m ore like a laugh .
+fe008 [ s^ aa] : Yeah .
+fe067 [ s^ na] : It ’s really a laugh .
+m e070 [ s^ na] : It ’s a laugh , yeah .
+fe069 [ s^ na] : But it ’s a laugh .
+fe066 [ s^ na] : It ’s act ually a breat h − laugh .
+fe069 [ s^ aa] : Yeah .
+fe069 [ %−] : And y ou can [ disfm arker]
+fe068 [ fh] : Um ,
+fe068 [ s^ df] : cuz everyone ’s laughing .
+fe068 [ s] : Som eone has just said som et hing funny
+m e070 [ b] : Uh − huh .
+fe068 [ s:s] : and ev eryone ’s like , " Ah − ha − ha − ha − ha " .
+fe069 [ s] : And ev ery one else is laughing ,
+fe069 [ s] : and t hen t he ot her person is like " ha − ha "
+fe066 [ s^ aa] : Right .
+fe068 [ b] : Yeah .
+fe069 [ s] : but it ’s not a act ual laugh ,
+fe068 [ s^ aa] : Right ,
+fe069 [ %] : but like [ disfm arker]
+fe068 [ s^ na] : it ’s [ disfm arker] it ’s not a very com m it t ed laugh ,
+fe069 [ s^ no] : I don’t know how you do it ,
+m e070 [ b] : Right .
+fe066 [ s^ aa] : Right .
+fe068 [ s] : but it ’s st ill a laugh .
+fe069 [ qy ^ d^ f^ g] : you know ?
+fe066 [ s] : It ’s [ disfm arker] No , like ,
+fe066 [ s] : yeah , it ’s like .
+fe068 [ x ] : It ’s like [ disfm arker]
+fe066 [ b] : Yeah .
+fe068 [ s^ bk|s] : y eah , " I guess I ’ll laugh cuz everyone else is laughing
+,"
+fe068 [ x ] : I [ disfm arker] You know , who knows , but [ disfm arker]
+fe068 [ fh] : but yeah .
+fe008 [ qy .%−−] : Hav e you not iced t hat Tiger
+fe008 [ s] : I ’v e not iced t hat Tigerfish uses " cough " a lot where it isn’t
+really a cough .
+fe068 [ s] : It should be " clear t hroat " , or som et hing .
+fe008 [ qy ^ rt ] : You not ice t hat ?
+fe008 [ fh] : Yeah .
+m e070 [ s^ aa] : Yeah . Yeah .
+
+fe066 [ s^ aa] : Oh , y eah .
+fe067 [ b] : Mm m .
+fe069 [ s^ aa] : Oh yeah ,
+fe069 [ s^ aa] : m m − hm m .
+fe068 [ s^ bk|s] : Yeah , I [ disfm arker] I just fix t hat .
+fe069 [ s^ aa^ r] : Mm − hm m .
+fe008 [ b] : Mm − hm m .
+fe069 [ s^ bk] : Yeah .
+m e070 [ s^ na] : I ’d fix t hat t oo .
+fe008 [ b] : Yeah .
+fe008 [ qy.%−−] : Do y ou find [ disfm arker]
+fe008 [ %−−] : y ou ’v e [ disfm arker]
+fe008 [ s^ df] : i This has caused m e t o wonder .
+fe008 [ qy .%−−] : So , in Tigerfish ones , do you find t hat where t hey ’ve
+[ disfm arker] where t hey have like " dot dot ’s " cuz it ’s segm ent s t hey
+didn’t hear , [ com m ent ] t hat [ disfm arker] t hat you add [ disfm arker] u
+fe008 [ s] : you probably do add t hings in t hose places where it ’s
+[ disfm arker] where not hing is t ranscribed really , because t hey didn’t
+ev en hear it .
+m e070 [ b] : Mm − hm m .
+fe069 [ qy ^ bu^ rt ] : You m ean in bet ween t he segm ent s t hat t hey did
+t ranscribe ?
+fe008 [ s^ aa] : Yeah .
+m e070 [ s^ aa] : Oh . Yeah .
+fe069 [ s^ aa] : Yeah .
+fe069 [ s.%−−] : That ’s where you f t end t o find [ disfm arker]
+m e070 [ s^ aa] : Mm − hm m .
+fe008 [ s^ ba] : Int erest ing .
+fe008 [ s^ ba^ r] : Oh , int erest ing .
+m e070 [ s^ aa|s^ df] : Yeah , you find lit t le lost [ disfm arker] lost words
+in t he m iddle .
+fe069 [ b] : Yeah .
+fe069 [ b] : Yeah .
+m e070 [ b] : Huh .
+fe008 [ b] : Huh .
+fe069 [ s] : It ’s [ disfm arker] it depends on t he person ,
+fe069 [ s^ df] : I m ean , som e people don’t t end t o do [ disfm arker]
+aren’t t hat inv olv ed in t he m eet ing , or som et hing ,
+fe069 [ s^ df^ rt ] : and t hey don’t t end t o say as m uch ,
+fe068 [ b] : Mm m .
+m e070 [ b] : Mm − hm m .
+fe069 [ fh|s^ e] : um , m backchannels or what ever .
+fe069 [ s.%−−] : And som e people [ disfm arker]
+fe069 [ fh] : I m ean [ disfm arker]
+fe069 [ s] : I rem em ber [ vocalsound] t ranscribing one person ,
+fe069 [ s] : all t hey did was clear t heir t hroat and breat he .
+
+fe066 [ s^ bk] : Yeah .
+fe069 [ s] : And t hen read digit s
+fe069 [ s] : and t hen it was like t he end of t he m eet ing .
+fe066 [ fg] : Yo − yo y o .
+fe068 [ s] : I t hink I know who y ou ’re t alking about ,
+fe068 [ %] : but [ disfm arker]
+fe069 [ fh] : So .
+fe069 [ s.%−−] : But t hen som e people t end t o [ disfm arker]
+fe066 [ s] : There ’s one guy in part icular who does t hat .
+fe066 [ s] : It ’s really cut e act ually .
+fe069 [ b] : Mm − hm m .
+fe068 [ %] : Uh [ disfm arker]
+fe069 [ b] : Mm − hm m .
+fe069 [ s] : But t hen t here are som e people who are [ disfm arker] Even
+if t hey ’re not act ually speaking , you can t ell t hey ’re m ore involved or
+int erest ed or som et hing ,
+fe008 [ b] : Yeah .
+fe069 [ s^ df:s^ bk] : cuz t hey ’re always , " Mm − hm m , oh yeah , really ,
+m m − hm m " [ disfm arker] Um , react ing . Yeah .
+fe066 [ s^ 2] : React ing .
+m e070 [ b] : Uh − huh .
+fe066 [ b] : Yeah .
+fe008 [ s.%−−] : It just occurred t o m e ,
+fe008 [ s] : t his is a [ disfm arker] a different kind of quest ion ,
+fe008 [ %−−] : but I w
+fe008 [ s.%−−] : from having list ened t o all t hese people ,
+fe008 [ s] : I m ean , and it is kind of ab abnorm al t o be list ening t o
+t hem as if you ’re [ disfm arker] t hey ’re t alking int o your ear , really .
+fe069 [ b] : Mm − hm m .
+fe008 [ s] : You know , it ’s t his really unusual acoust ic circum st ances .
+fe067 [ b] : Mm m .
+fe066 [ s^ aa] : Right .
+m e070 [ b] : Uh − huh .
+fe008 [ fh] : Um ,
+fe008 [ s] : I sort of end up feeling like I know t hese people bet t er t han
+I really do .
+fe008 [ s] : And it ’s like you go out t o t ea and t here t hey are
+fe066 [ b] : Yeah .
+fe008 [ s:s^ ba] : and , " Oh , you were so funny in t hat m eet ing "
+fe008 [ s] : and it [ disfm arker] it has t his sort of unusual dynam ic
+fe008 [ s^ df] : because , you know , I [ disfm arker] I ’m priv y t o
+inform at ion which really by all right s I shouldn’t be ,
+fe067 [ b] : Mm m .
+fe008 [ s^ df] : except of course t hey [ disfm arker] t hey agreed ,
+fe069 [ b] : Yeah .
+fe008 [ s^ e] : t hey signed ,
+
+fe008 [ s^ e] : t hey were t here ,
+fe008 [ s^ e] : t hey agreed .
+m e070 [ b] : Mm − hm m .
+fe069 [ b] : Right ,
+fe067 [ b] : Mm m .
+fe069 [ b] : yeah .
+fe008 [ s.%−−] : But [ disfm arker] but it [ disfm arker] but it ’s sort of an
+unusual relat ionship t o say ,
+fe008 [ fh] : you know , i i you know ,
+fe008 [ s] : if you ’re in t he m eet ing yourself , t hen you [ disfm arker] of
+course y ou ’d have access t o all t his inform at ion and all your
+inferences about , you know , whet her t hey ’re funny or not funny or
+what ev er ,
+fe069 [ s] : I rem em ber from t he very beginning , I would go t o t ea and
+st art recognizing v oices .
+fe008 [ %−] : but it [ disfm arker]
+fe008 [ s^ ba] : Oh , t hat ’d be int erest ing .
+fe069 [ s:s] : And like t urn around and be like , " Wait , t hat person
+doesn’t look any t hing like I im agined t hem . "
+fe068 [ s^ aa] : Yeah .
+fe066 [ s^ aa] : Yep .
+m e070 [ b] : Mm − hm m .
+fe066 [ s^ aa] : Yeah , yeah .
+fe008 [ s^ aa] : Yes .
+fe069 [ %] : a eh [ disfm arker]
+fe066 [ s] : Y you know who I kept want ing t o m eet ? Was Bhaskara .
+fe069 [ s^ bk] : Nnn .
+fe008 [ s] : He ’s [ disfm arker] he ’s on cam pus ,
+fe008 [ s] : I found t his out .
+fe066 [ qy ^ rt ] : Is he really ?
+fe008 [ s^ aa] : Yeah yeah yeah yeah .
+fe066 [ s] : He has such a nice v oice .
+fe066 [ s] : I really like his voice ,
+fe008 [ s^ aa] : Yeah .
+fe008 [ s^ na] : Nice guy .
+fe008 [ s^ na^ r] : Nice guy .
+fe066 [ s] : so I kept want ing t o m eet him .
+fe066 [ s] : And t hen John t old m e t hat he ’s not around anym ore .
+fe008 [ s^ nd] : Oh , but he is .
+fe068 [ b] : Mm m .
+fe066 [ s^ e] : Or som et hing ,
+fe008 [ s^ df] : I went on [ disfm arker] I act ually went on a hike wit h him
+t wo weeks [ disfm arker] t hree weeks ago .
+fe066 [ fh] : so .
+fe066 [ s^ ba] : Neat .
+fe068 [ s^ ba] : Oh , cool .
+
+fe066 [ s^ df] : Just curious .
+fe008 [ fh] : Yeah .
+fe008 [ fh] : Yeah y eah . Yeah .
+fe008 [ s] : Nice guy .
+fe068 [ s] : I just want ed t o know what Liz looked like .
+fe069 [ b] : Mm − hm m .
+fe068 [ s^ df] : I ’ve never got t en t o see her .
+fe069 [ b] : Nn − m m .
+fe008 [ s] : Oh , she ’s here .
+m e070 [ s] : I hav en’t seen m ost of t hem .
+fe066 [ s^ na] : I hav en’t eit her .
+fe068 [ s] : She ’s got a nice voice .
+fe068 [ s^ ng] : I know she ’s here ,
+fe068 [ s^ bu|qy^ d^ g^ rt ] : I know she ’s a big part of t he Inst it ut e ,
+right ?
+fe068 [ fh] : So .
+fe008 [ s^ bk|s] : Yeah , I ’m sure you ’ve seen her ,
+fe068 [ fh] : Um [ disfm arker]
+fe008 [ fh] : uh but [ disfm arker]
+fe068 [ s^ na] : I m ust have ,
+fe068 [ s^ df] : I just don’t know who [ disfm arker] you know , what she
+looks like .
+fe069 [ b] : Yeah .
+fe068 [ fh] : Um [ disfm arker]
+fe068 [ s^ bk|s^ ba] : Yeah , I t hink she ’s got a nice voice .
+fe008 [ s^ bk] : Mm − hm m .
+fe068 [ fh] : But any way .
+fe008 [ b] : Yeah .
+fe069 [ s] : She always t ends t o get int errupt ed .
+m e070 [ b] : Hm m .
+fe068 [ s^ bu^ j] : It ’s OK if we say nice t hings about t hese people ,
+fe066 [ b] : Yeah .
+fe068 [ qy^ d^ g] : right ?
+fe008 [ s^ aa|s^ na] : Yeah yeah , t hat ’s no problem .
+fe008 [ s.%−−] : I also find t hat som e of t he [ disfm arker]
+fe008 [ s.%−−] : y ou know , if som eone sit s t here and [ disfm arker] and
+fe008 [ s] : it [ disfm arker] t h t here ’s t his o one who doesn’t say m uch ,
+fe008 [ s] : but she just is always pleasant .
+fe008 [ qy ^ d^ f^ g] : You know ,
+fe008 [ s^ e] : and it ’s kind of a sm iling voice and she laughs
+fe066 [ s^ aa] : Yes .
+fe008 [ %−−] : and [ disfm arker]
+fe066 [ s^ na] : I t h I t hink I know who y ou ’re t alking about .
+fe008 [ s^ ba] : What a difference .
+fe008 [ fh] : Yeah .
+fe008 [ s.%−−] : I m ean it ’s like [ disfm arker]
+
+fe008 [ %−−] : Act ually it ’s [ disfm arker]
+fe008 [ s] : um , she ’s [ disfm arker] she ’s just so pleasant .
+fe008 [ s] : And [ disfm arker] and , y ou know , adds a lot just by virt ue of
+t hat .
+m e070 [ b] : Yeah .
+fe008 [ s^ e] : You know , can [ disfm arker] People will t alk on all t hese
+t echnical t hings
+fe008 [ s^ e] : but she ’ll [ disfm arker] she ’ll say som et hing t echnical
+and t hen laugh ,
+fe008 [ fh] : and [ disfm arker]
+fe008 [ s] : It ’s [ disfm arker] it ’s very int erest ing , t he am bience t hat
+y ou can get t hrough t hese [ disfm arker] t hese lit t le t hings .
+fe066 [ b] : Yeah .
+fe069 [ s] : It ’s [ disfm arker] really m akes it a lot nicer t o t ranscribe
+fe069 [ s^ df] : because t here can be a lot of heat ed discussions about
+t hese v ery t echnical issues
+fe066 [ b] : Yeah .
+fe008 [ b] : Mm − hm m .
+fe069 [ s^ df] : and people will hav e t heir opinions
+fe069 [ fh] : and , you know [ disfm arker]
+fe069 [ s.%−−] : And t hen you can [ disfm arker]
+fe069 [ s] : It ’s really nice t o have a lit t le bit of hum or ,
+fe069 [ s^ e] : a lit t le bit of break away from t hat
+fe066 [ b] : Mm − hm m .
+fe067 [ b] : Mm m .
+fe069 [ s^ df:qy ] : because it ’s hard t o sit t here and li see [ disfm arker]
+like , " But , don’t you see h you ’re being rude t o t his person , you ’re
+cut t ing off t his person
+fe066 [ s^ aa] : I know .
+fe069 [ s:s] : and it ’s not nice ? "
+fe066 [ s] : I st art ed like kind of m aking m ent al friends .
+fe069 [ b] : Uh − huh .
+fe066 [ s:s^ ba] : I ’m just like , [ com m ent ] " I really like t hat person .
+fe066 [ s:qy ^ rt ] : You know what ,
+fe066 [ s:s^ cc] : I ’m gonna be his or her friend . "
+fe008 [ s^ na] : I agree wit h you .
+fe066 [ %] : And t hen [ disfm arker]
+fe008 [ s^ aa] : I agree ,
+fe069 [ b] : Yeah .
+fe008 [ s^ ba] : it ’s [ disfm arker] it ’s really int erest ing , Also ,
+fe067 [ b] : Mm m .
+fe008 [ s] : i it ’s a persona ,
+fe008 [ s.%−−] : y ou get t his [ disfm arker]
+fe067 [ b] : Mm m .
+fe069 [ s^ aa] : Yeah .
+fe008 [ s] : t here ’s definit ely a sense of persona .
+
+fe069 [ s^ na.%−−] : You definit ely get an im age of [ disfm arker]
+fe069 [ s^ rt ] : uh [ disfm arker] Especially if you can relat e it t o what t he
+person [ disfm arker] or y what you assum e t he person is uh int erest ed
+in academ ically .
+fe008 [ s^ bk] : Yeah .
+fe066 [ b] : Yeah .
+m e070 [ b] : Yeah .
+fe008 [ b] : Yeah .
+fe069 [ %−] : It ’s really [ disfm arker]
+fe066 [ s.%−−] : Som e of t hat com put er st uff , I just [ disfm arker]
+fe066 [ s^ ba] : Oh , m y God .
+fe066 [ s:s^ fe] : I ’ll just sit t here like going , " Oh fff ! "
+fe066 [ s] : It ’s going right over m y head .
+fe069 [ b] : Yeah .
+fe066 [ fh] : Yeah ,
+fe066 [ s] : I just [ disfm arker] I st art zoning out som et im es .
+fe066 [ s^ e^ rt ] : Like , I don’t m ean t o ,
+fe066 [ s:s^ no] : but I ’m just kind of going , " I don’t know what any of
+t hese acronym s are
+fe069 [ s^ aa] : Yeah .
+fe066 [ s:s^ no] : and no idea what you ’re t alking about . "
+fe069 [ s] : And t here was a whole set of m eet ings t hat are like t hat .
+fe068 [ b] : Mm − hm m .
+fe008 [ s^ aa] : That ’s right .
+fe069 [ qy ^ g^ rt ] : It [ disfm arker] Wasn’t t here ?
+fe066 [ s^ aa] : Yeah .
+fe069 [ s^ aa] : Yeah ,
+fe069 [ s^ ba] : t hose were really hard .
+m e070 [ b] : Oh , yeah .
+fe066 [ s] : And t hey ’re writ ing st uff on boards and st uff t hat we can’t
+see ,
+fe069 [ s^ ba.%] : Really hard .
+fe069 [ s^ aa] : Yeah ,
+fe069 [ s^ ba] : and it ’s hard [ disfm arker]
+fe066 [ s] : and so we don’t know what t hey ’re referring t o ,
+fe068 [ s^ aa] : Right .
+fe068 [ s^ na] : Yeah , all you hear is t he squeaky pen ,
+fe066 [ fh] : and so .
+fe069 [ s^ aa] : Yeah .
+fe068 [ s:s^ fe] : and you ’re like , " Oh , no ,
+fe066 [ b] : Right .
+fe068 [ s:s] : som et hing [ disfm arker] som et hing ’s going on t hat I don’t
+know . "
+fe066 [ s] : Yeah , t hey ’re referring t o t his or t hat and t he ot her t hing
+fe066 [ s:s^ ar] : and y ou ’re just going , " No ,
+fe069 [ b] : Yeah .
+
+fe066 [ s:s^ no] : I don’t underst and . "
+fe069 [ b] : U no .
+fe008 [ s^ ba] : Yeah , it ’s difficult .
+fe068 [ fg|s] : Yeah , you guys t alked about doing a videot ape .
+fe008 [ s^ aa] : Yes .
+fe008 [ fh|s] : um , [ v ocalsound] it ’s m ainly a m at t er of [ disfm arker] t wo
+t hings .
+fe068 [ %−] : The
+fe068 [ %−] : sort of [ disfm arker]
+fe008 [ s^ df] : First is t he st orage . It ’d be so huge t hat , uh , you ’d
+wanna be sure t hat it was of int erest t o som eone ,
+fe008 [ s^ e] : t hat it would be wort hwhile doing .
+fe069 [ s^ bk] : Mm − hm m .
+fe008 [ s] : And t hat ’s t he ot her t hing , t hat we don’t have
+fe008 [ s^ e] : som eone current ly doing t he video t hing .
+fe008 [ s^ ba] : It would really be int erest ing .
+fe068 [ s^ bk] : Yeah .
+fe068 [ s] : Cuz I know it was m ent ioned .
+fe069 [ b] : Mm − hm m .
+fe068 [ s] : Also having a m eet ing where you all wore blindfolds .
+fe008 [ b] : Yeah .
+m e070 [ qy ^ bh] : Oh ?
+fe066 [ qy ^ bh] : Really ?
+fe068 [ s^ bu] : Li − it was Liz ’s idea ,
+fe068 [ qy ^ g^ rt ] : wasn’t it ?
+fe008 [ s^ na] : That was Liz ’s idea .
+fe068 [ s^ bk] : Yeah .
+fe069 [ qw^ rt ] : What would be t he point of t hat ?
+fe008 [ s] : Oh , well , it ’s a quest ion of feedback , and being able t o
+giv e feedback .
+fe069 [ s^ bk] : Oh .
+m e070 [ s^ ba] : Oh , wow .
+fe069 [ s^ ba] : I t hink t hat would be really int erest ing .
+fe066 [ s^ bk] : Oh I see .
+m e070 [ s^ ba] : That would be int erest ing .
+fe066 [ qy ^ bu^ rt ] : So you have t o do it vocally as opposed t o visually ?
+fe066 [ s^ e] : Like y ou can’t use gest ure ?
+fe008 [ s^ aa] : Yeah .
+fe008 [ s^ aa] : Ex act ly .
+fe067 [ s^ bk] : Oh .
+fe066 [ s^ bk] : Ah .
+fe008 [ fh] : Yeah .
+m e070 [ s^ ba] : Wow .
+fe008 [ s] : And , y ou know [ disfm arker] I m ean , t h t hat was t he
+m eet ing where , [ v ocalsound] um , @ @ [ com m ent ] you know t he m
+t he [ disfm arker] t h y y [ vocalsound] Part it ions wouldn’t work .
+
+fe008 [ s] : Anot her possibilit y is pa part it ions wouldn’t work
+fe008 [ s^ df] : because t hen it would cut off t he P Z Ms from having t he
+indirect [ disfm arker]
+fe069 [ b] : Right .
+m e070 [ b] : Mm m .
+fe008 [ s] : so it ’s like you have t hese unusual configurat ion problem s
+t hat [ disfm arker] t hat you wouldn’t norm ally have .
+fe066 [ b] : Right .
+fe008 [ s] : Yeah , blindfolds .
+fe008 [ s:s^ cs] : You know , and som eone else said , " Well , m aybe you
+could just t urn t he light out . "
+fe068 [ s] : There you go .
+fe069 [ s^ ba] : That ’d be kinda creepy .
+fe008 [ s:s^ ar] : But t hen , som eone else said no ,
+fe066 [ s^ ba.%] : Cut e .
+fe008 [ s^ df] : cuz t here are t hese m special light s t hat have t o st ay on
+all t he t im e
+fe069 [ s^ bk] : Oh .
+fe067 [ s^ bk] : Oh .
+fe066 [ s^ bk] : Oh .
+fe008 [ s^ e] : for t he fire code or what ev er it is .
+m e070 [ s^ ba] : Oh , wow .
+fe069 [ s^ bk] : Oh .
+fe008 [ s.%−] : But t hen [ disfm arker]
+fe068 [ s] : I would just be so worried t hat som eone would cheat .
+fe068 [ qy ^ d^ f^ g] : You know ,
+fe068 [ s^ e] : it ’s sort of like a prisoners ’ di prisoners ’ dilem nas gam e
+, where [ v ocalsound] you know , ev ery one ’s wearing t heir blindfold but
+som eone could just cheat and look , see what ’s [ disfm arker]
+[ v ocalsound] see what ’s going on .
+fe008 [ b] : That ’s right .
+fe066 [ qy ^ j] : Are y ou raising y our hand ?
+fe068 [ b] : Yeah .
+fe066 [ s^ na] : Tot ally .
+fe068 [ s] : You know , som eone just leav es ,
+fe068 [ fh] : y ou know ,
+fe068 [ s] : get s coffee ,
+fe066 [ b.%] : Right . Right , right .
+fe068 [ s] : com es back ,
+fe068 [ s] : and no one knows .
+fe066 [ s] : Get s bored .
+fe008 [ s^ bk] : Yeah ,
+fe008 [ s] : I m ean , t here are ot her t hings we could expand on and
+[ disfm arker] wit h [ disfm arker] i in t erm s of t he m et hodology .
+fe008 [ s] : It ’s nice t o have a core set of dat a t hough
+
+fe008 [ s] : and t hey ’ve d act ually done som e [ disfm arker] t hey ’ve had
+som e good result s in t erm s of t he digit s
+fe008 [ s^ e] : which t hey do in t erm s of having a r a nice broad set of
+speakers doing t he sam e t hing , m eet ing aft er m eet ing aft er m eet ing .
+fe066 [ b] : Mm − hm m .
+fe067 [ b] : Hm m .
+fe008 [ fh] : So , um [ disfm arker]
+fe069 [ s^ ba] : That ’s good .
+fe008 [ %−−] : I ’m wondering ,
+fe008 [ fh] : um ,
+fe008 [ s.%−−] : so we st ill t echnically [ disfm arker]
+fe008 [ qw] : uh [ disfm arker] you know [ disfm arker] I m ean , what
+should we do in t erm s of t ea ?
+fe008 [ %−−] : Technically [ disfm arker]
+fe068 [ b] : Mm − hm m .
+fe008 [ qy ^ cs^ rt ] : if we could hang on for fift een m ore m inut es and
+have t ea ?
+fe066 [ s^ aa] : Yeah .
+fe069 [ s^ aa] : That ’s OK .
+fe008 [ qy ^ cs^ rt ] : And t hen cont inue wit h t his [ disfm arker] t his next
+[ disfm arker] nex t week ?
+fe068 [ s^ aa] : Yeah , sure .
+fe069 [ s^ aa] : Mm − hm m .
+m e070 [ s^ aa] : OK .
+fe068 [ s^ aa] : Oh , yeah .
+fe069 [ s^ aa] : It ’s OK .
+fe008 [ s^ ba] : That ’d be great .
+fe008 [ fg] : OK ,
+fe008 [ fh] : so , um ,
+fe008 [ fh] : let ’s see .
+fe069 [ s^ cs^ t c] : I had som et hing t hat I could bring up .
+fe008 [ s^ aa] : Yes .
+fe069 [ h] : Um ,
+fe069 [ s] : as far as ideas about looking at t he dat a and get t ing ideas
+about what ever y ou said [ disfm arker] hypot heses about how t o figure
+it out .
+fe008 [ s^ bk] : Yes .
+fe008 [ s^ bk] : Yeah .
+fe069 [ s] : One t hing t hat I [ disfm arker] I ’m [ disfm arker] you probably
+don’t rem em ber t his [ disfm arker] t hat I was really int erest ed in is t he
+use of " so " and t he use of " or " .
+fe069 [ s^ df.%−−] : Because t he way people use it in t hese m eet ings , I
+found , was [ disfm arker]
+fe069 [ s^ no] : I don’t know if it was [ disfm arker] it [ disfm arker] if it ’s
+different t han ot her people .
+fe069 [ s^ no] : I don’t know if it ’s a com put er speech t hing .
+
+fe069 [ s^ bsc] : I m ean , com put er people speech t hing ,
+fe069 [ fh] : but um ,
+m e070 [ b] : Hm m .
+fe069 [ s] : people t end t o end ut t erances quit e oft en wit h " so " or " or
+" and t railing off .
+fe066 [ s^ aa] : Oh , yes .
+m e070 [ b] : M Mm − hm m .
+fe067 [ b] : Mm m .
+fe066 [ s^ na] : A couple people in part icular do t hat ,
+fe069 [ s^ aa] : Yeah ,
+fe008 [ s^ aa] : Mm − hm m ,
+fe066 [ s^ aa] : yeah .
+fe069 [ s^ aa] : m m − hm m .
+fe008 [ s^ aa] : t hat ’s right .
+fe069 [ s] : And I found t hat really int erest ing ,
+fe069 [ s] : and I was curious t o [ disfm arker] t o figure out when t hat
+happened ,
+fe069 [ s^ e] : if it happened in cert ain occasions and what ever ,
+fe069 [ s] : and I never really got around t o it ,
+fe069 [ fh] : but .
+fe008 [ qy .%−−] : Do you people [ disfm arker]
+fe068 [ b] : Uh − huh .
+fe008 [ qy .%−−] : I m ean , does every one agree wit h t hat int u
+fe008 [ s] : I m ean , I f I s share her int uit ion t hat ’s it ’s [ disfm arker] it
+is sort of unusual t o have " so " used as a final , uh , part of a person
+’s t urn .
+m e070 [ s^ aa] : Oh , yeah .
+fe008 [ s.%−] : I m ean , it ’s [ disfm arker]
+fe069 [ s^ ng.%−−] : It didn’t sound st ran
+m e070 [ b] : Hm m .
+fe068 [ b] : Uh − huh .
+fe069 [ s^ ng^ rt ] : I m ean , it doesn’t sound like bizarre enough t hat I
+don’t underst and .
+fe008 [ b] : Mm − hm m .
+fe069 [ s] : But I don’t t hink it ’s som et hing t hat happens in just
+ev ery day speech really .
+fe066 [ s^ nd.%−−] : I don’t [ disfm arker]
+m e070 [ %−] : I don’t [ disfm arker]
+fe066 [ s^ ar|s^ nd] : no , I don’t agree necessarily .
+fe069 [ qy ^ bh] : Really ?
+fe008 [ s.%−] : I was wondering .
+fe066 [ s^ df] : I do it .
+fe069 [ qy^ bh] : Really ?
+fe066 [ s^ aa] : Yeah ,
+fe066 [ s^ na] : I t rail off wit h " so " .
+fe069 [ qy ^ bh] : Huh .
+
+fe066 [ fh] : Um ,
+fe066 [ s^ rt ] : I don’t necessarily do it as oft en as t he one speaker I ’m
+t hinking of ,
+fe066 [ fh] : um ,
+fe066 [ s^ df.%−−] : but , I do do t hat because [ disfm arker]
+fe066 [ s^ df^ rt ] : I t hink part ly because I want t o m ake sure t hat
+people know t hat m y [ disfm arker] m y t hought [ disfm arker] m y
+ut t erance is finished ,
+fe069 [ s^ bk] : Yeah .
+m e070 [ b] : Right .
+fe066 [ s^ df^ rt ] : but t hat it ’s not necessarily final .
+fe069 [ qy ^ bu^ d^ rt ] : Like t hat you ’re flexible ?
+fe066 [ s^ e.%−] : Like , you can [ disfm arker]
+fe066 [ s^ aa] : Right .
+fe066 [ s^ rt ] : Or you can build on it
+m e070 [ s^ aa] : Right .
+fe066 [ s^ e] : or j d ex pound on it .
+fe069 [ b] : Mm − hm m .
+m e070 [ s^ df:s^ co] : I t hink it ’s sort of a like [ disfm arker] you guys can
+t ake from here ,
+m e070 [ qy^ d^ f^ g] : you know ,
+m e070 [ s:s^ co] : som ebody [ disfm arker] som ebody build on m y
+t hought .
+fe066 [ s^ aa] : Yeah .
+fe067 [ b] : Yeah .
+m e070 [ s:fh] : It ’s [ disfm arker] are you [ disfm arker] people also do it
+wit h " but " .
+fe066 [ s] : It ’s kinda like a shrug .
+fe069 [ fg|s.%−−] : Yeah , but it t ends t o happen [ disfm arker]
+fe066 [ s.%−] : It ’s like a m it ’s like a [ disfm arker]
+m e070 [ qy ^ d^ f^ g] : You know ?
+fe069 [ s] : I m ean , " so " t ends t o happen when t he person brings up
+a new idea t hat kind of goes against what t he ot her people is saying .
+fe066 [ %] : so .
+fe069 [ s^ df] : Or at least t hat ’s what I found .
+fe066 [ qw] : What do you m ean ?
+fe069 [ s] : Like if som eone in a m eet ing is t alking about a cert ain t hing
+and som eone kind of int errupt s or doesn’t necessarily int errupt and
+say s som et hing [ disfm arker] eit her a new t opic or a different t ake on
+t he sam e t opic will t end t o use [ disfm arker] will t rail off wit h " so " .
+fe067 [ s^ bk] : Oh .
+fe066 [ s^ bk.%] : Oh oh oh , yeah , OK .
+fe067 [ b] : Hm m .
+fe066 [ b] : Mm − hm m .
+fe067 [ %−] : Uh like [ disfm arker]
+fe067 [ s:s^ nd] : " So , you can see you m ight be wrong ,
+
+fe067 [ s:s] : but I don’t want t o act ually say t hat . "
+fe008 [ s^ aa|s^ na] : Yes , t hat ’s possible ,
+fe069 [ s^ aa] : Yeah ,
+fe067 [ b] : Mm − hm m .
+fe069 [ s^ aap] : kind of ,
+fe069 [ s^ aa] : y eah , yeah .
+fe008 [ s^ aa] : yeah .
+fe068 [ qy^ bh] : Huh .
+fe008 [ s^ aa] : Yeah ,
+fe008 [ s^ ba] : int erest ing .
+fe069 [ b] : Yeah .
+fe069 [ s] : And " or " t ends t o be used wit h quest ions m ore t han
+[ disfm arker] So .
+fe068 [ b] : Yeah .
+fe067 [ b] : Mm m .
+m e070 [ s^ aa] : That ’s t rue .
+fe069 [ %] : But .
+fe069 [ s^ ba] : I t hought t hat was really int erest ing .
+fe066 [ fg|%−−] : Or y
+fe066 [ s] : I ’ve heard you say " so " , in t hat sort of sense
+fe066 [ s^ e:s] : like uh , um , " So in ot her words blah − blah − blah −
+blah . "
+fe008 [ s^ bk] : Mm − hm m .
+fe066 [ s^ e.%−−] : Like a sort of an inad
+fe008 [ %−−] : Of course
+fe066 [ fh] : uh , eh [ disfm arker]
+fe008 [ s^ nd] : b but t hat ’s not really an exam ple of t his ,
+fe008 [ s^ df] : because t hey don’t just say " so " .
+fe066 [ s^ bk] : Right ,
+m e070 [ b] : u Nnn .
+fe066 [ %−] : but [ disfm arker]
+fe066 [ s^ aa] : That ’s t rue .
+fe008 [ qy ^ rt ] : Is t hat right ?
+m e070 [ s] : Ending wit h " so " .
+fe008 [ s^ df] : I m ean , s I just wanna be sure .
+fe066 [ s^ br.%−] : Or I [ disfm arker] m aybe I ’m m isunderst anding what
+y ou were sa
+m e070 [ s] : When you end wit h " so " .
+fe069 [ s] : When you end t he ut t erance .
+fe066 [ %−−] : When [ disfm arker]
+m e070 [ s.%−] : When you say som et hing [ disfm arker]
+fe066 [ s^ bk] : Oh , just [ disfm arker] just ending wit h " so " .
+fe008 [ b] : Yeah .
+m e070 [ s^ aa] : Right ,
+m e070 [ s:fh] : and y ou say " so " .
+fe069 [ b] : Yeah .
+
+fe066 [ s^ bk] : OK .
+fe008 [ s^ bk] : Yeah ,
+fe008 [ s:s] : " I c I could get all t hose ext ra signat ures ,
+m e070 [ %−] : It [ disfm arker]
+fe008 [ s:s^ no] : but I don’t know ,
+fe008 [ s:fh] : so . "
+m e070 [ b] : Yeah .
+fe069 [ b] : Right .
+fe066 [ s^ ba] : Yeah , t o m e it ’s like a vocal shrug .
+m e070 [ %−] : It ’s [ disfm arker]
+fe069 [ s^ bk] : Yeah .
+fe008 [ s^ ba] : That ’s a very nice charact erizat ion .
+fe069 [ b] : Mm − hm m .
+fe008 [ s^ ba] : Int erest ing .
+fe066 [ x ] : S sort of .
+fe069 [ s] : I ’d definit ely like t o look m ore at t hat if I can ,
+fe069 [ fh] : but .
+fe066 [ s^ ba] : That ’s cool .
+fe067 [ b] : Hm − hm m .
+m e070 [ s] : I t hink people end in " but " a lot t oo .
+m e070 [ s^ rt ] : And I feel t hat t hat m eans t hat t hey want som ebody
+else t o t ake it up ?
+fe066 [ b] : Mm − hm m .
+m e070 [ s:s^ co] : Or som ebody just sort of like [ disfm arker] you know ,
+t ake it from here ?
+fe069 [ s^ aa] : Oh , y eah .
+fe069 [ b] : Mm − hm m .
+m e070 [ s:s] : So , you know , " Blah − blah − blah − blah − blah ,
+m e070 [ s:fh] : but . "
+fe069 [ s:s] : " But I ’m not really sure
+fe008 [ s.%−−] : Once again a sh
+fe069 [ s:s^ cs] : so you can [ disfm arker] you could finish m y t hought . "
+m e070 [ fh] : Yeah , so s
+fe008 [ qy ^ rt ] : is it a shrug ?
+fe008 [ qy ^ r^ rt ] : Would you say [ pause] it ’s anot her shrug ?
+m e070 [ h] : Um ,
+fe008 [ qrr.%−−] : Or [ disfm arker]
+fe069 [ s^ aap] : It ’s a different kind of shrug t hough .
+m e070 [ s^ rt ] : I feel like it [ disfm arker] I feel like it sort of , um , asks
+for som ebody else t o , uh , put input in now .
+fe008 [ b] : OK .
+fe066 [ b] : Yeah .
+fe066 [ s^ na] : I could see t hat .
+fe069 [ s] : I t hink it shows less of confident [ disfm arker] like less
+confidence in what t hey just said
+fe067 [ b] : Mm − hm m .
+
+fe008 [ b] : OK .
+fe068 [ qy ^ d^ rt ] : Or giving perm ission ?
+m e070 [ b] : Yeah .
+fe008 [ b] : OK .
+m e070 [ b] : Yeah .
+fe069 [ s^ e] : in a way .
+fe066 [ s:s^ no] : Sam e wit h " I don’t know " .
+fe069 [ s^ aa] : Yeah .
+fe066 [ s^ df:s] : You can also end an ut t erance wit h , uh , " blah − blah
+− blah
+fe066 [ s:s^ no] : but I don’t know " .
+fe067 [ b] : Hm m .
+fe069 [ b] : Yeah .
+fe066 [ s^ e] : Like t hat .
+fe068 [ b] : Uh − huh .
+fe069 [ b] : Yeah .
+fe066 [ s] : Like , I feel like m aybe t hat ’s sim ilar t o " but " .
+fe069 [ s^ aa] : Yeah .
+m e070 [ b] : Mm − hm m .
+fe069 [ s^ no] : More sim ilar t han t o " so " I t hink .
+fe008 [ s^ ba] : Yeah , t hat ’s int erest ing .
+fe066 [ s^ 2] : To " so " ,
+fe066 [ s^ aa] : y eah .
+fe066 [ s^ na] : I t hink so t oo .
+fe008 [ qy ^ bh] : Huh .
+fe008 [ qy ^ bh] : Huh ,
+fe008 [ s^ ba] : int erest ing .
+fe008 [ qw] : What about , um , t he way people t reat w when t hey give a
+joke ,
+fe008 [ s^ e] : I m ean , and [ disfm arker] and t hey ’re like [ disfm arker]
+t hey laugh
+fe008 [ s^ e] : and t hen aft er t he laugh t hey say , " uh " .
+fe008 [ fh] : I m ean ,
+fe008 [ %−−] : if y ou [ disfm arker]
+fe008 [ s^ e:s] : so it ’s like , " ha − ha − ha
+fe008 [ s:fh] : uh " .
+fe008 [ fh] : I m ean [ disfm arker]
+fe008 [ qy ^ rt ] : Do y ou [ disfm arker] Hav e you run across t his ?
+fe069 [ s^ aa] : Yeah .
+fe066 [ s^ aa] : Yeah .
+fe067 [ b] : Mm m .
+fe008 [ s] : And it ’s like , t o m e [ disfm arker] I [ disfm arker] I t hink I ’ve
+heard com edians do t hat .
+fe008 [ s.%−−] : There ’s som e t here ’s som et hing t here about
+[ disfm arker]
+fe008 [ s] : y ou know , you [ disfm arker] you m ake a joke
+
+fe008 [ s] : and t hen y ou have an " uh " in t here som ehow ,
+fe008 [ s^ e] : which I don’t really underst and t he funct ion of .
+fe066 [ s:s] : May be it ’s like saying like , " This is funny
+fe008 [ qy .%−] : Do you [ disfm arker]
+fe066 [ s^ rt :s] : but m aybe it shouldn’t be funny "
+fe066 [ s:s] : or " This is funny
+fe066 [ s^ rt :s] : but m aybe it ’s funny for som e sort of perverse reason
+" .
+fe069 [ s^ nd^ rt ] : Or m aybe it ’s just a link t o get back t o t he
+conv ersat ion or som et hing ?
+fe068 [ b] : Hm m .
+fe069 [ s^ e] : Like t o connect it wit h what is going on elsewhere ?
+fe067 [ b] : Mm m .
+fe066 [ fg] : Well ,
+fe066 [ s:s] : eh how [ disfm arker] OK , so t he one I ’m t hinking of is like
+if like " ha − ha "
+fe066 [ fh|s:fh] : uh , you say [ disfm arker] you would say like , um ,
+fe066 [ %−−] : uh like [ disfm arker]
+fe066 [ fg] : OK ,
+fe066 [ s] : so he ’s laughing
+fe066 [ s:s] : " ha − ha "
+fe066 [ s:fh] : and t hen he ’d go " i uh " .
+fe069 [ s^ bk|s^ bu] : Oh , like kind of [ disfm arker] kind of laughing wit h
+it
+fe066 [ %−] : And [ disfm arker]
+fe066 [ s^ aa] : Yeah .
+fe066 [ s^ aap] : Kinda ,
+fe069 [ s^ bu^ e] : in a way ?
+fe066 [ s^ aa] : yeah ,
+fe069 [ fh] : Yeah .
+fe066 [ s^ e^ na:fh] : kinda like " Uh . "
+fe066 [ qy ^ d^ f^ g] : You know .
+fe069 [ s^ aa] : Yeah .
+fe066 [ s:s] : And t o m e t hat ’s m ore of like t he [ vocalsound] " Maybe
+t his shouldn’t be funny
+fe066 [ s:s] : but it is .
+fe066 [ s:s^ df] : May be t his is funny because it ’s kind of disgust ing or
+perv erse in som e way . "
+fe069 [ b] : Mm m .
+fe068 [ b] : Huh .
+fe068 [ b] : Yeah .
+fe008 [ s^ am ] : It ’s possible ,
+fe008 [ s.%−−] : now what I ’m t hinking [ disfm arker]
+fe008 [ s] : I didn’t hav e t he ex t ra [ disfm arker] t he ext ra e um , what do
+y ou say , nuances in t he " uh " , which you just [ disfm arker] which you
+just did .
+
+fe066 [ %] : Wi [ disfm arker]
+fe066 [ s^ bk] : Oh , OK .
+fe008 [ s] : However , t he cont ext fit s .
+fe008 [ s^ ba] : I m ean , t hat ’s an int erest ing t ake on it . I t hink
+[ disfm arker]
+fe069 [ b] : Mm m .
+fe008 [ s^ aap] : It ’s possible .
+fe008 [ s^ aap^ r] : It ’s possible .
+fe066 [ qy ^ bu^ d] : So you m eant just sort of like a [ disfm arker] just a
+norm al " uh " ?
+fe008 [ s] : It ’s just a norm al " uh " .
+fe008 [ s^ aa] : Mm − hm m .
+fe069 [ b] : Yeah .
+fe008 [ s.%−−] : But it ’s st uck in [ disfm arker]
+fe008 [ s^ df] : m aybe it ’s a lit t le louder t han usual .
+fe008 [ s^ df] : It ’s not any of t he ext ra , um , you know , glot t al t hing .
+fe067 [ b] : Hm m .
+fe066 [ qy ^ bu^ d^ rt ] : Meaning , " Let ’s keep going " ?
+fe069 [ s^ am ] : Maybe it m eans t hat .
+fe008 [ h] : Well ,
+fe008 [ s^ ng.%−−] : but it just seem s like it ’s m ore prom inent t han
+[ disfm arker]
+fe008 [ s^ df] : You know it really is like a placeholder of som e sort ,
+fe069 [ s^ bk] : Uh .
+fe008 [ %−−] : like [ disfm arker]
+fe008 [ s^ e] : which I t hink is self − reflexive in [ disfm arker] in t he
+[ disfm arker] sort of brings focus back ont o t he jokem aker ,
+fe066 [ %−−] : That ’s [ disfm arker]
+fe066 [ s^ aa] : y eah .
+fe069 [ s] : May be if [ disfm arker] m aybe it ’s when people don’t laugh
+enough or som et hing .
+fe008 [ %] : but [ disfm arker]
+fe066 [ s^ aa] : Yeah .
+fe008 [ s^ am ] : Yeah , t hat ’s possible .
+fe069 [ fh] : I don’t know .
+fe066 [ s^ aa|s^ e^ na:s^ co] : Yeah , like , " Let ’s com e back t o t he
+original subject
+fe008 [ fh] : OK .
+fe066 [ s:s^ cc] : and I will t ake it from t here " .
+fe008 [ s^ am ] : Oh . It could be .
+fe008 [ s^ am ] : Yes , po t hat ’s possible .
+fe066 [ s^ am ] : May be .
+fe008 [ s^ am ^ r] : It ’s possible .
+fe066 [ s^ df] : Cuz I ’v e heard , um , Morgan do t hat .
+fe008 [ s^ na] : Ex act ly who I was t hinking of act ually .
+fe066 [ s^ bk] : Yeah ,
+
+fe066 [ s^ df] : he does t hat a lot .
+fe008 [ s^ aa] : Uh − huh .
+fe008 [ s^ aa] : Yeah . Exact ly .
+fe008 [ s^ aa] : Yeah .
+fe066 [ s^ df] : For obvious reasons , probably ,
+fe066 [ s^ df] : if t hat ’s t he way he uses it .
+fe008 [ s^ aa] : That ’s t rue ,
+fe008 [ %−−] : t hat would [ disfm arker] The [ disfm arker]
+fe008 [ s] : And he does cont inue aft er t hat .
+fe008 [ s^ ba] : But it ’s just [ disfm arker] y ou know , t o say " uh "
+[ disfm arker] you kn t o say " uh " while you ’re laughing i it ’s just t o m e
+it ’s an int erest ing cat egory .
+m e070 [ b] : Right .
+m e070 [ s:s^ bk] : I t hink it m ay alm ost have t o do wit h like , " OK ,
+m e070 [ s:s] : I t old a joke ,
+m e070 [ s:s] : now everyone ’s laughing ,
+m e070 [ s:s] : and now it ’s com m on court esy I ’ll sort − of t ell everyone
+t o st op laughing ,
+m e070 [ fh] : you know ,
+m e070 [ s:s^ df] : so you don’t offend m e about how good m y joke was .
+"
+m e070 [ fh] : You know ,
+m e070 [ s:s^ bk] : it ’s alm ost like , " OK ,
+m e070 [ s:fh] : uh ,
+m e070 [ s:s^ bk] : OK ,
+m e070 [ s:s] : m y joke ’s over ,
+m e070 [ s:s] : you know , you can st op laughing now " .
+fe069 [ s^ aa] : Right .
+fe008 [ s^ am ] : That ’s possible .
+fe067 [ b] : Mm m .
+fe069 [ s.%−] : Giv ing t hem perm ission t o [ disfm arker]
+m e070 [ s^ aa] : Yeah .
+m e070 [ fh] : You know ,
+m e070 [ qw^ df] : because it ’s like [ disfm arker] How do you
+[ disfm arker] you know , how m uch do you laugh aft er som eone ’s joke
+fe068 [ qy ^ bh] : Hm m !
+fe069 [ s^ ng] : I don’t know about perm ission .
+fe066 [ b] : Yeah .
+fe066 [ s^ aa] : Yeah , yeah , yeah .
+m e070 [ s^ e] : t o t ell t hem how m uch you enjoyed it
+fe066 [ s^ 2] : Be polit e , or what ev er .
+m e070 [ fh] : or [ disfm arker]
+m e070 [ s^ aa] : Yeah .
+m e070 [ qw^ df.%−−] : Or how long do you wait aft er t he joke
+fe069 [ s^ 2] : To keep going wit h t he m eet ing .
+m e070 [ %−] : t o [ disfm arker]
+
+m e070 [ s^ aa] : Right .
+fe069 [ s^ bk] : Yeah .
+fe008 [ s^ ba] : Very int erest ing .
+fe008 [ s^ ba] : Int erest ing .
+fe069 [ s] : Cuz som et im es you can get on digressions t hat just last for
+like m inut es at a t im e .
+fe066 [ s^ aa] : Right .
+fe008 [ s^ aa] : Yes .
+fe069 [ s^ e] : And people are just hy st erical
+fe069 [ s^ e:qw] : and t hey ’re like , " What were we t alking about ?
+fe069 [ s^ e:s^ no] : I don’t know " .
+fe008 [ b] : Yeah ,
+fe008 [ %−−] : t hat ’s [ disfm arker] t hat ’s [ disfm arker]
+fe008 [ b] : Huh , OK .
+fe069 [ s^ ba] : It ’s hard when people get really really in like int o t heir
+laughing and st art t alking at t he sam e t im e .
+m e070 [ s^ aa] : Yeah .
+fe069 [ s^ df] : It ’s hard t o figure out what t hey ’re doi what t hey ’re
+t alking about ,
+fe069 [ s^ df.%−−] : and also t hey don’t t end t o t alk very f
+fe069 [ s^ df] : t here ’s a lot of disfluencies when t hey ’re laughing and
+t alking .
+fe068 [ s^ aa] : Yeah .
+m e070 [ s^ aa] : Definit ely .
+fe067 [ b] : Mm m .
+fe069 [ s.%−−] : It ’s hard t o [ disfm arker]
+m e070 [ s] : Som et im es t hey m ake m e laugh so hard ,
+m e070 [ s^ df] : because t hey ’ll just be t alking [ com m ent ] about
+som et hing t echnical
+fe069 [ b] : Yeah .
+m e070 [ s^ df] : and I ’ll be so bored
+m e070 [ s^ df] : and t hen suddenly t hey ’ll say som et hing t hat t hey only
+just sort of chuckle at
+m e070 [ s^ df] : and t hen I laugh at for t he next like t went y m inut es
+m e070 [ s^ df] : because I t hink it ’s so funny .
+m e070 [ s^ e^ rt ] : Like one t im e [ com m ent ] everybody was doing t he ,
+um , digit s ,
+m e070 [ s^ e^ rt ] : and t hey were all doing it at t he sam e t im e ,
+m e070 [ s^ e] : and t hey st art ed off kind of shaky ,
+fe068 [ s^ bk] : Oh , right .
+m e070 [ s^ e:qy ] : t hey were like , " Oh , do we wanna do t his at t he
+sam e t im e ,
+m e070 [ s^ e:s] : you know , t hat ’s [ disfm arker] @ @ [ com m ent ]
+[ disfm arker] you know , wh let ’s not all st art laughing "
+m e070 [ s^ e] : and t hen t hey all did it at t he sam e t im e
+
+m e070 [ s^ e] : and one person ended up at t he very end doing t he
+digit s
+m e070 [ s^ e] : and everybody had finished
+fe068 [ s^ aa^ fe] : Yeah .
+m e070 [ s^ e] : and he had like t wo m ore lines t o go ,
+fe066 [ %] : Go [ disfm arker]
+m e070 [ s:s^ fe] : and when he ended som ebody t urned t o him and
+went , " You lose ! "
+fe008 [ %] : Oh n
+m e070 [ s^ e] : And I just kept laughing and laughing and laughing .
+fe066 [ s] : Johno keeps m aking com m ent s about t he t ranscribers .
+fe008 [ s^ aa] : Yes .
+fe069 [ b] : Yeah .
+fe066 [ s^ ba] : It ’s t he funniest t hing .
+fe008 [ s^ aa^ r] : Yes .
+fe066 [ %−−] : He [ disfm arker] he ’ll like
+fe068 [ qw] : What does he say ?
+fe008 [ s] : He ’s very funny .
+fe066 [ s] : say [ disfm arker] he ’ll say like m ean t hings about t he
+t ranscribers .
+fe066 [ s.%−] : He ’ll be like [ disfm arker]
+fe068 [ qw] : Why ?
+fe069 [ s:s] : " Oh , but I don’t m ean t he t ranscribers we have here of
+course . "
+m e070 [ b] : Oh .
+fe066 [ s^ aap] : Like [ disfm arker] Well som et im es he ’ll do t hat ,
+fe066 [ s^ bk] : yeah .
+fe066 [ s^ arp] : But som et im es he doesn’t .
+fe066 [ s:s] : And som et im es he ’ll just be like uh , you know , um , "
+Here , Transcribers ,
+fe066 [ s:s^ co^ fe] : t ry t ranscribing t his ! "
+fe069 [ b] : Yeah .
+fe069 [ s^ bk|s.%−−] : Yeah , like when t hey do random sounds t hat you
+have no idea [ disfm arker]
+fe066 [ s:s^ ft ^ j] : Like , " Thanks ! "
+fe008 [ s^ ba] : He ’s v ery funny .
+fe066 [ b] : Right .
+fe069 [ b] : Yeah .
+fe008 [ s] : I [ disfm arker] I st art ed laughing wit h som et hing he said t he
+ot her day ,
+fe008 [ s^ df] : it was [ disfm arker] it was t he beginning of a m eet ing
+fe008 [ s^ df] : and it hadn’t got t en far int o it
+fe008 [ %−−] : and [ disfm arker]
+fe008 [ s^ df] : and he ’s [ disfm arker] he ’s doing t his [ disfm arker] one
+of t hese m ock fight s wit h Nancy ,
+fe008 [ s^ e] : which he does .
+
+fe008 [ qy ] : Hav e y ou run across t hese m ock fight s ?
+fe069 [ b] : Mm − hm m .
+fe008 [ s.%−−] : And he s he say s , [ v ocalsound] um , som et hing like ,
+fe008 [ fh] : uh ,
+fe008 [ s^ e] : I [ disfm arker] i and he ’s m e t hey [ disfm arker] t hey have
+t his nice @ @ [ com m ent ] m ut ual condescending joking t hing going on
+,
+fe008 [ s:s] : and he says , " Well , I could explain t his t o you .
+fe008 [ s:s] : I have a bet t er laugh t han y ou do .
+fe008 [ s:s] : The t ranscribers t old m e so . "
+fe008 [ s] : And it went on a lit t le longer
+fe008 [ s.%−−] : but it ’s li it ’s like t his really [ disfm arker]
+fe066 [ %] : Li
+fe008 [ fh] : Yeah ,
+fe008 [ s] : and t hen at one point she [ disfm arker] you know , at
+anot her m eet ing , she [ disfm arker] she was not sure which channel
+she was on ,
+fe008 [ s:s] : and he said , " Well , I t hink you ’re on channel so − and −
+so "
+fe008 [ s:s^ ar] : and t hen she said , " Well , no ,
+fe008 [ s:qy ] : sh shouldn’t it be channel so − and − so ? "
+fe008 [ s:s^ ar] : and he says " Well , no ,
+fe008 [ s:s^ df] : it should be channel so − and − so " .
+fe008 [ s] : And t hen it t urned out it was channel so − and − so
+fe008 [ s^ e] : which he said ,
+fe008 [ s:s] : and [ disfm arker] and she said [ disfm arker] he s he said , "
+I best ed you again Nancy " .
+fe008 [ s:s^ aa] : And she said , " Yes ,
+fe008 [ s:s] : t hat ’s m y recollect ion of all of our m eet ings t oget her " .
+fe069 [ s^ fe.%] : Oh m y God .
+fe068 [ s^ bk] : Oh , no .
+fe008 [ s.%−−] : They have t his really nice [ disfm arker]
+fe008 [ s.%−−] : You know , it ’s really [ disfm arker]
+fe008 [ s] : Those sort s of t hings , i it ’s t rue ,
+fe008 [ s] : you know , it ’s like , it really does liven t hings up t o have
+t he , uh , [ vocalsound] t he nice int errelat ionships .
+m e070 [ b] : Yeah .
+fe069 [ b] : Mm − hm m .
+fe066 [ b] : Yeah .
+fe067 [ b] : Hm m .
+fe008 [ %−−] : I t hink [ disfm arker]
+fe008 [ s] : I [ disfm arker] I found t hat ’s a nice aspect of a lot of t hese
+m eet ings ,
+fe008 [ s^ e] : t he [ disfm arker] eh t he , uh , eh lit t le periods of hum or
+like t hat .
+fe069 [ b] : Yeah .
+
+fe008 [ fg] : Alright ,
+fe008 [ s^ cs^ t c] : well , so do we [ disfm arker] would [ disfm arker] would
+[ disfm arker] we could do digit s if we so desired .
+fe008 [ s^ df] : If w if we want ed t o do t hat .
+fe068 [ s^ fe] : Woo − hoo !
+fe066 [ s^ bk] : Ah , t he digit s t ask .
+fe068 [ s^ cs] : Let ’s do sim ult aneous digit s .
+fe068 [ s^ ar] : No , let ’s [ disfm arker] let ’s not .
+fe008 [ s^ m ^ na] : Let ’s do sim ult aneous digit s .
+fe066 [ %] : We [ disfm arker]
+fe066 [ qy ] : can som ebody explain t o m e why you do digit s ?
+fe068 [ s^ ar] : No , no , let ’s not .
+fe008 [ qy ^ bu^ d^ rt ] : No , you don’t ?
+fe066 [ s^ df] : I st ill don’t really know .
+fe008 [ s^ bk|s] : OK , t he idea is t hat you have [ disfm arker] t hen , um ,
+y ou hav e ground t rut h ,
+fe008 [ s] : you know exact ly what t hey ’re supposed t o have said ,
+fe008 [ s] : and t hen of course som et im es we go t hrough and act ually ,
+um , people do double check t hat t hey read t hem correct ly and all ,
+fe067 [ b] : Mm m .
+m e070 [ b] : Mm m .
+fe068 [ s^ aa] : Yeah .
+fe008 [ s^ df] : so t hat we ’re sure ,
+fe008 [ s] : as you ’ve done .
+fe068 [ s] : I rem em ber I did t hat a lit t le bit ,
+fe069 [ s^ bk|s] : Yeah , I did t hat once t oo .
+fe008 [ b] : Yeah .
+fe068 [ s] : and , yeah , you m ust have t oo .
+fe069 [ b] : Yeah , y eah .
+fe008 [ qy ^ d] : And y ou [ com m ent ] did also ?
+fe067 [ qy ^ bu^ d] : We [ disfm arker] we are m eant t o be t ranscribing if
+t hey ’re just left in t he [ disfm arker] t he curly bracket s ?
+fe068 [ s^ na.%] : Kinda early on .
+fe008 [ s^ ar] : No ,
+fe008 [ s^ df] : because it ’s [ disfm arker] it ’s [ disfm arker] it should be
+able t o be t aken care of efficient ly wit h t his int erface .
+fe008 [ s^ co] : I m ean , if t he T Tigerfish people do it , t hen , you know ,
+leav e it ,
+fe068 [ s^ na] : Yeah , t hey do writ e t he num bers in .
+fe069 [ %−−] : The [ disfm arker]
+fe069 [ s^ bk] : Yeah .
+fe008 [ s] : t hat ’s fine .
+fe069 [ s] : Yeah , I ’ve been just leaving it .
+fe067 [ s^ arp] : And som et im es t hey don’t .
+fe008 [ fh] : Yeah .
+fe068 [ b] : Yeah .
+
+fe066 [ s] : Oh , I ’ve been writ ing t he num bers just cuz I wasn’t sure
+what t o do .
+fe008 [ s^ m ^ na] : Som et im es t hey don’t .
+fe008 [ s] : Well , if you do t hat ’s [ disfm arker] t hat ’s alright as well .
+m e070 [ qy ^ bh] : Oh , really ?
+fe066 [ qy ^ bu^ d] : You don’t hav e t o ?
+fe008 [ s^ m ^ na] : You don’t have t o .
+fe066 [ s^ bk] : Oh , OK .
+fe067 [ b] : Hm m .
+fe008 [ s^ df] : Because , uh , we ’re [ disfm arker] we have t he
+assum pt ion t hat we ’ll t ake care of it t his [ disfm arker] in t his ot her way
+,
+fe008 [ s^ df] : but In any case , t he idea is t hat you have ground t rut h ,
+fe067 [ b] : Oh .
+fe008 [ s^ df] : you know exact ly what t he person should have said
+fe008 [ s^ df] : and y ou check t o be sure ,
+fe008 [ s] : and usually t here aren’t m any errors [ disfm arker] eh w
+when t hey were checked .
+fe008 [ fh|s] : Um , and t hen , you have t his m ult iplicit y of voices , uh ,
+reading t hese t hings ,
+fe008 [ s^ df] : and you can do really good speech recognit ion t hat way
+.
+fe008 [ s] : So t hey have som e papers out t hat t hey ’ve done t his .
+fe008 [ s] : It ’s really [ disfm arker] it ’s been very fruit ful in t erm s of t he
+analy ses .
+m e070 [ b] : Huh .
+fe067 [ b] : Hm m .
+fe008 [ s] : It ’s nice t o have , y ou know , a st andard [ disfm arker]
+fe008 [ s^ e] : Uh , you know , it ’s like , uh , psychological approach
+also t hat [ vocalsound] you like t o hav e som e st andard st im ulus here
+fe066 [ b] : Mm − hm m .
+fe068 [ s^ aa] : Oh , y eah .
+fe008 [ s.%−] : and t hen you can [ disfm arker]
+fe068 [ s^ na] : No , I t ot ally agree .
+fe008 [ s^ bk] : Yeah .
+fe066 [ b] : Mm − hm m .
+fe008 [ s^ aa] : I [ disfm arker] I agree ,
+fe008 [ s^ ba] : I t hink it ’s a nice [ disfm arker] it ’s a nice design feat ure
+.
+fe066 [ qw] : Where ’s t he lit t le t hings t hat ’s supposed t o say "
+t ranscript L dash blah − blah − blah " ?
+fe068 [ s] : Oh , it ’s at t he t op .
+fe008 [ s^ bk|s] : Yes , you run across t hat .
+fe008 [ fh] : Let ’s see ,
+fe008 [ s.%−−] : I guess it would be [ disfm arker]
+fe008 [ s] : it ’s up t here .
+
+m e070 [ s] : It ’s right here ,
+fe067 [ s^ bk] : Oh , I see .
+m e070 [ s] : y eah . I looked for t hat t oo .
+fe008 [ b] : Uh − huh .
+fe008 [ s^ t 3] : Up t here at t he t op .
+fe066 [ s^ bk] : Ah . Oh .
+fe066 [ s^ bk] : OK .
+fe069 [ b] : OK .
+fe068 [ s] : So , I have a quest ion .
+fe008 [ s^ bk] : Yeah .
+fe068 [ s^ df] : Cuz now I ’m looking at t his and I realize I don’t know t he
+answer ,
+fe068 [ %−−] : is ,
+fe068 [ fh] : um ,
+fe068 [ s] : som et im es when people are reading " zero " , [ com m ent ]
+t hey say " O " ,
+fe008 [ b] : Yeah .
+fe008 [ b] : Yes .
+fe067 [ b] : Yeah .
+fe068 [ s] : and som et im es t hey say " zero " ,
+fe066 [ b] : Mm − hm m .
+fe068 [ %−−] : but [ disfm arker]
+fe068 [ s] : And I t hought t hat t here m ust be an indicat ion here .
+fe008 [ s^ aap] : Used t o be .
+fe069 [ s^ na] : That ’s what I t hought t oo .
+fe008 [ s^ aap^ r] : Used t o be .
+fe068 [ s^ bk] : Oh ,
+m e070 [ b] : Hm m .
+fe068 [ s^ bk] : t hat [ disfm arker] " read O or read zero " .
+fe066 [ s^ bk] : Oh .
+fe008 [ s^ df] : This [ disfm arker] t hey changed t hem .
+fe008 [ s^ df] : Init ially it was words all spelled out ,
+fe069 [ b] : Mm − hm m .
+fe008 [ s^ e] : so " ONE " [ disfm arker]
+fe066 [ s^ bk] : Oh .
+fe067 [ b] : Mm m .
+fe068 [ s^ bk^ fe] : Oh , m y !
+fe008 [ s^ bk] : Yes .
+m e070 [ s^ ba] : Oh , wow .
+fe068 [ s^ bk] : Yeah .
+fe008 [ s] : And t hat was like a St roop t est in som e ways .
+fe008 [ s.%−−] : It t ook a lot of conc
+fe008 [ s] : When I was doing t hose I had t o really concent rat e .
+fe068 [ b] : Yeah .
+fe008 [ s^ e:s] : It was like s " One , s seven " [ disfm arker]
+
+fe008 [ s] : you know , it was like [ disfm arker] You really had t o
+[ disfm arker] " let ’s see , t he words and t he num bers "
+fe068 [ s] : Yeah , you ’re not used t o seeing t he num bers like t hat .
+fe008 [ %−−] : and [ disfm arker]
+fe069 [ b] : Yeah .
+fe008 [ s^ e] : and t hen you ’d have an " OH " periodically
+fe008 [ fh|s] : and , um , t hey were init ially spelled out t hat way ,
+m e070 [ b] : Hm m .
+fe066 [ b] : Huh .
+fe008 [ s^ e] : one or t he ot her .
+fe068 [ s^ bk] : I see ,
+fe068 [ s] : so t hat ’s why .
+fe008 [ s] : But we convert ed t hem t o t his form at ,
+fe008 [ s.%−−] : and t hen t he idea [ disfm arker]
+fe008 [ s] : I m ean , y ou could conceiv ably put an " OH " or a " zero " for
+t he " O ’s " and st ill have t his benefit ,
+fe008 [ s] : but I t hink t hat t he idea is t hat people can choose what
+t hey t hink is m ost nat ural for t hem t o say in t hose [ disfm arker] t hose
+locat ions ,
+m e070 [ b] : Right .
+fe008 [ s.%−] : and [ disfm arker] you know , m aybe t here ’d be
+[ disfm arker]
+fe066 [ b] : Mm − hm m .
+fe068 [ qy ^ bu^ d] : So it ’s opt ional .
+fe067 [ b] : Hm m .
+fe068 [ qy ^ bu^ d^ rt ] : You can say one or t he ot her ?
+fe008 [ s^ aa] : Yes ,
+fe008 [ s^ aa] : m m − hm m .
+fe068 [ s^ bk] : OK .
+fe067 [ b] : Mm m .
+fe008 [ fh] : So , um [ disfm arker]
+fe067 [ qy ^ rt ] : Oh , can I ask also ?
+fe008 [ s^ aa] : Sure .
+fe067 [ fh|s^ rt ] : Um , it says [ disfm arker] it looks like t he groupings
+are im port ant ,
+fe067 [ s] : but som e of t he t ranscript s I ’ve seen t hey don’t have any
+com m as or breaks ,
+fe067 [ s^ rt ] : it ’s just a st ring of num bers .
+fe067 [ s^ bu.%−−] : So we should be adding t he breaks if [ disfm arker]
+fe008 [ s^ aa] : Yes .
+fe008 [ s^ df] : Well , see [ disfm arker] er [ disfm arker] also , t his has
+been a [ disfm arker] a change in t he procedure t hat [ disfm arker] used
+t o be t hat t hey were like uh one long st ring [ disfm arker]
+fe067 [ s^ bk] : Oh , OK .
+fe008 [ s^ e] : different sized st rings .
+
+fe008 [ s] : But t o hav e t hem broken up like t his , it ’s [ disfm arker] it ’s
+m been about uh m aybe half a year t hat [ disfm arker] t hat t his
+[ disfm arker] or m aybe [ disfm arker] m aybe seven m ont hs , I don’t know
+, m aybe longer , [ v ocalsound] t hat t hey ’ve got t en act ually broken up
+wit hin t he line .
+fe067 [ b] : Mm m .
+fe008 [ s] : So t he idea is @ @ [ com m ent ] t o pause when you see t hat
+.
+fe069 [ s^ bu] : But in t he t ranscript ions [ disfm arker] I m ean , we don’t
+have t o deal wit h t hat
+fe069 [ s^ df] : because when t he ot her int erface deals wit h it t hen
+t hey break it up or what ever .
+fe008 [ s^ aa] : No .
+fe008 [ s^ aa] : That ’s right ,
+fe008 [ s^ na] : break it up m ore finely .
+fe069 [ b] : Yeah .
+fe067 [ qr^ bu^ d] : But if you can clearly hear pauses and t here ’ve not
+been t ranscribed , we should be adding t he com m as or not ?
+fe067 [ s] : Though t he one I ’m working on now is like t hat .
+fe008 [ h] : Well [ disfm arker]
+fe008 [ s] : I would say don’t worry about t hat ,
+fe008 [ s^ df.%−−] : because , um , [ vocalsound] t his is w
+fe067 [ b] : OK .
+fe008 [ s] : again [ disfm arker] you know , it [ disfm arker] it ’d be nice t o
+get t he words right ,
+fe008 [ fh] : but , um ,
+fe008 [ s] : t he [ disfm arker] uh , t he int erface t hat t hese guys used ,
+uh , allows you t o set t he t im e boundaries really accurat ely ,
+fe069 [ b] : Mm − hm m .
+fe008 [ s] : so it ’s not so im port ant .
+fe008 [ s] : It ’s m ore im port ant t o focus on t he words ,
+fe008 [ s^ df] : because t here we don’t know t he ground t rut h .
+fe068 [ b] : Mm − hm m .
+fe008 [ fh] : So .
+fe008 [ fg] : OK , so [ disfm arker]
+fe069 [ qy ^ bu^ rt ] : Are we gonna do t hem t oget her t hen ?
+fe069 [ qrr] : Or no ?
+fe008 [ s^ no] : Well , I don’t know ,
+fe008 [ qw] : how do you feel ?
+fe068 [ s^ aa|s^ no] : Yeah , I don’t care .
+fe008 [ %−] : I m ean ,
+fe008 [ s^ cs] : what we could do is we could do it t oget her one week
+fe068 [ s] : What ever .
+fe008 [ s^ cs] : and t hen separat e t he next
+fe008 [ s] : or som et hing like t hat
+fe068 [ s^ aa] : Sure .
+
+fe008 [ s^ e] : t o giv e t he variet y .
+fe066 [ s^ aa] : Sure .
+fe069 [ s^ na] : What ever .
+fe008 [ %−] : We [ disfm arker]
+m e070 [ s^ aa.%] : Sure .
+fe008 [ qw^ cs] : why don’t we do t hem t oget her t his t im e
+fe008 [ s^ df] : just because [ disfm arker] in t he int erest of t im e , t o get
+y ou out in t im e .
+fe069 [ s^ aa] : OK .
+m e070 [ s^ aa] : OK .
+fe066 [ s^ aa] : OK .
+fe008 [ s^ bk] : OK ,
+fe008 [ fh] : so , um ,
+fe008 [ s^ cs] : we just st art out , we [ disfm arker] and you s you say , "
+t ranscript L " what ev er it is ,
+fe008 [ s^ co^ rt ] : and t hen launch int o t he num bers
+fe008 [ s^ co] : and t hen pause bet ween t he gr t he gaps
+fe068 [ b] : Sure .
+fe008 [ %−−] : and t hen [ disfm arker]
+fe008 [ s.%−] : I guess you ’re supposed t o t reat [ disfm arker]
+m e070 [ qy ^ bu^ d^ rt ] : Pause aft er each line ?
+fe008 [ s^ aa] : Yeah ,
+fe008 [ s^ df] : you s well , you ’re supposed t o t reat each line as kind
+of like a lit t le sent ence .
+fe008 [ qw^ t 1] : What do t hey say ,
+m e070 [ s^ bk] : OK .
+fe008 [ s^ t 1] : " Each line int o sm aller groups .
+fe008 [ s] : Please read each st ring as if y ou were giving it t o som eone
+ov er t he t elephone using t he groupings indicat ed .
+m e070 [ b] : Hm m .
+fe068 [ b] : Uh − huh .
+fe069 [ s] : Pause briefly bet ween lines .
+fe008 [ s^ aa] : Yes ,
+fe068 [ s^ bk] : Right .
+fe008 [ s^ na] : t here you go .
+fe069 [ s^ bk] : OK .
+fe008 [ s^ bk] : OK .
+fe008 [ s] : So , here we go .
+fe066 [ b] : OK .
+m e070 [ b] : Alright .
+fe008 [ s] : Ready ,
+fe008 [ s] : set ,
+fe008 [ s] : go .
+m e070 [ z] : Eight t hree one , seven six , t hree nine ,
+fe066 [ z] : Joel . [ vocalsound] I alm ost st art ed laughing cuz you were
+cracking up .
+
+m e070 [ z] : And I only st art ed laughing when I had one bat ch of
+num bers left , and I couldn’t get it .
+fe069 [ z] : Oh no .
+fe068 [ z] : Aw !
+fe068 [ z] : I ’m just happy I didn’t m ake any m ist akes .
+fe066 [ z] : He [ disfm arker] You alm ost m ade m e m ess up .
+m e070 [ z] : Um .
+fe067 [ z] : It was hard !
+fe068 [ z] : Oh yeah ? That ’s why I [ disfm arker] t hat ’s why I sat back
+here , I was like , " I didn’t want [ disfm arker] I [ disfm arker] I don’t
+wanna look at you people . " [ vocalsound] To read it .
+m e070 [ z] : I it just c
+fe008 [ z] : That ’s right .
+fe008 [ z] : It ’s [ disfm arker] it ’s funny how dist ract ing it is , you know ?
+It ’s like t here ’s no cont ent .
+fe067 [ z] : It is .
+fe069 [ z] : It is , it ’s hard .
+m e070 [ z] : It is .
+fe066 [ z] : Ye − he alm ost m ade m e m ess up .
+fe008 [ z] : Did y did you finish your last bat ch ? OK .
+m e070 [ z] : I finished m y last one , it was really hard t hough .
+fe069 [ z] : OK , good .
+fe008 [ z] : You ’re right in t he m iddle of it , y eah . I ’m on t he edge .
+m e070 [ z] : Yeah . I m ean , I got all t he way down and t hen t he very
+last one cam e and I was like , " I haven’t laughed . " [ vocalsound] And
+t hen I was @ @ . And t hen I just couldn’t help it .
+fe069 [ z] : Yeah .
+fe069 [ z] : You did ?
+fe068 [ z] : Oh , no .
+fe068 [ z] : Oh , t hat ’s t he killer .
+fe008 [ z] : OK , well , I wanna t hank you very m uch , and um , look f and
+so we ’ll m eet nex t week at t he sam e t im e , u unless [ disfm arker] I
+m ean , I g I need t o check on t he schedule but I t hink , um ,
+fe069 [ z] : Good .
+fe068 [ z] : Alright t hen .
+m e070 [ z] : OK .
+fe066 [ z] : OK .
+fe069 [ z] : OK , so unless we hear from you .
+fe008 [ z] : The sam e [ disfm arker] sam e t im e or wit hin an hour ra of it .
+fe069 [ z] : OK .
+m e070 [ z] : OK .
+fe067 [ z] : OK .
+fe068 [ z] : Sounds good .
+fe008 [ z] : Good .
+m e070 [ z] : Sounds good , yeah .
+fe008 [ z] : Great . Thanks very m uch .
+fe066 [ z] : OK .
+fe068 [ z] : OK .
+fe068 [ z] : Signing off .
+m e070 [ z] : Alright .
+fe008 [ z] : Signing off .
+fe066 [ z] : Bye .
+fe066 [ z] : I love y ou , m an .

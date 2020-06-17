@@ -1,0 +1,2544 @@
+m n082 [ z] : OK .
+m n082 [ z] : We can st art ?
+m n021 [ z] : OK .
+m n082 [ fg] : OK .
+m n082 [ s^ rt ] : So , welcom e t o our next m eet ing .
+m n082 [ fh|s^ rt ^ t ] : Uh , t oday we will have a t alk from Miguel Sanchez
+[ pause] concerning his [ pause] uh [ pause] work relat ed t o ad − hoc
+net works .
+m n082 [ s] : We hav e here a guest , a form er [ pause] ICSI m em ber of
+t he NSA group , Jordi Dom ingo Pasqual .
+m n082 [ s^ rt ] : He is , uh , assist ant professor at UPC .
+m n082 [ s] : And m ay be Jordi , y ou have a few words [ pause]
+concerning y our work [ disfm arker]
+m n082 [ s^ e] : one or t wo sent ence
+m n082 [ s^ df] : and [ pause] because we will have t om orrow a t alk from
+him in m ore det ail concerning what ’s going on .
+m n040 [ qy ^ bu^ d.%−−] : Eh , you [ disfm arker] you want m e t o [ pause]
+say [ disfm arker]
+m n082 [ s^ aa|s^ df^ na] : Yeah , only a short int roduct ion ,
+m n040 [ s^ bk] : Oh !
+m n082 [ s^ cs^ e] : ve very short int roduct ion , please .
+m n040 [ s^ bk] : Of course .
+m n040 [ fh|s.%−] : Eh , [ pause] well , I ’m working in t he em [ pause]
+Broadband Com m u
+m n082 [ s^ fa|s] : Uh , sorry , one int errupt ion .
+m n082 [ s] : This is not relat ed t o hearing ,
+m n082 [ s] : it ’s only for [ pause] fixing it .
+m n082 [ s] : It ’s not a earphone .
+m n040 [ s.%−−] : Ah , it ’s not a hear [ disfm arker]
+m n082 [ s^ aa] : No .
+m n082 [ fh] : So .
+m n040 [ s^ bu] : It works [ pause] like [ disfm arker] like t his .
+m n082 [ s^ aa] : Yeah , yeah .
+m n082 [ s] : Like t his one .
+m n082 [ s^ aa] : Yeah .
+m n040 [ s^ bk] : Ah ,
+m n082 [ s] : It ’s only a m icrophone .
+m n040 [ %−] : t hat ’s [ disfm arker]
+m n040 [ s^ bk] : Ah ,
+m n082 [ b] : Yeah ?
+m n040 [ s] : t hat ’s uh [ pause] m uch m ore com fort able .
+m n082 [ s^ bk] : OK .
+m n082 [ b] : Yeah .
+m n082 [ s^ bk] : OK .
+m n040 [ s^ ft ] : Thank − [ vocalsound] t hank you .
+
+m n040 [ s] : I ’m uh [ pause] working in t he Broadband Com m unicat ions
+Group
+m n040 [ fh] : and eh ,
+m n040 [ fh] : eh
+m n040 [ fh|s] : well , t he research t opics at t his m om ent is uh , [ pause]
+I P − eight y t raffic m onit oring and charact erizat ion and em [ pause] eh
+[ pause] t ool [ disfm arker] developing t ools uh for qualit y of service , eh
+[ pause] perform ance analysis .
+m n040 [ s] : That ’s eh [ disfm arker] [ pause] And we have several
+project s eh [ pause] bot h Spanish and European project s , ongoing
+m n040 [ fh|s^ e] : eh [ pause] in t his area .
+m n082 [ s^ bk] : OK .
+m n082 [ s^ ft ] : Thank you .
+m n082 [ s^ cc^ rt ] : And aft er t he t alk of [ pause] uh , Miguel , I [ pause]
+will [ pause] giv e [ pause] you [ pause] all [ pause] a few slides
+concerning t he project proposal .
+m n082 [ s^ cc] : I will um [ pause] say som et hing about in which
+direct ion it will go
+m n082 [ fh] : and
+m n082 [ fh] : uh
+m n082 [ s^ am ] : Maybe it was m y fault t hat I assum ed t hat t he point er
+of [ pause] Miguel [ pause] concerning UMTS services was [ pause]
+deploy ed t o everybody ,
+m n082 [ s] : but it was only sent t o m e ,
+m n082 [ s] : so in t he m eant im e everybody got , I believe , t his point er
+from m e ,
+m n082 [ fh] : and
+m n082 [ s] : m ay be we [ disfm arker] It ’s a hom ework , in principle , for
+t he nex t m eet ing , t o get [ vocalsound] [ pause] a lit t le bit fam iliar wit h
+t hese t hings .
+m n035 [ s] : Worse t han no work .
+m n082 [ fh] : And [ pause] um
+m n082 [ s^ t ] : so I believe we will not hav e [ pause] t oday a very hard
+t echnical discussion ,
+m n082 [ s^ t ] : m aybe m ore a few t opic and it em s we will focus in t he
+next days , unt il t he next m eet ing .
+m n082 [ s] : And when we are ready wit h our m eet ing .
+m n082 [ s] : Everyt hing is done .
+m n082 [ s^ t ] : Then , uh , we have t o read t hese num ber
+m n082 [ s^ df^ t ] : and we go around here , every m em ber .
+m n030 [ s^ bk] : OK .
+m n082 [ fh] : So .
+m n021 [ s^ bk] : OK .
+m n082 [ s^ co^ t ^ t c] : Miguel , please .
+m n021 [ s^ ft ] : Thank you .
+
+m n021 [ s] : Well , eh , I [ disfm arker] I hav e [ pause] prepared , eh , a
+really short t alk about som e of t he t opics
+m n021 [ s] : I [ disfm arker] I have been doing som e w som e research
+work [ pause] uh before com ing here .
+m n021 [ fh|s^ cc] : And eh , well , m ainly I will present
+m n021 [ s] : uh [ disfm arker] [ pause] Here you have m ore or less t he
+sket ch of t he present at ion .
+m n021 [ s^ cc^ rt ] : I will present som e ideas and som e concept s about
+[ pause] what ad − hoc net works are ,
+m n021 [ s] : about t he issues in m edia access cont rol in wireless
+net works ,
+m n021 [ s] : also about rout ing in such kind of net works
+m n021 [ fh|s^ cc] : and , eh , I will m ake som e com m ent s also about
+[ pause] uh [ pause] t he current st andards of wireless local area
+net works
+m n021 [ s^ cc] : and finally , I will present t he blueprint of [ disfm arker]
+of m y research project or m y research uh proposal here .
+m n021 [ fh|s] : So [ pause] t he first t hing is eh what an ad − hoc net work
+is .
+m n021 [ s^ df] : You know , uh , an ad − hoc net work is m ade of wireless
+nodes .
+m n021 [ s^ df] : These nodes of course can [ pause] be m obile nodes ,
+m n021 [ s^ df] : and , eh in t his net work t here is no [ pause] net work
+[ pause] infrast ruct ure .
+m n021 [ fh|s] : So [ pause] eh [ pause] t he only [ pause] act ive t hing we
+have is t he m obile nodes .
+m n021 [ fh] : And eh
+m n021 [ s] : end − t o − end com m unicat ion , is som et im es , uh [ pause]
+[ v ocalsound] done by direct com m unicat ion from one node t o t he
+ot her ,
+m n021 [ s^ df] : because [ pause] t hey can t alk t o each ot her .
+m n021 [ s] : But som et im es it is not possible , t his direct
+com m unicat ion , because nodes , end [ disfm arker] uh source or
+[ disfm arker] and dest inat ion nodes are um are t oo far away .
+m n021 [ s] : And in t his case , [ pause] it can be done , com m unicat ion
+can be done , by uh using m ult i − hub rout ing .
+m n021 [ fh] : So
+m n021 [ s] : an int erm ediat e , or a set of int erm ediat e nodes will
+[ pause] rout e or will forward t he packet from t he sender t o t he
+dest inat ion .
+m n021 [ fh] : So
+m n021 [ fh|s] : uh [ pause] in a sense , what we have in t his kind of
+net works , [ pause] is t hat , uh [ pause] nodes are as bot h arced as
+bot h uh [ pause] endpoint s and also rout ers of ot her neighboring
+nodes .
+
+m n021 [ s] : And t his m akes a uh difference from [ pause] ot her kind of
+net work .
+m n021 [ s] : And well , regarding [ pause] t he purposes of [ pause] what
+can t his kind of net work be used for , [ v ocalsound] eh [ pause] we can
+say t hat , well , cellular net works are infrast ruct ure − based net works ,
+m n021 [ s] : in t his kind of ad − hoc net works , we don’t have
+[ v ocalsound] any t hing uh , wit h t he except ion of t he net work nodes .
+m n021 [ s] : So , t his uh net work can be useful for eh [ vocalsound] uh
+[ pause] occasions where no available infrast ruct ure is present ,
+m n021 [ s^ e^ rt ] : like for exam ple , in [ disfm arker] in [ disfm arker] eh
+aft er som e kind of [ disfm arker] of [ disfm arker] eh um [ pause]
+cat ast rophe cat ast rophic event ,
+m n021 [ s^ e] : or , also when [ disfm arker] even when t here is a
+net work available , [ pause] we don’t want , for different reasons , t o
+use t he av ailable net work .
+m n021 [ s^ e] : This lat t lat er case can be , for ex am ple , t he use in
+m ilit ary sy st em s ,
+m n021 [ s^ e] : where [ pause] m aybe we don’t want t o use t he ot her
+[ disfm arker] t he enem y net work infrast ruct ure , for evident reasons .
+m n021 [ s^ bk] : Yeah .
+m n082 [ qw] : Hm m ?
+m n082 [ s] : But you can also , I believe , uh t o have an ad − hoc
+net work , where one node is t hen connect ing t o t he out er world .
+m n082 [ s^ df] : For inst ance , what I have in m ind , you have a car ,
+where y ou plug in different devices and t hey t alk t o each ot her , for
+inst ance ,
+m n082 [ s^ df] : but one device decided t o go t o t he G S M net work or
+GPS net work , or what ever kind of t hings .
+m n021 [ s^ na] : That ’s OK .
+m n082 [ s] : So t here ’s a cert ain kind of t ask uh , for one node wit hin
+t he ad − hoc net work t o provide connect ivit y t o t he out er world ,
+m n082 [ qy ^ d^ g^ rt ] : right ?
+m n021 [ s^ na] : That ’s O K .
+m n082 [ s^ bk] : OK .
+m n021 [ s^ na] : That ’s perfect , you know .
+m n082 [ b] : Yeah .
+m n021 [ s] : This [ disfm arker] in t his case , we will say t hat t his node is
+act ing as a [ disfm arker] as a gat ext ernal gat eway , from t his net work
+[ pause] t o connect t o ot her net works ,
+m n082 [ s^ bk] : Right .
+m n021 [ s] : and of course t he underlying [ pause] uh prot ocols can can
+be , of course , uh IP − based .
+m n021 [ fh] : Uh , OK .
+m n021 [ s] : Here you have sev eral [ disfm arker] several uh , proposed ,
+uh , scenarios for [ disfm arker] for used t his net works .
+m n021 [ s^ e] : When no net work is av ailable ,
+
+m n021 [ s^ bk] : OK ?
+m n021 [ s^ e] : And anot her [ disfm arker] anot her applicat ion , for
+ex am ple , NASA is [ disfm arker] is uh st udying , is uh t he use of t hese
+net works , t hese ad − hoc net works , for sending m ult iple probes , uh ,
+um [ pause] uh [ pause] m issions .
+m n021 [ s^ e] : So , for exam ple , all of you are aware of t his uh
+[ disfm arker] t he last At las , t he last successful uh Mars m ission ,
+m n021 [ s] : t he cellular vehicle was only one , and was uh walking
+around , uh roam ing around t he base st at ion , which in t his case was
+t he gat eway uh node of t his net work ,
+m n021 [ s] : but it was only one m obile node , of course .
+m n021 [ s] : Not hing prevent s ,
+m n021 [ s^ e] : except well m aybe t he cost , t o send not only one
+m obile rov er , but t en t ons of t hem , or [ disfm arker] [ pause] or at least
+uh sev eral of t hem .
+m n021 [ fh] : So , [ pause] uh
+m n021 [ s] : higher area could be covered , could be explored
+m n021 [ s] : and uh of course , all t he different nodes could also use
+som e kind of ad − hoc net working , , ad − hoc rout ing , t o ext end t he
+dist ance , t he m axim um dist ance , t han uh a single radio t ransm ission
+will [ disfm arker] would allow .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n082 [ %] : [ no m at ched cont ent ]
+m n021 [ s] : And in t he ot her case , or t he ot her area uh of
+[ disfm arker] of [ disfm arker] of applicat ion , [ pause] is t he so − called
+net work of sensors ,
+m n021 [ s^ e^ rt ] : where [ pause] we can deploy a set of sensors in a
+m ay be uninhabit ed area ,
+m n021 [ s^ e] : let ’s say , for ex am ple , t he forest ,
+m n021 [ s] : and we can uh t ake som e inform at ion
+m n021 [ fh|s^ e^ rt ] : uh , for exam ple for [ disfm arker] for fire − fight ing ,
+we can just launch from a plane , several sm all sensors ,
+m n021 [ fh] : and uh
+m n021 [ s^ e] : t hese sensors can be for ex am ple , uh checking t hat
+t here is no fire ,
+m n021 [ s^ e^ rt ] : t hey can hav e som e kind of uh let ’s say infrared
+t echnology sensor ,
+m n021 [ s^ df] : so we can cover a huge area wit h only a sm all set of
+[ disfm arker] of sensors , and wit hout any ot her infrast ruct ure .
+m n021 [ qy ^ d] : Yeah .
+m n030 [ h|qy^ rt ] : Um , is t hat really an ad − hoc net work ?
+m n030 [ s^ df] : Because t he sensors are not m oving .
+m n030 [ s^ ba^ df] : And I t hink it ’s [ disfm arker] m akes no sense wit h
+m ov ing sensors because t hen you don’t know where t he sensors are .
+m n021 [ s^ bk] : Yeah .
+m n030 [ fh] : So .
+
+m n021 [ fh] : Well ,
+m n021 [ s^ ba] : You know , it ’s an int erest ing quest ion .
+m n021 [ s^ ng] : Uh , t he [ disfm arker] t he m ain t hing about an ad − hoc
+net work is not t hat nodes m ov e .
+m n021 [ s] : It is t he way of t opology changes can happen .
+m n021 [ s^ df] : The idea t hat m m m , any change is possible at any
+giv en m om ent .
+m n021 [ s:qw] : But y ou can of course ask , " but if t he nodes are not
+m ov ing , what kind of t opology changes can we expect ? "
+m n030 [ s^ bk] : Yeah .
+m n030 [ s^ na] : That ’s it .
+m n021 [ fh|s] : Well , eh , t he t hing is t hat usually in [ disfm arker] in a n
+in a net work of sensors , what we hav e , or t he idea is t o have um , an
+im port ant num ber of sensors , and m aybe wit h a high filer rat e .
+m n082 [ b] : Yeah .
+m n021 [ s^ e] : m ay be t he bat t eries are uh [ pause] [ vocalsound]
+ex haust ed in som e nodes because m aybe uh t hey are not being able
+t o t ake uh , let ’s say , any sun t o recharge it s cells ,
+m n030 [ s^ bk] : OK .
+m n030 [ b] : Mm − hm m .
+m n021 [ s^ e] : uh m aybe som e of t hem can be uh just uh out of order
+[ pause] for ot her [ pause] eh env ironm ent a environm ent al condit ions .
+m n021 [ fh|s^ df] : So uh t he idea is t hat even when t hese nodes are
+not m ov ing , t hey can st art and st op working at uh , let ’s say , higher
+pace .
+m n021 [ s] : Then , uh [ pause] what will happen in a [ disfm arker] in a
+regular net work , uh in a net work where you don’t have or [ disfm arker]
+eit her m obilit y or uh t his uh on − off uh rat e , high rat e .
+m n082 [ b] : Mm − hm m .
+m n082 [ s^ co] : Let m e go back t o your uh uh exam ple .
+m n030 [ b] : Hm m .
+m n021 [ s^ bk] : Yeah .
+m n082 [ s] : Have in m ind som e rout ers are burnt [ pause] here , at ICSI
+or what ever kind of t hing ,
+m n082 [ qw] : what will happen t hen even in a fixed net work ?
+m n030 [ b] : Mm − hm m .
+m n082 [ fh|s] : So , if som e sensors are get t ing out of uh [ pause]
+serv ice and what ev er kind of t hing , so t he t opology has changed ,
+ev en if no node is m oving .
+m n030 [ s^ bk] : OK .
+m n030 [ s^ bk] : Mm − hm m ,
+m n082 [ fh] : Yeah .
+m n030 [ s^ bk] : OK .
+m n082 [ s] : And how t o provide t he connect ivit y and t he
+int ercom m unicat ion t hings wi wit hin t his net work .
+m n021 [ s^ ft ] : Thank you , Joe .
+
+m n030 [ s^ bk] : Yeah ,
+m n030 [ s^ bk] : I see .
+m n030 [ s^ bk] : Mm − hm m .
+m n021 [ fg] : Well ,
+m n021 [ fh|s] : uh , y ou know , and finally , uh , anot her non − m ilit ary
+applicat ions , where uh m aybe a net work is available , like for exam ple
+, a room like t his ,
+m n021 [ s^ e] : where we have , in fa in fact , a wired infrast ruct ure ,
+m n021 [ s] : but [ pause] t his uh [ pause] possible applicat ion of ad −
+hoc net works could be uh , any place , any m eet ing room , where we
+arriv e wit h our com put ers
+m n021 [ s] : and eh we just [ pause] can com m unicat e seam lessly
+[ pause] t o each ot her wit hout [ pause] any kind [ pause] of access
+point , any kind of uh m m m ex t ernal net work ,
+m n021 [ s^ df] : because [ pause] t he kind of work we want t o do is just
+only local based ,
+m n021 [ s^ df] : it ’s only t o chat t o each ot her or t o exchange files wit h
+t he person , which is [ pause] in front of us .
+m n021 [ s^ bk] : OK ,
+m n021 [ s] : but we n don’t want t o product [ disfm arker] pro provide ,
+eh , access t o t he int ernet or som et hing .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s] : And , of course , t he sam e eh [ disfm arker] t he sam e
+scenario , [ pause] could also happen in a place where t here is no
+[ pause] uh , infrast ruct ure available .
+m n021 [ s^ e] : Let ’s say a m eet ing room uh , in [ disfm arker] in t he
+m iddle of t he desert ,
+m n021 [ qy^ d^ f^ g] : OK ? ,
+m n021 [ s^ e] : wit hout any ot her net work .
+m n021 [ fh] : So
+m n021 [ s:s^ bk] : t he point [ disfm arker] or [ disfm arker] or t he quest ion
+could be for som e of us , t he idea of say ing " OK ,
+m n021 [ s:s^ na] : That sounds OK ,
+m n021 [ qh^ cs^ rt ] : but why [ pause] not t o use a longer t ransm ission
+range , so we can reach any dest inat ion in just one hop ? "
+m n021 [ s^ df] : This seem s t o m ake sense because , [ pause] well , uh
+we are [ pause] t his way avoiding all t he rout ing problem
+m n021 [ s] : t hat , well , we will t alk a lit t le bit uh , about rout ing
+[ pause] lat er ,
+m n021 [ fh] : but uh
+m n021 [ s^ ba] : it [ disfm arker] it seem s t hat i probably t hat t he
+problem is [ disfm arker] is not an easy one ,
+m n021 [ s^ df] : because uh a node ’s m oving , t he rout e is changing ,
+m n021 [ s^ df] : so w one can t hink t hat rout ing in t his uh scenario is
+[ disfm arker] is a com plex t hing .
+
+m n021 [ s] : But t he problem is [ pause] if w we just uh [ pause] t ry t o
+put m ore power in each t r t ransm it t er ,
+m n021 [ s] : so t his uh t ransm it t er can reach any dest inat ion [ pause]
+in only one hop ,
+m n021 [ s] : what we are doing is uh t o rising t he power needs of each
+node ,
+m n021 [ s] : and also we are reducing t he net work uh t hroughput ,
+m n021 [ s^ df] : because we are only allowing one t ransm issio one
+t ransm ission at a t im e .
+m n021 [ s^ df] : Because uh , well , we cannot allow several
+t ransm issions , several high − powered t ransm issions at t he sam e t im e
+m n021 [ s^ df] : because one is int erfering wit h t he ot her .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ %−] : We are [ disfm arker]
+m n021 [ s] : uh I t hink I ’m not t elling [ pause] it yet ,
+m n021 [ s] : but [ pause] we are assum ing [ pause] t hat we are using a
+single com m on channel for all t he nodes .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s^ df] : So t hat ’s why [ pause] we cannot allow several
+t ransm it t ers in t he sam e channel at t he sam e t im e .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s^ ba] : So , t he idea of hav hav ing a longer t ransm ission
+range is not [ pause] a good [ pause] one .
+m n021 [ s] : or at least it has t he drawbacks um , um , I was t elling you
+.
+m n021 [ fh|s] : Eh , let ’s speak a lit t le bit about t he m edia access
+issues in [ disfm arker] in wireless net works ,
+m n021 [ fh|s] : Uh , you know , t he [ vocalsound] easiest eh way t o
+[ disfm arker] t o show how t his works is [ disfm arker] or at least one of
+[ disfm arker] I t hink one of t he easiest [ disfm arker] is t hat t his drawing
+, or t his pict ure ,
+m n021 [ s^ df] : what [ disfm arker] what we have is a set of nodes ,
+each one at a different locat ion .
+m n021 [ s] : At [ disfm arker] at [ disfm arker] at a [ disfm arker] at an
+[ disfm arker] at a given m om ent t his eh node , t his dash node is
+[ disfm arker] is t ransm it t ing
+m n021 [ s] : and [ pause] uh , t he arrows are represent ing t his
+t ransm ission
+m n021 [ s] : and t he receiving nodes , t hese t hree nodes , are
+receiv ing t he t ransm ission ,
+m n021 [ s] : and I ’m t rying t o uh [ pause] show t he area , t he covered
+area , for [ disfm arker] of t his t ransm ission by m eans of t his uh dashed
+eh line circle .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ fh|s] : So , uh , any t ransm ission [ v ocalsound] has a m axim um
+t ransm ission range ,
+
+m n021 [ fh|s] : and uh in t he [ pause] sim pler way , we can see t his like
+a circle wit h t he cent er in t he t ransm it t er and a cert ain radius .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s] : The value of t his radius is uh [ disfm arker] [ pause] in
+principle , is a fixed value
+m n021 [ s] : and it depends on t he uh power of t he t ransm it t er .
+m n021 [ s^ bd] : Of course , uh [ pause] t his is only our uh [ pause]
+sim plife sim plified m odel
+m n021 [ s^ bd] : and of course t his can be uh [ pause] im proved uh
+[ pause] a lot ,
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s] : And in fact t he real behavior is not exact ly t his one ,
+m n021 [ s] : but uh for [ disfm arker] for what I want t o say it ’s
+[ disfm arker] it ’s [ disfm arker] OK ,
+m n021 [ s] : it ’s enough .
+m n021 [ qy ^ d^ f^ g^ rt ] : OK ?
+m n021 [ fh] : So
+m n021 [ qw] : what are t he differences uh , in t his [ disfm arker] in t his
+eh [ pause] wireless t ransm ission , regarding uh t o t he wireless
+[ disfm arker] t o t he wired ones .
+m n021 [ qw] : What [ disfm arker] what are t he d t he m ain differences .
+m n021 [ s] : Well , t he m ain differences com e from t he fact t hat , uh in
+uh [ disfm arker] in uh wireless t ransm ission we have a special dom ain
+we don’t have when we are using a wire for t ransm it t ing a signal .
+m n021 [ s^ df] : And t he point I ’m t ry ing t o show in t his pict ure , is t hat
+if for ex am ple , t his ot her node want s also t o t ransm it while t his one
+was t ransm it t ing , if we are using som e kind of carry det ect schem e ,
+like for ex am ple , CSMA , or som et hing uh uh derivat ed from it , t he
+problem is t hat t his node will hear t he g t he m t he t ransm ission m edia
+,
+m n021 [ s] : it won’t be able t o hear anyt hing
+m n021 [ s^ rt ] : so , he will conclude t hat [ pause] no ot her t ransm ission
+is going on ,
+m n021 [ s] : and he will st art t ransm it t ing .
+m n021 [ s] : And if he does , what will happen is t hat t his node and t his
+ot her node will also receive t his t ransm ission ,
+m n021 [ s] : and t his will produce , at least at t hese t wo nodes , a
+collision or a m a m a [ disfm arker] a re a bad recept ion .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s] : So none of t hese t wo sim ult aneous t ransm issions will be
+properly receiv ed at t his node nor at t his ot her node .
+m n021 [ s^ bk] : OK ,
+m n021 [ fh|s.%−−] : eh , t his problem is what is called [ disfm arker]
+m n021 [ s^ fa] : Oh , sorry .
+m n021 [ fh|%−−] : uh , t he [ disfm arker]
+m n021 [ s^ rt ] : I t hink t his is t he previous one ?
+
+m n021 [ s.%−] : This is t he Germ an [ disfm arker]
+m n082 [ fg] : Uh .
+m n035 [ s^ ar] : No .
+m n035 [ %−] : One
+m n082 [ s^ aa] : Yes ,
+m n021 [ s^ bk] : OK ,
+m n035 [ %] : [ no m at ched cont ent ]
+m n082 [ s] : t his one .
+m n021 [ s^ ft ] : t hank you .
+m n021 [ fh] : Eh
+m n021 [ s] : t his is what is called a " hidden t erm inal " problem .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s^ df] : because well uh t his node is not able t o hear t his ot her
+node [ pause] because of t he dist ance [ pause] uh , bet ween t hem .
+m n021 [ s] : But Uh , t his problem , as y ou can see in t he [ disfm arker]
+in t he pict ure , is uh really producing [ pause] at least som e recept ion
+problem at t hese t wo nodes .
+m n021 [ s^ bk] : OK ,
+m n021 [ s] : so it is [ disfm arker] it is a problem t hat we have t o address
+m n021 [ s] : and it is a new problem com pared t o wired uh m edia
+access cont rol .
+m n021 [ fh] : And , uh ,
+m n021 [ s] : well , som e devel som e prot ocols have been developed t o
+av oid t his problem and t o t ry t o address t his part icular behavior of
+wireless t ransm issions
+m n021 [ s] : and t he m ain idea is t o use som e kind of a reservat ion
+m echanism .
+m n021 [ fh] : So
+m n021 [ s] : we are um reserving a cert ain , and a specific uh , area of
+space so we can [ v ocalsound] guarant ee t hat nobody is t rying t o use
+t he sam e space at t he sam e t im e .
+m n021 [ fh] : OK ?
+m n021 [ s] : This is t he basic idea .
+m n082 [ b] : Mm − hm m .
+m n082 [ fg] : Um
+m n021 [ s^ bk] : Yeah ?
+m n082 [ qy^ cs] : Miguel , can you giv e som e exam ples for such kind of
+prot ocols ?
+m n021 [ s^ aa] : Yeah .
+m n021 [ s^ aa|s.%−] : Yeah , in fact [ disfm arker]
+m n082 [ s.%−] : One is really [ disfm arker] really [ disfm arker]
+m n021 [ s] : This one .
+m n021 [ s.%−−] : This one , n next slide is [ disfm arker]
+m n082 [ s^ bk] : OK .
+m n082 [ b] : Yeah , yeah .
+m n082 [ s^ bk] : OK .
+
+m n021 [ s^ bk] : OK ,
+m n021 [ s] : in eh t he [ disfm arker] t he [ disfm arker] t he m ain idea and
+[ disfm arker] and t he base of m ost of t his prot ocols , is what t his
+[ disfm arker] t he so − called RTS CTS uh dialogue .
+m n021 [ s.%−−] : The idea is t hat ,
+m n021 [ fh] : uh ,
+m n021 [ s] : of course , t his is only int ended for unicast t ransm issions ,
+m n021 [ s^ df] : I m ean , only for when a node want s t o t ransm it
+som et hing t o a neighbor node .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s] : But not t o broadcast . Uh , t o all t he nodes .
+m n021 [ s^ bk] : OK .
+m n021 [ s] : For t his [ disfm arker] for t his eh , work , t he t ransm it t er has
+t o send a [ disfm arker] a [ disfm arker] a reservat ion packet called RTS ,
+" Request To Send " , before eh [ pause] being able t o send dat a .
+m n021 [ s] : And t he receiver is ex pect ed t o ret urn back anot her
+packet [ pause] called CTS , " Clear To Send " , t o allow t he t ransm it t er
+t o send t he dat a .
+m n021 [ s] : If t he t ransm it t er receives successfully t he CTS packet
+from t he dest inat ion , t hen it will be able t o send eh t he packet , t he
+dat a packet .
+m n021 [ s] : If not , it will h uh , back off , and it will ret ry uh som et im e
+lat er .
+m n021 [ s^ bk] : OK ?
+m n021 [ s.%−] : So t he m ain idea [ disfm arker]
+m n082 [ qy ^ d^ rt ] : And t he m edia is [ disfm arker] is [ disfm arker] is st ill
+occupied during t hat period ,
+m n082 [ qrr.%−−] : or [ disfm arker] ?
+m n021 [ h] : Uh .
+m n021 [ s^ aa] : Yes .
+m n021 [ s^ aa^ r] : Yes .
+m n082 [ s^ bk] : OK .
+m n021 [ s^ df] : The idea is uh , if I want t o send you som et hing , I
+[ disfm arker] first of all , I need you t o answer m e t o be sure t hat you
+are m y neighbor now
+m n021 [ s^ df] : because m aybe y ou are off or m aybe you are uh t oo far
+away ,
+m n021 [ s^ df] : and also because t hat way Miguel , for exam ple , it m ay
+be is not being able t o hearing m e will hear your CTS and will know t hat
+y ou are about t o receive uh dat a from m e .
+m n021 [ qy^ d^ f^ g^ rt ] : OK ?
+m n021 [ fh] : So
+m n021 [ s] : in fact , forcing t he receiver t o t ransm it for a short period
+of t im e is also uh , used t o signal all t he uh receiver neighbors t hat a
+recept a recept ion is t aking place .
+m n021 [ s^ bk] : OK ?
+
+m n082 [ fg] : Yeah .
+m n082 [ s] : I didn’t get it .
+m n082 [ fh|qw] : Um , what happened when I sent an RTS packet ?
+m n082 [ qy ^ rt ] : Is t hen t he m edia st ill occupied for m e ?
+m n082 [ qrr] : Or , is anybody allowed also t o send RTS packet s ?
+m n021 [ s.%−] : Or ev erybody [ disfm arker]
+m n082 [ s^ df] : Because if I go t o an int erm ediat e node , m aybe you
+are com m unicat ing t o m e
+m n082 [ s^ df] : and I am t he int erm ediat e node t o t he final dest inat ion
+Michael .
+m n082 [ s^ df] : And Michael send also som e RTS packet in t he t im e
+and [ disfm arker] and [ disfm arker] uh uh uh Jordi t oo and what ever .
+m n021 [ s^ bk] : Yeah .
+m n082 [ s.%−−] : Then you will never com e t o a really [ disfm arker]
+m n082 [ s^ df] : t hen you ’re always exchanging RTS and non −
+acknowledgem ent packet s for t he RTS .
+m n021 [ s^ bk] : OK .
+m n021 [ s] : Two [ disfm arker] t wo t hings .
+m n082 [ s] : So t hat ’s uh [ disfm arker] t hat ’s uh , m y [ disfm arker] m y
+problem .
+m n021 [ s] : First of all , [ pause] eh , t his [ disfm arker] t his m echanism
+is only a m edia access cont rolled m echanism ,
+m n021 [ s] : so it is not connect ed [ pause] wit h rout ing [ pause] eh ,
+anyhow .
+m n082 [ s^ ba] : Then , fine .
+m n021 [ s] : And , second point ,
+m n082 [ s^ bk] : OK .
+m n021 [ fh] : eh
+m n082 [ s^ bu] : So it ’s only relat ed t o t he direct neighbor wit hin t he
+scope of t he [ pause] t ransm issions ?
+m n021 [ s.%−] : RTS [ disfm arker]
+m n021 [ s^ aa] : Yeah ,
+m n021 [ s] : RTS packet s can collide [ pause] t o [ pause] ot her RTS
+packet s .
+m n082 [ s^ bk] : OK .
+m n021 [ s] : So , [ pause] t his m echanism [ pause] is not [ pause] uh
+prev ent ing [ pause] collisions ,
+m n021 [ s] : it is prevent ing only dat a collisions .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n082 [ s^ bk] : OK .
+m n021 [ %−] : So t he [ disfm arker]
+m n021 [ s:s^ bk] : And [ disfm arker] and [ disfm arker] you can say " OK ,
+m n021 [ s:qw] : but what is t he [ disfm arker] what t he benefit is ? "
+m n021 [ s] : The benefit is t hat , eh RTS packet s and CTS packet s are
+short packet s ,
+m n021 [ s^ e] : really short packet s .
+
+m n021 [ s^ e] : Let ’s say eh [ pause] eh 30 byt es or less .
+m n082 [ s^ na] : I assum e so .
+m n082 [ b] : Yeah .
+m n021 [ s] : while dat a packet s can be m uch m or m uch bigger .
+m n021 [ s^ e] : Let ’s say uh one − K , five − K − s .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n082 [ b] : Yeah .
+m n021 [ fh] : So
+m n082 [ s^ ba] : Fine .
+m n021 [ s] : a collision in t his short packet [ pause] is only wast ing a
+sm all am ount of t im e .
+m n021 [ fh] : And , uh
+m n021 [ s] : if t hat way we can warrant y t hat t here is [ disfm arker] t here
+are [ disfm arker] t here is no collision uh uh , bet ween dat a packet ,
+well , t his [ disfm arker] t his is [ disfm arker] t his m eans a [ disfm arker] a
+huge eh increase in net work t hroughput ,
+m n021 [ s^ df] : because we well , we [ disfm arker] we only wast e really
+sm all t im e colliding .
+m n082 [ s^ bk] : OK ,
+m n021 [ qy^ d^ f^ g] : OK ?
+m n082 [ s] : but t hat m eans , in principle , t hat on t he MAC layer you
+have alway s a RTS CTS [ pause] packet bet ween neighboring nodes ,
+m n021 [ s^ aa] : Yeah .
+m n082 [ s] : and you send aft erwards t he dat a .
+m n082 [ s^ bu] : But t he dat a will be m aybe delayed in t he [ pause]
+int erm ediat e node because you have always be assured t o be uh s uh
+uh RTS and CTS packet s are changed before [ disfm arker] [ vocalsound]
+before you can forewarning t he dat a ,
+m n082 [ qy ^ d^ g^ rt ] : right ?
+m n021 [ s^ aa] : Yeah .
+m n021 [ s^ df] : It is a reservat ion m echanism ,
+m n082 [ s^ bk] : Yeah .
+m n082 [ s^ bk] : OK .
+m n021 [ fh] : so
+m n021 [ s] : if reserv at ion [ pause] doesn’t work OK , if uh one
+reservat ion don’t succeed t hen , uh , t his t ransm ission should have t o
+wait .
+m n082 [ s.%−] : Now t he p
+m n021 [ s^ e.%−−] : unt il t he reservat ion [ disfm arker]
+m n021 [ s^ bk] : OK ,
+m n021 [ s^ bk] : yeah ,
+m n021 [ s^ co.%−] : let m e [ disfm arker]
+m n082 [ s^ cs.%−−] : Maybe it ’s bet t er t o [ disfm arker] t o uh , [ pause]
+draw it on t he [ disfm arker]
+m n082 [ s^ ba] : Oops .
+m n021 [ s^ co.%−−] : l let m e [ disfm arker]
+
+m n082 [ fg|s^ cs] : So , m aybe m y idea first .
+m n082 [ qy ^ d^ rt ] : So t his is what , node one ?
+m n082 [ s] : This is node t wo
+m n082 [ s] : and t his is t he source ,
+m n021 [ s^ aa] : Yeah .
+m n082 [ s] : and t his is node t hree t hat is t he final dest inat ion .
+m n021 [ b] : Yeah .
+m n021 [ s^ co] : Fo − fo for forget [ disfm arker] forget about rout ing .
+m n082 [ %] : Yeah ?
+m n082 [ s^ bk] : Yeah , yeah .
+m n082 [ s^ aa] : OK .
+m n082 [ s^ cs] : But − but anyway , I would like t o do t hat in t he ad − hoc
+net work .
+m n082 [ s^ rt ] : This is m aybe t he sco t his is wit hin t he scope [ pause]
+of t his , uh [ pause] special net work .
+m n082 [ s^ df] : That m eans here t hat is uh wit hin t he t ransm ission
+power .
+m n021 [ s^ bk] : OK .
+m n082 [ s^ bu|qy^ d^ g^ rt ] : So if I send [ pause] an RTS , and get back
+, [ pause] um , a CTS , t hen he is allowed t o send dat a , right ?
+m n021 [ b] : Mm − hm m .
+m n021 [ s^ 2] : a CTS .
+m n021 [ s^ na] : That ’s OK .
+m n082 [ s] : So . In t he m eant im e , when he get s t his one , he also had
+t o send RTS [ nonv ocalsound] and t hen CTS
+m n082 [ s^ df] : because t his is t he next next scope of t he t ransm ission
+area ,
+m n021 [ b] : Mm − hm m .
+m n082 [ s|qy ^ d^ g^ rt ] : and t hen he can send t he dat a , right ?
+m n021 [ s^ bk] : OK .
+m n082 [ qy ^ bu^ d^ rt ] : That ’s t he case ?
+m n021 [ s^ na] : That ’s it .
+m n021 [ %−] : That ’s [ disfm arker]
+m n082 [ s^ bk] : Yeah ?
+m n082 [ s] : And t hat ’s what I m ean .
+m n082 [ s] : In t he m eant im e , he c st ill can get som e dat a here ,
+where he t ry t o get cert ain connect ivit y on t he MAC layer .
+m n021 [ s^ bk] : Mm − hm m .
+m n021 [ s^ bk|s^ nd] : Yeah , but eh [ pause] a node is only [ disfm arker]
+is only involved in one t ransm ission at a given t im e .
+m n021 [ fh] : So
+m n021 [ s^ df] : if now t wo has uh m m m answer wit h t he [ disfm arker]
+wit h t he CTS , it will be wait ing unt il t he dat a t hat has t o com e .
+m n082 [ qy ^ bh] : Yeah ?
+m n082 [ s^ bk] : OK ,
+m n021 [ qy^ d^ f^ g] : OK ?
+
+m n082 [ s^ rt ] : and t hen he t ry t o forward t his dat a .
+m n021 [ s^ aa] : Yeah .
+m n082 [ s^ e] : Aft er t hat .
+m n021 [ s^ df] : But n not before .
+m n082 [ s^ bu] : So he is definit ely first t o st op .
+m n082 [ s^ bu] : He has t o collect all t he dat a ?
+m n021 [ s^ aa] : Yeah .
+m n021 [ s^ aa|s.%−] : Yeah , you cannot [ disfm arker]
+m n082 [ qy ^ rt ] : Could it not be a lit t le bit st range
+m n082 [ s^ df] : because if t hat is st art ing a file t ransfer wit h m illions of
+byt es , he have t o collect all t he by t es before he forwarding t o
+[ disfm arker] t o what ever .
+m n021 [ s^ ar] : No , no , no .
+m n021 [ s^ df] : But [ disfm arker] we are [ disfm arker] we are t alking only
+about a dat a packet .
+m n082 [ qw^ rt ] : Huh ?
+m n082 [ s.%−−] : One dat a p
+m n021 [ s^ e] : at t he MAC layer .
+m n082 [ qy ^ bu^ d^ rt ] : He hav e t o do it for all dat a packet s ?
+m n021 [ s^ aa] : Yeah .
+m n082 [ s^ bk] : OK .
+m n082 [ s^ bk] : OK .
+m n082 [ s^ bu] : So but , in principle , [ pause] when he receives t he
+dat a packet t hen he [ disfm arker] The sam e applies for t he next dat a
+packet .
+m n021 [ s^ aa] : Yeah .
+m n021 [ s^ na] : All t he packet s ,
+m n021 [ s^ e^ na] : all unicast packet s .
+m n082 [ s^ bu] : but anyway in t he m eant im e he has t o forward t he
+packet t o t he final dest inat ion .
+m n021 [ s^ aa] : Yeah .
+m n021 [ s^ aa] : That [ disfm arker] t hat t rue .
+m n082 [ qy ^ d^ g^ rt ] : Right ?
+m n021 [ s^ aa^ r] : That ’s t rue .
+m n082 [ s.%−] : So it ’s act ing , in [ disfm arker] in prin
+m n021 [ s^ e] : But not in t he m eant im e .
+m n021 [ s] : Aft er receiving [ disfm arker] You know , in fact , probably
+t he rout ing prot ocol [ pause] will need t o check t he address
+[ disfm arker] t he [ disfm arker] t he let ’s say IP address , which is inside
+t he dat a packet ,
+m n082 [ b] : OK .
+m n082 [ b] : Yeah .
+m n021 [ fh] : so ,
+m n021 [ s] : y ou cannot [ disfm arker] u usually you cannot , uh , read
+t he dat a packet unt il you [ disfm arker] [ pause] t he recept ion is over .
+m n021 [ qy^ d^ f^ g] : OK ?
+
+m n021 [ s^ df] : because [ pause] usually your net work hardware only
+prov ides you a copy of a packet aft er ou a [ disfm arker] a successful
+recept ion
+m n021 [ s^ df] : and usually you know t hat recept ion is successful if
+ev ery bit has passed t he CRC check .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s] : You hav e checked t hat t he [ disfm arker] t hat t his fram e
+has receiv ed [ pause] uh wit hout errors .
+m n082 [ %] : Naja t o [ disfm arker] t o [ disfm arker]
+m n082 [ b] : Yeah .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n082 [ s^ aa] : Mm − hm m .
+m n082 [ s^ aa] : Yeah , @ @ .
+m n082 [ s^ bk] : OK .
+m n021 [ fg] : So
+m n030 [ fg|s] : Um , a furt her quest ion .
+m n021 [ s^ bk] : Yeah .
+m n030 [ fh] : Um .
+m n021 [ s^ ba] : That ’s OK .
+m n030 [ qy ] : Am I right t hat t his um dialogue does not prevent um any
+dist urbance of ot her nodes in t he um sending range of , yeah , N − one
+.
+m n021 [ s^ aa|s^ co] : Yeah , let m e [ disfm arker] let m e put som e
+special represent at ion of what we are doing .
+m n030 [ %−] : S
+m n021 [ s^ bk] : OK .
+m n021 [ s^ rt ] : This is t he t ransm it t ing [ pause] node ,
+m n021 [ s^ rt ] : t his is t he receiving [ pause] node ,
+m n021 [ s] : and t hese t wo areas , of course , t here ’s som et hing like
+t his , are t he uh places of t he [ pause] t ot al space where you can hear
+t he [ disfm arker] Here , t his one is t he RTS and t his one is t he CTS .
+m n030 [ s^ bk] : Mm − hm m .
+m n021 [ s.%−−] : So , any node ,
+m n021 [ s] : for exam ple , t his node [ pause] is a neighbor of t he
+receiv ing node ,
+m n030 [ s^ bk] : Mm − hm m .
+m n021 [ s] : but it is not a neighbor of t he t ransm it t ing node .
+m n030 [ s^ bk] : Yeah .
+m n030 [ s^ bk] : That ’s it .
+m n021 [ s] : So when t his node hears t he CTS t ransm ission t hat is
+perform ed by t he receiver , t his will be uh [ pause] inform ed , t hat a
+recev a recept ion is t aking place in [ disfm arker] in [ disfm arker] in it ’s
+area .
+m n030 [ b] : Mm − hm m .
+m n030 [ b] : Mm − hm m .
+m n021 [ qy^ d^ f^ g] : OK ?
+
+m n021 [ fh] : So
+m n021 [ s] : in fact , t his node will avoid any furt her t ransm ission unt il
+uh t his recept ion , t hat will st art in [ disfm arker] in a m om ent , is over .
+m n030 [ s] : But t hen t his node , um , t his t ransm ission is uh abort ed .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n082 [ s] : And delayed .
+m n030 [ s] : And so t here ’s no advant age t o uh [ disfm arker] if it ’s
+abort ed , by [ disfm arker] by any dat a packet s .
+m n082 [ b] : Yeah .
+m n030 [ s] : So t his um node has t o st op each t ransm ission .
+m n021 [ s^ aa] : Yeah .
+m n030 [ fh|s] : So , even t he at − t he − m om ent − ongoing t ransm ission .
+m n021 [ s^ bk] : Mm − hm m .
+m n030 [ qy^ g^ rt ] : Is t hat right ?
+m n021 [ s^ aa] : Yeah .
+m n030 [ s^ bu] : So , his t ransm ission is abort ed .
+m n082 [ s] : Yeah , but t his is t y pical for MAC layer prot ocols , you know
+.
+m n021 [ %−−] : Not [ disfm arker]
+m n021 [ s^ ar] : No .
+m n021 [ s^ ar^ r] : No .
+m n082 [ %−] : That ’s [ disfm arker]
+m n021 [ s^ co] : Let m e [ disfm arker] let m e [ disfm arker] let m e
+[ disfm arker] show you one t hing .
+m n021 [ s|qy^ d^ g^ rt ] : If t his node was t ransm it t ing before , it should
+uh it should ha uh [ pause] t ransm it an RTS packet in advance , OK ?
+m n030 [ s^ bk] : Mm − hm m .
+m n030 [ s^ bk] : Mm − hm m .
+m n021 [ s] : So t his node should hear it before .
+m n030 [ s^ aa] : Yeah .
+m n082 [ b] : Yeah .
+m n030 [ s^ aa] : That ’s right .
+m n082 [ b] : Yeah .
+m n030 [ s^ bk] : Mm − hm m .
+m n021 [ s] : So t his node [ pause] is [ disfm arker] W won’t be sending
+t he eh eh CTS packet t o t he t ransm it t er .
+m n030 [ s^ bk] : OK .
+m n030 [ b] : Yeah .
+m n082 [ b] : Yeah .
+m n030 [ b] : Mm − hm m .
+m n021 [ s] : So t his t ransm ission [ pause] won’t t ake place .
+m n030 [ s^ bk] : OK ,
+m n030 [ s^ bk] : yeah .
+m n082 [ b] : Yeah .
+m n082 [ s] : It ’s alway s t rue t hat only [ pause] one node get s a m edia
+access , for one fram e .
+
+m n030 [ b] : Mm − hm m .
+m n030 [ b] : Mm − hm m .
+m n082 [ s] : That ’s t he point .
+m n021 [ s^ aa] : M Yeah .
+m n082 [ s] : We always said " from dat a "
+m n082 [ s] : but it ’s really one fram e .
+m n021 [ s^ bk] : Yeah .
+m n082 [ fh] : Yeah ,
+m n082 [ fh] : OK .
+m n021 [ s] : And , in fact , uh t here is anot her det ail ,
+m n021 [ s] : it is not uh uh uh uh in [ disfm arker] on t he [ disfm arker] on
+t he slide ,
+m n021 [ s^ df] : and it is t hat bot h t he RTS and t he [ pause] CTS packet
+uh , have a [ pause] field , a cont rol field where [ pause] t he [ pause]
+t ot al lengt h of t he dat a packet is shown .
+m n030 [ s^ bk] : Mm − hm m .
+m n021 [ fh] : So
+m n021 [ s] : when y ou hear one uh CTS or one uh RTS packet , you
+know t hat t he fram e t hat t hey are t rying t o t ransm it [ disfm arker] or ,
+t hat t his one is t rying t o t ransm it t his one [ pause] is about t o receive
+[ disfm arker] You know t he lengt h .
+m n021 [ s] : You know t he bit rat e ,
+m n030 [ b] : Mm − hm m .
+m n021 [ s] : so y ou know t hat t he am ount of t im e you have t o wait unt il
+y ou can t ry t o get t he cont rol , or t t ry t o send your own t ransm ission .
+m n030 [ b] : Mm − hm m .
+m n030 [ s^ bk] : OK ,
+m n030 [ s] : but t his scenario is also nov uh , only working if um bot h or
+all nodes hav e t he sam e range of t ransm ission .
+m n030 [ s^ df] : So , t he s sam e radius of t he sending range .
+m n021 [ h|s^ aa] : Mm m , yeah .
+m n030 [ s^ bu] : So ot herwise um t his one node m aybe [ pause] um
+[ pause] would hear [ pause] his neighbor but not vice versa .
+m n021 [ h|s^ nd] : Uh , well , we are assum ing t hat uh m m m all t he
+[ disfm arker] all t he t ransm issions are bidirect ional .
+m n021 [ fh|s^ am ] : I m ean , uh you know it depends .
+m n021 [ s^ am ^ df] : It depends m ainly on [ disfm arker] on [ pause] t he
+ant enna gain and t he t ransm ission power and t he receiver uh [ pause]
+t hreshold .
+m n030 [ s^ bk] : Mm − hm m .
+m n030 [ s^ bk] : Mm − hm m .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n082 [ b] : Uh − huh .
+m n030 [ s^ ng] : But I ’m t hinking about t his exam ple you gave [ pause]
+before .
+m n082 [ s^ am ] : Maybe [ disfm arker] m aybe you are right .
+
+m n021 [ %] : S
+m n021 [ s] : So what [ disfm arker] what we are assum ing is t hat all t he
+nodes behave ex act ly t he sam e regarding t o uh t ransm ission and
+receiv ing signals .
+m n082 [ b] : Yeah ,
+m n082 [ s] : but , Miguel , t his is a good point from [ disfm arker] from
+Diet m ar ,
+m n030 [ b] : Yeah .
+m n082 [ s] : but m ay be here is a wall .
+m n082 [ s] : And t his guy is behind t he wall , so [ pause] his
+t ransm ission rat e is som et hing like t hat .
+m n021 [ fg] : Yeah but [ disfm arker] but [ disfm arker]
+m n021 [ fg] : yeah
+m n021 [ s] : but t he [ disfm arker] but in t his case , you know t his
+[ disfm arker] t his idea , t his uh geom et ric idea , can be [ disfm arker]
+can be , if y ou want , uh deform ed because of som e obst acles .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s] : But t his wall is working bot h ways .
+m n021 [ s^ df] : It is not only m aking t his node not t o hear t his one , it
+’s also m aking t his one not t o hear t his node .
+m n030 [ s.%−] : But one of t he [ disfm arker]
+m n021 [ fh] : So
+m n021 [ s.%−−] : if t hey [ disfm arker]
+m n021 [ s] : Because of t his wall , if t hey are not neighbors , well , we
+can represent t his put t ing t his node like here .
+m n030 [ s] : But one of t he um senders could be m uch st ronger t han
+t he ot her one .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s^ ar|s^ ng] : No , but t his is not t he scenario we are assum ing
+.
+m n030 [ fg] : So [ disfm arker]
+m n030 [ fg] : OK .
+m n030 [ s] : So t hat was m y quest ion .
+m n021 [ s^ bk] : Yeah .
+m n082 [ b] : Mm − hm m .
+m n082 [ b] : OK .
+m n021 [ s] : We are assum ing all t he nodes are exact ly t he sam e .
+m n030 [ s^ bk] : OK .
+m n021 [ fh|s] : Uh , so t hey t ransm it t he sam e power ,
+m n021 [ s] : and t hey uh have t he sam e uh uh sensit ivit y .
+m n030 [ s^ bk] : Mm − hm m .
+m n021 [ s.%−−] : So t hey can hear [ disfm arker]
+m n030 [ b] : OK .
+m n021 [ s^ e] : If [ disfm arker] if [ disfm arker] if I can hear you , you can
+hear m e .
+m n030 [ b] : Mm − hm m .
+
+m n021 [ s] : and [ disfm arker] and t he opposit e works also .
+m n030 [ b] : Mm − hm m .
+m n021 [ s^ bk] : OK ,
+m n021 [ s^ e] : if you cannot hear m e , I cannot hear you .
+m n030 [ fg] : But [ disfm arker]
+m n030 [ b] : Mm − hm m .
+m n030 [ s^ bk] : OK .
+m n030 [ s] : It ’s a assum pt ion it ’s [ disfm arker] it ’s clear .
+m n030 [ qr.%−−] : But on t he ot her hand , um , in a real world it isn’t , or
+[ disfm arker] ?
+m n030 [ fh] : Um .
+m n021 [ qy^ d.%−−] : In a ?
+m n030 [ s.%−] : In real scenarios , uh , you have t o [ disfm arker]
+m n035 [ s.%−] : It [ disfm arker] It is act ually [ disfm arker]
+m n021 [ h|s^ nd] : Uh [ pause] not really ,
+m n021 [ s^ df] : but also depends on uh y ou know , for exam ple power
+relat ionships , and ant enna relat ionships .
+m n030 [ s^ aa] : Yeah ,
+m n021 [ %−−] : You know , eh
+m n030 [ s^ na] : eh t hat ’s it .
+m n021 [ %−] : Because [ disfm arker]
+m n030 [ s.%−−] : A car or [ disfm arker]
+m n021 [ s.%−−] : because for ex am ple , uh [ pause] one kind of t hing ,
+m n021 [ s^ bk|s] : OK , if I use a direct ional ant enna , t his is m aking
+t hat in one direct ion ,
+m n030 [ s^ bk] : Yeah .
+m n030 [ b] : Mm − hm m .
+m n021 [ s] : I ’m get t ing m ore uh [ pause] let ’s say m ore gain t han
+anot her .
+m n030 [ b] : Yeah ,
+m n021 [ s] : And t hat ’s t rue
+m n030 [ s^ bk] : OK .
+m n021 [ s] : but t h t hat [ disfm arker] What is also t rue [ pause] is t hat
+one direct ional ant enna works bot h ways .
+m n030 [ %−] : That [ disfm arker]
+m n030 [ s] : You ’re not assum ing t his .
+m n030 [ b] : Yeah .
+m n021 [ s^ df] : It provides you [ pause] m ore gain [ pause] when you
+are t ransm it t ing but also when you are receiving .
+m n021 [ s] : so , in general , in general ev en when [ disfm arker] if t here
+[ disfm arker] uh [ pause] if t here i are different ant enna gains , uh , you
+’re get t ing m ainly bidirect ional channels .
+m n021 [ s^ df] : Only when you have a an im port ant uh power difference
+is when l um , t he com m unicat ion can only work one way .
+m n030 [ b] : Yeah .
+m n030 [ s^ bk] : OK .
+
+m n021 [ s^ e] : For exam ple , y ou have one big st at ion wit h uh
+[ v ocalsound] a lot of t ransm ission power ,
+m n021 [ s^ e] : and t hen you have a really sm all m obile uh t hing t hat
+can hear perfect ly t he signal from t his uh uh bigger st at ion ,
+m n030 [ b] : Yeah .
+m n030 [ s^ bk|s] : Yeah , a cellular phone and a car .
+m n021 [ s^ e] : but it has not enough power t o t ransm it som et hing t hat
+can be heard here .
+m n030 [ b] : Mm − hm m .
+m n030 [ b] : Yeah .
+m n021 [ fh] : So um [ pause]
+m n021 [ s] : But t his [ disfm arker] t his [ disfm arker] t his is not our
+scenario .
+m n030 [ fg] : OK .
+m n021 [ s^ df] : In our scenario , all t he nodes are exact ly t he sam e .
+m n030 [ b] : Mm − hm m .
+m n030 [ b] : OK .
+m n021 [ s^ df] : They [ disfm arker] t hey have t he sam e uh signal uh
+behav ior .
+m n030 [ b] : Mm − hm m .
+m n021 [ fh] : So
+m n021 [ s] : t his is not a problem for us ,
+m n021 [ s^ e] : at least for t he m om ent ,
+m n021 [ s^ am ^ e] : m aybe lat er we ’ll see som e differences .
+m n021 [ fh] : So
+m n021 [ s] : You know , t he idea is t hat t his m echanism is a reservat ion
+m echanism .
+m n021 [ s] : And what we are doing here is t ry t o reserve t he area of
+space we are covering
+m n021 [ s] : and eh here ’s where our [ pause] som e of our work
+[ pause] is done .
+m n021 [ s] : The m ain idea [ pause] for [ disfm arker] for our work , is well
+, [ pause] if we are using t his reservat ion m echanism , we are reserving
+an area of space for a single t ransm ission .
+m n021 [ fh|s] : Uh , if t his area is bigger t han what is really needed , we
+are , som ehow , wast ing a lit t le bit of space .
+m n021 [ fh] : So , uh
+m n021 [ s] : our first eh work in t his area [ pause] was [ pause] t o st udy
+different m echanism s [ pause] t o t ry t o adjust [ pause] t hese
+t ransm ission values ,
+m n021 [ s] : t hese uh t he area , t he covered area , [ pause] for a single
+t ransm ission , t rying t o get a m inim um value ,
+m n021 [ s] : so [ pause] we can [ pause] reduce [ pause] t he not − used
+space for ot her sim ult aneous t ransm issions .
+
+m n021 [ s] : And t his will [ pause] lead us t o a [ disfm arker] a bet t er
+[ disfm arker] [ pause] t o a bet t er net work t hroughput , t o higher
+num ber of sim ult aneous t ransm issions .
+m n021 [ s] : And , we have , uh m m m , worked about t his problem
+[ pause] uh , in t wo different uh ways .
+m n021 [ s] : One of t hese ways has been [ pause] t ry t o find a
+m echanism [ pause] t o uh calculat e [ pause] an opt im al value [ pause]
+for t he t ransm ission range [ pause] uh , and t o get [ pause] an equal
+v alue for all t he t ransm it t ers .
+m n021 [ fh|s] : So , [ pause] t he idea in t his first work [ pause] was
+[ pause] t o obt ain [ pause] a fixed value [ pause] for t he t ransm ission
+range .
+m n021 [ s.%−−] : And t he second eh work , uh , it is about [ disfm arker]
+m n021 [ s^ ba] : Oops !
+m n021 [ s] : It is about uh , an algorit hm t o adapt t he t ransm ission
+power for every for every single t ransm ission .
+m n021 [ fh|s] : So , uh , in t his second part of our work , [ pause] we are
+using a different value for every single t ransm ission .
+m n021 [ fh] : So .
+m n021 [ s] : First point , [ pause] what we have proposed is [ pause] a
+way [ pause] t o obt ain [ pause] t he t ransm ission [ pause] range [ pause]
+uh [ pause] for uh for an escenario where we know t he num ber of
+nodes
+m n021 [ s^ rt ] : and t he area of deploym ent , [ pause] we have a
+[ disfm arker] a fix ed area , where we deploy all t he nodes ,
+m n021 [ s^ rt ] : we have a fixed num ber of nodes ,
+m n021 [ s] : and , [ pause] uh we assum e t hat t hese nodes are m oving
+[ pause] freely around t his [ disfm arker] t his area
+m n021 [ s] : and , uh , what we have present ed , [ pause] is a
+m echanism [ pause] t o uh calculat e [ pause] t o obt ain [ pause] t he eh
+[ pause] t ransm ission [ pause] radius t hat [ pause] provides at t he
+sam e t im e [ disfm arker] t hat prov ide us [ pause] t he bet t er t hroughput
+possible [ disfm arker]
+m n021 [ s^ bsc] : t he bet t er possible t hroughput ,
+m n021 [ qy ^ d^ f^ g.%] : OK ?
+m n021 [ s^ e] : but wit hout our net work get t ing part it ioned ,
+m n021 [ s^ e] : which is a problem t hat we are t rying t o avoid .
+m n021 [ s^ df] : You know , if we have , because of node m ot ion , we
+have som et hing like t his ,
+m n021 [ s] : t his is t he deploym ent area of [ disfm arker] or [ disfm arker]
+or node ,
+m n021 [ s] : and if we have som e nodes here and som e nodes here ,
+[ pause] well m aybe t hese nodes in t his area , cannot reach t he nodes
+on t his ot her area .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ qw] : Uh , so [ pause] what can we do t o avoid t his ?
+
+m n021 [ s] : Of course we can choose uh our t ransm ission values
+longer enough t o reach from [ pause] so t he nodes from t his area will
+be able t o reach t he nodes on t his ot her area .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s] : But , again , we can assum e t hat eh if uh , nodes are
+m ov ing , [ pause] uh [ pause] m ore or less uh [ pause] in a random
+fashion , t his configurat ion is not very likely t o happen .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s] : So [ pause] t he point we ha what we have done [ pause] is
+t o present a m echanism would pr which provides [ pause] uh [ pause]
+one uh [ pause] v alue for a given uh [ pause] m m m [ pause] probabilit y .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s] : So we can say t hat uh [ pause] a given eh value are
+[ pause] @ @ for [ disfm arker] for t he t ransm ission range , will be OK for
+a giv en num ber of nodes , if [ pause] we [ disfm arker] Sorry . for a
+cert ain , for a cert ain probabilit y .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s] : So , t he point is uh , we cannot say t hat t his is not gonna
+happen ,
+m n021 [ s^ df] : what we can say is t his is not very likely t o happen ,
+[ pause] if nodes m ove uh uh random .
+m n082 [ s^ bk|s] : Yeah , but um Miguel , [ pause] if uh in t he previous
+slide y ou m ent ioned t hat you uh are working also on adapt ive power
+cont rol .
+m n021 [ qy ^ d^ f^ g] : OK ?
+m n021 [ s^ bk] : Yeah .
+m n021 [ s^ aa] : Yeah .
+m n082 [ qy ] : Is it not possible t hen , if I send som et hing and I could
+not find any neighbor because one of t he clust er below ,
+m n021 [ s] : This is t he next .
+m n021 [ s^ bk|%−] : Yeah , t h
+m n082 [ qy] : is it not possible t o ext end t he power unt il t he m axim um
+m n021 [ %] : u
+m n082 [ s^ bu] : and if uh I do not have any connect ivit y wit h t he
+m ax im um of power , OK , t hen I ’m lost any way .
+m n021 [ %] : e
+m n021 [ %] : e
+m n021 [ s^ aa] : Yeah ,
+m n082 [ b] : Yeah , yeah .
+m n021 [ s] : but [ disfm arker] t his is [ disfm arker] t his is a way t hat it is
+[ disfm arker] it is being explored by ot her researchers ,
+m n021 [ s^ df] : but not [ disfm arker] not uh , by m e .
+m n021 [ fh|s] : But uh , t here is , uh [ pause] one , at least one person
+who is [ disfm arker] who is doing what t hey call " t opology cont rol " ,
+m n082 [ s^ bk] : Mm − hm m .
+
+m n021 [ s] : and t his is , uh [ pause] relat ed t o [ disfm arker] t o uh t he
+cont rol of t he t ransm ission power t o get uh [ pause] cert ain propert ies
+uh from y our net work ,
+m n021 [ s^ e] : like for exam ple , t hey are [ disfm arker] what t hey are
+doing eh is eh som e people working for BBN
+m n021 [ s^ e] : Ram Ram anat an is t he researcher ,
+m n082 [ s^ bk] : Mm − hm m .
+m n021 [ s^ e] : and t he art icle is [ disfm arker] is uh I t hink from
+[ disfm arker] from t his year ,
+m n021 [ fh] : and eh
+m n021 [ s] : t hese guys are doing eh what t hey call uh " B − connect ed
+net works " ,
+m n021 [ s^ df] : t hey are t rying all t he net work nodes t o have at least
+t wo neighbors .
+m n082 [ s^ bk] : OK ,
+m n082 [ s^ bk] : m m − hm m .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s^ df] : And t hey are cont rolling t he power t o eh t his g uh
+m m m get t his [ disfm arker] [ pause] t his num ber of neighbors ,
+m n021 [ s] : but t his is not what I am doing
+m n021 [ s] : and uh t he kind of power cont rol I am doing uh , um , is
+m ore or less [ pause] present ed here ,
+m n021 [ s^ df] : and what we are doing is t o t ransm it uh [ pause] wit h
+t he m inim um power needed depending on t he dist ance t o t he
+dest inat ion .
+m n021 [ qy ^ d^ f^ g] : OK ?
+m n021 [ s] : Every t ransm ission is supposed t o be done t o a cert ain
+neighbor node
+m n021 [ s] : we cull t he neighbors t o t hese nodes which are [ pause] uh
+closer t han a given dist ance ,
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s] : and because we want ed t o [ disfm arker] t o com pare our
+algorit hm wit h som et hing , we needed t o com pare it wit h t he no power
+cont rol ,
+m n021 [ s^ e] : which is t he usual uh m echanism at t his eh m edia
+access cont rol lev el .
+m n021 [ s] : So , what we are doing here is t o [ disfm arker] t o com pare
+our m echanism against t he no power cont rol ,
+m n021 [ s.%−−] : but again we have t o fix [ disfm arker]
+m n021 [ s] : in order t o be able t o com pare , we have t o fix a given
+what ev er , but a given uh m axim um t ransm ission range t o com pare .
+m n021 [ fh|s] : And , uh [ pause] what we are doing is [ pause] we are
+uh [ pause] t aking t he advant age t hat we are u we have t his RTS CTS
+dialogue , in adv ance , before sending t he dat a , t o uh [ pause] agree
+wit h t he receiver , t he power level he is willing t o get from us .
+m n021 [ qy ^ d^ f^ g] : OK ,
+
+m n021 [ s] : so every single t ransm ission [ disfm arker] in every single
+t ransm ission we are checking wit h t he receiver t he power level we
+have t o use for t he dat a t ransm ission .
+m n021 [ s] : That ’s t he m ain t hing .
+m n021 [ s.%−] : And [ disfm arker] as , uh [ disfm arker]
+m n082 [ qw.%−−] : And how do you [ disfm arker]
+m n082 [ s^ fa] : sorry Miguel [ disfm arker]
+m n082 [ qw^ rt ] : how do you check if [ disfm arker] if t he nodes are
+m ov ing random ly ?
+m n021 [ s] : Well , uh we are assum ing t hat e y for [ disfm arker] at least
+for uh [ pause] v eh uh you know , uh , car and [ disfm arker] and walking
+or [ disfm arker] or people riding a m o m ot orcycle t he f um fram e lengt h
+is so sm all t hat only um [ pause] v ery [ disfm arker] very sm all um
+[ pause] space can be [ disfm arker] can be eh t ravelled while t he
+t ransm ission is t aking place .
+m n021 [ fh] : You know ,
+m n021 [ s^ e.%−] : in one m illisec
+m n082 [ s^ bk] : Yeah , OK ,
+m n082 [ s] : m ay be t hat ’s applied for RTS CTS ,
+m n082 [ qy ^ d^ ng^ rt ] : but for t he real fram e ?
+m n021 [ s^ aa] : Yeah ,
+m n021 [ s.%−] : well , you just t ake t he [ disfm arker]
+m n082 [ s^ df] : The fram e could also be uh what ever , [ pause] I don’t
+know but [ pause] a few hundred by t es , you know , t hat t akes a lit t le
+bit t im e .
+m n021 [ %−−] : Let ’s [ disfm arker] let ’s [ disfm arker]
+m n021 [ s^ ar|%−] : no but [ disfm arker]
+m n021 [ s^ bk|s] : Yeah but , i let ’s say y ou have one kilobyt e .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s^ e] : One kilobyt e is uh [ pause] eight uh bit s .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n082 [ s^ bk] : Mm − hm m .
+m n021 [ fh|s] : And eh , if you are t ransm it t ing at , let ’s say , uh at one
+m egabit per second , t his m eans one m icrosecond per bit .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s] : So t his only is t aking eight m illiseconds ,
+m n021 [ s^ e] : which is not a lot of t im e if you are t rav elling , let ’s say ,
+at uh one hundred kilom et ers per second .
+m n082 [ s^ ar|%−−] : No , s
+m n021 [ s] : Oh per [ disfm arker] per hour .
+m n082 [ s^ ar|s^ fa] : no sorry
+m n082 [ s^ na] : m Yeah , t hat ’s right .
+m n021 [ s^ fa] : Sorry .
+m n082 [ s] : But first of all it t ook place RTS CTS ,
+
+m n082 [ s] : and t here could be , y ou m ent ioned , if it ’s st ill occu if t he
+m edium is st ill occupied by anot her one , it will be delayed anyway t o a
+random ly t im e .
+m n021 [ s^ aa] : Yeah ,
+m n021 [ s^ na] : it will be delay ed
+m n021 [ s] : but you will st art from scrat ch again .
+m n021 [ s^ df] : I m ean , it will be a st art wit h anot her RTS CTS .
+m n082 [ s^ bk] : Oh ,
+m n082 [ fg] : so !
+m n082 [ s^ bk] : OK ,
+m n082 [ s^ bk^ r] : y OK .
+m n082 [ s^ bk^ r] : OK .
+m n082 [ s^ bk] : I see .
+m n082 [ s^ bk] : Yeah .
+m n082 [ s^ bk] : OK .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ fg|s.%−−] : But , anyway , [ pause] uh , well , depending on
+[ disfm arker] on t he net work , you now , t he [ disfm arker] t he
+[ disfm arker] t he [ disfm arker] t his [ disfm arker]
+m n021 [ s^ cc^ t 1] : I will have t o t ranslat e t his ,
+m n021 [ fh] : uh
+m n021 [ s^ t 1.%−−] : It shou should be som et hing [ pause] ipsh
+m n021 [ s^ t 1.%−−] : So , t his should be som et hing like
+m n021 [ fh] : uh
+m n021 [ s^ t 1] : t hirt y m et ers per second .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n082 [ s^ aa|s^ na] : Oh yeah , som et hing like t hat .
+m n021 [ s] : So in [ disfm arker] in eight m illiseconds , well , t he am ount
+of [ disfm arker] of space you are t ravelling is not t oo m uch .
+m n082 [ s^ t 3] : It ’s OK .
+m n021 [ s^ e] : For m ost of [ disfm arker] of [ disfm arker] of uh [ pause]
+t he wireless t echnologies ,
+m n021 [ s^ e] : m ay be not for all of t hem ,
+m n021 [ s^ bk] : OK ,
+m n021 [ s^ df] : but [ disfm arker] I ’m [ disfm arker] [ pause] of course , I
+’m also uh using a conservat ive value for t he t ransm ission speed ,
+m n021 [ s] : now you can get m uch m ore speed t han [ disfm arker]
+speedier int erfaces t han t his one ,
+m n021 [ s] : but [ disfm arker] t he t hing is , uh , t hat we are assum ing
+t hat for a given t ransm ission , we can uh [ pause] consider t he net work
+as if it were built of a set of st at ic nodes .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s] : Mot ion will be im port ant for rout ing ,
+m n021 [ s^ df] : but for t he m edia access cont rol level , we are
+considering t hat m ot ion can be con [ pause] is not [ disfm arker] is not
+im port ant .
+
+m n021 [ qy^ d^ f^ g] : OK ?
+m n082 [ s] : Yeah , what I t hink [ disfm arker] Maybe som e , uh [ pause]
+cases why I go t his way wit h m y node , and suddenly , I s go out of t he
+scope of t he t ransm ission area ,
+m n082 [ s^ df] : because it ’s really a random m ovem ent .
+m n082 [ s.%−−] : Then I st ill hear [ disfm arker]
+m n082 [ s^ e] : t his is during t he dat a t ransm ission .
+m n021 [ s^ bk|s] : Yeah , but [ disfm arker] again [ disfm arker] again ,
+what we are adding wit h t his behavior is , uh [ pause] uh [ pause] a
+lit t le bit m ore , probably som e [ disfm arker] som e uh sm all part t o t he
+uh bit error rat e .
+m n082 [ s^ bk] : Yeah ?
+m n082 [ %] : t hen [ disfm arker]
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s] : May be t his fram e will [ disfm arker] won’t be received
+properly , and , should eh [ pause] hav e t o be eh dropped ,
+m n082 [ b] : Oh , yeah .
+m n021 [ fg] : but any way ,
+m n021 [ fh|s] : eh [ pause] even if nodes are com plet ely st at ic , eh
+som e problem s will happen [ pause] in t he wireless t ransm ission ,
+m n021 [ fh] : so
+m n021 [ s^ df] : we won’t have a hundred percent eh perfect eh
+channel any way .
+m n082 [ b] : Yep .
+m n082 [ b] : Right .
+m n021 [ fh|s] : So eh [ pause] if t his problem , as you show it [ pause]
+probably it ’s [ disfm arker] it ’s eh [ disfm arker] [ pause] Y you can
+[ disfm arker] you can see t hat it is not very likely t o happen ,
+m n021 [ s^ df.%−] : because [ pause] you [ disfm arker] you [ disfm arker]
+y ou eh have t o consider t he probabilit y t hat o of happening t his
+[ disfm arker]
+m n082 [ fg] : Nee .
+m n082 [ s^ na] : That ’s really right ,
+m n021 [ b] : Hm m ?
+m n082 [ s^ cs^ ng] : but what I would like t o say is t hat besides t he RTS
+CTS behav ior , y ou need cert ain kind of addit ional MAC layer
+funct ionalit y t o deal wit h t hese packet .
+m n021 [ s^ bk] : Hm m − hm m − hm m .
+m n082 [ s^ e] : For exam ple , wit h t ransm ission or [ disfm arker] or
+what ev er ,
+m n021 [ s^ aa] : Yeah ,
+m n021 [ s^ aa] : sure , sure .
+m n082 [ s^ e] : for what ever cont rol , or what ever kind of t hings , you
+know .
+
+m n021 [ s] : In fact [ disfm arker] in fact , you know I [ disfm arker] I
+[ disfm arker] I [ disfm arker] I [ disfm arker] I [ pause] m aybe I [ disfm arker]
+I [ disfm arker] I [ disfm arker] had t o [ disfm arker] t o prepare a m ore
+det ailed eh , v iew ,
+m n021 [ s^ df] : I [ disfm arker] I just was t rying t o do som et hing soft ,
+m n021 [ s^ e] : not t o [ disfm arker] t o bore t h t he public
+m n021 [ s^ df] : but of course t here are a lot of ot her sm art eh t hings
+t hat are built in , in t hese prot ocols ,
+m n082 [ b] : Right .
+m n082 [ b] : Yeah .
+m n021 [ s^ e] : like for exam ple , an aut om at ic , uh [ pause]
+acknowledgem ent .
+m n021 [ s] : Som e prot ocols used uh [ pause] in t he sam e way as t his
+RTS and CTS packet [ disfm arker] som e of t hem use , an eh
+acknowledge from t he receiver ,
+m n021 [ s^ e] : which is also a short packet ,
+m n021 [ s] : so you [ disfm arker] you are get t ing som e kind of link layer
+uh [ pause] acknowledgem ent schem e
+m n021 [ s^ e] : which can save a lot of dat a t ransm issions
+m n021 [ s^ df] : because eh usually when you send a [ disfm arker]
+[ pause] a [ disfm arker] a [ disfm arker] a fram e , you will want t o
+[ disfm arker] som e kind of acknowledgem ent back .
+m n021 [ s^ df] : So , if t his acknowledgem ent has t o go t hrough t he
+process of a new RTS and a new CTS , well , t his t akes longer t han just
+a link lay er uh , ex t ra packet .
+m n021 [ s] : That , of course uh [ pause] is also cont em plat ed in t his eh
+packet lengt h [ disfm arker] lengt h or [ disfm arker] included in t he RTS
+and CTS packet s ,
+m n021 [ fh|s] : so , eh , you know , everybody can wait unt il t his uh
+acknowledgem ent is also t ransm it t ed by t he receiver .
+m n021 [ fh] : So
+m n021 [ s] : in fact , eh nnn [ pause] som e people proposing t his
+m echanism is [ disfm arker] is showing a [ disfm arker] a b a big
+im provem ent
+m n021 [ fh|s] : and eh t here are a lot of ot her m echanism s , also
+regarding and a t im e − out m echanism , or t he t im e − out algorit hm for
+t hese ret ries when you [ pause] t ry t o send som et hing [ pause] and you
+don’t succeed , uh , what [ disfm arker] what you t he am ount of t im e
+y ou hav e t o wait unt il you ret ry again .
+m n021 [ s] : Well , uh , som e people is also proposing different t hings ,
+different eh algorit hm s wit h different result s .
+m n021 [ fh|s.%−−] : So , in fact , t here are a lot of good [ disfm arker]
+m n021 [ s^ df] : I just [ pause] was t rying t o present a [ disfm arker] you
+know [ pause] t he m ain ideas .
+
+m n021 [ s] : So , I [ disfm arker] I [ disfm arker] I [ disfm arker] you know ,
+ask uh [ disfm arker] You [ disfm arker] Feel free t o ask uh what ever you
+want ,
+m n021 [ s^ df] : but [ pause] I [ disfm arker] I want t o insist t hat [ pause]
+it was just an [ disfm arker] uh a sim plified uh [ pause] version , a light
+v ersion .
+m n021 [ qy ^ d^ f^ g^ rt ] : OK ?
+m n021 [ fh|s] : well , uh [ pause] you know finally t his algorit hm , eh , as
+I was t elling , eh what it ’s doing is t o check [ pause] wit h t he receiver
+[ pause] t he power level t o be used .
+m n021 [ s] : And it is very sim ple t o see t hat som e advant ages [ pause]
+can [ disfm arker] som e advant age can be obt ained ,
+m n021 [ s^ df] : because [ pause] t he difference is [ pause] eh if you
+don’t hav e power cont rol , you are using all t he t im e t he m axim um
+power ,
+m n021 [ s^ df] : if y ou have power cont rol , [ pause] som et im es you will
+use [ pause] less [ pause] t han t he m ax im um power
+m n021 [ qw] : How oft en [ pause] do you use less power t han t he
+m ax im um ?
+m n021 [ s^ df] : Well , t his will [ disfm arker] [ pause] t his will be
+connect ed t o t he m ot ion pat t ern .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s] : Depending how nodes are m oving ,
+m n021 [ s^ rt .%−−] : well [ pause] m ay be [ pause] all t he t im e [ pause] all
+y our neighbors are at t he m axim um dist ance
+m n021 [ s] : But , t his probably , doesn’t l look like uh som et hing very
+[ pause] v ery uh [ pause] [ pause] very likely .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s^ df] : because well , l [ pause] probably y [ pause] what you
+will hav e [ pause] will be som e neighbors t hat are [ pause] really close
+m n082 [ b] : Hm m .
+m n021 [ s] : ot hers t hat are a lit t le bit [ pause] far away
+m n021 [ s] : and finally , [ pause] t hese neighbors t hat are in t he
+[ disfm arker] [ pause] in t he front ier [ pause] of your [ disfm arker] of your
+cov erage area .
+m n021 [ b.%] : OK .
+m n082 [ b] : Hm m .
+m n021 [ s^ bk] : Yeah .
+m n082 [ fg|s] : OK , t his is a quest ion not direct ly relat ed t o t hese
+t hings ,
+m n082 [ s] : but m aybe [ disfm arker] t hat ’s why m ay be only a short
+answer .
+m n082 [ qy^ rt ] : Uh , do you assum e t hat [ pause] power cont rol will be
+issue also in t he [ pause] next years ?
+
+m n082 [ s^ e] : In ot her words , um [ pause] is [ pause] t he [ pause] um
+[ pause] success of having m ore power wit hin t he devices in m aybe
+t hree y ear , four years , five years , for bat t eries , and [ disfm arker] and
+[ disfm arker] and [ disfm arker] @ @ and sofort so on
+m n082 [ qy ] : uh will it be succeeded t hat you have so m uch power
+av ailable t hat t his [ pause] difficult m echanism who is in t he wireless
+net work will be uh out of scope ?
+m n021 [ b] : Mm m .
+m n021 [ s^ aa] : Yeah .
+m n082 [ s^ df] : Because if I have a dev ice which uh can I use m aybe for
+t went y − four hours ,
+m n082 [ s^ df^ e] : I do not have , in principle , really t he const raint
+[ pause] t o uh deal wit h [ disfm arker] wit h uh power savings .
+m n021 [ fg|s] : Yeah , let [ disfm arker] let m e [ disfm arker] let m e answer
+y ou uh wit h a quest ion .
+m n021 [ qy ] : Uh , If , for exam ple , your car [ pause] uh you [ disfm arker]
+y ou hav e uh an endless [ pause] uh source of [ disfm arker] of gas , do
+y ou t hink [ pause] it will [ disfm arker] it will be a problem , [ pause] t he
+am ount of gas y our [ disfm arker] y our car is [ disfm arker] is using ?
+m n021 [ s^ bk] : OK .
+m n021 [ s] : It won’t be [ pause] a problem for your pocket ,
+m n021 [ s^ e] : for y our wallet ,
+m n021 [ s] : but m aybe [ pause] it will be a problem for [ pause] t he
+environm ent .
+m n021 [ s] : So , [ pause] I t hink t hat t he answer [ pause] t o your
+quest ion is [ pause] in t his line ,
+m n021 [ s^ bd] : t hat [ pause] uh if you have an endless uh source of
+power , [ pause] well , m aybe it ’s not a problem , [ pause] for t he
+bat t ery uh last ing .
+m n021 [ s^ df^ rt ] : But , it is a problem because [ pause] you are using
+m ore area [ pause] t han you should .
+m n021 [ s] : And t herefore you are prev ent ing ot her t ransm issions t o
+t ake place [ pause] at t he sam e t im e .
+m n021 [ s] : And t herefore [ pause] uh t he problem is not only
+connect ed t o [ disfm arker] t o t he [ disfm arker] t o t he power
+m n021 [ s] : it is also connect ed t o t he net t o t he global net work
+t hroughput .
+m n021 [ qy^ d^ f^ g^ rt ] : OK ?
+m n082 [ s^ bk] : OK .
+m n021 [ fh] : So [ disfm arker]
+m n021 [ s.%−−] : But , [ pause] again , uh , you know , uh [ pause] t he
+[ disfm arker] t he m
+m n021 [ s.%−−] : If you ask m e " what [ disfm arker] what do you t hink
+what will happen , [ pause] in t he indust ry ? "
+
+m n021 [ s] : What I t hink t hat will happen is t hat t hey will [ pause] t ry t o
+get [ pause] uh [ pause] m m m [ pause] bet t er [ pause] hardware t han
+we have now
+m n021 [ s^ df] : because now [ pause] t he problem [ pause] wit h
+t ransceivers [ pause] is t hat a lot of power [ pause] is uh [ pause]
+consum ed [ pause] at t he logic of t he t ransceiver ,
+m n021 [ s^ df^ e] : and not [ pause] uh t ransm it t ed t o t he air .
+m n021 [ s^ e] : It is not power t ransferred t o t he air .
+m n021 [ s] : So , [ pause] t he problem now [ pause] is t hat eh m ost of
+t he power [ pause] uh , uh t uh a wireless net work [ pause] card
+[ pause] is consum ing , [ pause] is [ disfm arker] is [ disfm arker] is drawn
+[ pause] by t he [ disfm arker] by t he eh logic cont rol of t he card .
+m n082 [ b] : Yeah .
+m n021 [ s^ e] : All t he [ disfm arker] all t he calculat ions ,
+m n082 [ %−] : That ’s what I [ disfm arker]
+m n021 [ s^ e.%−] : all t he hardware [ disfm arker]
+m n082 [ fg|s^ df.%−] : Yeah , t hat was t he reason I ’m t alking about t his
+is uh [ disfm arker]
+m n021 [ s] : So , I am sure t hat eh [ disfm arker] t hat m anufact urers will
+t ry t o [ disfm arker] t o squeeze unt il t he [ disfm arker] t he [ disfm arker]
+[ pause] t he last am pere f of [ disfm arker] [ pause] of t his eh , let ’s say
+, [ pause] eh [ pause] wast ed power ,
+m n021 [ s^ df.%−−] : because [ pause] what you cannot avoid is , uh
+m n021 [ s] : t o p l t he part of t he [ disfm arker] of t he radio frequency
+power y ou hav e t o t ransm it .
+m n021 [ s] : I m ean , t his is [ disfm arker] t his cannot be avoided .
+m n021 [ s.%−−] : But what you can avoid or you can reduce
+m n021 [ s.%−−] : and probably
+m n021 [ s^ df] : because now it is t he m ain fact or , t he m ain
+consum pt ion fact or , [ pause] is t he logic inside .
+m n021 [ s] : In t he sam e way , at [ disfm arker] as [ disfm arker] as it
+happened wit h [ disfm arker] wit h processors , for exam ple .
+m n021 [ s] : Now [ pause] processors [ pause] are m uch m ore [ pause]
+uh power efficient t han before .
+m n021 [ s^ f] : OK ?
+m n082 [ fg|s^ bd] : Yeah , but anyway , t hat was t he reason for m y
+quest ion .
+m n082 [ s] : If I save wit h a lot of difficult m echanism , wit hin t he air
+int erface and bet ween t he base st at ion or access point and t he
+m obile node , one percent of t he power [ pause] whereas ninet y − nine
+percent is consum ed by packet processing
+m n082 [ s^ e] : and [ disfm arker] and [ disfm arker] and [ disfm arker] and
+[ disfm arker] uh uh C P U or what ever ,
+m n021 [ b] : Mm − hm m .
+m n082 [ fh|qy] : uh [ pause] is it wort h t o have it ?
+
+m n082 [ s^ rt ] : If I really , wit h a norm al device [ pause] uh wit h a
+bat t ery lifet im e of m aybe t went y − four hours , t hirt y − six hours or
+what ev er kind of t hing [ disfm arker] And I t hink it will be increased .
+m n082 [ s] : As t he m ore m obile nodes are in t he world t he bet t er t he
+bat t ery will be .
+m n082 [ s] : So t hat ’s [ disfm arker] was t he reason for m y quest ion .
+m n021 [ s^ bk|%−] : Yeah , pero e
+m n082 [ s^ bk] : Yeah , yeah , y eah .
+m n021 [ %−−] : uh but [ disfm arker]
+m n021 [ s^ fa] : Oh , sorry !
+m n021 [ s] : But even if you [ disfm arker] if you don’t have t o
+[ disfm arker] t o worry about eh y our power source , [ pause] you have
+t o worry about y our environm ent ,
+m n021 [ s^ e] : about not using m ore resources [ pause] t hat you don’t
+own
+m n082 [ b] : Yeah .
+m n082 [ b] : Yeah .
+m n021 [ s^ e] : t hat are uh [ pause] shared about [ disfm arker] w w
+am ong t he com m unit y .
+m n082 [ fg|s^ bk] : Yeah , I g got it .
+m n082 [ b] : Yeah .
+m n082 [ b] : Yeah .
+m n082 [ s^ bk] : OK .
+m n040 [ fg] : Ex cuse m e @ @ .
+m n021 [ s^ bk] : OK .
+m n040 [ s^ cs] : If I underst ood correct ly , t he m echanism eh [ pause]
+y ou should eh [ pause] look for um t he m inim um eh [ pause] coverage
+range
+m n021 [ b] : Yeah .
+m n040 [ s^ df] : in order t o m axim ize t he t hroughput of t he net work .
+m n021 [ b] : Yeah .
+m n040 [ s.%−] : So t here [ disfm arker] t he [ disfm arker] t he power
+cont rol eh [ pause] algorit hm should work , in order t o use at each
+inst ant of t im e t he m inim um power need t o reach
+m n021 [ s^ 2] : The dest inat ion .
+m n040 [ s^ e] : t he neighbor .
+m n040 [ s^ df.%−−] : That [ disfm arker] Because t his is t he way [ pause]
+eh [ pause] eh m ore t ransm issions uh
+m n040 [ s^ 2] : m ay t ake [ disfm arker] t ake place at t he sam e t im e .
+m n021 [ s^ rt ] : Can t ake place at t he sam e t im e .
+m n082 [ s^ bk] : Yeah , yeah , yeah , yeah .
+m n040 [ s^ rt ] : So y ou need t he adapt ive m echanism t o m inim ize t he
+cov erage range .
+m n082 [ s^ aa] : Yeah .
+m n021 [ s^ ba] : That ’s OK .
+
+m n021 [ s] : And t o [ disfm arker] and t o get t he m axim um net work
+t hroughput .
+m n040 [ %−] : That [ disfm arker]
+m n021 [ s] : That ’s [ disfm arker] t hat ’s t he idea .
+m n021 [ s.%−−] : However [ disfm arker] however , and
+m n021 [ s] : uh , it is always [ pause] som e however ,
+m n021 [ s.%−−] : uh [ pause] by [ pause] apply ing t his uh [ pause] greedy
+m echanism , [ pause] in [ disfm arker] in [ disfm arker]
+m n021 [ s^ bsc] : or , [ pause] m ore t han greedy in t his case ,
+m n021 [ s] : it could be , [ pause] say , t his st ingy m echanism t o
+[ disfm arker] t rying t o avoid [ pause] t o use any ext ra space [ pause] is
+also leading [ pause] t o [ pause] a higher level of int erference [ pause]
+at t he receivers .
+m n021 [ fh] : So , uh
+m n021 [ s] : at t he end of t he road , [ pause] we have t o [ pause] uh
+look for som e t rade − offs [ pause] t o avoid t oo m uch [ pause] uh
+int erference [ pause] at t he receivers .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ s] : So , [ pause] uh at t he end we are using a lit t le bit m ore
+power [ pause] t han t hese [ pause] m at hem at ically m inim um values .
+m n021 [ s^ f] : OK ?
+m n021 [ s^ df.%−−] : because if not , [ pause] t he uh
+m n021 [ fh] : [ no m at ched cont ent ]
+m n021 [ s] : t he fram e error rat e or t he bit error rat e [ pause] uh ,
+sky rocket s .
+m n082 [ b] : Mm − hm m .
+m n021 [ s^ f] : OK ?
+m n021 [ s^ df] : because of t he [ disfm arker] of high int erference levels
+.
+m n021 [ s] : A lot of sim ult aneous t ransm issions [ pause] also m eans
+[ pause] for [ pause] each receiver point of view , [ pause] a lot of
+[ pause] neighbors [ pause] or [ disfm arker] or nodes [ pause]
+t ransm it t ing at t he sam e t im e .
+m n021 [ s] : And , all t he t ransm it t ers [ pause] uh wit h t he except ion of
+t he t ransm it t er [ disfm arker] of m y t ransm it t er , [ pause] are m y
+int ereferers
+m n021 [ s] : and are [ disfm arker] [ pause] and all of t hem are
+producing [ pause] less qualit y recept ion ,
+m n021 [ s] : so [ pause] if t hey are a lot of t hem , [ pause] well , uh t he
+recept ion can be [ pause] can be uh dist urbed .
+m n021 [ qy^ d^ f^ g] : OK ?
+m n021 [ fh|s] : And [ disfm arker] [ pause] but um , um [ pause] t his is
+t aking longer t han I expect ed .
+m n021 [ s^ bk] : OK .
+
+m n021 [ s^ t ^ t c] : Let ’s [ disfm arker] let ’s uh t ake a k a [ disfm arker] a
+really [ disfm arker] a really light uh v iew at t he [ disfm arker] at t he
+rout ing in t his [ disfm arker] in t his net work ,
+m n021 [ s^ rt ] : which is [ pause] anot her im port ant [ pause] area of
+[ disfm arker] of research .
+m n021 [ s^ rt ] : You know , [ pause] in fact t here is a [ disfm arker] a
+group at t he ITF [ pause] [ nonvocalsound] uh called " Manit " .
+m n021 [ s^ rt ] : This working group is [ disfm arker] is devot ed t o [ pause]
+uh t ry t o [ disfm arker] t o present or t o agree [ pause] a com m on
+prot ocol [ pause] for rout ing IP t raffic [ pause] on t hese eh kind of
+net works ,
+m n021 [ s^ e^ rt ] : on t hese ad − hoc net works ,
+m n021 [ fh] : Uh , and
+m n021 [ s] : at t his m om ent [ pause] t here are , I would say , a lot
+[ pause] of proposals [ pause] of different prot ocols uh for uh end − t o −
+end t raffic
+m n021 [ s^ rt ] : and also for m ult icast t raffic ,
+m n021 [ s^ e] : on t hese net works
+m n021 [ s] : And eh well som e day in t he fut ure eh , a prot ocol should
+be [ pause] chosen
+m n021 [ s] : but , [ pause] for t he m om ent eh [ pause] we have several
+of t hem [ pause] on t he t able .
+m n021 [ s] : and eh [ pause] any prot ocol has som e advant ages and
+som e disadv ant ages .
+m n021 [ s] : The basic [ disfm arker] [ pause] t he basic problem we have
+t o solve [ pause] in [ disfm arker] in t hese eh [ pause] rout ing prot ocols
+[ pause] is [ pause] t he fast eh [ disfm arker] [ pause] t he fast pace at
+what eh t opology changes [ pause] can happen .
+m n021 [ fh] : So
+m n021 [ s] : t he problem here is t hat [ pause] now [ pause] uh [ pause]
+one node is m y neighbor ,
+m n021 [ s^ e] : and next second , [ pause] it is not .
+m n021 [ s] : So any rout e t hat was going t hrough t his neighbor [ pause]
+now is [ disfm arker] is not possible
+m n021 [ s^ e] : and should change .
+m n021 [ s.%−−] : And t he problem is t hat [ pause] well
+m n021 [ fh] : uh an
+m n021 [ s] : an [ pause] if you let m e a personal com m ent , [ pause] I
+t hink t hat one error on t he group is not t o agree [ pause] a set
+[ pause] of m obilit y pat t erns [ pause] t o [ disfm arker] t o do t he
+[ disfm arker] [ pause] t he t est s .
+m n021 [ s^ df^ rt ] : because [ pause] here , [ pause] well , m obilit y is
+[ pause] m aking [ pause] t hese uh neighborhood relat ionships t o
+appear or t o disappear ,
+
+m n021 [ s^ rt ] : So [ pause] uh , it should be int erest ing if we agree
+[ pause] uh a com m on [ disfm arker] a com m on [ pause] set of m ot ion
+pat t erns [ pause] t o perform t he t est s
+m n021 [ s^ df] : because if not , well , it ’s difficult t o [ disfm arker]
+[ pause] t o perform com parisons [ pause] uh bet ween one [ pause]
+prot ocol and anot her ,
+m n021 [ s^ e] : a different one .
+m n021 [ s] : But anyway , [ pause] now what we have is [ disfm arker] is
+t wo basic approaches t o t his [ disfm arker] [ pause] t his problem .
+m n021 [ s] : Eh , m ainly [ pause] what t hey call t he pract ive prot ocols
+m n021 [ s] : which are um ext ensions of [ disfm arker] of uh [ pause] um
+back door and link end st at e rout ing prot ocols [ disfm arker]
+m n021 [ s^ e] : dist ance vect ors ,
+m n021 [ s^ fa|s] : sorry , and [ disfm arker] and link end st at e prot ocols ,
+m n021 [ s^ rt ] : eh , which are [ pause] usually t able driven ,
+m n021 [ s^ rt ] : so [ pause] you [ pause] have a process , [ pause] t rying
+t o [ disfm arker] t o m aint ain up − t o − dat e [ pause] a set of rout ing t able
+t ables and t he nodes
+m n021 [ s^ rt ] : and eh every rout ing de decision [ pause] is eh just eh
+looking up [ pause] t he t able ,
+m n021 [ s^ rt ] : and sending t o t he proper [ pause] neighbor node
+m n021 [ s^ rt ] : and , eh t he ot her [ disfm arker] t he ot her set of
+prot ocols are using a react ive [ pause] uh [ pause] approach
+m n021 [ s] : and t hese prot ocols are t rying t o work on dem and ,
+m n021 [ s] : so t hey are t rying [ pause] t o solve on only [ pause] t hese
+rout ers [ pause] t hat are needed
+m n021 [ s] : so when I want t o send [ pause] uh , a packet t o a
+[ disfm arker] a giv en dest inat ion , [ pause] first of all , I have t o [ pause]
+figure out t he proper rout e [ pause] for t his packet .
+m n021 [ s] : And t hen , [ pause] uh [ pause] I ’m using [ pause] soft
+rout ing .
+m n021 [ s] : I ’m [ disfm arker] I ’m including on t he [ disfm arker] on t he
+[ disfm arker] uh header of t his packet , [ pause] t he set of eh nodes
+[ pause] t hat should be forwarding t his node t o t he dest inat ion .
+m n021 [ s] : eh [ pause] of course , [ pause] uh t hese uh t wo
+approaches can be [ disfm arker] can be uh som ehow m ixed
+m n021 [ s] : and som e hybrid proposals are also [ pause] on t he
+[ pause] on t he [ pause] paper ,
+m n021 [ fh] : and eh
+m n021 [ s] : t hese proposals are [ disfm arker] are t rying t o get [ pause]
+t he adv ant ages of bot h [ pause] uh m echanism s
+m n021 [ s] : eh som e som et im es [ pause] m aking a kind of com binat ion
+of [ disfm arker] of t hem
+m n021 [ fh|s] : uh , let ’s say , for exam ple , [ pause] using [ pause] uh
+[ pause] pract iv e approach [ pause] for t he closer set of nodes ,
+
+m n021 [ s^ rt ] : let ’s say [ pause] for t he neighbors and m aybe [ pause]
+t he nex t lev el ,
+m n021 [ s] : and , using a react ive approach
+m n021 [ s^ e] : I m ean , as our rout ing approach , [ pause] for [ pause]
+nodes t hat [ pause] are [ pause] closer t han t his pract ive area .
+m n021 [ s^ bk] : OK ?
+m n021 [ s.%−−] : and eh , [ pause] well ,
+m n021 [ %−−] : u e a
+m n021 [ s^ rt ] : som e m ult icast prot ocols [ pause] have been proposed
+[ pause] for t his scenario t oo ,
+m n021 [ s] : and , well , t hey have t o deal wit h t he sam e problem s t hat
+t hey ’re [ pause] uh [ pause] end − t o − end rout ing prot ocols .
+m n082 [ b] : Mm m .
+m n082 [ qw] : What do you m ean by m ult icast prot ocols ?
+m n021 [ s^ bk] : Yeah .
+m n082 [ s^ bu^ e] : Rout ing ?
+m n021 [ s] : Rout ing prot ocols int ended for m ult icast .
+m n082 [ s^ bk] : OK . Yeah .
+m n082 [ s^ bk] : OK .
+m n021 [ s^ e] : So , for [ disfm arker] for [ disfm arker] uh , for sending
+one t o any .
+m n082 [ b] : Yeah .
+m n021 [ qy^ d^ f^ g.%] : Hm m ?
+m n021 [ fh|s] : Uh [ pause] well , [ pause] t he m ain [ disfm arker] t he
+m ain problem s t hat som e of t he solut ions eh are exhibit ing , [ pause] is
+uh [ pause] t he lack of eh scalabilit y
+m n021 [ s] : uh m ainly [ pause] t he [ pause] source rout ing prot ocols
+[ pause] have a problem when you [ disfm arker] when you scale from
+[ disfm arker] or scale [ pause] scale [ pause] badly [ pause] from t ens of
+nodes t o [ disfm arker] t o t housands of nodes
+m n021 [ s^ df] : because , well , you cannot have [ pause] uh , uh
+[ pause] let ’s say , [ pause] uh , an endless uh header lengt h .
+m n021 [ s^ e] : You have a lim it ed [ disfm arker] a lim it ed header lengt h .
+m n082 [ s] : And m ay be we will hav e t o ex plain a lit t le bit for t hose who
+are not fam iliar wit h source rout ing .
+m n021 [ fh] : So [ disfm arker]
+m n082 [ s] : You can have t he dest inat ions you would like t o
+[ disfm arker] or t he in [ disfm arker] t he I P addresses of t he
+int erm ediat e nodes you st ill know
+m n021 [ b] : Yeah .
+m n082 [ s^ e] : even if it ’s not t he direct neighbor ,
+m n082 [ s] : but one of uh where y ou really want t hat t he packet went
+t hrough , [ pause] put it in t he I P header .
+m n030 [ b] : Mm − hm m .
+m n082 [ fh] : So , and ,
+m n082 [ s] : t his one is going t hen t o t his guy and so on and so on ,
+
+m n082 [ s^ e] : unt il finally it ’s reached dest inat ion .
+m n030 [ s.%−] : So t here are [ disfm arker]
+m n082 [ s] : And , t hat ’s what I m ean , you cannot put it [ disfm arker]
+t housand int erm ediat e nodes in for exam ple ,
+m n030 [ s^ bk] : OK .
+m n082 [ s] : but t o put a t housand I P addresses in t he header , so
+t hat t he packet is for uh forwarded accordingly t o [ disfm arker]
+m n030 [ s^ bu] : So t here ’s m ore t han one IP address in t he header ,
+m n082 [ s^ aa] : Yeah , yeah , yeah , yeah .
+m n030 [ fh] : and [ disfm arker]
+m n030 [ s^ bk] : OK , I see .
+m n021 [ s] : Som et hing like t his
+m n021 [ s] : So you [ disfm arker] your packet [ pause] should look like
+[ disfm arker] like t his way .
+m n030 [ qy.%−] : Do t hey have t o [ disfm arker]
+m n082 [ b] : Yeah .
+m n030 [ qy^ rt ] : Do t hey have t o be in order ?
+m n030 [ s^ e] : So [ pause] you are looking first for node t wo and t hen
+for node t hree and so on .
+m n021 [ s^ aa] : Yeah .
+m n082 [ s^ aa] : Yeah .
+m n082 [ %−−] : It ’s uh [ disfm arker]
+m n082 [ s] : You ’ll know t o rem ove h [ pause] it ’s h from t he header , in
+principle , and [ disfm arker] and so on , unt il it uh reaches t he final
+dest inat ion .
+m n030 [ s^ bk] : OK .
+m n030 [ s^ bk] : OK .
+m n021 [ s] : So t his [ disfm arker] t his uh header , well , [ pause] it ’s
+[ disfm arker] it ’s a problem .
+m n021 [ s] : Of course , t here are also som e [ disfm arker] [ pause] som e
+solut ions
+m n021 [ s] : like uh [ pause] uh em ploy ing som e kind of [ disfm arker] of
+uh [ pause] hierarchical source rout e rout ing ,
+m n021 [ s.%−−] : so y ou don’t have t o put [ pause] all [ pause] t he
+[ disfm arker] all t he rout e [ disfm arker]
+m n082 [ s] : This one , for inst ance .
+m n082 [ s] : t hat m ay t hat t he different part s could be one t o num ber
+four .
+m n030 [ b] : Mm − hm m .
+m n030 [ b] : Mm − hm m .
+m n082 [ s:s] : May be t wo − B or t hree − B
+m n082 [ s] : Yeah , but nevert heless t his guy is a [ disfm arker] is an
+gat eway in t he rout er for [ disfm arker] for t his packet , you know .
+m n082 [ s] : And t hey rem ove it self from t he header .
+m n030 [ s^ bk] : OK .
+m n082 [ s^ bk] : Yeah .
+
+m n021 [ %−] : Anot h
+m n082 [ s] : It m ust be not t he whole pat h , you know .
+m n021 [ s] : Anot her problem [ pause] eh , is [ pause] eh t rying t o
+prov ide som e qualit y of service [ pause] in t hese net works ,
+m n021 [ s^ df.%−−] : because , well , [ pause] em uh change is
+[ disfm arker] is t he only t hing you know for sure , [ pause] here
+m n021 [ s] : So , [ pause] eh [ pause] prov iding qualit y of service is also
+[ disfm arker] [ pause] is quit e a challenge [ pause] in [ disfm arker] in t his
+net work .
+m n021 [ s] : But , again [ pause] uh t here are som e proposals .
+m n082 [ qy ^ rt ] : Um , Miguel , are you fam iliar wit h t hese kind of
+proposals ?
+m n021 [ s^ nd] : Not really .
+m n021 [ s^ df.%−−] : Not really , because I don’t t rust [ disfm arker]
+m n021 [ fh] : You know ,
+m n021 [ s^ ba^ df] : uh , I ’m sure t hat t he proposals are OK ,
+m n021 [ s^ df] : but eh [ pause] I don’t [ disfm arker] [ pause] I don’t t hink
+t hat [ disfm arker] [ pause] You cannot warr you [ disfm arker] you
+[ disfm arker] [ pause] I don’t t hink you can warrant y [ pause] t oo m uch
+in t hese net works .
+m n021 [ s] : So , I see [ pause] t his like a [ pause] you know , a
+[ disfm arker] a t opic I ’m not convinced about .
+m n021 [ s^ e] : I don’t t rust you can really provide qualit y of service ,
+m n021 [ s.%−] : but of course [ disfm arker]
+m n082 [ s^ aap] : That depends on t he service level you want t o be .
+m n082 [ s^ e] : Definit ely not a guarant ee level .
+m n082 [ s] : But m ay be som et hing like a cont rol load level or som et hing
+like t hat , seem s t o be for m e [ pause] possible .
+m n021 [ s^ am ] : Yeah .
+m n082 [ qy ^ d^ g] : Right ?
+m n021 [ s] : You know , uh if you are curious , uh I can [ disfm arker] I
+can [ disfm arker] [ pause] I can provide you t he n [ pause] som e of t he
+proposals
+m n082 [ b] : Yeah .
+m n082 [ b] : Hm m .
+m n021 [ s.%−] : which include [ disfm arker]
+m n082 [ s^ bk|s^ cs] : Yeah , we can discuss lat er , off − line .
+m n021 [ s^ bk] : Yeah .
+m n082 [ s^ bk] : OK .
+m n021 [ s] : And eh , finally , [ pause] t he ot her [ disfm arker] t he ot her
+t hing , which is also under research or under st udy [ pause] is , uh t o
+have som e kind of a power − aware rout ing .
+m n021 [ s] : There are som e proposals , t oo .
+m n021 [ s.%−−] : So t hat way you could [ disfm arker]
+m n021 [ s] : rout ing funct ion could be [ pause] connect ed [ pause] wit h
+uh global or local power consum pt ion .
+
+m n021 [ s] : So , for exam ple , you could ask [ pause] t o u nnn , t he
+net work t o t ransm it your packet [ pause] wit h t he lowest [ pause] uh
+global [ pause] uh consum pt ion
+m n021 [ s] : or wit h y our [ pause] lowest [ pause] local consum pt ion , for
+ex am ple .
+m n021 [ qy^ d^ f^ g^ rt ] : OK ?
+m n021 [ s] : I m ean , would t he opt ion for m e t o [ disfm arker] t o use
+less power [ pause] when sending a packet is t o send it t o [ pause] t he
+closest neighbor .
+m n021 [ s^ f|s] : OK , assum ing t hat I ’m [ disfm arker] I ’m also using s or
+having som e kind of power cont rol t hing .
+m n021 [ s] : so t hat way [ pause] t ransm it t ing t o t he closer [ disfm arker]
+close [ disfm arker] t o m y closer node , [ pause] is , uh [ pause]
+som et hing t hat requires [ pause] less effort [ pause] t han sending t o a
+m ore dist ant node .
+m n021 [ s] : May be [ pause] t he closer node [ pause] is not a good uh
+[ disfm arker] it is not in t he good direct ion t o t he [ disfm arker] t o reach
+t he dest inat ion .
+m n021 [ s] : But [ pause] it is for sure [ pause] t he [ disfm arker] t he less
+ex pensiv e uh [ pause] t hing for m e .
+m n021 [ qy ^ d^ f^ g^ rt ] : OK ?
+m n021 [ s^ bd] : But probably t his uh [ disfm arker] [ pause] t his is not
+[ pause] som et hing really useful .
+m n021 [ s] : And t hat ca [ pause] what can be u really useful [ pause] is
+t o reduce t he global [ pause] power consum pt ion in t he rout ing
+funct ion .
+m n021 [ %−−] : So ,
+m n021 [ s^ df.%−−] : because in t his way ,
+m n021 [ s] : well , m aybe one node is [ disfm arker] [ pause] is [ pause]
+being forced t o use m ore power
+m n021 [ s] : but [ disfm arker] but if we t ake a look at t he whole t hing ,
+[ pause] well , we can ask for a [ disfm arker] a low [ pause] consum pt ion
+rout e ,
+m n021 [ s.%−] : well , t he sam e way
+m n082 [ fg|%−] : Yeah , but t he [ disfm arker]
+m n021 [ s:s] : as we are asking , for exam ple , when we want [ pause]
+uh som e packet t o be shipped in t he real life , [ pause] we can go and
+say " well , [ pause] we will [ disfm arker] we are happy wit h t his [ pause]
+UPS [ pause] ground syst em .
+m n021 [ s] : What we want w is t wo − day [ pause] delivery service ,
+[ pause] or w t went y − four hours [ pause] service , and we are willing t o
+pay m ore or less [ pause] for t his serv ice .
+m n082 [ s^ bk|s] : Yeah , but it ’s [ pause] really happened also in t he
+riot case , you know .
+m n082 [ s^ e] : If I get t he wrong rout e wit h t he RCMP redirect s , it ’s , in
+principle , t hen t he sam e .
+
+m n021 [ s^ aa] : Yeah .
+m n021 [ s^ aa] : Yeah .
+m n021 [ s^ ba] : That ’s O K .
+m n082 [ s^ bk] : Yeah , yeah .
+m n021 [ s^ rt ] : So , t hese are m ore or less uh som e open problem s ,
+m n021 [ s.%−−] : and uh [ pause] well [ pause] just a quick com m ent
+about [ disfm arker] probably
+m n021 [ s^ rt ] : all of use are [ pause] now aware [ pause] of t he
+av ailabilit y [ pause] of t his eh st andard [ pause] t he I − t riple − E eight
+hundred and t wo [ pause] point elev en
+m n021 [ s] : uh [ pause] in fact it is [ disfm arker] it is [ pause] powering
+[ pause] y ou know , uh t he evolut ion of t he [ disfm arker] [ pause] of t he
+[ disfm arker] of net working indust ry in t he wireless area .
+m n021 [ s.%−−] : And [ pause] in t he beginning , [ pause] t he first
+adapt ors [ pause] uh
+m n021 [ s^ fa] : Oops !
+m n021 [ s^ e] : were [ pause] only one and t wo m egabyt es per second ,
+m n021 [ s] : but now we [ disfm arker] you [ disfm arker] you can buy for
+[ disfm arker] for t he sam e price [ disfm arker] for even t he sam e price
+[ pause] uh , t he new eleven m egabyt es per second version
+m n021 [ s^ rt ] : I ’ve been [ pause] use it for [ disfm arker] for a while ,
+m n021 [ s] : and it w [ pause] can t ell you it works pret t y well .
+m n021 [ fh|s] : and uh , [ pause] t he t hing is t hat t hese [ pause] devices
+[ pause] have [ pause] t wo different m odes of operat ion .
+m n021 [ s] : One of t hem , and probably t he m ost popular , [ pause] is
+uh l what we call t he " infrast ruct ure m ode " ,
+m n021 [ s^ rt ] : where [ pause] y ou have [ pause] a set of m obile nodes
+,
+m n021 [ s] : and t hen you have [ pause] one or m ore access point s .
+m n021 [ s] : These access point s are uh [ pause] in fact providing
+[ pause] t he eh [ pause] required connect ivit y [ pause] from t he m obiles
+t o t he [ pause] net work [ pause] t o t he [ pause] m wired net work ,
+m n021 [ s^ e] : and from t here t o t he int ernet usually .
+m n082 [ fg|s] : Yeah , in principle , t he base st at ion .
+m n021 [ s^ aa|s^ na] : Yeah , yeah , we can call it a base st at ion .
+m n082 [ s^ bk.%] : Yeah .
+m n082 [ b] : Yeah .
+m n021 [ s^ rt ] : And , eh , t he ot her m ode of operat ion [ pause] which
+should be appropriat e , for exam ple , for t his m eet ing room exam ple ,
+[ pause] uh [ pause] doesn’t require any [ disfm arker] any access point ,
+m n021 [ s] : and in t his second case , com m unicat ion happens [ pause]
+f eh um from one com put er t o t he ot her at t he link ly lay er .
+m n021 [ qy ^ d^ f^ g^ rt ] : OK ?
+m n021 [ s^ rt ] : So , if I want t o connect [ pause] t o uh , let ’s say ,
+Miguel ’s , [ pause] uh Michael ’s , uh I [ disfm arker] I will send him
+[ pause] a packet ,
+
+m n021 [ s] : and he will receive it , and t hat ’s it .
+m n021 [ s] : OK , we can build on t op of t his [ pause] som e [ pause] uh
+rout ing algorit hm ,
+m n021 [ s^ e] : som e ad − hoc rout ing algorit hm ,
+m n021 [ s] : but t his is out of t he scope of t he [ disfm arker] of t he
+st andard .
+m n082 [ b] : Mm − hm m .
+m n021 [ fh] : And [ disfm arker]
+m n082 [ s] : and Miguel , should [ disfm arker] I should ask you one
+quest ion .
+m n021 [ s^ bk] : Yeah .
+m n082 [ s] : And uh uh in version one and t wo you [ disfm arker] you
+have different t echnologies .
+m n082 [ s] : You know , frequency hopping , uh t wo m odes and
+[ disfm arker] and [ disfm arker] and also infrared .
+m n021 [ b] : Yeah .
+m n021 [ b] : Yeah .
+m n082 [ qy ^ rt ] : Does it st ill apply for [ disfm arker] for t he uh [ pause]
+elev en − B ?
+m n021 [ s^ 2.%−−] : For t he [ disfm arker]
+m n021 [ s^ ar] : no .
+m n021 [ s^ rt ] : Elev en − B is only for [ disfm arker] for uh radio
+m n021 [ s] : and it ’s only for uh [ pause] direct sequences spread
+spect rum .
+m n082 [ s^ bk|s] : OK , DSS .
+m n082 [ s^ bk] : OK .
+m n082 [ s^ bk] : OK .
+m n021 [ s] : But , in fact , t here is an ongoing new v ersion , I t hink it ’s
+c [ pause] v ersion − A ,
+m n021 [ s] : but it is not uh com m ercially available
+m n021 [ s^ e] : which w will use [ pause] uh ort hogonal frequency
+div ision m ult iplexing
+m n082 [ s^ bk] : OK .
+m n021 [ s] : and will get probably t went y − five m egabit s per second .
+m n021 [ fh|s] : eh [ pause] but , again , t he will m ove t o five gigahert z ,
+m n021 [ s^ e] : uh fiv e point fiv e gigahert z ,
+m n021 [ s^ e] : eh [ pause] gigahert z , [ pause] uh [ pause] area of a
+spec ex pect [ disfm arker] uh spect rum
+m n021 [ s.%−−] : But now , uh current devices [ pause] are split at
+[ disfm arker]
+m n021 [ s^ rt ] : You know , t hat t he old [ disfm arker] [ pause] t he old
+wav eLAN are nine hundred m egahert z [ pause] version
+m n021 [ s] : and t he new ones are t he [ disfm arker] t he eleven
+m egabit s uh are uh t wo point four m uh ISM band .
+m n082 [ s^ 2] : Megahert z ,
+m n082 [ b] : yeah .
+
+m n082 [ b] : Mm − hm m .
+m n021 [ s.%−] : Howev er , [ pause] uh [ pause] som e old uh waveLANs
+are also , but not t he older ones [ disfm arker] [ pause] t he oldest ones
+, [ pause] are also uh t wo point four m
+m n021 [ s^ m ^ na] : eh gigahert z . [ pause] S
+m n082 [ s^ 2] : Uh , gigahert z .
+m n082 [ s^ bk] : Yeah .
+m n082 [ s] : In t he RSM band .
+m n021 [ %−] : S
+m n021 [ s.%−−] : And t he good t hing is t hat now , [ pause] especially
+wit h t he new version , [ pause] all y ou [ disfm arker]
+m n021 [ s] : y ou ca y ou [ disfm arker] you are [ disfm arker] you st art t o
+see [ pause] uh com pat ible product s in t he m arket .
+m n021 [ s^ df] : Because eh [ disfm arker] [ pause] m aybe because it ’s
+t he , let ’s say , second version ,
+m n021 [ s^ df^ e] : but also because [ pause] I t hink it ’s t he only way
+[ pause] for t his indust ry t o t ake off .
+m n021 [ s^ df] : because [ pause] uh [ pause] previous versions , if you
+[ pause] buy , let ’s say , waveLAN , [ pause] you are t ied t o waveLAN
+[ pause] al t he rest of your life .
+m n021 [ s] : But now y ou can [ disfm arker] [ pause] you can have
+int eroperable product s [ pause] from several vendors ,
+m n021 [ s^ e] : which is , I t hink , [ pause] what , [ pause] in t he past ,
+[ com m ent ] will [ pause] power t he et hernet uh revolut ion
+m n021 [ s] : You can buy [ pause] any [ disfm arker] any com pat ible
+product
+m n021 [ s] : and [ disfm arker] and y ou know it will work wit h t he ot her
+brand .
+m n082 [ s^ bk] : Yeah .
+m n082 [ s] : And one addit ional quest ion from m yself ,
+m n082 [ s] : but m aybe also short ,
+m n082 [ s^ df] : because t im e it running fast .
+m n082 [ s] : Uh , I have heard t hat uh wireless LAN and Bluet oot h will
+have som e problem s
+m n082 [ s^ e] : uh t hat t hey influence each ot her .
+m n021 [ qy ^ bu^ d] : In front ?
+m n082 [ qy ] : Do y ou have addit ional inform at ion about t his t opic ?
+m n021 [ s^ aa] : Yeah .
+m n021 [ h] : Mm m .
+m n021 [ %−−] : You know ,
+m n021 [ s.%−−] : in t he beginning , uh what w [ pause] t he [ disfm arker]
+m n021 [ s] : I t hink t hat [ pause] t o put t hings in perspect ive , [ pause]
+what we [ pause] need t o know is [ pause] what Bluet oot h is and what
+[ pause] Bluet oot h is for .
+m n021 [ s] : And uh Bluet oot h is m ainly for [ pause] cut t ing [ pause] t his
+cable .
+
+m n021 [ s] : You know , t he ot her day I was joking about [ pause] t hat
+our wireless m icrophones [ pause] were not , in fact , [ pause] wireless
+m n021 [ s] : because it had t his wire ,
+m n021 [ s] : So , t he point is [ pause] t hat eh Bluet oot h is m ainly a
+t echnology [ pause] for cut t ing t hese kind of cables .
+m n021 [ s] : You know , sh oh short [ disfm arker] short dist ance cables ,
+m n082 [ s^ aa|s^ na] : Yeah , t hat ’s right .
+m n082 [ b] : Yeah .
+m n082 [ b] : Yeah .
+m n021 [ s.%−−] : uh , carrying usually [ pause] really s uh , sh
+[ disfm arker] nnn ,
+m n021 [ fh] : nnn
+m n021 [ s^ e] : slow signals ,
+m n021 [ s^ e] : or [ pause] let ’s say , boys and som et hing like t his .
+m n082 [ fg|s] : Yeah , but nevert heless , y ou have t he range of t en
+m et ers , or of one hundred m et ers .
+m n021 [ s^ aa] : Yeah .
+m n021 [ s^ aap|s.%−−] : Yeah , but y ou know , uh in fact
+m n082 [ s^ bk] : OK .
+m n021 [ fh|s] : uh [ pause] t he init ial v ersion [ pause] had only t he
+[ disfm arker] t he range of t en m et ers ,
+m n021 [ s:s|qh^ cs] : and I guess t hat som ebody at [ pause] a cert ain
+m eet ing [ pause] said " OK , why don’t we have [ pause] a l an ext ended
+range version ,
+m n021 [ s:s^ df] : so we could [ pause] re − use t he sam e t echnology for
+ot her purposes ,
+m n021 [ s:s^ e] : different [ pause] t han t he original ones . "
+m n021 [ s] : So , em , uh , I have t he feeling t hat t his is [ disfm arker]
+[ pause] u t his is what is uh [ pause] int roducing som e confor confusion
+[ pause] in t he [ disfm arker] [ pause] in t he Bluet oot h
+m n021 [ s] : eh [ disfm arker] [ pause] or in t he way people is
+[ disfm arker] is looking at Bluet oot h
+m n021 [ s^ df] : because t hey can say " OK , hundred m et ers is
+[ disfm arker] is [ disfm arker] [ pause] is [ pause] an accept able dist ance
+,
+m n021 [ s] : let ’s say , for com m unicat ing inside a building , inside a
+[ disfm arker] a sm all office .
+m n021 [ s] : So , [ pause] uh som e people , I t hink , is being t em pt ed t o
+[ pause] t hink t hat Bluet oot h could [ pause] provide t hem [ pause] uh ,
+som e kind of local connect ivit y ,
+m n021 [ s] : but [ pause] uh for [ disfm arker] for dat a for com put ing
+[ pause] uses .
+m n021 [ s.%−−] : Eh , however , I t hink t hat t he [ disfm arker] t hat t he
+[ disfm arker] [ pause] When you have t ried [ pause] uh [ pause] current
+eh st andard eh working devices , [ pause] you [ disfm arker] you
+[ disfm arker]
+
+m n021 [ s] : working at [ disfm arker] at eleven m egabit s per second ,
+y ou cannot [ disfm arker] [ pause] y ou cannot swit ch t o anot her t hing ,
+t o anot her slower t hing .
+m n021 [ s] : But uh [ pause] even when t hey are using t he sam e
+[ disfm arker] t he sam e uh , um [ pause] area of a s a spect rum ,
+m n021 [ s^ df] : because Bluet oot h is also int ended t o work in t wo
+point four uh gigabit s ,
+m n082 [ b] : Yeah .
+m n021 [ s] : eh t he t echnologies are different ,
+m n021 [ s] : y ou know eh Bluet oot h [ pause] eh is using a frequency
+hopping sy st em
+m n021 [ fh] : and uh
+m n021 [ fh] : m m m
+m n021 [ s] : bot h uh dialing sequence and frequency hopping , [ pause]
+spread t he spect rum t echniques , [ pause] are also int ended [ pause]
+t o provide uh int erference l uh less , uh [ pause] dat a t ransm ission .
+m n021 [ s] : So , t he idea is t hat [ pause] t hese [ pause] t wo t echniques
+[ pause] are int ended not t o int erfere [ pause] wit h any ot her t hing .
+m n021 [ s] : So , [ pause] even when I hav en’t t ried , [ pause] and I
+cannot t ell y ou for sure , [ pause] I t hink t hat [ pause] t he only problem
+[ pause] one net work will encount er [ pause] uh in t he presence of t he
+ot her [ pause] is a lit t le bit [ pause] of m ore noise .
+m n021 [ s^ bd] : And t his will produce a lit t le bit [ pause] less
+t hroughput ,
+m n021 [ s^ df] : but not hing m ore .
+m n021 [ s] : I don’t expect any [ disfm arker] any [ pause] m ore problem .
+m n021 [ s.%−−] : ev en [ pause] t he [ disfm arker] t he [ disfm arker] t he own
+Bluet oot h specificat ion [ pause] is also
+m n021 [ fh] : [ no m at ched cont ent ]
+m n021 [ s.%−−] : assum ing t hat anot her Bluet oot h [ pause] or several
+Bluet oot h [ pause] net works [ pause] c will be [ disfm arker] could be
+[ pause] in t he sam e area of space
+m n021 [ s] : and t hey are using t he sam e [ pause] hopping t echnology ,
+frequency hopping t echnology .
+m n021 [ s] : But again , [ pause] t his t echnology [ pause] is uh t rying t o
+av oid [ pause] t he ot her net works by choosing different hopping
+pat t erns .
+m n021 [ s] : So [ pause] uh [ pause] if several Bluet oot h net works can
+[ disfm arker] can uh coexist wit hout a problem , [ pause] I don’t see any
+problem will [ disfm arker] will happen if [ disfm arker] if we [ pause] want
+t o [ disfm arker] t o m ake coexist [ pause] one uh Bluet oot h wit h anot her
+wireless uh local area net work t echnology .
+m n082 [ s^ ba|qy^ d^ f] : Well t hat ’s a good news , OK ?
+m n021 [ s^ aa|s^ na] : Yeah . I t hink so .
+m n082 [ s.%−−] : But anyway , [ vocalsound] um based on your uh uh
+[ pause] init ial scenario I believe because Bluet oot h is on one chip ,
+
+m n021 [ b] : Yeah .
+m n082 [ s] : like you have now your UCB buss or what ever connect ivit y ,
+y ou will have your Bluet oot h connect ivit y .
+m n021 [ s] : Five bucks .
+m n082 [ s.%−] : And t hat m eans your m ouse , and [ disfm arker] and
+[ disfm arker] and [ disfm arker]
+m n021 [ s^ e] : Fiv e bucks chip .
+m n082 [ s^ bk^ rt |s] : Yeah , and [ disfm arker] and [ disfm arker] and
+what ev er kind of [ disfm arker] of eh t hings connect ed t o your lapt op
+and also y our m icrophone and what ev er y ou will [ disfm arker] will have ,
+is Bluet oot h − based .
+m n021 [ b] : Hm m − hm m − hm m .
+m n082 [ s^ f|s^ bsc] : Yeah , or will be Bluet oot h − based .
+m n021 [ s^ bc] : Will be .
+m n082 [ s^ bk|s] : Yeah , and t his is [ disfm arker] t his is eh wit hin m aybe
+an uh wireless LAN .
+m n021 [ s^ r] : Will be .
+m n082 [ s.%−] : So , despit e t he fact t hat t hey are considered for
+different scenarios t hey are st ill
+m n021 [ s] : In fact [ disfm arker] in fact Bluet oot h is also designed
+m n082 [ s^ e] : wit hin one [ disfm arker] one area .
+m n082 [ s^ bk] : Yeah .
+m n021 [ s^ e] : t o be com pat ible wit h exist ing [ pause] digit al European
+cordless t elephones .
+m n021 [ s] : So , hopefully , [ pause] we will be able [ pause] t o use
+som e of [ pause] our old devices [ pause] or m aybe our [ disfm arker] our
+cordless phone base st at ion at hom e , [ pause] wit h a com put er . S
+m n021 [ s] : S [ pause] So I t hink som e really nice applicat ions will
+[ disfm arker] will appear .
+m n082 [ s^ bk|s^ j] : OK we ’ll when I [ disfm arker] I will have som e
+problem s in t he fut ure wit h m y l [ pause] wireless LAN and Bluet oot h
+connect ivit y ,
+m n082 [ s^ cc^ j] : I will com e t o y ou ,
+m n082 [ s^ j|qy^ d^ f^ g] : you will solve it OK ?
+m n021 [ s^ na] : I ’ll t ry t o .
+m n082 [ s^ bk|s^ co^ t c] : OK , please go on .
+m n021 [ s] : So , [ pause] let m e [ disfm arker] let m e just uh finish , you
+know .
+m n082 [ s^ bk] : OK .
+m n021 [ s] : Uh [ pause] well , [ pause] t his is som et hing I , m ore or less
+, [ pause] I t old y ou .
+m n021 [ fh|s.%−−] : and eh [ pause] you know , t he point , or
+[ disfm arker] or [ disfm arker] or [ disfm arker]
+
+m n021 [ s] : what [ disfm arker] [ pause] t he [ disfm arker] t he spark of
+[ disfm arker] of m y [ disfm arker] [ pause] of m y work here , or at least ,
+of what I [ pause] was proposing t o work here , [ pause] is [ pause] t he
+fact t hat [ pause] t hese t wo m odel uh t wo m odes of operat ion , I was
+t elling y ou here [ disfm arker] [ pause] t hat you have t o choose at t he
+driv er level [ pause] if your net work adapt or [ pause] is working in an
+[ pause] access point − based environm ent or in ad ho [ pause] in an
+[ pause] ad − hoc env ironm ent . [ pause] I see t his as a [ disfm arker] as
+a lim it at ion
+m n021 [ s^ df] : because I t hink t hat [ pause] uh when you have t o
+choose am ong t wo opt ions , well , m m m , [ pause] m aybe you are
+[ pause] saying " no " t o som e of t he benefit s t he ot her opt ion ,
+[ pause] different t han t he one y ou are choosing , [ pause] could
+prov ide you .
+m n021 [ s.%−−] : And I envision an [ disfm arker] an [ disfm arker] an m
+[ pause] [ pause] an escenario [ pause] where [ pause] eh [ disfm arker]
+m n021 [ s^ fa] : Oops !
+m n021 [ s^ bk] : Well , yeah .
+m n021 [ s^ co^ t 1] : Let ’s go .
+m n021 [ s] : where we can hav e [ pause] a kind of uh dual m ode uh
+wireless net work adapt or
+m n021 [ s] : So [ pause] if we are not able [ pause] t o reach any access
+point [ pause] but we are able t o reach anot her net work [ pause] node
+, [ pause] well , [ pause] m aybe t his [ pause] net work node [ pause]
+could do [ pause] m e t he favor [ pause] t o reach or t o forward m y
+packet s t o t he access point .
+m n021 [ s] : So [ pause] t he m ain idea , t he driving force here , [ pause]
+is [ pause] t o uh [ pause] t ry t o obt ain [ pause] uh , let ’s say , hybrid
+[ pause] m ode
+m n021 [ s] : which allows [ pause] an adapt or t o work eit her in t he
+access point or in t he [ disfm arker] [ pause] eh [ pause] in t he ad − hoc
+m ode [ pause] in a seam less way .
+m n021 [ s.%−−] : and t o include in every single node driver ,
+m n021 [ s] : t his forwarding or helper [ pause] uh forwarding [ pause]
+m echanism [ pause] t hat [ pause] will allow [ pause] t o ext end t he
+wireless coverage [ pause] wit hout a need of buying [ pause] a lot of
+access point s
+m n021 [ s^ e|qy^ d^ f^ g] : and put t ing even an access point inside t he
+rest room . OK ?
+m n021 [ s] : Of course [ pause] t his idea m m m , [ pause] can sound
+[ pause] p can sound a lit t le bit [ pause] not very appealing for t he
+m anufact urers ,
+m n021 [ s^ e] : at least for t he m anufact urers of access point
+m n021 [ s^ df] : because well , t hey probably are very happy of selling a
+lot of t hem .
+m n082 [ s^ cs] : But m aybe for cars .
+
+m n082 [ s^ e] : Yeah , if your car is t he infrast ruct ure , for inst ance .
+m n021 [ s^ bk] : Yeah .
+m n082 [ b] : Yeah .
+m n082 [ s^ bk] : OK .
+m n021 [ s] : So , [ pause] t his is [ pause] t he m I t hink t his is near t he
+end , t his is t he last [ disfm arker]
+m n021 [ fh] : So
+m n021 [ qh] : One possible ext ension of t he sam e idea [ pause] and
+som et hing uh I ’ve been t hinking for awhile , [ pause] is t he idea t hat ,
+well , why can’t [ pause] do [ pause] we [ com m ent ] ext end t his sam e
+concept t o cell array syst em s ?
+m n021 [ qh] : Why [ pause] can’t we , [ pause] for exam ple , t hink about
+[ pause] som e m m m , [ pause] new [ pause] m echanism s t hat users
+could get , [ pause] uh [ pause] connect iv it y by m eans of ot her users ,
+[ pause] and no direct ly t o t he base st at ion ,
+m n021 [ qh] : or , [ pause] when we have [ pause] sev eral t echnologies
+[ pause] uh in [ disfm arker] [ pause] overlapped in a cert ain area ,
+[ pause] why can’t we use [ pause] t he closest and t he cheapest ,
+m ay be , t echnology ,
+m n021 [ s^ e] : or m aybe [ pause] t he less [ pause] power [ pause]
+consum pt ion t echnology , [ pause] wit hout t he user t o worry about if
+he is now [ pause] using t his or [ pause] t he ot her t echnology .
+m n021 [ qh] : And [ pause] on t he ot her hand , [ pause] what are t he
+billing [ pause] im plicat ions of t his behav ior ?
+m n021 [ s^ df] : Because [ pause] it is clear t hat , well , [ pause] when I
+’m [ pause] only [ pause] uh , t alking t o t he [ disfm arker] t o t he base
+st at ion of m y provider , well [ pause] billing is [ pause] m ore or less
+st raight forward ,
+m n021 [ qh] : but [ pause] what happens [ pause] if I ’m working [ pause]
+uh , let ’s say , uh across a m all , [ pause] and [ pause] at a given
+m om ent I ’m using [ pause] t he sm all [ pause] base st at ion of a
+cordless phone [ pause] t hat is inside t he shop I ’m at t he window of ?
+m n021 [ s] : Well in t his case , I ’m using [ pause] a resource [ pause]
+which is not owned by m y provider .
+m n021 [ s^ rt ] : I ’m using , [ pause] a [ disfm arker] let ’s say , a privat e
+propert y .
+m n021 [ s] : Maybe I have t o pay [ pause] t o t his privat e propert y ,
+m n021 [ s] : or m ay be m y carrier [ pause] will have t o pay or t o refund
+som e m oney t o t his guy .
+m n021 [ s^ df] : You know [ pause] t his som et hing , uh [ pause] I ’m
+put t ing on t he t able
+m n021 [ s^ bd] : I ’m not sure about , [ pause] uh [ pause] if t his can be
+really of int erest or not
+m n021 [ s] : but , [ pause] it ’s an idea ,
+m n021 [ s] : and I ’ll be happy t o discuss it wit h y ou .
+
+m n021 [ s^ t ^ t c] : And I uh [ disfm arker] I t hink [ pause] m y present at ion
+is ov er ,
+m n021 [ fh] : So .
+m n082 [ b] : Mm − hm m .
+m n082 [ s^ bk] : OK .
+m n082 [ s^ ft ] : m any t hanks Miguel .
+m n082 [ qo^ rt ] : Are t here any quest ions ?
+m n021 [ s^ fw] : Oh , you are [ pause] welcom e .
+m n082 [ s^ cs] : May be we have also t he t im e t o discuss wit h Miguel off
+− line t he t hings if t here is som e [ pause] uh quest ion concerning uh his
+t alk or m ay be ot her quest ions .
+m n082 [ s] : Maybe one last quest ion from m y side
+m n082 [ s^ df] : because I bring it up , [ pause] uh concerning t he
+proposal , som e kind of act ive rout ing m echanism .
+m n021 [ b] : Mm − hm m .
+m n082 [ s] : It ’s going in a quit e different direct ion as [ disfm arker] as
+[ disfm arker] as [ disfm arker] as t he t radit ional t hings discussed in t he
+ITF
+m n082 [ s] : and I current ly do not have any idea whet her act ive rout ing
+is really a t opic uh , wit hin t he I T
+m n082 [ qr] : Do y ou have cert ain kind of experience or do you know
+cert ain act ivit ies uh , in t hat area ?
+m n021 [ h|s^ nd] : Nnn , no t o bot h q [ pause] t o bot h quest ions .
+m n082 [ s^ bk] : OK .
+m n021 [ s^ rt ] : I don’t have previous experience
+m n021 [ s] : I don’t eh know if [ disfm arker] uh where it will [ disfm arker]
+[ pause] it would fix .
+m n021 [ s] : Howev er , [ pause] eh you know I ’m just doing [ pause] t his
+present at ion
+m n021 [ fh|s] : uh [ pause] som e [ pause] som ehow a review [ pause] of
+m y prev ious work .
+m n082 [ s|s^ bk] : I know , yeah .
+m n021 [ s.%−−] : So eh t his eh doesn’t m ean t hat [ disfm arker]
+m n021 [ s] : I ’m [ disfm arker] I ’m probably [ pause] get t ing involved a
+lit t le bit m ore in t his act ive rout ing t hing .
+m n082 [ b] : Mm − hm m .
+m n021 [ fh|s] : So uh [ pause] I [ disfm arker] I [ disfm arker] m ay be I will
+be able t o [ disfm arker] hopefully I will be able t o [ disfm arker] t o give
+y ou a bet t er answer in t he fut ure .
+m n082 [ s^ bk] : Oh , OK .
+m n082 [ s^ ft ] : One m ore t im e , m any t hanks Miguel .
+m n082 [ fg] : So .
+m n021 [ s^ ft ] : Oh , t han t hanks , Michael , for your com put er .
+m n035 [ s^ fw] : No problem .
+m n082 [ s] : So I will deploy a lit t le bit inform at ion here from t he uh
+project proposal .
+
+m n021 [ qy ^ t 3] : Should I power off it ?
+m n035 [ s^ co^ t 3] : Um , just log out .
+m n021 [ s^ bk^ t 3] : OK .
+m n035 [ fg|s^ ar^ t 3] : Uh . No .
+m n035 [ s^ co^ t 3] : Log out .
+m n021 [ s^ bk^ t 3|s^ fa^ t 3] : Oh , OK , sorry , sorry .
+m n082 [ s.%−−] : So I have only
+m n082 [ s] : four .
+m n021 [ s^ bk] : Oh .
+m n082 [ s] : Jordi is [ pause] only a short period of t im e here ,
+m n021 [ %−] : W
+m n021 [ s.%−] : which is i which is proper [ disfm arker]
+m n082 [ s] : so he will get t he [ pause] colored one .
+m n021 [ s] : Michael
+m n040 [ s^ ft ] : Ah , t hank you [ disfm arker] t hank you very m uch .
+m n035 [ s^ bk] : OK .
+m n021 [ s^ r] : Michael ,
+m n082 [ s^ cs.%−−] : and t ake a look t o [ disfm arker]
+m n021 [ s^ ba] : which is t he proper answer ?
+m n082 [ fh] : uh
+m n035 [ s^ na] : That ’s t he proper answer .
+m n021 [ qy ^ bu^ d^ rt ] : Th − t his one ?
+m n035 [ b.%] : Yeah .
+m n021 [ s^ bk] : OK .
+m n082 [ s^ aa] : Yeah .
+m n021 [ s^ ft ] : Thank you .
+m n082 [ s] : Kill t he com put er .
+m n082 [ h|s^ t c] : Uh , So I st art ed uh , for [ disfm arker] for advert ising
+t he project proposal here t o provide a few slides
+m n082 [ s] : I t hink , first of all , Wilbert , is not here ,
+m n082 [ s] : second um , t he [ pause] um link here [ pause] was uh
+enabling UMTS services and applicat ion ,
+m n082 [ s] : uh , I assum e [ nonvocalsound] was not read [ pause]
+y est erday night .
+m n082 [ s^ cs] : So [ pause] I suggest we go roughly t o t he slides here
+m n082 [ fh] : and um
+m n082 [ s] : The [ disfm arker] t he problem is t hat , in principle , we have
+different scopes .
+m n082 [ s] : And m ot ivat ion of t he project proposal from m y point of
+v iew is t hat we will have t he um Wireless access net works for t he next
+generat ion will be m ore flexible .
+m n082 [ s] : There ’s a @ @ for uh current [ disfm arker] uh uh uh for
+[ disfm arker] for fast [ pause] changes wit hin t his net work .
+
+m n082 [ s] : And t hat m eans , if you go t o slide num ber t hree ,
+[ nonv ocalsound] t hat [ pause] we [ pause] have [ pause] um [ pause]
+t he possibilit y t o [ disfm arker] t o um [ pause] having norm al feat ures in
+t he m obile access net work ,
+m n082 [ fh] : and [ disfm arker]
+m n082 [ fh] : and [ pause] um
+m n082 [ s] : and [ pause] um [ pause] also based on t hat it belongs
+norm ally t o one single provider dom ain , t hat it is possible t o
+[ disfm arker] t o uh use novel t hings
+m n082 [ s] : and [ disfm arker] and [ disfm arker] and new prot ocols and
+new t echnologies wit hin t his net work .
+m n082 [ s] : On t he ot her hand , in t he int ernet backbone , uh [ pause]
+we [ disfm arker] it is i im possible
+m n082 [ s] : and we see it on sev eral exam ples
+m n082 [ s^ e] : like t his , MPLS ,
+m n082 [ s] : t here ’s qualit y of service support , and m ult icast
+m n082 [ s^ e] : and all t his kind of t hing ,
+m n082 [ s] : t hat , based on t he success of t he int ernet backbone , it
+’s becom e uh [ pause] very unflexible , t o p uh fo for t he provision of
+t hese t hings .
+m n082 [ s] : So , if [ pause] we are going t o offer building blocks , and
+prov ide nov el solut ions for t he nex t generat ion of wireless access
+net works , t aking int o account , [ pause] wit hout m odifying [ pause] t he
+end − t o − end scope , t hen I t hink it ’s really beneficial work ,
+m n082 [ s^ e] : also for t he use of int eract iv e m ult im edia applicat ion ,
+m n082 [ s] : so [ pause] as it is described in t he uh [ pause] project
+proposal .
+m n082 [ s] : Um [ pause] t he point is t hat um [ pause] t o st art [ pause]
+wit h um [ pause] a bigger clust er of co uh [ pause] of pot ent ial part ners
+t o do t his really really really big work ,
+m n082 [ s^ e] : seem s not t o be feasible in t he next t im e .
+m n082 [ s^ df.%−−] : because if you have set t led everyt hing , and
+discussed ev ery t hing and [ disfm arker] and [ disfm arker] and
+[ disfm arker] and uh [ disfm arker] wit hout any m oney in t he background
+, and a lot of m oney in t he background ,
+m n082 [ s] : t hat is not uh feasible from m y point of view .
+m n082 [ s^ df] : Nevert heless , I discussed , wit h a lot of part ners ,
+t hese t hings .
+m n082 [ s] : And t oday , [ pause] uh Michael and m e , we were on t he
+UCB t o discuss wit h a guy who is a professor who is probably
+int erest ed in t he applicat ion st uff .
+m n082 [ s] : They are going in t hat direct ion .
+m n082 [ s] : They have a sm all project funded by NSA [ disfm arker]
+m n082 [ s^ bsc] : NSF ,
+m n082 [ s^ e] : um , f for t his " int elligent classroom " , is a lit t le bit
+ex aggerat ed , I believe ,
+
+m n082 [ s] : but going in t hat direct ion .
+m n082 [ s] : So t here are a lot of int erest ,
+m n082 [ s] : but wit hout really [ pause] hard m oney in t he background ,
+it is very hard t o com e t o t he init ial st eps .
+m n082 [ s] : And uh Juan Peire , one of t he uh m em bers of t his NSA
+group has [ pause] uh [ pause] ident ified a cert ain kind of s st art
+m oney , I would like t o say .
+m n082 [ s^ cs] : So m aybe if you st art wit h a sm all clust er of um t he
+const raint s of t his funding ,
+m n082 [ s] : and t hat m eans uh six universit ies and [ disfm arker] and
+inst it ut ions
+m n082 [ s^ e] : uh , t hree in USA and t hree in Europe .
+m n082 [ s] : and of course , t hey are uh including t he NSA group
+m n082 [ s] : and m ay be t hat seem s t o be v ery reasonably , for m e .
+m n082 [ s^ cs] : But t hen we have t o align t he project proposal in t hat
+sense .
+m n082 [ s^ df] : Because t hen we cannot do [ disfm arker] do anyt hing
+as it is described in t he [ disfm arker] in t he bigger scope .
+m n082 [ s] : So t he point is [ pause] um [ pause] t o reduce t he overall
+pict ure , which I described in a few words , t o t he fact t hat we have
+really som e work packages where we can focus on it ,
+m n082 [ s^ e] : st ill fit t ing int o t he big pict ure .
+m n082 [ s^ f] : Yeah ?
+m n082 [ s] : And so t hat will be t he t ask of t he next weeks .
+m n082 [ fh] : And [ pause] uh
+m n082 [ s] : I [ pause] hope t hat ev ery body is doing his hom ework
+concerning @ @ for inst ance
+m n082 [ s^ cs] : uh alt ernat ive t o t he int elligent classroom m aybe t hat
+we [ pause] h can st art here only wit h t he N S A group
+m n082 [ s^ e] : wit hin t his big pict ure
+m n082 [ s^ e] : um [ pause] wit h som e work
+m n082 [ s^ e] : t hat we put t he pieces t oget her .
+m n082 [ s^ df] : Because I believ e m any are very flexible here
+m n082 [ s] : account ing also t he [ pause] fut ure − com ing uh [ pause]
+joining people of t he NSA group , t o do som e work here .
+m n082 [ s] : And if [ pause] we are st art ing wit h a very very very sm all
+clust er wit h a com m on act ivit y have m aybe som e st art ing funding for
+bigger uh [ pause] radius of t he [ disfm arker] of t he [ disfm arker] t he
+[ disfm arker] t he uh [ pause] project proposal , wit h t he m ind t hat
+m ay be at t he final st age it will becom ing a European proposal wit h t his
+uh t he [ disfm arker] t he whole funding .
+m n082 [ s] : That ’s uh [ pause] m y point , and m y pict ure I have in m ind
+.
+m n082 [ s^ rt ] : And I will go definit ely back t o [ pause] Germ any t he
+t ent h of Decem ber .
+m n082 [ s] : That is fixed now .
+
+m n082 [ s] : And I hope we can use t hese rem aining weeks [ pause] t o
+have really progress in [ disfm arker] uh for t he proposal in t hat sense
+what I m ent ioned before .
+m n021 [ b] : Hm m − hm m .
+m n082 [ s^ df] : Because t hen I will m ake [ pause] t he advert ising t hat is
+st ill wort h t o st ay here ,
+m n082 [ s:s] : And I hope t hen Siem ens will say OK for m e t o st ay longer
+here .
+m n082 [ s] : And t hen I will com e back m ay be in t he [ disfm arker] m id of
+end of January .
+m n082 [ s] : So t hat ’s uh it ’s a com m ent t o t he proposal .
+m n082 [ s^ cs] : So I t hink everybody should [ pause] consider carefully ,
+[ pause] based on t his st at em ent I m ade uh next st eps
+m n082 [ s^ bd] : and of course everybody has lit t le bit ot her work t o do
+m n082 [ s^ df] : but it should be [ disfm arker] should be always an
+ongoing process unt il I will leave [ disfm arker] unt il t he t ent h of
+Decem ber .
+m n030 [ s] : You m ent ioned um six part ners of t his um work .
+m n082 [ s^ bk] : OK .
+m n030 [ s^ bu] : So you know already what part ners are included .
+m n030 [ s^ bk|s^ df] : OK I didn’t have a look at uh slides ,
+m n082 [ h] : Um
+m n082 [ s^ bk] : y eah
+m n082 [ s] : I will dist ribut e all t he t hings elect ronically
+m n030 [ s^ bk] : OK .
+m n082 [ s^ e.%−−] : t o all t he [ disfm arker]
+m n082 [ s^ bk|s^ cs^ rt ] : OK , t ake a look t o slide of num ber t wo ,
+m n030 [ s^ df] : Just [ disfm arker] I ’m just curious .
+m n082 [ s^ bk^ rt ] : Yeah !
+m n082 [ s] : You see uh uh Universit y of Mannheim ,
+m n082 [ s.%−−] : Universit y
+m n082 [ s] : also t hese are t he official ones ,
+m n030 [ s^ bk] : Yeah , sure .
+m n082 [ s] : You see t hat in t he ICSI US [ disfm arker] on t he U S A side ,
+I believ e t hat t he hom e com panies and universit ies are st ill
+cont ribut ing .
+m n030 [ b] : Mm − hm m .
+m n030 [ s^ bk] : Yeah yeah .
+m n082 [ qy ^ d^ f^ g] : Yeah ?
+m n082 [ s] : but t hese are t hen t he official ones ,
+m n082 [ s.%−] : and I would like t o have t hem [ disfm arker]
+m n030 [ qy ^ bu^ d^ rt ] : And all of t hem had agreed ,
+m n030 [ qrr.%−−] : or [ disfm arker] ?
+m n082 [ s^ na] : They say t hey are very int erest ed in it .
+m n030 [ s^ bk] : OK .
+m n082 [ qy ^ d^ f^ g^ rt ] : Yeah ?
+
+m n082 [ s] : Uh a few words , t he Universit y of Mannheim is at locat ion
+where Joerg Widm er is uh working on it ,
+m n082 [ s.%−−] : and I got t he st at em ent
+m n082 [ s] : uh t hey are very int erest ed in t hat .
+m n082 [ s] : They did a lot in t he area of um int elligent classroom
+m n082 [ s] : but nevert heless t hey did a lot in net working st uff .
+m n082 [ s] : And Universit y of Uppsala , Sweden ,
+m n082 [ s] : t hat ’s t he reason I invit ed uh Christ ian Tschudin , t he
+professor who did t en years work in [ disfm arker] in act ive rout ing .
+m n082 [ fh|s.%−−] : And uh [ pause] [ disfm arker] OK t he Universidad
+Nacional de Educat
+m n082 [ s^ bk] : Yeah .
+m n082 [ s^ df] : Spanish .
+m n082 [ s] : Maybe we have a bet t er expert [ vocalsound] t o pronounce
+it .
+m n021 [ s] : Univ ersidad Nacional de Educacion a Dist ancia
+m n082 [ s^ bk^ m ] : " UNED " .
+m n082 [ s] : I alway s said " UNED " .
+m n082 [ s^ e] : in Spain ,
+m n082 [ s] : uh t his is t his univ ersit y of Juan Peire .
+m n021 [ b] : Yeah .
+m n082 [ s.%−] : And [ pause] he is also t he one who had recognized uh
+m n040 [ qw^ rt ] : Who is ?
+m n082 [ s.%−−] : one
+m n082 [ s^ r] : pair
+m n082 [ s^ r] : pair
+m n040 [ s] : Perez .
+m n082 [ s^ nd|s] : Not Parez , Peire .
+m n082 [ s^ e] : PEIRE .
+m n035 [ s] : Paez .
+m n021 [ s] : Paez , Paez
+m n035 [ s^ r] : Paez .
+m n040 [ s^ bk|s] : Ah , Peire .
+m n082 [ s^ ar] : No , no , no .
+m n021 [ s] : Paez .
+m n082 [ s^ nd] : Not [ disfm arker] not Paez .
+m n082 [ %−−] : Not .
+m n082 [ s] : Peire , P [ pause] E [ pause] I R E .
+m n082 [ s] : P [ pause] E [ pause] I R E .
+m n082 [ qy ^ bu^ d^ rt ] : You never heard from him ?
+m n040 [ s^ ar] : No .
+m n040 [ s^ no] : I don’t know .
+m n082 [ s^ cs.%−−] : You can [ disfm arker] I [ disfm arker] you can m ail
+him lat er on t he inform a
+m n040 [ s^ no] : I don’t know who he is .
+m n040 [z] : OK .
+
+m n082 [ s] : Then , of course , t he whole N S A group
+m n082 [ s] : and [ pause] also of t he coordinat or of all t he t hings ,
+m n082 [ s] : t hen Georgia Tech , I have good relat ionship t o uh t he
+long last ing uh cooperat ion wit h Georgia Tech
+m n082 [ s] : and t hey did a lot in t his area , also relat ed t o net working
+st uff as well as t o t he int elligent classroom st uff [ pause] and t he UCB .
+m n082 [ s^ df] : We st ill focusing on m aybe we can have uh m ore
+professors involved
+m n082 [ s^ df] : which are [ pause] working also on t he net working st uff
+as well as on t he applicat ion st uff ,
+m n082 [ s] : so t hat [ pause] t he UCB is clust ered as one uh part ner
+m n082 [ s^ e] : but nevert heless wit h different depart m ent s .
+m n021 [ b] : Hm m − hm m − hm m .
+m n082 [ b] : Yeah .
+m n082 [ fh] : So , [ disfm arker]
+m n082 [ s] : But t ake a look t o t he slides , I will uh deploy it um uh
+elect ronically .
+m n021 [ qw] : Wher − where your slides are available ?
+m n082 [ qw^ br^ rt ] : Sorry ?
+m n021 [ qw^ r] : Wher − where t he slides are available ?
+m n082 [ s] : I will send it elect ronically .
+m n021 [ qw] : When ?
+m n082 [ s] : Aft er t he m eet ing .
+m n021 [ s^ bk] : Ah !
+m n021 [ s] : You will send it , sorry .
+m n082 [ s^ cc] : I will .
+m n082 [ s] : Fut ure .
+m n021 [ s^ fa] : Sorry .
+m n082 [ s^ cs] : And , [ pause] m aybe you t ake a look t o t he [ pause] uh
+last t wo slides ,
+m n082 [ fh] : um Um ,
+m n082 [ s] : m ay be t he GPRS pict ure is st ill uh available .
+m n082 [ s] : So y ou have , in principle , here now t he m apping of
+[ pause] t he different areas , um wit hin GPS ,
+m n082 [ s] : and , in principle , t he sam e applies for UMTS .
+m n082 [ s] : There is no so m uch different .
+m n082 [ fh|s] : Um . You always have t he SGSN and UMTS ,
+m n082 [ s] : t hey are called t hree − GSGSN .
+m n082 [ s] : And you have t he prot ocol st ack
+m n082 [ s] : um in [ disfm arker] on t he slide num ber five , t o see what
+uh is going on .
+m n082 [ s^ e] : And you see t he difference .
+m n082 [ s] : The am azing t hing is t hat you have IP over IP .
+m n082 [ s] : As y ou t ake a look t o t he [ disfm arker] t he uh GGSN , you
+have t wo − IP layer funct ionalit y and [ disfm arker] and all t hose t hings .
+
+m n082 [ s] : And y ou have t he [ pause] GPS t unnel p uh prot ocol G T P
+bet ween t he G and t he S and t he GTSN .
+m n082 [ s^ e] : And [ disfm arker] and so on .
+m n082 [ s] : So uh I believe t hey are very very difficult prot ocols st uck
+bet ween t he uh [ disfm arker] bet ween t he um um involved nodes ,
+m n082 [ s] : and [ pause] m aking it necessary , in principle , t o deal wit h
+our four building blocks in um [ disfm arker] [ vocalsound] yeah , I believ e
+, in a difficult way ,
+m n082 [ s] : if , uh , we have in m ind qualit y of service rout ing , and
+[ disfm arker] and [ disfm arker] uh qualit uh m obilit y aspect s and
+[ disfm arker] and all t his kinds of t hings for [ pause] I P layer
+funct ionalit y .
+m n082 [ s] : So t hat ’s , in principle , uh an overview , of t he prot ocol
+st ack
+m n082 [ s^ e] : and t he involved nodes ,
+m n082 [ s] : and I will provide m ore and m ore inform at ion
+m n082 [ s] : but um eh I have t o also figure out everyt hing from t he
+scrat ch .
+m n082 [ s] : I am not a t ot al expert for [ disfm arker] for t he fut ure
+[ pause] wireless net works .
+m n082 [ s^ bk^ rt ] : OK .
+m n082 [ s^ ft ] : Then I would like t o t hanks everybody
+m n082 [ s] : and [ pause] if t here ’s no addit ional quest ion , com m ent ,
+or [ pause] or [ pause] ot her rem arks , [ pause] I would like t o st art wit h
+reading uh t hese num bers .
+m n021 [ s^ bk|%−] : OK , we have [ disfm arker]
+m n082 [ z] : OK , please t he next one .
+m n082 [ s^ bk|s^ ft ] : OK , t hank you
+m n082 [ s^ cs] : Now , please let [ disfm arker] don’t swit ch off power ,
+m n082 [ s] : I have t o call Adam ,
+m n082 [ fh] : so
+m n082 [ s] : So I suggest , @ @ now we will have [ disfm arker] in a few
+m inut es we will hav e t he coffee break , t ea , cake , what ever , @ @ will
+[ disfm arker] will be offered ,
+m n082 [ s] : and t hen we will have a [ disfm arker] we can have a
+discussion .
+
+

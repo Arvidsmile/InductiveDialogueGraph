@@ -1,0 +1,1970 @@
+m n007 [ z] : Mike . Mike − one ?
+fn002 [ z] : Ah .
+m e013 [ z] : We ’re on ?
+m e013 [ z] : Yes , please .
+m e013 [ z] : I m ean , we ’re t est ing noise robust ness
+m e013 [ z] : but let ’s not get silly .
+m e013 [ z] : OK ,
+m e013 [ z] : so , uh , you ’ve got som e , uh , Xerox t hings t o pass out ?
+m e013 [ z] : That are [ disfm arker]
+m n007 [ z] : Yeah ,
+m e013 [ z] : Yeah .
+m n007 [ z] : um .
+m n007 [ z] : Yeah .
+m n007 [ z] : Yeah , I ’m sorry for t he t able ,
+m n007 [ z] : but as it grows in size , uh , it .
+m e013 [ z] : Uh , so for t h t he last colum n we use our im aginat ion .
+m e013 [ z] : OK .
+fn002 [ z] : Ah , yeah .
+m e013 [ z] : Ah .
+m n007 [ z] : Uh , y eah .
+fn002 [ z] : Uh , do y ou want @ @ .
+m e013 [ z] : This one ’s nice , t hough .
+m e013 [ z] : This has nice big font .
+m n007 [ z] : Yeah .
+m e006 [ z] : Let ’s see .
+m e006 [ z] : Yeah .
+m e013 [ z] : Yeah .
+m e006 [ z] : Chop !
+m e013 [ z] : When you get older you have t hese different perspect ives .
+m n007 [ z] : So
+m e013 [ z] : I m ean , lowering t he word hour rat e is fine , but having big
+font !
+m n007 [ z] : Next t im e we will put colors or som et hing .
+m e013 [ z] : That ’s what ’s [ disfm arker]
+m e013 [ z] : Yeah . It ’s m ost ly big font .
+m n007 [ z] : Uh .
+m e013 [ fg] : OK .
+m e013 [ fh] : Uh [ disfm arker]
+m n007 [ fg|s] : OK , s so t here is kind of sum m ary of what has been
+done [ disfm arker]
+m e013 [ s^ co] : Go ahead .
+m n007 [ s] : It ’s t his .
+m e013 [ s^ bk] : Oh . OK .
+m n007 [ s^ rt ] : Sum m ary of experim ent s since , well , since last week
+m n007 [ s^ rt ] : and also since t he [ disfm arker] we ’ve st art ed t o run
+[ disfm arker] work on t his .
+
+m n007 [ fh|s] : Um . [ pause] So since last week we ’ve st art ed t o fill t he
+colum n wit h um [ v ocalsound] uh feat ures w wit h net s t rained on PLP
+wit h on − line norm alizat ion
+m n007 [ s] : but wit h delt a also ,
+m n007 [ s.%−−] : because t he colum n was not com plet ely [ disfm arker]
+m e013 [ b] : Mm − hm m . Mm − hm m .
+m e013 [ b] : [ no m at ched cont ent ]
+m e013 [ b] : [ no m at ched cont ent ]
+m n007 [ s^ rt ] : well , it ’s st ill not com plet ely filled ,
+m n007 [ s^ rt ] : but [ pause] we have m ore result s t o com pare wit h
+net work using wit hout PLP
+m n007 [ s] : and [ pause] finally , hhh , [ com m ent ] um [ pause] ehhh
+[ com m ent ] PL − uh delt a seem s very im port ant .
+m n007 [ fh|s^ no] : Uh [ pause] I don’t know .
+m n007 [ s^ rt ] : If you t ake um , let ’s say , anyway Aurora − t wo − B ,
+m n007 [ s^ rt ] : so , t he next [ disfm arker] t t he second , uh , part of t he
+t able ,
+m e013 [ b.%] : Mm − hm m .
+m n007 [ s^ rt ] : uh [ pause] when we use t he large t raining set using
+French , Spanish , and English , y ou have one hundred and six wit hout
+delt a
+m n007 [ s] : and eight y − nine wit h t he delt a .
+m e013 [ s^ bu] : a And again all of t hese num bers are wit h a hundred
+percent being , uh , t he baseline perform ance ,
+m n007 [ s^ aa] : Yeah ,
+m n007 [ s^ na] : on t he baseline , yeah .
+m e013 [ s^ bu] : but wit h a m el cepst ra syst em going st raight int o t he
+HTK ?
+m n007 [ fg] : So [ disfm arker]
+m n007 [ s^ aa] : Yeah . Yeah .
+m e013 [ s^ bk^ m ] : Yes .
+m n007 [ s] : So now we see t hat t he gap bet ween t he different t raining
+set is m uch [ pause] uh uh m uch sm aller
+m e006 [ s] : It ’s out of t he way .
+m n007 [ fh] : um [ disfm arker]
+m n007 [ s^ rt ] : But , act ually , um , for English t raining on TIMIT is st ill
+bet t er t han t he ot her languages .
+m n007 [ %−−] : And
+m n007 [ fh] : [ no m at ched cont ent ]
+m n007 [ b] : Mm m , [ pause] Yeah .
+m n007 [ s] : And f also for It alian , act ually .
+m n007 [ s.%−−] : If you t ake t he second set of experim ent for It alian ,
+m n007 [ s] : so , t he m ism at ched condit ion ,
+m e013 [ b] : Mm − hm m .
+m n007 [ s^ rt ] : um [ pause] when we use t he t raining on TIMIT
+m n007 [ s^ rt ] : so , it ’s m ult i − English ,
+
+m n007 [ s] : we have a ninet y − one num ber ,
+m e013 [ b] : Mm − hm m .
+m n007 [ s] : and t raining wit h ot her languages is a lit t le bit worse .
+m e013 [ h|s^ bk] : Um [ disfm arker] Oh , I see .
+m e013 [ s] : Down near t he bot t om of t his sheet .
+m e013 [ b] : Uh , [ com m ent ] [ pause] yes .
+m n007 [ fg] : So ,
+m n007 [ b] : y eah .
+m e013 [ b] : OK .
+m n007 [ s] : And , y eah , and here t he gap is st ill m ore im port ant
+bet ween using delt a and not using delt a .
+m e013 [ b] : Yes .
+m n007 [ s^ rt ] : If y if I t ake t he t raining s t he large t raining set , it ’s
+[ disfm arker] we have one hundred and sev ent y − t wo ,
+m e013 [ b] : Yeah .
+m n007 [ s] : and one hundred and four when we use delt a .
+m e013 [ b] : Mm − hm m .
+m n007 [ fh.x |s^ rt ] : Uh . [ pause] Even if t he cont ext s used is quit e t he
+sam e ,
+m n007 [ s] : because wit hout delt a we use sevent eent hs [ disfm arker]
+sev ent een fram es .
+m n007 [ fh] : Uh .
+m n007 [ fh|s^ rt ] : Yeah , um , so t he second point is t hat we have no
+single cross − language experim ent s , uh , t hat we did not have last
+week .
+m n007 [ fh|s] : Uh , so t his is t raining t he net on French only ,
+m n007 [ s] : or on English only ,
+m n007 [ s] : and t est ing on It alian .
+m e013 [ b] : Mm − hm m .
+m n007 [ s] : And t raining t he net on French only
+m n007 [ s] : and Spanish only
+m n007 [ s] : and t est ing on , uh TI − digit s .
+m e013 [ b.%] : Mm − hm m .
+m n007 [ %−−] : And ,
+m n007 [ fh] : fff [ com m ent ] um ,
+m n007 [ fh] : yeah .
+m n007 [ s] : What we see is t hat t hese net s are not as good ,
+m n007 [ s] : ex cept for t he m ult i − English , which is always one of t he
+best .
+m n007 [ fh] : Yeah ,
+m n007 [ s^ rt .x ] : t hen we st art ed t o work on a large dat dat abase
+cont aining , uh , sent ences from t he French , from t he Spanish , from
+t he TIMIT , from SPINE , uh from [ com m ent ] uh English digit s , and from
+It alian digit s .
+m n007 [ s^ rt ] : So t his is t he [ disfm arker] anot her line [ disfm arker]
+anot her set of lines in t he t able .
+
+m e013 [ b] : Ah , y es .
+m n007 [ s.%] : Uh , @ @ wit h SPINE
+m e013 [ b] : Mm − hm m .
+m n007 [ s] : and [ pause] uh , act ually we did t his before knowing t he
+result of all t he dat a ,
+m n007 [ s] : uh , so we have t o t o redo t he uh [ disfm arker] t he
+ex perim ent t raining t he net wit h , uh PLP , but wit h delt a .
+m e013 [ b] : Mm − hm m .
+m n007 [ s] : But
+m n007 [ s] : um t his [ disfm arker] t his net perform ed quit e well .
+m n007 [ %−−] : Well ,
+m n007 [ s] : it ’s [ disfm arker] it ’s bet t er t han t he net using French ,
+Spanish , and English only .
+m n007 [ b] : Uh .
+m n007 [ fg] : So ,
+m n007 [ b] : uh , yeah .
+m n007 [ s^ rt ] : We have also st art ed feat ure com binat ion experim ent s
+.
+m n007 [ s] : Uh m any experim ent s using feat ures and net out put s
+t oget her .
+m n007 [ s^ rt ] : And t his is [ disfm arker] The result s are on t he ot her
+docum ent .
+m n007 [ s^ cs] : Uh , we can discuss t his aft er , perhaps [ disfm arker]
+well , just , @ @ .
+m n007 [ s] : Yeah , so basically t here are four [ disfm arker] four kind of
+sy st em s .
+m n007 [ s.%−−] : The first one , yeah , is com bining , um , t wo feat ure
+st ream s , uh using [ disfm arker]
+m n007 [ s^ rt ] : and each feat ure st ream has it s own MPL .
+m n007 [ s] : So it ’s t he [ disfm arker] kind of sim ilar t o t he t andem t hat
+was proposed for t he first .
+m n007 [ s^ rt ] : The m ult i − st ream t andem for t he first proposal .
+m n007 [ s^ rt ] : The second is using feat ures and KLT t ransform ed MLP
+out put s .
+m n007 [ s^ rt ] : And t he t hird one is t o u use a single KLT t rans
+t ransform feat ures as well as MLP out put s .
+m n007 [ fh] : Um ,
+m n007 [ fh] : yeah .
+m n007 [ b.%] : Mm m .
+m n007 [ s^ cs] : You know you can [ disfm arker] you can com m ent t hese
+result s ,
+fn002 [ s^ aa.%−−] : Yes , I can s
+fn002 [ s^ rt ] : I would like t o say t hat , for ex am ple , um , m m m , if we
+doesn’t use t he delt a − delt a , uh we have an im prove when we use s
+som e com binat ion .
+fn002 [ %−] : But when
+
+m n007 [ fg|s^ e] : Yeah , we ju just t o be clear , t he num bers here are
+uh recognit ion accuracy .
+fn002 [ s^ bk|s.%−−] : w Yeah , t his [ disfm arker] Yeah , t his num ber
+recognit ion acc
+m n007 [ s] : So it ’s not t he [ disfm arker] [ vocalsound] Again we swit ch
+t o anot her [ disfm arker]
+fn002 [ s] : Yes , and t he baseline [ disfm arker] t he baseline have
+[ disfm arker] i is eight y − t wo .
+m e013 [ s^ bk^ m ] : Baseline is eight y − t wo .
+fn002 [ s^ aa] : Yeah
+m n007 [ s] : So it ’s experim ent only on t he It alian m ism at ched for t he
+m om ent for t his .
+m e013 [ fh|s^ bk^ m ] : Uh , t his is It alian m ism at ched .
+fn002 [ s^ aa^ m ] : Yeah , by t he m om ent .
+m n007 [ fg] : Um .
+m e013 [ s^ bk^ rt ] : OK .
+m n007 [ b] : Mm − hm m .
+fn002 [ s^ rt ] : And first in t he experim ent − one I [ disfm arker] I do
+[ disfm arker] I [ disfm arker] I use different MLP ,
+m e013 [ b] : Mm − hm m .
+fn002 [ s] : and is obviously t hat t he m ult i − English MLP is t he bet t er .
+fn002 [ fh|s] : Um . for t he ne [ disfm arker] rest of experim ent I use m ult i
+− English ,
+fn002 [ s^ e] : only m ult i − English .
+fn002 [ s] : And I t ry t o com bine different t ype of feat ure ,
+fn002 [ s] : but t he result is t hat t he MSG − t hree feat ure doesn’t work
+for t he It alian dat abase
+fn002 [ s] : because never help t o increase t he accuracy .
+m n007 [ s.%−−] : Yeah , eh , act ually , if w we look at t he t able ,
+m n007 [ s^ rt .%−−] : t he huge t able ,
+m e013 [ b] : Mm − hm m .
+m n007 [ s^ rt ] : um , we see t hat for TI − digit s MSG perform as well as
+t he PLP ,
+m n007 [ s] : but t his is not t he case for It alian what [ disfm arker] where
+t he error rat e is c is alm ost uh t wice t he error rat e of PLP .
+m e013 [ b] : Mm − hm m .
+m n007 [ fh|s] : So , um [ vocalsound] uh , well , I don’t t hink t his is a bug
+m n007 [ s.%−−] : but t his [ disfm arker] t his is som et hing in [ disfm arker]
+probably in t he MSG um process t hat
+m n007 [ fh] : uh
+m n007 [ s^ no] : I don’t know what exact ly .
+m n007 [ s^ cs^ rt ] : Perhaps t he fact t hat t he [ disfm arker] t he
+[ disfm arker] t here ’s no low − pass filt er ,
+m n007 [ %−−] : well ,
+m n007 [ s^ cs] : or no pre − em p pre − em phasis filt er
+m n007 [ s] : and t hat t here is som e DC offset in t he It alian ,
+
+m n007 [ %−−] : or , well ,
+m n007 [ s^ rt ] : som et hing sim ple like t hat .
+m n007 [ s] : But [ disfm arker] t hat we need t o sort out if want t o uh get
+im provem ent by com bining PLP and MSG
+m e013 [ b] : Mm − hm m .
+m n007 [ s^ df] : because for t he m om ent MSG do doesn’t bring m uch
+inform at ion .
+m e013 [ b] : Mm − hm m .
+m n007 [ s] : And as Carm en said , if we com bine t he t wo , we have t he
+result , basically , of PLP .
+m e013 [ %−] : I
+m e013 [ fg|s.%−−] : Um , t he uh , baseline syst em [ disfm arker]
+m e013 [ qw] : when you said t he baseline syst em was uh , uh eight y −
+t wo percent , t hat was t rained on what and t est ed on what ?
+m e013 [ s] : That was , uh It alian m ism at ched d uh , uh , digit s , uh , is
+t he t est ing ,
+fn002 [ s^ aa] : Yeah .
+m e013 [ qy ^ bu^ d^ rt ] : and t he t raining is It alian digit s ?
+fn002 [ s^ aa^ rt ] : Yeah .
+m e013 [ s^ bu] : So t he " m ism at ch " just refers t o t he noise and
+[ disfm arker] and , uh m icrophone and so fort h ,
+fn002 [ s^ aa] : Yeah .
+m e013 [ qy ^ d^ g] : right ?
+m n007 [ b.%] : Yeah .
+m e013 [ fh|qy ^ rt .%−−] : So , um did we have [ disfm arker]
+m e013 [ qy ^ rt ] : So would t hat t hen correspond t o t he first line here of
+where t he t raining is [ disfm arker] is t he uh It alian digit s ?
+m e013 [ %] : The [ disfm arker]
+fn002 [ qy ^ bu^ d^ rt ] : The t rain t he t raining of t he HTK ?
+fn002 [ s^ aa] : Yes .
+m e013 [ s^ aa] : Yes .
+fn002 [ fg] : Ah y es !
+fn002 [ s.%−−] : This h
+fn002 [ s^ aa^ r] : Yes .
+m e013 [ b] : Yes .
+fn002 [ b] : Th − Yes .
+m e013 [ s] : Training of t he net ,
+m e013 [ b] : y eah .
+fn002 [ b] : Yeah .
+m e013 [ fh|s] : So , um [ disfm arker] So what t hat says is t hat in a
+m at ched condit ion , [ vocalsound] we end up wit h a fair am ount worse
+put t ing in t he uh PLP .
+m e013 [ qy.%−−] : Now w would [ disfm arker] do we hav e a num ber , I
+suppose for t he m at ched [ disfm arker]
+m e013 [ s] : I [ disfm arker] I don’t m ean m at ched ,
+
+m e013 [ qy ^ bu^ d^ rt ] : but uh use of It alian [ disfm arker] t raining in
+It alian digit s for PLP only ?
+fn002 [ h|s^ aa^ rt ] : Uh [ pause] y es ?
+m n007 [ h|s^ aa] : Uh [ pause] yeah ,
+m n007 [ s] : so t his is [ disfm arker] basically t his is in t he t able .
+m n007 [ fh|s^ rt ] : Uh [ pause] so t he num ber is fift y − t wo ,
+fn002 [ s^ 2] : Anot her t able .
+m n007 [ fh] : uh [ disfm arker]
+m e013 [ s^ bu^ m ] : Fift y − t wo percent .
+m n007 [ s.%−] : Fift − So [ disfm arker] No , it ’s [ disfm arker] it ’s t he
+[ disfm arker]
+fn002 [ s^ ar] : No .
+m e013 [ s^ bk^ m |qy ^ bu^ d^ rt ] : No , fift y − t wo percent of eight y − t wo ?
+m n007 [ s] : Of [ disfm arker] of [ disfm arker] of uh [ pause] eight een
+[ disfm arker]
+fn002 [ s] : Eight y .
+fn002 [ s^ r] : Eight y .
+m n007 [ s^ r] : of eight een .
+m n007 [ s] : So it ’s [ disfm arker] it ’s error rat e , basically .
+fn002 [ s^ rt ] : It ’s plus six .
+m n007 [ s^ bsc] : It ’s er error rat e rat io .
+m n007 [ fh] : So [ disfm arker]
+m n007 [ fh] : [ no m at ched cont ent ]
+m e013 [ s^ bk|s^ fe] : Oh t his is accuracy !
+m e013 [ b.%] : [ no m at ched cont ent ]
+fn002 [ b] : Yeah .
+m e013 [ s^ bk] : Oy ! [ com m ent ] OK .
+m n007 [ fg|s] : Uh , so we have nine [ disfm arker] nine [ disfm arker] let ’s
+say ninet y percent .
+m e013 [ s^ bk] : Ninet y .
+m n007 [ b] : Yeah .
+m n007 [ fh|s] : Um [ com m ent ] which is uh [ com m ent ] what we have
+also if use PLP and MSG t oget her ,
+m e013 [ b] : Yeah .
+m n007 [ s] : eight y − nine point sev en .
+m e013 [ fg|s.%−−] : OK , so even just PLP , uh , it is not , in t he m at ched
+condit ion [ disfm arker]
+m e013 [ fh|s] : Um I wonder if it ’s a difference bet ween PLP and m el
+cepst ra , or whet her it ’s t hat t he net half , for som e reason , is not
+helping .
+m n007 [ b] : Uh .
+m n007 [ s] : P − PLP and Mel cepst ra give t he sam e [ disfm arker] sam e
+result s .
+m e013 [ s^ bk^ m ] : Sam e result pret t y m uch ?
+m n007 [ s] : Well , we have t hese result s .
+m n007 [ s^ no] : I don’t know .
+
+m n007 [ s.%−−] : It ’s not [ disfm arker]
+m e013 [ fg|%−] : So , s
+m n007 [ qy^ rt ^ t 3] : Do you hav e t his result wit h PLP alone , [ com m ent ]
+j fee feeding HTK ?
+m n007 [ s] : That [ disfm arker] That ’s what you m ean ?
+fn002 [ s^ aa^ rt ] : Yeah ,
+m n007 [ s^ e] : Just PLP at t he input of HTK .
+fn002 [ s^ bk] : yeah y eah yeah yeah ,
+fn002 [ s.%−−] : at t he first [ disfm arker] and t he [ disfm arker]
+fn002 [ b] : Yeah .
+m n007 [ b] : Yeah .
+m n007 [ s.%−−] : So , PLP [ disfm arker]
+m e013 [ s] : Eight y − eight point six .
+m n007 [ b] : Yeah .
+m e013 [ fg|s.%−−] : Um , so adding MSG
+m n007 [ fh] : Um [ disfm arker]
+m e013 [ fh|s^ bu] : um [ disfm arker] Well , but t hat ’s [ disfm arker] yeah ,
+t hat ’s wit hout t he neural net ,
+m e013 [ qy^ bu^ d^ g^ rt ] : right ?
+m n007 [ s^ aa|s^ na] : Yeah , t hat ’s wit hout t he neural net
+m n007 [ s^ rt ] : and t hat ’s t he result basically t hat OGI has also wit h
+t he MFCC wit h on − line norm alizat ion .
+m e013 [ s^ rt ] : But she had said eight y − t wo .
+m n007 [ s] : This is t he [ disfm arker] w well , but t his is wit hout on − line
+norm alizat ion .
+m e013 [ qy^ d^ g^ rt ] : Right ?
+m e013 [ s^ bk|qy ^ bu^ d^ rt ] : Oh , t his [ disfm arker] t he eight y − t wo .
+fn002 [ %] : [ no m at ched cont ent ]
+m n007 [ b] : Yeah .
+m n007 [ s] : Eight y − t wo is t he [ disfm arker] it ’s t he Aurora baseline ,
+m n007 [ s^ e] : so MFCC .
+m n007 [ s.%−−] : Then we can use [ disfm arker]
+m n007 [ s^ rt ] : well , OGI , t hey use MFCC [ disfm arker] t h t he baseline
+MFCC plus on − line norm alizat ion
+m e013 [ s^ bk|s^ fa] : Oh , I ’m sorry ,
+m e013 [ s] : I k I keep get t ing confused
+m e013 [ s^ df] : because t his is accuracy .
+m n007 [ s^ bk|s^ fa] : Yeah , sorry .
+m n007 [ s^ aa] : Yeah .
+fn002 [ s^ aa] : Yeah .
+m e013 [ s^ bk] : OK . Alright .
+m n007 [ b] : Yeah .
+m e013 [ s^ bk|s^ df] : Alright . So t his is [ disfm arker] I was t hinking all
+t his was worse .
+m e013 [ s^ bk|s^ bs] : OK so t his is all bet t er
+m e013 [ s] : because eight y − nine is bigger t han eight y − t wo .
+
+fn002 [ s^ m ^ na] : Yes , bet t er .
+m n007 [ b] : Mm − hm m .
+m e013 [ s^ bk] : OK .
+fn002 [ b] : Yeah .
+m e013 [ s^ t c] : I ’m [ disfm arker] I ’m all bet t er now .
+m e013 [ s^ bk|s^ co] : OK , go ahead .
+m n007 [ s^ rt ] : So what happ what happens is t hat when we apply on −
+line norm alizat ion we jum p t o alm ost ninet y percent .
+m e013 [ b] : Yeah .
+m e013 [ b] : Mm − hm m .
+m n007 [ s^ rt ] : Uh , when we apply a neural net work , is t he sam e .
+m n007 [ s^ rt ] : We j jum p t o ninet y percent .
+fn002 [ s^ ng] : Nnn , we don’t know exact ly .
+m e013 [ b] : Yeah .
+m n007 [ fh] : And [ disfm arker] And um [ disfm arker]
+m n007 [ s] : what ev er t he norm alizat ion , act ually .
+m n007 [ s] : If we use n neural net work , even if t he feat ures are not
+correct ly norm alized , we jum p t o ninet y percent .
+m e013 [ s^ bu] : So we go from eight y − si eight y − eight point six t o
+[ disfm arker] t o ninet y , or som et hing .
+m n007 [ fh] : So [ disfm arker]
+m n007 [ s.%−] : Well , ninet y [ disfm arker]
+m n007 [ s^ ar|s.%−−] : No , I [ disfm arker] I m ean ninet y
+m n007 [ s] : It ’s around eight y − nine ,
+m n007 [ s] : ninet y ,
+m e013 [ s^ bk^ m ] : Eight y − nine .
+m n007 [ s] : eight y − eight .
+fn002 [ b] : Yeah .
+m n007 [ s] : Well , t here are m inor [ disfm arker] m inor differences .
+m e013 [ s^ bu] : And t hen adding t he MSG does not hing , basically .
+m n007 [ s^ aa] : No .
+m e013 [ s^ bk] : Yeah . OK .
+m n007 [ s^ e] : Uh For It alian , yeah .
+m e013 [ s|s^ bk] : For t his case , right ?
+m n007 [ fh] : Um .
+m e013 [ b] : Alright .
+m e013 [ fh|s.%−−] : So , um [ disfm arker] So act ually , t he answer for
+ex perim ent s wit h one is t hat adding MSG , if you [ disfm arker] uh does
+not help in t hat case .
+m n007 [ b] : Mm − hm m .
+m e013 [ fh] : Um [ disfm arker]
+m n007 [ b] : [ no m at ched cont ent ]
+m n007 [ %−] : But w
+m e013 [ s] : The ot her ones , we ’d hav e t o look at it ,
+m n007 [ b] : Yeah .
+m e013 [ fh] : but [ disfm arker]
+
+m e013 [ s] : And t he m ult i − English , does
+m e013 [ fh] : uh [ disfm arker]
+m e013 [ s] : So if we t hink of t his in error rat es , we st art off wit h , uh
+eight een percent error rat e , roughly .
+m n007 [ b] : Mm − hm m .
+m e013 [ s] : Um [ pause] and [ pause] we uh alm ost , uh cut t hat in half
+by um put t ing in t he on − line norm alizat ion and t he neural net .
+m n007 [ b] : Yeah
+m e013 [ s] : And t he MSG doesn’t however part icularly affect t hings .
+m n007 [ b] : No .
+m e013 [ s] : And we cut off , I guess about t went y − five percent of t he
+error .
+m e013 [ fh|s^ t 1] : Uh [ pause] no , not quit e t hat ,
+m e013 [ qy ^ g^ t 1] : is it .
+m e013 [ s^ t 1] : Uh , t wo point six out of eight een .
+m e013 [ s] : About , um [ pause] sixt een percent or som et hing of t he
+error , um , if we use m ult i − English inst ead of t he m at ching condit ion .
+m n007 [ b] : Mm − hm m .
+m e013 [ s] : Not m at ching condit ion ,
+m n007 [ b] : Yeah .
+m e013 [ s] : but uh , t he uh , It alian t raining .
+fn002 [ s^ aa] : Yeah .
+m n007 [ b] : Mm − hm m .
+m e013 [ s^ bk] : OK .
+m n007 [ b] : Mm m .
+fn002 [ s] : We select t hese [ disfm arker] t hese [ disfm arker] t hese
+t asks
+fn002 [ s^ df] : because it ’s t he m ore difficult .
+m e013 [ s^ bk|s^ ba] : Yes , good .
+m e013 [ s^ bk] : OK ?
+m e013 [ s] : So t hen you ’re assum ing m ult i − English is closer t o t he
+kind of t hing t hat y ou could use
+m e013 [ s^ df] : since you ’re not gonna have m at ching , uh , dat a for
+t he [ disfm arker] uh for t he new [ disfm arker] for t he ot her languages
+and so fort h .
+m e013 [ fh|s.%−−] : Um , one qu t hing is t hat ,
+m e013 [ s^ df] : uh [ disfm arker] I t hink I asked you t his before ,
+m e013 [ s^ df] : but I wanna double check .
+m e013 [ s^ bu] : When you say " ME " in t hese ot her t est s , t hat ’s t he
+m ult i − English ,
+m n007 [ s.%−] : That ’s [ disfm arker] it ’s a part [ disfm arker] it ’s
+[ disfm arker]
+m e013 [ s^ bu] : but it is not all of t he m ult i − English ,
+m e013 [ qy ^ d^ g^ rt ] : right ?
+m e013 [ s] : It is som e piece of [ disfm arker] part of it .
+m n007 [ s^ rt ] : Or , one m illion fram es .
+
+m e013 [ qy ^ d^ rt ] : And t he m ult i − English is how m uch ?
+fn002 [ s] : You have here t he inform at ion .
+m n007 [ s] : It ’s one m illion and a half .
+m n007 [ b] : Yeah .
+m e013 [ s^ bk|s] : Oh , so you used alm ost all
+m e013 [ s] : You used t wo t hirds of it ,
+m n007 [ b] : Yeah .
+m e013 [ s] : y ou t hink .
+m e013 [ s] : So , it it ’s st ill [ disfm arker] it hurt s you [ disfm arker] seem s
+t o hurt y ou a fair am ount t o add in t his French and Spanish .
+m n007 [ b] : Mm m .
+fn002 [ s^ aa] : Yeah .
+m e013 [ s] : I wonder why
+m e013 [ fh] : Yeah . Uh .
+m e006 [ s] : Well St ephane was saying t hat t hey weren’t hand − labeled
+,
+fn002 [ b] : Yeah .
+m n007 [ s.%−−] : Yeah , it ’s [ disfm arker]
+m n007 [ b] : Yeah .
+m e006 [ s] : t he French and t he Spanish .
+fn002 [ s^ 2] : The Spanish .
+fn002 [ s] : Maybe for t hat .
+m e013 [ b] : Hm m .
+m n007 [ b] : Mm m .
+m e013 [ s] : It ’s st ill [ disfm arker]
+m e013 [ s^ bk] : OK .
+m e013 [ s^ bk|s^ co] : Alright , go ahead .
+m e013 [ %−−] : And t hen [ disfm arker] t hen [ disfm arker]
+fn002 [ fh] : Um .
+fn002 [ s^ rt ] : Mm m , wit h t he experim ent t ype − t wo ,
+fn002 [ s^ rt ] : I [ disfm arker] first I t ried t o t o com bine , nnn , som e
+feat ure from t he MLP and ot her feat ure [ disfm arker]
+fn002 [ s^ bsc] : anot her feat ure .
+m e013 [ b] : Mm − hm m .
+fn002 [ s.%−−] : And we s we can [ disfm arker]
+fn002 [ s^ rt ] : first t he feat ure are wit hout delt a and delt a − delt a ,
+fn002 [ s] : and we can see t hat in t he sit uat ion , uh , t he MSG − t hree ,
+t he sam e help not hing .
+m e013 [ b] : Mm − hm m .
+fn002 [ s^ rt ] : And t hen I do t he sam e
+fn002 [ s^ rt ] : but wit h t he delt a and delt a − delt a [ disfm arker] PLP
+delt a and delt a − delt a .
+fn002 [ s] : And t hey all p but t hey all put off t he MLP is it wit hout delt a
+and delt a − delt a .
+m e013 [ b.%] : Mm − hm m .
+
+fn002 [ s] : And we have a l lit t le bit less result t han t he [ disfm arker]
+t he [ disfm arker] t he baseline PLP wit h delt a and delt a − delt a .
+fn002 [ s^ cs.%−−] : Maybe if [ disfm arker] when we have t he new
+[ disfm arker] t he new [ pause] neural net work t rained wit h PLP delt a
+and delt a − delt a ,
+fn002 [ s^ cs] : m aybe t he final result m ust be bet t er .
+fn002 [ s^ bd] : I don’t know .
+fn002 [ fg] : Uh [ disfm arker]
+m n007 [ fg|s.%−−] : Act ually , just t o be som e m ore [ disfm arker]
+m n007 [ %−−] : Do
+m n007 [ s.%−] : This num ber , t his eight y − seven point one num ber ,
+has t o be com pared wit h t he
+m e013 [ fg|s] : Yes , yeah , I m ean it can’t be com pared wit h t he ot her
+m n007 [ qw] : Which num ber ?
+m e013 [ s^ df] : cuz t his is , uh [ disfm arker] wit h m ult i − English , uh ,
+t raining .
+fn002 [ b] : Mm − hm m .
+m e013 [ s] : So you have t o com pare it wit h t he one over t hat you ’ve
+got in a box ,
+m e013 [ s] : which is t hat , uh t he eight y − four point six .
+fn002 [ b] : Mm − hm m .
+m e013 [ qy^ d^ f^ g] : Right ?
+m n007 [ fg] : Uh .
+m e013 [ fh] : So [ disfm arker]
+m n007 [ fg|s] : Yeah , but I m ean in t his case for t he eight y − seven
+point one we used MLP out put s for t he PLP net
+m e013 [ b] : Yeah .
+m n007 [ s] : and st raight feat ures wit h delt a − delt a .
+m e013 [ b] : Yeah .
+fn002 [ b] : Mm − hm m .
+m n007 [ s] : And st raight feat ures wit h delt a − delt a gives you what ’s
+on t he first sheet .
+m e013 [ s.%−] : Not t not
+m n007 [ s] : It ’s eight eight y − eight point six .
+m e013 [ s^ ar] : t r No . No . No .
+fn002 [ s^ ar] : Yes .
+m e013 [ s] : Not t rained wit h m ult i − English .
+fn002 [ s^ ar|s^ df.%−] : No , but t hey [ disfm arker] t hey feat ure @ @
+wit hout [ disfm arker]
+m n007 [ s^ bk|s^ df] : Uh , yeah , but t h t his is t he second configurat ion
+.
+m n007 [ s] : So we use feat ure out uh , net out put s t oget her wit h
+feat ures .
+m n007 [ fh] : So yeah ,
+m n007 [ s^ ar] : t his is not [ disfm arker] perhaps not clear here
+
+m n007 [ s] : but in t his t able , t he first colum n is for MLP and t he
+second for t he feat ures .
+m e013 [ s^ bk] : Eh . [ com m ent ] Oh , I see .
+m e013 [ s^ bk|s.%−−] : Ah . So you ’re say ing w so asking t he quest ion , "
+What [ disfm arker] what has adding t he MLP done t o im prov e over t he ,
+m n007 [ fg] : So , just [ disfm arker]
+m n007 [ fg] : Yeah
+m n007 [ s] : so , act ually it [ disfm arker] it [ disfm arker] it decreased t he
+[ disfm arker] t he accuracy .
+m e013 [ fh] : uh [ disfm arker]
+fn002 [ b] : Yeah .
+m e013 [ s^ bk] : Yes .
+m e013 [ b] : Uh − huh .
+m n007 [ s^ df^ rt ] : Because we hav e eight y − eight point six .
+m n007 [ s.%−−] : And even t he MLP alone [ disfm arker]
+m n007 [ qw^ rt ^ t 1] : What gives t he MLP alone ?
+m n007 [ s^ rt ] : Mult i − English PLP .
+m n007 [ s^ bsc] : Oh no ,
+m n007 [ s^ bsc] : it giv es eight y − t hree point six .
+m n007 [ s] : So we have our eight y − t hree point six and now eight y −
+eight y point six ,
+fn002 [ %−] : But [ disfm arker]
+m n007 [ s] : t hat giv es eight y − seven point one .
+m e013 [ b] : Mm − hm m .
+m e013 [ s.%−−] : Eight y − s
+m e013 [ s.%−−] : I t hought it was eight y
+m e013 [ s^ bk] : Oh , OK ,
+m e013 [ s] : eight y − t hree point six and eight y [ disfm arker] eight y −
+eight point six .
+m n007 [ s^ t 1] : Eight y − t hree point six .
+m n007 [ s^ t 1.%−−] : Eight y [ disfm arker]
+m e013 [ s^ bk] : OK .
+m n007 [ qy ^ rt ] : Is t h is t hat right ?
+m n007 [ s^ aa] : Yeah ?
+fn002 [ b] : Yeah .
+fn002 [ fg|s^ rt ] : But [ disfm arker] I don’t know [ disfm arker]
+fn002 [ s] : but m ay be if we have t he neural net work t rained wit h t he
+PLP [ pause] delt a and delt a − delt a , m aybe t ha t his can help .
+m n007 [ s^ am ] : Perhaps , yeah .
+m e013 [ s^ aap] : Well , t hat ’s [ disfm arker] t hat ’s one t hing ,
+m e013 [ s.%−−] : but see t he ot her t hing is t hat ,
+m e013 [ s^ ba] : um , I m ean it ’s good t o t ake t he difficult case ,
+m e013 [ s^ rt ] : but let ’s [ disfm arker] let ’s consider what t hat m eans .
+m e013 [ s.%−−] : What [ disfm arker] what we ’re saying is t hat one o one
+of t he t hings t hat [ disfm arker]
+
+m e013 [ s] : I m ean m y int erpret at ion of your [ disfm arker] your s
+original suggest ion is som et hing like t his , as m ot ivat ion .
+m e013 [ s] : When we t rain on dat a t hat is in one sense or anot her ,
+sim ilar t o t he t est ing dat a , t hen we get a win by having discrim inant
+t raining .
+m n007 [ b] : Mm − hm m .
+m e013 [ s] : When we t rain on som et hing t hat ’s quit e different , we
+have a pot ent ial t o have som e problem s .
+m n007 [ b] : Mm − hm m .
+m e013 [ s] : And , um , if we get som et hing t hat helps us when it ’s
+som ewhat sim ilar , and doesn’t hurt us t oo m uch when it [ disfm arker]
+when it ’s quit e different , t hat ’s m ay be not so bad .
+m n007 [ b] : Yeah .
+m e013 [ s.%−−] : So t he quest ion is , if you t ook t he sam e com binat ion ,
+and you t ried it out on , uh [ disfm arker] on say digit s ,
+m n007 [ b.%] : Mm m .
+m n007 [ qy^ 2^ bu] : On TI − digit s ?
+m n007 [ b] : OK .
+m e013 [ s^ f] : you know ,
+m e013 [ qy^ rt ] : d Was t hat experim ent done ?
+m n007 [ s^ ar] : No , not yet .
+m e013 [ s^ bk] : Yeah , OK .
+m e013 [ qo] : Uh , t hen does t hat , eh [ disfm arker] you know m aybe
+wit h sim ilar noise condit ions and so fort h , [ com m ent ] does it
+[ disfm arker] does it t hen look m uch bet t er ?
+m n007 [ b.%] : Mm − hm m .
+m e013 [ qo] : And so what is t he range over t hese different kinds of uh
+[ disfm arker] of t est s ?
+m e013 [ s^ t c] : So , an anyway .
+m e013 [ s^ bk|s^ co] : OK , go ahead .
+m n007 [ b] : Yeah .
+fn002 [ s] : And , wit h t his t ype of configurat ion which I do on
+ex perim ent using t he new neural net wit h nam e broad klat t s t went y −
+sev en ,
+m e013 [ b] : Mm − hm m .
+fn002 [ s] : uh , d I have found m ore or less t he sam e result .
+m n007 [ s^ ba] : So , it ’s slight ly bet t er ,
+fn002 [ s] : Lit t le bit bet t er ?
+m n007 [ b] : y eah .
+m e013 [ s^ aa^ m ] : Slight ly bet t er .
+m n007 [ b] : Yeah .
+fn002 [ s^ aa^ m ] : Slight ly bet bet t er .
+fn002 [ s^ aa^ r] : Yes , is bet t er .
+m e013 [ s] : And [ disfm arker] and y ou know again m aybe if you use t he
+, uh , delt a [ pause] t here , uh , you would bring it up t o where it was ,
+uh y ou know at least about t he sam e for a difficult case .
+
+fn002 [ fg|s^ am ] : Yeah , m aybe . Maybe . Maybe .
+m n007 [ b] : Yeah .
+fn002 [ s^ bk] : Oh , y eah .
+m n007 [ b] : Yeah .
+m e013 [ fh] : So .
+fn002 [ %] : [ no m at ched cont ent ]
+fn002 [ s^ aa] : Oh , yeah .
+m n007 [ s^ t ^ t c] : Well , so perhaps let ’s [ disfm arker] let ’s jum p at t he
+last ex perim ent .
+m n007 [ s] : It ’s eit her less inform at ion from t he neural net work if we
+use only t he silence out put .
+fn002 [ %−] : i
+m e013 [ b] : Mm − hm m .
+m n007 [ s] : It ’s again bet t er .
+m n007 [ s] : So it ’s eight y − nine point [ disfm arker] point one .
+m e013 [ b] : Mm − hm m .
+fn002 [ b] : Yeah ,
+fn002 [ s] : and we have only fort y [ disfm arker] fort y feat ure
+m n007 [ fh] : So .
+fn002 [ s] : because in t his sit uat ion we hav e one hundred and t hree
+feat ure .
+m e013 [ b] : Yeah .
+fn002 [ b] : Yeah .
+fn002 [ s.%−−] : And t hen w wit h t he first configurat ion , I f I am found
+t hat work , uh , doesn’t work [ disfm arker]
+m e013 [ b] : Yeah .
+fn002 [ s] : uh , well , work ,
+fn002 [ s] : but is bet t er , t he second configurat ion .
+fn002 [ s] : Because I [ disfm arker] for t he del Engli − PLP delt a and delt a
+− delt a , here I have eight y − fiv e point t hree accuracy ,
+fn002 [ s] : and wit h t he second configurat ion I have eight y − seven
+point one .
+m e013 [ fh|s^ t ^ t c] : Um , by t he way , t here is a anot her , uh ,
+suggest ion t hat would apply , uh , t o t he second configurat ion ,
+m e013 [ s] : um , which , uh , was m ade , uh , by , uh , Hari .
+m e013 [ s.%−−] : And t hat was t hat , um , if you have [ disfm arker] uh
+feed t wo st ream s int o HTK , um , and y ou , uh , change t he , uh
+v ariances [ disfm arker]
+m e013 [ s] : if you scale t he variances associat ed wit h , uh t hese
+st ream s um , you can effect ively scale [ pause] t he st ream s .
+m e013 [ qy ^ d^ f^ g^ rt ] : Right ?
+m e013 [ fh|s] : So , um , you know , wit hout changing t he script s for
+HTK ,
+m e013 [ s] : which is t he rule here , uh , y ou can st ill change t he
+v ariances
+m n007 [ b] : Mm − hm m .
+
+m n007 [ b] : [ no m at ched cont ent ]
+m e013 [ s] : which would effect ively change t he scale of t hese
+[ disfm arker] t hese , uh , t wo st ream s t hat com e in .
+m n007 [ b] : Uh , [ com m ent ] yeah .
+m e013 [ fh|s] : And , um , so , um , if you do t hat , for inst ance it m ay
+be t he case t hat , um , t he MLP should not be considered as st rongly ,
+for inst ance .
+m n007 [ b] : Mm m .
+m e013 [ fg|s.%−−] : And , um , so t his is just set t ing t hem t o be ,
+m e013 [ s^ fa] : excuse m e ,
+m e013 [ s] : of equal [ disfm arker] equal weight .
+m e013 [ s] : May be it shouldn’t be equal weight .
+fn002 [ s^ am ] : May be .
+m e013 [ s] : Right ? You know , I I ’m sorry t o say t hat gives m ore
+ex perim ent s if we want ed t o look at t hat ,
+m e013 [ s^ df] : but [ disfm arker] but , uh , um , you know on t he ot her
+hand it ’s just experim ent s at t he level of t he HTK recognit ion .
+m n007 [ b] : Mm m .
+m e013 [ s] : It ’s not even t he HTK ,
+m e013 [ fh] : uh , uh [ disfm arker]
+m n007 [ b] : Yeah .
+fn002 [ b] : Yeah . Yeah .
+m e013 [ s] : Well , I guess you have t o do t he HTK t raining also .
+fn002 [ s] : so t his is what we decided t o do .
+m e013 [ fh|qy ^ rt ] : Uh , do you ?
+m e013 [ h] : Let m e t hink .
+m e013 [ s^ t 1] : Maybe you don’t .
+m e013 [ fh] : Uh .
+m e013 [ fg|s.%−−] : Yeah , you have t o change t he [ disfm arker]
+m e013 [ s^ t 1.%−−] : No , you can just do it in [ disfm arker] as
+[ disfm arker] once y ou ’ve done t he t raining [ disfm arker]
+m e006 [ s^ 2] : And t hen you can vary it .
+m e013 [ s^ bk|s] : Yeah , t he t raining is just com ing up wit h t he
+v ariances
+m e006 [ b] : Yeah .
+m e013 [ s] : so I guess you could [ disfm arker] you could just scale
+t hem all .
+m n007 [ qy^ d^ m ] : Scale
+m e013 [ s] : Variances .
+m n007 [ b] : Yeah .
+m n007 [ %−−] : But [ disfm arker]
+m n007 [ s] : Is it [ disfm arker] i t h I m ean t he HTK m odels are diagonal
+cov ariances ,
+m n007 [ qy.%−] : so I d Is it [ disfm arker]
+m e013 [ s] : That ’s uh , exact ly t he point , I t hink ,
+
+m e013 [ s.%−−] : t hat if you change [ disfm arker] um , change what t hey
+are [ disfm arker]
+m n007 [ b] : Hm m .
+m e013 [ s] : It ’s diagonal covariance m at rices ,
+m n007 [ b] : Mm − hm m .
+m e013 [ s] : but you say what t hose variances are .
+m n007 [ b] : Mm − hm m .
+m e013 [ s] : So , t hat [ disfm arker] you know , it ’s diagonal , but t he
+diagonal m eans t h t hat t hen you ’re gonna [ disfm arker] it ’s gonna
+[ disfm arker] it ’s gonna int ernally m ult iply it [ disfm arker] and
+[ disfm arker] and uh , [ vocalsound] uh , i it im uh im plicit ly
+ex ponent iat ed t o get probabilit ies , and so it ’s [ disfm arker] it ’s gonna
+[ disfm arker] it ’s [ disfm arker] it ’s going t o affect t he range of t hings if
+y ou change t he [ disfm arker] change t he v ariances [ pause] of som e of
+t he feat ures .
+m n007 [ b] : Mm m .
+m n007 [ b] : Mm m .
+fn002 [ %−] : do ?
+m e013 [ s] : So , i it ’s precisely giv en t hat m odel you can very sim ply
+affect , uh , t he s t he st rengt h t hat you apply t he feat ures .
+m e013 [ s] : That was [ disfm arker] t hat was , uh , Hari ’s suggest ion .
+m n007 [ b] : Yeah . Yeah .
+m e013 [ fh] : So , um [ disfm arker]
+fn002 [ b] : Yeah .
+m e013 [ b] : Yeah .
+m e013 [ fh] : So .
+m e013 [ fg|s] : So it could just be t hat h t reat ing t hem equally , t ea
+t reat ing t wo st ream s equally is just [ disfm arker] just not t he right t hing
+t o do .
+m e013 [ s] : Of course it ’s pot ent ially opening a can of worm s
+m e013 [ s] : because , you know , m ay be it should be a different
+[ v ocalsound] num ber for [ disfm arker] for each [ vocalsound] kind of
+[ pause] t est set , or som et hing ,
+m n007 [ b] : Mm − hm m .
+m e013 [ fh] : but [ disfm arker]
+m e013 [ s^ bk] : OK .
+m n007 [ b.%] : Yeah .
+m e013 [ s^ cs^ t c] : So I guess t he ot her t hing is t o t ake [ disfm arker]
+y ou know [ disfm arker] if one were t o t ake , uh , you know , a couple of
+t he m ost successful of t hese ,
+m n007 [ fg|s^ 2] : Yeah , and t est across ev eryt hing .
+m e013 [ fh] : and uh [ disfm arker]
+m e013 [ s^ aa|s] : Yeah , t ry all t hese different t est s .
+m n007 [ b.%] : Mm m .
+fn002 [ b] : Yeah .
+m n007 [ b] : Yeah .
+
+m e013 [ s^ bk] : Alright .
+m e013 [ fh] : Uh .
+m n007 [ fg|s^ t ^ t c] : So , t he nex t point ,
+m n007 [ fh] : yeah ,
+m n007 [ s] : we ’ve had som e discussion wit h St eve and Shawn ,
+m n007 [ s^ rt ] : um , about t heir um , uh , art iculat ory st uff ,
+m n007 [ fh] : um .
+m n007 [ s] : So we ’ll perhaps st art som et hing next week .
+m e013 [ b] : Mm − hm m .
+m n007 [ fh] : Um , discussion wit h Hynek , Sunil and Prat ibha for t rying
+t o plug in t heir our [ disfm arker] our net works wit h t heir [ disfm arker]
+wit hin t heir block diagram ,
+m n007 [ s] : uh , where t o plug in t he [ disfm arker] t he net work , uh ,
+aft er t he [ disfm arker] t he feat ure ,
+m n007 [ s] : before as um a as a plugin or as a anot h anot her pat h ,
+m n007 [ s] : discussion about m ult i − band and TRAPS ,
+m n007 [ fh] : um ,
+m n007 [ s.%−−] : act ually Hynek would like t o see ,
+m n007 [ s] : perhaps if you rem em ber t he block diagram t here is , uh ,
+t em poral LDA followed b by a spect ral LDA for each uh crit ical band .
+m n007 [ s] : And he would like t o replace t hese by a net work
+m n007 [ s] : which would , uh , m ake t he syst em look like a TRAP .
+m n007 [ s] : Well , basically , it would be a TRAP syst em .
+m n007 [ s] : Basically , t his is a TRAP syst em [ disfm arker]
+m n007 [ s] : kind of TRAP syst em , I m ean ,
+m n007 [ s] : but where t he neural net work are replaced by LDA .
+m n007 [ fh] : Hm m . [ vocalsound] Um , y eah ,
+m n007 [ s] : and about m ult i − band ,
+m n007 [ s^ rt ] : uh , I st art ed m ult i − band MLP t rainings ,
+m n007 [ fh] : um
+m n007 [ s] : m m h [ com m ent ] Act ually , I w I w hhh [ com m ent ] prefer t o
+do exact ly what I did when I was in Belgium .
+m n007 [ s] : So I t ake exact ly t he sam e configurat ions ,
+m n007 [ s] : sev en bands wit h nine fram es of cont ext ,
+m n007 [ s] : and we just t rain on TIMIT ,
+m n007 [ s] : and on t he large dat abase ,
+m n007 [ s] : so , wit h SPINE and everyt hing .
+m n007 [ fh] : And ,
+m n007 [ s] : m m m , I ’m st art ing t o t rain also , net works wit h larger
+cont ext s .
+m n007 [ s] : So , t his would [ disfm arker] would be som et hing bet ween
+TRAPS and m ult i − band
+m n007 [ s] : because we st ill have quit e large bands ,
+m n007 [ s] : and [ disfm arker] but wit h a lot of cont ext also .
+m n007 [ fh] : So Um
+m n007 [ fg] : Yeah ,
+
+m n007 [ s] : we st ill have t o work on Finnish ,
+m n007 [ s] : um , basically , t o m ake a decision on which MLP can be
+t he best across t he different languages .
+m n007 [ s] : For t he m om ent it ’s t he TIMIT net work , and perhaps t he
+net work t rained on everyt hing .
+m n007 [ fh|s] : So . Now we can t est t hese t wo net works on
+[ disfm arker] wit h [ disfm arker] wit h delt a and large net works .
+m n007 [ s] : Well , t est t hem also on Finnish
+fn002 [ b] : Mm m .
+m n007 [ s] : and see which one is t he [ disfm arker] t he [ disfm arker] t he
+best .
+m n007 [ s] : Uh , well , t he next part of t he docum ent is , well , basically
+, a kind of sum m ary of what [ disfm arker] everyt hing t hat has been
+done .
+m n007 [ s.%−−] : So . We have sevent y − nine M L Ps t rained on
+m n007 [ s^ t 1] : one , t wo , t hree , four , uh , t hree , four , five , six ,
+sev en
+m n007 [ s] : t en [ disfm arker] on t en different dat abases .
+m e013 [ b.%] : Mm − hm m .
+m n007 [ fh] : Uh ,
+m n007 [ s^ ba] : t he num ber of fram es is bad also ,
+m n007 [ s] : so we have one m illion and a half for som e ,
+m n007 [ s] : t hree m illion for ot her ,
+m n007 [ s] : and six m illion for t he last one .
+m n007 [ fh] : Uh ,
+m n007 [ fg|s] : yeah ! [ com m ent ] As we m ent ioned , TIMIT is t he only
+t hat ’s hand − labeled ,
+m n007 [ s] : and perhaps t his is what m akes t he difference .
+m n007 [ fh] : Um .
+m n007 [ s] : Yeah , t he ot her are just Vit erbi − aligned .
+m n007 [ s] : So t hese sevent y − nine MLP differ on different t hings .
+m n007 [ s] : First , um wit h respect t o t he on − line norm alizat ion ,
+m n007 [ s] : t here are [ disfm arker] t hat use bad on − line norm alizat ion
+,
+m n007 [ s] : and ot her good on − line norm alizat ion .
+m n007 [ fh] : Um .
+m n007 [ s] : Wit h respect t o t he feat ures ,
+m n007 [ s] : wit h respect t o t he use of delt a
+m n007 [ s^ bsc] : or no ,
+m n007 [ s^ bsc] : uh wit h respect t o t he hidden layer size and t o t he
+t arget s .
+m n007 [ s] : Uh , but of course we don’t have all t he com binat ion of
+t hese different param et ers
+m n007 [ fh] : Um .
+m n007 [ qw] : s What ’s t his ?
+m n007 [ s] : We only have t wo hundred eight y six different t est s
+
+m n007 [ s] : And no not t wo t housand .
+m e013 [ s^ bk] : [ no m at ched cont ent ]
+m e013 [ s] : Ugh ! I was im pressed
+m e013 [ s^ fe] : boy ,
+m e013 [ s] : t wo t housand .
+m n007 [ s] : Yeah .
+m e013 [ s^ bk] : OK .
+fn002 [ b] : Ah , yes .
+m e013 [ s^ bk|s^ j] : Alright , now I ’m just slight ly im pressed ,
+fn002 [ s.%−−] : I say t his m orning t hat @ @ t hought it was t he
+[ disfm arker]
+m e013 [ b] : OK .
+m n007 [ fg] : Um .
+m n007 [ fg|s] : Yeah , basically t he observat ion is what we discussed
+already .
+m n007 [ s^ rt ] : The MSG problem ,
+m n007 [ fh] : um ,
+m n007 [ s] : t he fact t hat t he MLP t rained on t arget t ask decreased t he
+error rat e .
+m n007 [ s] : but when t he M − MLP is t rained on t he um [ disfm arker] is
+not t rained on t he t arget t ask , it increased t he error rat e com pared
+t o using st raight feat ures .
+m n007 [ s] : Except if t he feat ures are bad [ disfm arker]
+m n007 [ fh|s^ bsc] : uh , act ually except if t he feat ures are not correct ly
+on − line norm alized .
+m n007 [ s] : In t his case t he t andem is st ill bet t er
+m n007 [ s] : ev en if it ’s t rained on [ disfm arker] not on t he t arget digit s
+.
+m e013 [ fg|s^ bs^ cs] : Yeah . So it sounds like [ vocalsound] yeah , t he
+net correct s som e of t he problem s wit h som e poor norm alizat ion .
+m n007 [ s^ aa] : Yeah .
+m e013 [ s] : But if y ou can do good norm alizat ion it ’s [ disfm arker] it ’s
+uh [ disfm arker] OK .
+m n007 [ b] : Yeah .
+fn002 [ b] : Yeah .
+m n007 [ s^ rt ] : Uh , so t he fourt h point is , yeah , t he TIMIT plus noise
+seem s t o be t he t raining set t hat gives bet t er [ disfm arker] t he best
+net work .
+m e013 [ fg|s^ t c] : So So − Let m e [ disfm arker] bef before you go on t o
+t he possible issues .
+m n007 [ b] : Mm − hm m .
+m e013 [ s.%−−] : So , on t he MSG uh problem
+m e013 [ s.%−−] : um , I t hink t hat in [ disfm arker] in t he [ disfm arker] um ,
+in t he short [ pause] t im e [ pause] solut ion
+m e013 [ s.%−−] : um , t hat is , um , t rying t o figure out what we can
+proceed forward wit h t o m ake t he great est progress ,
+
+m n007 [ b] : Mm − hm m .
+m e013 [ s] : uh , m uch as I said wit h JRASTA ,
+m e013 [ s] : ev en t hough I really like JRASTA
+m e013 [ s] : and I really like MSG ,
+m n007 [ b] : Mm − hm m .
+m e013 [ s] : I t hink it ’s kind of in cat egory t hat it ’s , it [ disfm arker] it
+m ay be com plicat ed .
+m n007 [ b] : Yeah .
+m e013 [ s^ cs] : And uh it m ight be [ disfm arker] if som eone ’s
+int erest ed in it , uh , cert ainly encourage anybody t o look int o it in t he
+longer t erm ,
+m e013 [ s] : once we get out of t his part icular rush [ pause] uh for
+result s .
+m n007 [ b] : Mm − hm m .
+m e013 [ s^ cs.%−−] : But in t he short t erm , unless you have som e
+[ disfm arker] som e s st rong idea of what ’s wrong ,
+m n007 [ s^ no^ rt ] : I don’t know at all
+m n007 [ s^ df] : but I ’ve [ disfm arker] perhaps [ disfm arker] I have t he
+feeling t hat it ’s som et hing t hat ’s quit e [ disfm arker] quit e sim ple
+m n007 [ s^ cs] : or just like nnn , no high − pass filt er
+m e013 [ s^ am ] : Yeah , probably .
+m n007 [ fh] : or [ disfm arker] Mm m .
+m n007 [ s^ bk|s^ no] : Yeah . [ pause] My [ disfm arker] But I don’t know .
+m e013 [ s] : There ’s supposed t o [ disfm arker] well MSG is supposed t o
+have a an on − line norm alizat ion t hough ,
+m e013 [ qy ^ d^ g^ rt ] : right ?
+m n007 [ s^ na] : It ’s [ disfm arker] There is , yeah , an AGC − kind of AGC
+.
+m n007 [ b] : Yeah . [ vocalsound] Yeah . Yeah .
+m e013 [ fg|s] : Yeah , but also t here ’s an on − line norm besides t he
+AGC , t here ’s an on − line norm alizat ion t hat ’s supposed t o be
+m e013 [ fh] : uh ,
+m e013 [ s^ aa] : y eah ,
+m n007 [ b] : Mm m .
+m e013 [ s] : t aking out m eans and variances and so fort h .
+m e013 [ fh] : So .
+m n007 [ b] : Yeah .
+m e013 [ s] : In fac in fact t he on − line norm alizat ion t hat we ’re using
+cam e from t he MSG design ,
+m e013 [ s.%−−] : so it ’s [ disfm arker]
+m n007 [ h] : Um .
+m n007 [ s^ bk|%−−] : Yeah , but [ disfm arker]
+m n007 [ b] : Yeah .
+m n007 [ s] : But t his was t he bad on − line norm alizat ion . Act ually .
+fn002 [ s^ am .%−] : Maybe , m ay [ disfm arker]
+
+m n007 [ qy ^ t 3.%−] : Uh . Are your result s are st ill wit h t he bad
+[ disfm arker] t he bad [ disfm arker]
+fn002 [ s^ ar^ t 3] : No ?
+fn002 [ s.%−] : Wit h t he bet t er [ disfm arker]
+fn002 [ s^ ar] : No ?
+m n007 [ s] : Wit h t he O − OLN − t wo ?
+m n007 [ s] : Ah y eah , you have [ disfm arker] you have OLN − t wo ,
+fn002 [ s^ fe] : Oh !
+fn002 [ s^ aa^ fe] : Yeah , yeah , yeah !
+fn002 [ s] : Wit h " t wo " , wit h " on − line − t wo " .
+m n007 [ b] : yeah .
+fn002 [ b] : Yeah , yeah ,
+m e013 [ s^ ba] : " On − line − t wo " is good .
+m n007 [ s] : So it ’s , is t he good y eah .
+fn002 [ b] : yeah . Yep ,
+m e013 [ s^ r] : " Two " is good ?
+fn002 [ s^ aa^ m ] : it ’s a good .
+m n007 [ %−] : And [ disfm arker]
+m e013 [ s^ bsc] : No , " t wo " is bad .
+m n007 [ s^ aa] : Yeah .
+m e013 [ s^ bk] : OK .
+fn002 [ s] : Well , act ually , it ’s good wit h t he ch wit h t he good .
+m e013 [ b] : Yeah .
+m e013 [ fg|s^ na] : So [ disfm arker] Yeah , I [ disfm arker] I agree .
+m e013 [ s] : It ’s probably som et hing sim ple
+m e013 [ s^ cs] : uh , i if [ disfm arker] if uh som eone , you know , uh ,
+want s t o play wit h it for a lit t le bit .
+m e013 [ s^ rt ] : I m ean , you ’re gonna do what you ’re gonna do
+m n007 [ b] : Mm m .
+m e013 [ s] : but [ disfm arker] but m y [ disfm arker] m y guess would be
+t hat it ’s som et hing t hat is a sim ple t hing t hat could t ake a while t o
+find .
+m n007 [ %−] : But [ disfm arker]
+m n007 [ b] : Yeah .
+m n007 [ b] : Mm m .
+m n007 [ s^ bk] : I see ,
+m n007 [ b] : y eah .
+m e013 [ b] : Yeah .
+m n007 [ %−] : And [ disfm arker]
+m e013 [ s.%−−] : Uh . [ com m ent ] And t he ot her [ disfm arker] t he result s
+uh , observat ions t wo and t hree , Um , is
+m n007 [ b.%] : Mm m .
+m e013 [ fh] : uh [ disfm arker]
+m e013 [ fh|s^ rt ] : Yeah , t hat ’s pret t y m uch what we ’ve seen .
+m e013 [ s.%−−] : That ’s [ disfm arker] t hat [ disfm arker] what we were
+concerned about is t hat if it ’s not on t he t arget t ask [ disfm arker]
+
+m e013 [ s] : If it ’s on t he t arget t ask t hen it [ disfm arker] it [ disfm arker]
+it helps t o hav e t he MLP t ransform ing it .
+m n007 [ b] : Mm m .
+m e013 [ s] : If it uh [ disfm arker] if it ’s not on t he t arget t ask , t hen ,
+depending on how different it is , uh you can get uh , a reduct ion in
+perform ance .
+m n007 [ b] : Mm m .
+m e013 [ qo] : And t he quest ion is now how t o [ disfm arker] how t o get
+one and not t he ot her ?
+m e013 [ s] : Or how t o [ disfm arker] how t o am eliorat e t he [ disfm arker]
+t he problem s .
+m n007 [ b] : Mm m .
+m e013 [ fh|s] : Um , because it [ disfm arker] it cert ainly does
+[ disfm arker] is nice t o have in t here , when it [ disfm arker] [ vocalsound]
+when t here is som et hing like t he t raining dat a .
+m n007 [ b] : Mm − hm m .
+m n007 [ fg] : Um .
+m n007 [ fg|s^ rt .%−−] : Yeah . So , [ pause] t he [ disfm arker] t he reason
+[ disfm arker] Yeah , t he reason is t hat t he [ disfm arker] perhaps t he
+t arget [ disfm arker] t he [ disfm arker] t he t ask dependency [ disfm arker]
+t he language dependency , [ vocalsound] and t he noise dependency
+[ disfm arker]
+m e013 [ s] : So t hat ’s what you say t h t here .
+m e013 [ s^ bk] : I see .
+m n007 [ s] : Well , t he e e But t his is st ill not clear
+m n007 [ s.%−−] : because ,
+m n007 [ fh] : um ,
+m n007 [ s] : I [ disfm arker] I [ disfm arker] I don’t t hink we have enough
+result t o t alk about t he [ disfm arker] t he language dependency .
+m n007 [ s] : Well , t he TIMIT net work is st ill t he best
+m n007 [ s^ df] : but t here is also an t he ot her difference ,
+m n007 [ s^ df] : t he fact t hat it ’s [ disfm arker] it ’s hand − labeled .
+m e013 [ s^ fe^ t 3] : Hey !
+m e013 [ s^ t 3] : Um , just [ disfm arker] you can just sit here .
+m e013 [ s^ co] : Uh , I d I don’t t hink we want t o m ess wit h t he
+m icrophones
+m e013 [ %−−] : but it ’s uh [ disfm arker]
+m e013 [ s^ co] : Just uh , have a seat .
+m e013 [ fh] : Um .
+m e013 [ s^ t 3] : s Sum m ary of t he first uh , uh fort y − five m inut es is t hat
+som e st uff work and [ disfm arker] works , and som e st uff doesn’t
+m e013 [ s^ bk] : OK ,
+m n007 [ s^ t ] : We st ill have uh [ pause] t his [ disfm arker]
+m n007 [ qy ^ d^ rt ] : One of t hese perhaps ?
+fn002 [ b] : Yeah .
+m e013 [ fh|s^ am ] : Yeah , I guess we can do a lit t le bet t er t han t hat
+
+m n007 [ b] : Mm − hm m .
+m n007 [ b] : [ no m at ched cont ent ]
+m e013 [ s] : but [ disfm arker] [ vocalsound] I t hink if you [ disfm arker] if
+y ou st art off wit h t he ot her one , act ually , t hat sort of has it in words
+m e013 [ s] : and t hen t h t hat has it t he [ pause] associat ed result s .
+fn002 [ fg] : Um .
+m e013 [ fh] : OK .
+m e013 [ s^ bs^ rt ^ t ^ t c.%−−] : So you ’re saying t hat um , um , alt hough
+from what we see ,
+m e013 [ s^ bs] : yes t here ’s what y ou would expect in t erm s of a
+language dependency and a noise dependency . That is , uh , when
+t he neural net is t rained on one of t hose and t est ed on som et hing
+different , we don’t do as well as in t he t arget t hing .
+m e013 [ s^ bs] : But you ’re saying t hat uh , it is [ disfm arker] Alt hough
+t hat general t hing is observable so far , t here ’s som et hing you ’re not
+com plet ely conv inced about .
+m e013 [ qw^ rt ] : And [ disfm arker] and what is t hat ?
+m e013 [ s^ e] : I m ean , you say " not clear yet " .
+m e013 [ qw] : What [ disfm arker] what do you m ean ?
+m n007 [ h|s] : Uh , m m m , uh , [ com m ent ] I m ean , t hat t he [ disfm arker]
+t he fact t hat s Well , for [ disfm arker] for TI − digit s t he TIMIT net is t he
+best ,
+m n007 [ b] : [ no m at ched cont ent ]
+m n007 [ s] : which is t he English net .
+m e013 [ b] : Mm − hm m .
+m n007 [ s^ rt ] : But t he ot her are slight ly worse .
+m n007 [ s^ df^ rt ] : But you hav e t wo [ disfm arker] t wo effect s , t he
+effect of changing language
+m n007 [ s^ df] : and t he effect of t raining on som et hing t hat ’s [ pause]
+Vit erbi − aligned inst ead of hand [ disfm arker] hand − labeled .
+fn002 [ b] : Yeah .
+m n007 [ fh] : So . Um .
+m n007 [ b] : Yeah .
+m e013 [ qy ^ rt ] : Do you t hink t he alignm ent s are bad ?
+m e013 [ qy ] : I m ean , have you looked at t he alignm ent s at all ?
+m e013 [ s] : What t he Vit erbi alignm ent ’s doing ?
+m n007 [ fh] : Mm m .
+m n007 [ s^ no] : I don’t [ disfm arker] I don’t know .
+m n007 [ qy ] : Did − did you look at t he Spanish alignm ent s Carm en ?
+fn002 [ h|s^ ar] : Mm m , no .
+m e013 [ s^ cs] : Might be int erest ing t o look at it .
+m e013 [ s^ df] : Because , I m ean , t hat is just looking
+m e013 [ s^ df] : but um , um [ disfm arker] It ’s not clear t o m e you
+necessarily would do so badly from a Vit erbi alignm ent .
+m e013 [ s^ df] : It depends how good t he recognizer is
+m n007 [ b] : Mm − hm m .
+
+m e013 [ s] : t hat ’s [ disfm arker] t hat [ disfm arker] t he [ disfm arker] t he
+engine is t hat ’s doing t he alignm ent .
+m n007 [ s^ am |s^ ng] : Yeah . But [ disfm arker] Yeah . But , perhaps it ’s
+not really t he [ disfm arker] t he alignm ent t hat ’s bad
+m n007 [ s^ cs] : but t he [ disfm arker] just t he ph phonem e st ring t hat ’s
+used for t he alignm ent
+m e013 [ s^ bk^ fe] : Aha !
+fn002 [ s^ aa] : Yeah .
+fn002 [ %] : [ no m at ched cont ent ]
+m n007 [ b] : Mm m .
+m e013 [ s^ bs] : The pronunciat ion m odels and so fort h
+m n007 [ s.%−−] : I m ean [ pause] for [ disfm arker] We [ disfm arker]
+m n007 [ s^ bk^ rt ] : It ’s single pronunciat ion ,
+m n007 [ fh] : uh [ disfm arker]
+m e013 [ s^ fe] : Aha .
+m e013 [ s^ bk] : I see .
+m n007 [ s] : French [ disfm arker] French s uh , phonem e st rings were
+correct ed m anually
+m n007 [ s] : so we asked people t o list en t o t he um [ disfm arker] t he
+sent ence
+m n007 [ s] : and we gave t he phonem e st ring and t hey kind of correct
+t hem .
+m n007 [ s] : But st ill ,
+m n007 [ %] : [ no m at ched cont ent ]
+m n007 [ s] : t here [ disfm arker] t here m ight be errors just in t he
+[ disfm arker] in [ disfm arker] in t he ph st ring of phonem es .
+m n007 [ fh] : Mm m .
+m n007 [ fh] : Um .
+m n007 [ fh|s] : Yeah , so t his is not really t he Vit erbi alignm ent ,
+m n007 [ %] : [ no m at ched cont ent ]
+m n007 [ %−−] : in fact ,
+m n007 [ b] : yeah .
+m n007 [ fh|s^ t c] : Um , t he t hird [ disfm arker] The t hird uh issue is t he
+noise dependency perhaps
+m n007 [ s] : but , well , t his is not clear yet
+m n007 [ s^ df] : because all our net s are t rained on t he sam e noises
+m n007 [ fh] : and [ disfm arker]
+m e013 [ s] : I t hought som e of t he net s were t rained wit h SPINE and so
+fort h .
+m e013 [ s] : So it [ disfm arker] And t hat has ot her noise .
+m n007 [ s^ aa] : Yeah .
+m n007 [ %−−] : So [ disfm arker]
+m n007 [ fh] : Yeah .
+m n007 [ %−−] : But [ disfm arker]
+m n007 [ fh] : Yeah .
+m n007 [ s] : Result s are only com ing for [ disfm arker] for t his net .
+
+m n007 [ b] : Mm m .
+m e013 [ s^ bk|s] : OK , yeah , just don’t [ disfm arker] just need m ore
+[ disfm arker] m ore result s t here wit h t hat @ @ .
+m n007 [ s^ aa] : Yeah .
+m n007 [ fh] : Um .
+m n007 [ fg|s] : So . Uh , from t hese result s we have som e quest ions
+wit h answers .
+m n007 [ qw] : What should be t he net work input ?
+m n007 [ s] : Um , PLP work as well as MFCC , I m ean .
+m n007 [ fh] : Um .
+m n007 [ s^ rt ] : But it seem s im por im port ant t o use t he delt a .
+m n007 [ s.%−−] : Uh , wit h respect t o t he net work size ,
+m n007 [ s] : t here ’s one experim ent t hat ’s st ill running
+m n007 [ s] : and we should have t he result t oday ,
+m n007 [ s] : com paring net work wit h five hundred and [ pause] one
+t housand unit s .
+m n007 [ fh] : So ,
+m n007 [ s] : nnn , st ill no answer act ually .
+m e013 [ b] : Hm − hm m .
+m n007 [ s.%−−] : Uh , t he t raining set ,
+m n007 [ s.%−−] : well , som e kind of answer .
+m n007 [ s] : We can , we can t ell which t raining set gives t he best
+result ,
+m n007 [ s^ df] : but [ vocalsound] we don’t know exact ly why .
+m e013 [ fg|s] : Uh . Right , I m ean t he m ult i − English so far is
+[ disfm arker] is t he best .
+m n007 [ fh|%−] : Uh , so .
+m n007 [ b] : Yeah .
+m e013 [ s^ bu] : " Mult i − m ult i − English " just m eans " TIMIT " ,
+m e013 [ qy ^ d^ g^ rt ] : right ?
+m n007 [ s^ aa] : Yeah .
+fn002 [ s^ aa] : Yeah .
+m e013 [ s.%−−] : So uh That ’s [ disfm arker]
+m e013 [ b] : Yeah .
+m e013 [ s] : So . And [ disfm arker] and when you add ot her t hings in t o
+[ disfm arker] t o broaden it , it get s worse [ pause] uh t ypically .
+m n007 [ b] : Mm m .
+m e013 [ b] : Yeah .
+m n007 [ b] : Mm − hm m .
+m n007 [ s] : Then uh som e quest ions wit hout answers .
+m e013 [ b] : OK .
+m n007 [ fh|s] : Uh , t raining set ,
+m n007 [ fh] : um ,
+m e013 [ b] : Uh − huh .
+m n007 [ fh|s.%−−] : uh , t raining t arget s [ disfm arker]
+m e013 [ s^ ba] : I like t hat .
+
+m e013 [ s] : The t raining set is bot h quest ions , wit h answers and
+wit hout answers .
+m n007 [ %−−] : It ’s [ disfm arker]
+m n007 [ b] : Yeah .
+m n007 [ b] : Yeah .
+m e013 [ s] : It ’s sort of , yes [ disfm arker] it ’s m ul it ’s m ult i − uh −
+purpose .
+m n007 [ b] : Yeah .
+m e013 [ b] : OK .
+m n007 [ fh|%] : Uh , t raining
+m n007 [ fh|s.%−−] : s Right . So [ disfm arker] Yeah , t he t raining t arget s
+act ually ,
+m n007 [ s] : t he t wo of t he m ain issues perhaps are st ill t he language
+dependency [ v ocalsound] and t he noise dependency .
+m n007 [ s^ cs] : And perhaps t o t ry t o reduce t he language
+dependency , we should focus on finding som e ot her kind of t raining
+t arget s .
+m e013 [ b] : Mm − hm m .
+m n007 [ s] : And labeling s labeling seem s im port ant
+m n007 [ s^ df] : uh , because of TIMIT result s .
+m e013 [ b] : Mm − hm m .
+m n007 [ fh] : Uh .
+m n007 [ s^ rt ] : For m om ent you use [ disfm arker] we use phonet ic
+t arget s
+m n007 [ s] : but we could also use art iculat ory t arget s , soft t arget s ,
+m n007 [ s^ cs] : and perhaps even , um use net works t hat doesn’t do
+classificat ion
+m n007 [ s] : but just regression
+m n007 [ s.%−−] : so uh , t rain t o have neural net works t hat
+m n007 [ fh] : um , um , uh ,
+m e013 [ b] : Mm − hm m .
+m n007 [ s.%−−] : does a regression
+m n007 [ s^ cs] : and well , basically com com com put e feat ures and
+noit not , nnn , feat ures wit hout noise . I m ean uh , t ransform t he fea
+noisy feat ures [ v ocalsound] in ot her feat ures t hat are not noisy .
+m n007 [ s^ cs] : But cont inuous feat ures .
+m n007 [ s^ e] : Not uh uh , hard t arget s .
+m e013 [ b] : Mm − hm m .
+m e013 [ b] : Mm − hm m .
+m n007 [ fh] : Uh [ disfm arker]
+m e013 [ fg|s] : Yeah , t hat [ pause] seem s like a good t hing t o do ,
+probably ,
+m e013 [ fh] : [ no m at ched cont ent ]
+m e013 [ s] : not uh again a short − t erm sort of t hing .
+m n007 [ b] : Yeah .
+
+m e013 [ s.%−−] : I m ean one of t he t hings about t hat is t hat um it ’s
+[ disfm arker]
+m e013 [ s] : e u t he ri I guess t he m ajor risk you have t here of being
+[ disfm arker] is being dependent on [ disfm arker] very dependent on
+t he kind of noise and [ disfm arker] and so fort h .
+m n007 [ b] : Yeah .
+m n007 [ b] : f But , y eah .
+m e013 [ fh|s] : Uh . But it ’s anot her t hing t o t ry .
+m n007 [ s] : So , t his is w w i wa wa t his is one t hing , t his [ disfm arker]
+t his could be [ disfm arker] could help [ disfm arker] could help perhaps
+t o reduce language dependency
+m n007 [ s] : and for t he noise part um we could com bine t his wit h ot her
+approaches , like , well , t he Kleinschm idt approach .
+m n007 [ s] : So t he d t he idea of put t ing all t he noise t hat we can find
+inside a dat abase .
+m e013 [ b] : Mm − hm m .
+fn002 [ b] : Yeah .
+m n007 [ s] : I t hink Kleinschm idt was using m ore t han fift y different
+noises t o t rain his net work ,
+m n007 [ s^ rt ] : and [ disfm arker] So t his is one [ vocalsound] approach
+m e013 [ b] : Mm − hm m .
+m n007 [ s] : and t he ot her is m ult i − band [ vocalsound] [ vocalsound] uh
+, t hat I t hink is m ore robust t o t he noisy changes .
+m e013 [ b] : Mm − hm m .
+m n007 [ s^ am ] : So perhaps , I t hink som et hing like m ult i − band
+t rained on a lot of noises wit h uh , feat ures − based t arget s could
+[ disfm arker] could [ disfm arker] could help .
+m e013 [ s^ aa|s^ ba] : Yeah , if y ou [ disfm arker] i i It ’s int erest ing
+t hought
+m e013 [ s.%−−] : m ay be if you just t rained up [ disfm arker]
+m e013 [ s] : I m ean w yeah , one [ disfm arker] one fant asy would be you
+have som et hing like art iculat ory t arget s
+m e013 [ s] : and y ou have [ pause] um som e reasonable dat abase ,
+m e013 [ fh] : um
+m e013 [ s] : but t hen [ disfm arker] which is um [ vocalsound] copied
+ov er m any t im es wit h a range of different noises ,
+m n007 [ b] : Mm − hm m .
+m e013 [ s] : And uh [ disfm arker] [ vocalsound] If [ disfm arker] Cuz what
+y ou ’re t ry ing t o [ pause] do is com e up wit h a [ disfm arker] a core ,
+reasonable feat ure set which is t hen gonna be used uh , by t he
+[ disfm arker] t he uh HMM [ pause] sy st em .
+m n007 [ b] : Mm − hm m .
+m e013 [ fh] : So .
+m e013 [ s^ bk] : Yeah , OK .
+m n007 [ fg] : So ,
+m n007 [ fh] : um , y eah .
+
+m n007 [ s] : The fut ure work is , [ pause] well , t ry t o connect t o t he
+[ disfm arker] t o m ake [ disfm arker] t o plug in t he syst em t o t he OGI
+m n007 [ s^ rt .%−−] : syst em .
+m n007 [ s^ rt ] : Um , t here are st ill open quest ions t here ,
+m e013 [ b] : Mm − hm m .
+m n007 [ s] : where t o put t he MLP basically .
+m n007 [ fh] : Um .
+m e013 [ s.%−−] : And I guess , y ou know , t he [ disfm arker] t he
+[ disfm arker] t he real open quest ion ,
+m e013 [ s] : I m ean , e u t here ’s lot s of open quest ions ,
+m e013 [ s.%−−] : but one of t he core quot e [ com m ent ] " open quest ions
+" for t hat is um , um , if we t ake t he uh [ disfm arker] you know , t he
+best ones here ,
+m e013 [ s] : m ay be not just t he best one ,
+m e013 [ s] : but t he best few or som et hing [ disfm arker]
+m e013 [ s] : You want t he m ost prom ising group from t hese ot her
+ex perim ent s .
+m e013 [ qo] : Um , how well do t hey do ov er a range of t hese different
+t est s , not just t he It alian ?
+m n007 [ b] : Mm m ,
+m e013 [ fh] : Um .
+m e013 [ %−−] : And y
+m e013 [ qy ^ d^ f^ g^ rt ] : y [ pause] Right ?
+m n007 [ h|s^ bk] : Yeah , yeah .
+m e013 [ s.%−−] : And t hen um [ disfm arker] t hen see , [ pause] again ,
+how [ disfm arker]
+m e013 [ s] : We know t hat t here ’s a m is t here ’s a uh [ disfm arker] a
+[ disfm arker] a loss in perform ance when t he neural net is t rained on
+condit ions t hat are different t han [ disfm arker] t han , uh we ’re gonna
+t est on ,
+m e013 [ qo] : but well , if you look over a range of t hese different t est s
+um , how well do t hese different ways of com bining t he st raight
+feat ures wit h t he MLP feat ures , uh st and up over t hat range ?
+fn002 [ b] : Mm − hm m .
+m e013 [ s] : That ’s [ disfm arker] t hat [ disfm arker] t hat seem s like t he
+[ disfm arker] t he [ disfm arker] t he real quest ion .
+m e013 [ s.%−−] : And if you know t hat [ disfm arker]
+m e013 [ s] : So if y ou just t ake PLP wit h uh , t he double − delt as .
+m e013 [ s] : Assum e t hat ’s t he p t he feat ure .
+m e013 [ s] : look at t hese different ways of com bining it .
+m e013 [ s] : And uh , t ake [ disfm arker] let ’s say , just t ake uh m ult i −
+English
+m e013 [ s^ df] : cause t hat works pret t y well for t he t raining .
+m n007 [ b] : Mm − hm m .
+m e013 [ s] : And just look [ disfm arker] t ake t hat case and t hen look
+ov er all t he different t hings .
+
+m e013 [ qw] : How does t hat [ disfm arker] How does t hat com pare
+bet ween t he [ disfm arker]
+m n007 [ qy ^ bu^ d] : So all t he [ disfm arker] all t he t est set s you m ean ,
+m n007 [ b] : yeah .
+fn002 [ s^ aa] : Yeah .
+m e013 [ s^ m ^ na] : All t he different t est set s ,
+m n007 [ %−] : And [ disfm arker]
+m e013 [ s^ e] : and for [ disfm arker] and for t he couple different ways
+t hat y ou have of [ disfm arker] of [ disfm arker] of com bining t hem .
+m n007 [ b] : Yeah .
+m e013 [ qw.%−−] : Um . [ pause] How well do t hey st and up , over t he
+[ disfm arker]
+fn002 [ b] : Mm − hm m .
+m n007 [ b] : Mm m .
+m n007 [ s] : And perhaps doing t his for [ disfm arker] cha changing t he
+v ariance of t he st ream s and so on [ pause] get t ing different scaling
+[ disfm arker]
+m e013 [ s] : That ’s anot her possibilit y if you have t im e ,
+m e013 [ b] : yeah .
+m e013 [ b] : Yeah .
+m n007 [ fh] : Um .
+m e013 [ %] : [ no m at ched cont ent ]
+m n007 [ s] : Yeah , so t hi t his sh would be m ore working on t he MLP as
+an addit ional pat h inst ead of an insert t o t he [ disfm arker] t o t heir
+diagram .
+m n007 [ %−] : Cuz [ disfm arker]
+m n007 [ b] : Yeah .
+m n007 [ s] : Perhaps t he insert idea is kind of st range
+m n007 [ s^ df^ rt ] : because nnn , t hey [ disfm arker] t hey m ake LDA
+m n007 [ s] : and t hen we will again add a net work does discrim inat e
+anal nnn , t hat discrim inat es ,
+m e013 [ s^ aap|s^ ba] : Yeah . [ pause] It ’s a lit t le st range
+m n007 [ fh] : or [ disfm arker] ?
+m e013 [ s^ aap^ df] : but on t he ot her hand t hey did it before .
+m n007 [ b.%] : Mm m ?
+m e013 [ fg|%−−] : Um t he
+m n007 [ b] : Mm m .
+m n007 [ fg] : And [ disfm arker] and [ disfm arker] and
+m n007 [ fg] : yeah .
+m n007 [ s^ df] : And because also perhaps we know t hat t he
+[ disfm arker] when we have very good feat ures t he MLP doesn’t help .
+m n007 [ s^ bd] : So . I don’t know .
+m e013 [ fg|s.%−−] : Um , t he ot her t hing , t hough , is t hat
+m e013 [ fh] : um [ disfm arker]
+m e013 [ fg|s^ bu] : So . Uh , we [ disfm arker] we wanna get t heir pat h
+running here ,
+
+m e013 [ qy ^ d^ f^ g^ rt ] : right ?
+m e013 [ s] : If so , we can add t his ot her st uff .
+m n007 [ fh] : Um .
+m e013 [ s] : as an addit ional pat h
+m e013 [ qy ^ d^ g^ rt ] : right ?
+m n007 [ s^ aa|s.%−] : Yeah , t he [ disfm arker] t he way we want t o do
+[ disfm arker]
+m e013 [ qy^ bu^ d^ rt ] : Cuz t hey ’re doing LDA [ pause] RASTA .
+m n007 [ %−−] : The
+m n007 [ qw^ br^ rt ] : d What ?
+m e013 [ s^ r] : They ’re doing LDA RASTA ,
+m n007 [ s^ aa|s] : Yeah , t he way we want t o do it perhaps is t o
+[ disfm arker] just t o get t he VAD labels and t he final feat ures .
+m e013 [ qy ^ d^ g] : y eah ?
+m n007 [ s] : So t hey will send us t he [ disfm arker] Well , provide us wit h
+t he feat ure files ,
+m e013 [ b] : I see .
+m e013 [ b] : I see .
+m n007 [ s] : and wit h VAD uh , binary labels
+m n007 [ s] : so t hat we can uh , get our MLP feat ures
+m n007 [ s] : and filt er t hem wit h t he VAD
+m n007 [ s] : and t hen com bine t hem wit h t heir f feat ure st ream .
+m e013 [ fg] : I see .
+m n007 [ %−] : So .
+m e013 [ s] : So we [ disfm arker] So . First t hing of course we ’d wanna
+do t here is t o m ake sure t hat when we get t hose labels of final
+feat ures is t hat we get t he sam e result s as t hem .
+m e013 [ s] : Wit hout put t ing in a second pat h .
+m n007 [ h|%−−] : Uh . You m ean [ disfm arker]
+m n007 [ s^ fe] : Oh , yeah !
+m n007 [ s] : Just re re ret raining r ret raining t he HTK ?
+m e013 [ s^ co] : Yeah just t h w i i Just t o m ake sure t hat we [ pause]
+have [ disfm arker] we underst and properly what t hings are , our very
+first t hing t o do is t o [ disfm arker] is t o double check t hat we get t he
+ex act sam e result s as t hem on HTK .
+m n007 [ %−] : [ no m at ched cont ent ]
+m n007 [ b] : Oh yeah .
+m n007 [ s^ aa] : Yeah , OK .
+m n007 [ b] : Mm m .
+m e013 [ s.%−−] : Uh , I m ean , I don’t know t hat we need t o r
+fn002 [ b] : Yeah .
+m n007 [ b] : Yeah .
+m e013 [ qy^ rt ] : Um [ pause] Do we need t o ret rain
+m e013 [ s] : I m ean we can just t ake t he re t heir t raining files also .
+m e013 [ fh] : But . [ pause] But , uh
+
+m e013 [ s^ co.%−−] : just for t he t est ing , jus just m ake sure t hat we get
+t he sam e result s [ pause] so we can duplicat e it before we add in
+anot her [ disfm arker]
+m n007 [ b] : Mm m .
+m n007 [ s^ aa] : OK .
+m e013 [ s^ df] : Cuz ot herwise , you know , we won’t know what t hings
+m ean .
+m n007 [ s^ bk] : Oh , yeah .
+m n007 [ b] : OK .
+m n007 [ fg] : And um .
+m n007 [ fg|s.%−−] : Yeah , so fff , LogRASTA ,
+m n007 [ s.%−−] : I don’t know if we want t o [ disfm arker]
+m n007 [ s^ cs] : We can t ry [ pause] net works wit h LogRASTA filt ered
+feat ures .
+m e013 [ s^ am ] : May be .
+m n007 [ b] : Mm m .
+m n007 [ qw^ br^ rt ] : I ’m sorry ?
+m n007 [ s^ bk|%−−] : Yeah . Well [ disfm arker]
+m n007 [ b] : Yeah .
+m e013 [ s.%−−] : Oh ! You know , t he ot her t hing is when you say com b
+m n007 [ %−] : But [ disfm arker]
+m e013 [ s^ fa|s] : I ’m [ disfm arker] I ’m sorry , I ’m int errupt ing .
+[ com m ent ] t hat
+m e013 [ fh|s.%−−] : u Um , uh , when you ’re t alking about com bining
+m ult iple feat ures ,
+m e013 [ s:s] : um [ disfm arker] Suppose we said , " OK , we ’ve got
+t hese different feat ures and so fort h ,
+m e013 [ s^ ba:s] : but PLP seem s [ pause] pret t y good . "
+m e013 [ s.%−−] : If we t ake t he approach t hat Mike did and have
+[ disfm arker]
+m n007 [ b] : Mm − hm m .
+m e013 [ s] : I m ean , one of t he sit uat ions we have is we have t hese
+different condit ions .
+m e013 [ s] : We hav e different languages ,
+m e013 [ s] : we hav e different [ disfm arker] [ vocalsound] different
+noises ,
+m e013 [ s^ cs] : Um [ pause] If we have som e drast ically different
+condit ions and we just t rain up different M L Ps [ pause] wit h t hem .
+m n007 [ b] : [ no m at ched cont ent ]
+m e013 [ s] : And put [ disfm arker] put t hem t oget her .
+m e013 [ s.%−−] : What [ disfm arker] what [ disfm arker] What Mike found ,
+for t he rev erberat ion case at least , I m ean [ disfm arker]
+m e013 [ s] : I m ean , who knows if it ’ll work for t hese ot her ones .
+m e013 [ s] : That you did have nice int erpolat ive effect s .
+
+m e013 [ s^ rt ] : That is , t hat yes , if you knew [ pause] what t he
+rev erberat ion condit ion was gonna be and you t rained for t hat , t hen
+y ou got t he best result s .
+m e013 [ s] : But if you had , say , a heav ily − reverberat ion ca heav y −
+rev erberat ion case and a no − reverberat ion case , uh , and t hen you
+fed t he t hing , uh som et hing t hat was a m odest am ount of
+rev erberat ion t hen y ou ’d get som e result in bet ween t he t wo .
+m e013 [ s] : So it was sort of [ disfm arker] behaved reasonably .
+m e013 [ qy .%−−] : Is t ha t hat a fair [ disfm arker]
+m e013 [ b] : Yeah .
+m n007 [ b] : Yeah .
+m n007 [ qy^ d^ rt ] : So you [ disfm arker] you t hink it ’s perhaps bet t er t o
+have sev eral M L
+m n007 [ b] : Yeah
+m n007 [ %−] : but [ disfm arker]
+m e013 [ qw] : It works bet t er if [ pause] what ?
+m n007 [ %−] : Yea
+m e013 [ s^ bk] : I see .
+m e013 [ s.%−−] : Well , see , i oc
+m e013 [ s.%−−] : You were doing som e som et hing t hat was [ disfm arker]
+m e013 [ s^ bd] : So m aybe t he analogy isn’t quit e right .
+m e013 [ s] : You were doing som et hing t hat was in way a lit t le bet t er
+behav ed .
+m e013 [ s] : You had reverb for a single variable
+m e013 [ s] : which was re uh , uh , reverberat ion .
+m e013 [ s] : Here t he problem seem s t o be is t hat we don’t have a hug
+a really huge net wit h a really huge am ount of t raining dat a .
+m e013 [ s] : But we have s f [ pause] for t his kind of t ask , I would t hink ,
+[ pause] sort of a m odest am ount .
+m e013 [ s] : I m ean , a m illion fram es act ually isn’t t hat m uch .
+m e013 [ s] : We have a m odest am ount of [ disfm arker] of uh t raining
+dat a from a couple different condit ions ,
+m e013 [ s] : and t hen uh [ disfm arker] in [ disfm arker] yeah , t hat
+[ disfm arker] and t he real sit uat ion is t hat t here ’s enorm ous variabilit y
+t hat we ant icipat e in t he t est set in t erm s of language ,
+m e013 [ s] : and noise t ype
+m e013 [ fh|s] : uh , and uh , [ pause] uh , channel charact erist ic ,
+m e013 [ s] : sort of all over t he m ap .
+m e013 [ s] : A bunch of different dim ensions .
+m e013 [ s.%−−] : And so , I ’m just concerned t hat we don’t really have
+[ pause] um , t he dat a t o t rain up [ disfm arker]
+m e013 [ s] : I m ean one of t he t hings t hat we were seeing is t hat when
+we added in [ disfm arker] we st ill don’t have a good explanat ion for t his
+,
+m e013 [ s] : but we are seeing t hat we ’re adding in uh , a fe few
+different dat abases
+
+m e013 [ fh|s] : and uh t he perform ance is get t ing worse
+m e013 [ fh|s] : and uh , when we just t ake one of t hose dat abases t hat
+’s a pret t y good one , it act ually is [ disfm arker] is [ disfm arker] is
+[ disfm arker] is [ disfm arker] is bet t er .
+m e013 [ fh|s] : And uh t hat says t o m e , y es , t hat , you know , t here
+m ight be som e problem s wit h t he pronunciat ion m odels t hat som e of
+t he dat abases we ’re adding in or som et hing like t hat .
+m e013 [ s] : But one way or anot her [ pause] we don’t have uh ,
+seem ingly , t he abilit y [ pause] t o represent , in t he neural net of t he
+size t hat we have , um , all of t he variabilit y [ pause] t hat we ’re gonna
+be cov ering .
+m e013 [ s.%−−] : So t hat I ’m [ disfm arker] I ’m [ disfm arker] I ’m hoping
+t hat
+m e013 [ fh|s] : um , t his is anot her t ake on t he efficiency argum ent you
+’re m aking ,
+m e013 [ s] : which is I ’m hoping t hat wit h m oderat e size neural net s ,
+uh , t hat uh if we [ disfm arker] if t hey look at m ore const rained
+condit ions t hey [ disfm arker] t hey ’ll have enough param et ers t o really
+represent t hem .
+m e013 [ b] : Mm − hm m .
+m e013 [ b] : Mm − hm m .
+m e013 [ b] : Mm − hm m .
+m e013 [ b] : Yeah .
+m n007 [ s^ bu] : So doing bot h is [ disfm arker] is not [ disfm arker] is not
+right , y ou m ean ,
+m n007 [ fh] : or [ disfm arker] ?
+m n007 [ b.%] : Yeah .
+m e013 [ b] : Yeah .
+m e013 [ s.%−−] : I [ disfm arker] I just sort of have a feeling [ disfm arker]
+m n007 [ fg] : But [ disfm arker] Yeah .
+m n007 [ b] : Mm − hm m .
+m e013 [ b] : Yeah .
+m n007 [ s^ aa] : [ no m at ched cont ent ]
+m e013 [ s.%−−] : I m ean [ disfm arker] [ vocalsound] i i e The um
+[ disfm arker] I t hink it ’s t rue t hat t he OGI folk found t hat using LDA
+[ pause] RASTA ,
+m e013 [ s] : which is a kind of LogRASTA ,
+m e013 [ s.%−−] : it ’s just t hat t hey have t he [ disfm arker]
+m e013 [ s] : I m ean it ’s done in t he log dom ain , as I recall ,
+m e013 [ s] : and it ’s [ disfm arker] it uh [ disfm arker] it ’s just t hat t hey d
+it ’s t rained up ,
+m e013 [ qy ^ d^ g] : right ?
+m e013 [ s] : That t hat um benefit t ed from on − line norm alizat ion .
+m e013 [ s^ bs] : So t hey did [ disfm arker] At least in t heir case , it did
+seem t o be som ewhat com plim ent ary .
+
+m e013 [ qo] : So will it be in our case , where we ’re using t he neural
+net ?
+m e013 [ s] : I m ean t hey [ disfm arker] t hey were not [ disfm arker] not
+using t he neural net .
+m e013 [ s^ bd^ no] : Uh I don’t know .
+m e013 [ s^ bk|s^ t .%−−] : OK , so t he ot her t hings you have here are uh ,
+t ry ing t o im prove result s from a single [ disfm arker]
+m e013 [ s^ bk] : Yeah .
+m e013 [ s^ bs] : Make st uff bet t er .
+m e013 [ s^ bk] : OK .
+m e013 [ fh] : Uh . [ v ocalsound] Yeah .
+m e013 [ s] : And CPU m em ory issues .
+m e013 [ b] : Yeah .
+m e013 [ s] : We ’v e been sort of ignoring t hat ,
+m e013 [ qy ^ g] : hav en’t we ?
+m e013 [ %−−] : But [ disfm arker]
+m n007 [ s^ aa|s^ no] : Yeah , so I don’t know .
+m e013 [ fg|s.%−] : Yeah , but I li
+m n007 [ qy ^ d^ rt .%−−] : But we have t o address t he problem of CPU and
+m em ory we [ disfm arker]
+m e013 [ s.%−−] : Well , I t hink [ disfm arker] My im pression [ disfm arker]
+m e013 [ s^ bd] : You [ disfm arker] you folks have been looking at t his
+m ore t han m e .
+m e013 [ s] : But m y im pression was t hat [ v ocalsound] uh , t here was a
+[ disfm arker] a [ disfm arker] a [ disfm arker] a st rict const raint on t he
+delay ,
+fn002 [ b] : Yeah .
+m e013 [ s] : but bey ond t hat it was kind of t hat uh using less m em ory
+was bet t er ,
+m e013 [ s] : and [ v ocalsound] using less CPU was bet t er .
+m e013 [ s] : Som et hing like t hat ,
+m e013 [ qy ^ d^ g^ rt ] : right ?
+m n007 [ s^ bk|%−−] : Yeah , but [ disfm arker]
+m n007 [ b] : Yeah .
+m n007 [ fg|s.%−−] : So , yeah , but we ’ve [ disfm arker]
+m n007 [ s^ no] : I don’t know .
+m n007 [ s.%−−] : We have t o get som e reference point t o where we
+[ disfm arker]
+m n007 [ qo] : Well , what ’s a reasonable num ber ?
+m n007 [ s] : Perhaps be because if it ’s [ disfm arker] if it ’s t oo large or
+[ disfm arker] large
+m n007 [ fh] : or @ @ [ disfm arker]
+m e013 [ h|s^ ba] : Um , well I don’t t hink we ’re [ vocalsound] um
+[ v ocalsound] com plet ely off t he wall .
+m e013 [ s.%−−] : I m ean I t hink t hat if we [ disfm arker] if we have
+[ disfm arker]
+
+m e013 [ s.%−−] : Uh , I m ean t he ult im at e fall back t hat we could do
+[ disfm arker]
+m e013 [ s.%−−] : If we find
+m e013 [ fh] : uh [ disfm arker]
+m e013 [ s] : I m ean we m ay find t hat we [ disfm arker] we ’re not really
+gonna worry about t he M L
+m e013 [ s] : You know , if t he MLP ult im at ely , aft er all is said and done ,
+doesn’t really help t hen we won’t hav e it in .
+m n007 [ b] : Mm m .
+m e013 [ s] : If t he MLP does , we find , help us enough in som e
+condit ions , uh , we m ight even have m ore t han one MLP .
+m e013 [ s] : We could sim ply say t hat is uh , done on t he uh , server .
+m n007 [ b] : Mm m .
+m e013 [ s.%−−] : And it ’s
+m e013 [ fh] : uh [ disfm arker]
+m e013 [ s] : We do t he ot her m anipulat ions t hat we ’re doing before
+t hat .
+m e013 [ s^ ba] : So , I [ disfm arker] I [ disfm arker] I t hink [ disfm arker] I
+t hink t hat ’s [ disfm arker] [ pause] t hat ’s OK .
+m n007 [ fg] : And [ disfm arker] Yeah .
+m e013 [ s] : So I t hink t he key t hing was um , t his plug int o OGI .
+m e013 [ fh] : Um ,
+m e013 [ qw.%−−] : what [ disfm arker] what are t hey [ disfm arker] What
+are t hey gonna be working [ disfm arker]
+m e013 [ qy ^ rt ] : Do we know what t hey ’re gonna be working on while
+we t ake t heir feat ures ,
+m n007 [ s^ rt ] : They ’re [ disfm arker] They ’re st art ing t o wor work on
+som e kind of m ult i − band .
+m e013 [ fh] : and [ disfm arker] ?
+m n007 [ fh] : So . Um [ disfm arker]
+m n007 [ s^ rt ] : This [ disfm arker] t hat was Prat ibha .
+m n007 [ s.%−−] : Sunil ,
+m n007 [ qw^ rt ] : what was he doing ,
+m n007 [ qy^ rt ] : do y ou rem em ber ?
+fn002 [ qy ^ br^ d^ rt ] : Sunil ?
+m n007 [ s^ aa] : Yeah .
+m n007 [ qy^ d^ rt ] : He was doing som et hing new
+m n007 [ qrr.%−−] : or [ disfm arker] ?
+fn002 [ s^ no] : I [ disfm arker] I don’t re I didn’t rem em ber .
+fn002 [ s^ am ] : May be he ’s working wit h [ pause] neural net work .
+m n007 [ s] : I don’t t hink so .
+m n007 [ s.%−] : Trying t o t une
+m n007 [ qy^ br^ d^ rt ] : wha net works ?
+fn002 [ s^ am ] : Yeah , I t hink so .
+m n007 [ s.%−−] : I t hink t hey were also m ainly ,
+
+m n007 [ s] : well , working a lit t le bit of new t hings , like net works and
+m ult i − band ,
+m n007 [ s] : but m ainly t rying t o t une t heir [ disfm arker] t heir syst em as
+it is now
+m n007 [ s] : t o [ disfm arker] just t rying t o get t he best from t his
+[ disfm arker] t his archit ect ure .
+fn002 [ s^ aa] : Yeah .
+m e013 [ s^ bk] : OK .
+m n007 [ fh] : [ no m at ched cont ent ]
+m e013 [ s.%−−] : So I guess t he way it would work is t hat you ’d get
+[ disfm arker]
+m e013 [ s:s] : There ’d be som e point where you say , " OK , t his is t heir
+v ersion − one " or what ever ,
+m e013 [ s] : and we get t hese VAD labels and feat ures and so fort h for
+all t hese t est set s from t hem ,
+m n007 [ b] : Mm − hm m .
+m e013 [ fh|s] : and t hen um , uh , t hat ’s what we work wit h .
+m e013 [ s^ cs] : We have a cert ain lev el we t ry t o im prove it wit h t his
+ot her pat h
+m e013 [ s^ cs.%−−] : and t hen um , uh , when it get s t o be uh , January
+m e013 [ s.%−−] : som e point
+m e013 [ s:s] : uh , we say , " OK we [ disfm arker] we have shown t hat we
+can im prove t his , in t his way .
+m e013 [ s^ cs:qo] : So now uh [ pause] um [ pause] what ’s your newest
+v ersion ? "
+m e013 [ s] : And t hen m aybe t hey ’ll have som et hing t hat ’s bet t er
+m e013 [ s] : and t hen we [ disfm arker] we ’d com bine it .
+m e013 [ s] : This is always hard .
+m e013 [ s] : I m ean I [ disfm arker] I [ disfm arker] I used t o work [ pause]
+wit h uh folks who were t rying t o im prove a good uh , HMM syst em wit h
+uh [ disfm arker] wit h a neural net syst em
+m e013 [ s.%−−] : and uh , it was [ pause] a com m on problem t hat you ’d
+[ disfm arker]
+m e013 [ s] : Oh , and t his [ disfm arker] Act ually , t his is t rue not just for
+neural net s
+m e013 [ s] : but just for [ disfm arker] in general if people were [ pause]
+working wit h uh , rescoring uh , N − best list s or lat t ices t hat com e
+[ disfm arker] cam e from uh , a m ainst ream recognizer .
+m e013 [ s] : Uh , You get som et hing from t he [ disfm arker] t he ot her
+sit e at one point and you work really hard on m aking it bet t er wit h
+rescoring .
+m e013 [ s] : But t hey ’re working really hard , t oo .
+m e013 [ s] : So by t he t im e [ pause] y ou have uh , im proved t heir score
+, t hey hav e also im proved t heir score
+m n007 [ b] : Mm m .
+m e013 [ s] : and now t here isn’t any difference ,
+
+m n007 [ b] : Yeah .
+m e013 [ s^ df.%−−] : because t he ot her [ disfm arker]
+fn002 [ b] : Yeah .
+m e013 [ s.%−−] : So , um , I guess at som e point we ’ll have t o
+m n007 [ s.%−−] : So it ’s [ disfm arker]
+m e013 [ fh] : uh [ disfm arker] [ com m ent ] Uh ,
+m e013 [ s^ bd^ no] : I [ disfm arker] I don’t know .
+m e013 [ s] : I t hink we ’re [ disfm arker] we ’re int egrat ed a lit t le m ore
+t ight ly t han happens in a lot of t hose cases .
+m e013 [ s.%−−] : I t hink at t he m om ent t hey [ disfm arker] t hey say t hat
+t hey have a bet t er t hing we can [ disfm arker] we [ disfm arker] e e
+m e013 [ s] : What t akes all t he t im e here is t hat t h we ’re t rying so
+m any t hings ,
+m n007 [ b] : Mm m .
+m e013 [ s] : presum ably uh , in a [ disfm arker] in a day we could t urn
+around
+m e013 [ s] : uh , t aking a new set of t hings from t hem and [ disfm arker]
+and rescoring it ,
+m n007 [ b] : Mm m .
+m n007 [ s^ aa|s^ am ] : Yeah . Yeah , perhaps we could .
+m e013 [ qy ^ d^ g^ rt ] : right ?
+m e013 [ fh] : So .
+m e013 [ s^ bk] : Yeah .
+m e013 [ s^ bk] : Well , OK .
+m e013 [ s^ ba] : No , t his is [ disfm arker] I t hink t his is good .
+m e013 [ s] : I t hink t hat t he m ost wide open t hing is t he issues about
+t he uh , you know , different t rainings .
+m e013 [ s^ f|s] : You know , da t raining t arget s and noises and so fort h
+.
+m n007 [ b] : Mm m .
+m e013 [ s] : That ’s sort of wide open .
+m n007 [ qy ^ d^ rt ] : So we [ disfm arker] we can for [ disfm arker] we c we
+can forget com bining m ult iple feat ures and MLG perhaps ,
+m n007 [ qrr^ d] : or focus m ore on t he t arget s and on t he t raining dat a
+m n007 [ fh] : and [ disfm arker] ?
+m e013 [ s^ bk|s] : Yeah , I t hink for right now um , I t h I [ disfm arker] I
+really liked MSG .
+m e013 [ s] : And I t hink t hat , you know , one of t he t hings I liked about
+it is has such different t em poral propert ies .
+m e013 [ fh|s] : And um , I t hink t hat t here is ult im at ely a really good uh
+, pot ent ial for , you know , bringing in t hings wit h different t em poral
+propert ies .
+m e013 [ fh] : Um , but um , uh ,
+m e013 [ s] : we only have lim it ed t im e
+m e013 [ s] : and t here ’s a lot of ot her t hings we have t o look at .
+m n007 [ b] : Mm m .
+
+m e013 [ s] : And it seem s like m uch m ore core quest ions are issues
+about t he t raining set
+m e013 [ s] : and t he t raining t arget s ,
+m e013 [ s] : and fit t ing in uh what we ’re doing wit h what t hey ’re doing
+,
+m e013 [ s] : and , you know , wit h lim it ed t im e .
+m e013 [ b] : Yeah .
+m e013 [ s^ cs] : I t hink [ pause] we have t o st art cut t ing down .
+m e013 [ fh] : So uh [ disfm arker]
+m n007 [ b] : Mm m .
+m e013 [ s] : I t hink so ,
+m e013 [ fh] : y eah .
+m e013 [ s.%−−] : And t hen , you know , once we [ disfm arker]
+m e013 [ s] : Um , having gone t hrough t his [ pause] process and t rying
+m any different t hings , I would im agine t hat cert ain t hings uh , com e
+up t hat you are curious about
+m e013 [ s] : uh , t hat you ’d not get t ing t o
+m e013 [ s] : and so when t he dust set t les from t he evaluat ion uh , I
+t hink t hat would t im e t o go back and t ake what ever int rigued you m ost
+,
+m e013 [ s] : y ou know , got you m ost int erest ed
+m e013 [ fh|s^ cs] : uh and uh [ disfm arker] and [ disfm arker] and work
+wit h it , y ou know , for t he next round .
+m e013 [ s] : Uh , as you can t ell from t hese num bers uh , not hing t hat
+any of us is gonna do is act ually gonna com plet ely solve t he problem .
+m e013 [ fh] : So .
+m n007 [ b] : Mm m .
+m e013 [ s] : So , [ com m ent ] t here ’ll st ill be plent y t o do .
+m e013 [ s^ t ^ t c] : Barry , you ’ve been pret t y quiet .
+m e006 [ s] : Just list ening .
+m e013 [ s^ rt ] : Well I figured t hat ,
+m e013 [ qw^ rt ] : but [ disfm arker] [ vocalsound] That [ disfm arker] what
+[ disfm arker] what [ disfm arker] what were you involved in in t his
+prim arily ?
+m e006 [ h|s] : Um , [ v ocalsound] helping out [ vocalsound] uh ,
+preparing [ disfm arker]
+m e006 [ s] : Well , t hey ’ve been kind of running all t he experim ent s and
+st uff
+m e006 [ s] : and I ’ve been uh , uh w doing som e work on t he
+[ disfm arker] on t he [ disfm arker] preparing all [ disfm arker] all t he dat a
+for t hem t o [ disfm arker] t o um , t rain and t o t est on .
+m e006 [ fh] : Um
+m e006 [ fh|s] : Yeah . Right now , I ’m [ disfm arker] I ’m focusing m ainly
+on t his final project I ’m working on in Jordan ’s class .
+m e013 [ s^ bk] : Ah !
+m e013 [ s^ bk] : I see .
+
+m e006 [ b] : Yeah .
+m e013 [ b] : Right .
+m e013 [ qw] : What ’s [ disfm arker] what ’s t hat ?
+m e006 [ s.%−−] : Um , [ vocalsound] I ’m t rying t o
+m e006 [ fh|s] : um [ disfm arker] So t here was a paper in ICSLP about um
+t his [ disfm arker] t his m ult i − band um , belief − net st ruct ure .
+[ com m ent ] This guy did [ disfm arker]
+m e013 [ b] : Mm − hm m .
+m e006 [ s] : uh basically it was t wo H M Ms wit h [ disfm arker] wit h a
+[ disfm arker] wit h a dependency arrow bet ween t he t wo H M
+m e013 [ b] : Uh − huh .
+m e006 [ s] : And so I wanna t ry [ disfm arker] t ry coupling t hem inst ead
+of t hav ing an arrow t hat [ disfm arker] t hat flows from one sub − band
+t o anot her sub − band .
+m e006 [ s] : I wanna t ry having t he arrows go bot h ways .
+m e006 [ fh|s] : And um , [ vocalsound] I ’m just gonna see if [ disfm arker]
+if t hat [ disfm arker] t hat bet t er m odels [ pause] um , uh asynchrony in
+any way
+m e006 [ fh] : or um [ disfm arker] [ pause] Yeah .
+m e013 [ s^ bk] : Oh !
+m e013 [ s^ bk] : OK .
+m e013 [ s^ ba] : Well , t hat sounds int erest ing .
+m e006 [ s^ bk] : Yeah .
+m e013 [ s^ bk] : OK .
+m e013 [ s^ bk] : Alright .
+m e013 [ qo^ rt .%−−] : Anyt hing t o [ disfm arker] [ vocalsound] you want ed
+t o [ disfm arker]
+m e013 [ s^ bk^ m ] : No .
+m e013 [ s^ bk] : OK .
+m e013 [ s^ ba] : Silent part ner in t he [ disfm arker] [ vocalsound] in t he
+m eet ing .
+m e013 [ s] : Oh , we got a laugh out of him ,
+m e013 [ s^ ba] : t hat ’s good .
+m e013 [ s] : OK , ev eryone h m ust cont ribut e t o t he [ disfm arker] our
+[ disfm arker] our sound [ disfm arker] [ vocalsound] sound files here .
+m e013 [ fg|s.%−−] : OK , so speaking of which , if we don’t have anyt hing
+else t hat we need [ disfm arker]
+m e013 [ qy ^ d] : You happy wit h where we are ?
+m e013 [ qy ^ d] : Know [ disfm arker] know wher know where we ’re going
+?
+m n007 [ b] : Mm m .
+m e013 [ fh] : Uh [ disfm arker]
+m n007 [ s^ aa] : I t hink so , yeah .
+m e013 [ s^ bk] : Yeah , yeah .
+m e013 [ qy ^ d^ rt ] : You [ disfm arker] you happy ?
+fn002 [ s^ aa] : [ no m at ched cont ent ]
+
+m e013 [ s^ bk] : You ’re happy .
+m e013 [ s] : OK everyone [ pause] should be happy .
+m e013 [ s^ bk] : OK .
+m e013 [ s] : You don’t have t o be happy .
+m e013 [ s^ rt ] : You ’re alm ost done .
+m e013 [ s^ bk] : Yeah , yeah .
+m e013 [ s^ bk] : OK .
+m e026 [ s^ t ^ t c.%−−] : Al − act ually I should m ent ion [ disfm arker]
+m e026 [ s] : So if [ disfm arker] [ com m ent ] um , about t he Linux m achine
+m e026 [ s^ rt ] : " Swede . "
+m e013 [ s^ bk] : Yeah .
+m e026 [ s] : So it looks like t he um , neural net t ools are inst alled t here
+.
+m n007 [ b] : Mm m .
+m e026 [ s] : And um Dan Ellis [ com m ent ] I believe knows som et hing
+about using t hat m achine
+m e026 [ fh] : so
+m e026 [ s^ cs] : If people are int erest ed in [ disfm arker] in get t ing jobs
+running on t hat m aybe I could help wit h t hat .
+m n007 [ b.%] : Mm m .
+m n007 [ s^ bk|s^ ng] : Yeah , but I don’t know if we really need now a lot
+of m achines .
+m n007 [ s^ aap^ cs] : Well . we could st art com put ing anot her huge
+t able
+m n007 [ fh] : but [ disfm arker]
+m n007 [ %−] : y eah , we [ disfm arker]
+m e013 [ fg|s^ ng] : Well . Yeah , I t hink we want a different t able , at
+least
+m n007 [ s^ aa] : Yeah , sure .
+m e013 [ qy^ d^ g] : Right ?
+m e013 [ s] : I m ean t here ’s [ disfm arker] t here ’s som e different t hings
+t hat we ’re t rying t o get at now .
+m n007 [ fh] : But [ disfm arker]
+m e013 [ fh] : But [ disfm arker]
+m n007 [ b] : Yeah .
+m n007 [ b] : Mm m .
+m e013 [ qy^ bu^ d] : So . Yeah , as far as y ou can t ell , you ’re act ually
+OK on C − on CPU uh , for t raining and so on ?
+m e013 [ b.%] : Yeah .
+m n007 [ s^ aa|s^ na] : Ah yeah . I t hink so .
+m n007 [ s^ arp] : Well , m ore is always bet t er ,
+m n007 [ fh] : but m m m ,
+m n007 [ s] : I don’t t hink we have t o t rain a lot of net works , now t hat
+we know [ disfm arker]
+m n007 [ s] : We just select what works [ pause] fine
+m e013 [ s^ bk] : OK .
+
+m e013 [ b] : OK .
+fn002 [ b] : Yeah .
+m n007 [ s] : and t ry t o im prove t his
+m e013 [ qy^ d^ rt ] : And we ’re OK on [ disfm arker] And we ’re OK on disk
+?
+fn002 [ %−] : t o work
+m n007 [ fh] : and [ disfm arker]
+m n007 [ s^ aa] : It ’s OK , yeah .
+m n007 [ s^ ng] : Well som et im es we have som e problem s .
+fn002 [ s^ 2.%−] : Som e problem s wit h t he [ disfm arker]
+m e013 [ s] : But t hey ’re correct able , uh problem s .
+fn002 [ s] : You know .
+m n007 [ s^ aa|s^ na] : Yeah , rest art ing t he script basically
+m n007 [ %−] : and [ disfm arker]
+m e013 [ s^ bk] : Yes .
+m e013 [ s^ bd] : Yeah , I ’m fam iliar wit h [ vocalsound] t hat one ,
+m e013 [ fh] : OK .
+m e013 [ s^ t ^ t c] : Alright ,
+m e013 [ fh|s] : so uh , [ com m ent ] [ v ocalsound] since uh , we didn’t ha
+get a channel on for y ou , [ com m ent ] you don’t have t o read any digit s
+m e013 [ s] : but t he rest of us will .
+m e013 [ qy^ rt ] : Uh , is it on ?
+m e013 [ s] : Well . We didn’t
+m e013 [ fh] : uh [ disfm arker]
+m e013 [ s] : I t hink I won’t t ouch anyt hing
+m e013 [ s^ df] : cuz I ’m afraid of m aking t he driver crash
+m e013 [ s] : which it seem s t o do , [ pause] pret t y easily .
+m e013 [ s^ ft ^ t 3] : OK , t hanks .
+m e013 [ s^ bk.%−−] : OK , so we ’ll uh [ disfm arker] I ’ll st art off t he
+m e013 [ fh] : uh um
+m e013 [ s^ co.%−] : connect t he [ disfm arker]
+m n007 [ s] : My bat t ery is low .
+m e013 [ s] : Well , let ’s hope it works .
+m e013 [ s^ co] : Maybe you should go first and see
+m e013 [ s^ df] : so t hat you ’re [ disfm arker] OK .
+fn002 [ %] : bat t eries ?
+m e006 [ fg|s^ t 3] : Yeah , your bat t ery ’s going down t oo .
+m e013 [ z] : Transcript uh
+m e006 [ z] : Carm en ’s bat t ery is d going down t oo .
+m e013 [ z] : t wo [ disfm arker]
+m e013 [ z] : Oh , OK .
+m e013 [ z] : Yeah .
+m e013 [ z] : Why don’t you go nex t t hen .
+m e013 [ z] : OK .
+m e013 [ z] : Guess we ’re done .
+m e013 [ z] : OK , uh so .
+
+m e013 [ z] : Just finished digit s .
+m e013 [ z] : Yeah , so . Uh
+m e013 [ z] : Well , it ’s good .
+m e013 [ z] : I t hink [ disfm arker] I guess we can t urn off our
+m icrophones now .
+m e006 [ z] : Just pull t he bat t eries out .
+
+

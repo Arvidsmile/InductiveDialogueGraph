@@ -1,0 +1,2004 @@
+m e010 [ z] : OK .
+m n015 [ z] : Piece of paper ? I could borrow ?
+m e045 [ z] : Oh yeah .
+m e010 [ fg|%−−] : OK , so uh i um
+m e010 [ s] : I don’t know whet her Am i ’s com ing or not
+m e010 [ fh] : um
+m e010 [ s^ co^ t ] : but I t hink we ought a just get st art ed .
+m n015 [ qy ^ bu^ d^ rt ] : Nancy is uh current ly in Berkeley but not here ?
+m e003 [ qy ^ bu^ d^ rt ] : Nancy ’s st ill st ick ?
+m e010 [ s^ no] : Don’t know .
+m n015 [ b] : OK .
+m e010 [ b] : Any way
+m e010 [ fg] : Oh ,
+m e010 [ s] : so t here y ou go .
+m e010 [ s^ t ^ t c.%−−] : Anyway , so m y idea f for t oday
+m e010 [ s] : and we can uh decide t hat t hat isn’t t he right t hing t o do
+m e010 [ s^ t ] : was t o at [ disfm arker] spend at least part of t he t im e
+t ry ing t o eh build t he influence links ,
+m e010 [ s^ e] : you know which set s of t hings are uh relevant t o which
+decisions
+m e010 [ s^ cs] : and act ually I had uh specific s suggest ion t o st art first
+wit h t he pat h ones .
+m e010 [ s^ df] : The dat abase ones being in som e sense less
+int erest ing t o us
+m e010 [ s^ e] : alt hough probably have t o be done
+m e010 [ s.%−−] : and so t o do t hat
+m e010 [ s] : so t here ’s [ disfm arker] and t he idea was we were gonna
+do t wo t hings
+m e003 [ qy ^ rt ] : Is your m ike on ?
+m e010 [ h] : Ah .
+m e010 [ s^ bk|%−−] : Oh right , well .
+m e010 [ b] : Yeah .
+m e010 [ s] : We were gonna do t wo t hings
+m e010 [ s] : one of which is just lay out t he influence st ruct ure of what
+we t hink influences what
+m e012 [ s^ t 3] : That ’s funny .
+m e010 [ s.%−−] : and t hen as a uh separat e but relat ed t ask
+m e010 [ s] : uh part icularly Bhaskara and I were going t o t ry t o decide
+what kinds of belief nodes are needed in order t o um do what we
+[ disfm arker] what we need t o do .
+m e010 [ %−−] : Once
+m e010 [ s^ cs] : so but du we should sort of have all of t he uh basic
+design of what influences what done before we decide exact ly how t o
+com put e it .
+m e010 [ qy ^ rt ] : So I didn’t [ disfm arker] did you get a chance t o look at
+all [ disfm arker] y et ?
+
+m e012 [ s^ aa|s^ na] : Yeah , I looked at som e of t hat st uff .
+m e010 [ s^ bk] : Great .
+m e010 [ s^ co^ t ] : OK so let ’s st art wit h t he uh belief − net s , t he
+general influence st uff
+m e010 [ s^ t ] : and t hen we ’ll [ disfm arker] t hen we ’ll also at som e
+point break and t alk about t he t echy st uff .
+m n015 [ s^ cs.%−−] : Well I t hink one could go t here ’s
+m n015 [ s^ t ] : I t hink we can di discuss everyt hing .
+m n015 [ s] : First of all t his I added , I knew from sort of basically t his
+has t o be t here
+m n015 [ qy^ d^ g^ rt ] : right ?
+m n015 [ fh] : Um
+m e010 [ s:qy ] : Oh are you gonna go t here or not ?
+m e010 [ fh|s.%−] : Yeah , so one i
+m n015 [ qrr.%−] : Given [ disfm arker] given uh uh not t ransverse t he
+cast le , t he decision is does t he person want t o go t here or is it just
+m e010 [ s^ aa] : Right ,
+m e010 [ s^ aa] : t rue .
+m e010 [ s^ na] : Does have t o be t here .
+m n015 [ fh] : And
+m e010 [ s.%−] : And I ’m sure we ’ll find m ore as we go t hat
+m n015 [ b^ rt ] : Hm m ?
+m n015 [ s] : So Go − t here in t he first place or not is definit ely uh one of
+t he basic ones .
+m n015 [ s^ cs^ rt ] : We can st art wit h t hat .
+m n015 [ s^ e] : Int erest ing effect .
+m n015 [ fh|qy^ rt ] : Um Is t his basically t rue or false
+m n015 [ qrr.%−] : or m aybe we ’ll get
+m e010 [ fg] : Well [ disfm arker]
+m e012 [ qw^ bu^ rt ] : Which one ?
+m n015 [ qw] : what ?
+m e045 [ s] : " Go t here " .
+m n015 [ fg] : m right .
+m e010 [ fg|s.%−] : so t here is t his quest ion about
+m n015 [ s.%−] : Here we
+m n015 [ s^ bu] : we act ually get just probabilit ies ,
+m e010 [ b] : Yeah .
+m n015 [ qy ^ d^ g^ rt ] : right
+m n015 [ s^ e] : for each down here .
+m e010 [ s^ na] : When we ’re [ disfm arker] yeah when we ’re done .
+m n015 [ b] : Hm m .
+m e010 [ %−−] : So [ disfm arker] so
+m e010 [ s^ df:s] : t he [ disfm arker] t he reason it m ight not be t rue or
+false is t hat we did have t his idea of when
+m e010 [ s] : so it ’s , you know uh current @ @ and so fort h and so on
+or not at all ,
+
+m n015 [ b] : Mm − hm m .
+m e010 [ qy^ d^ g^ rt ] : right ?
+m e010 [ fh|s.%−−:qy ] : And so t hat a decision would be do we want t hat
+m e010 [ s] : so you could [ disfm arker] t wo different t hings y ou could do
+,
+m e010 [ s^ cs:s] : y ou could have all t hose values for Go − t here
+m e010 [ s^ cs:qw] : or you could have Go − t here be binary and given
+t hat y ou ’re going t here when .
+m n015 [ s^ 2:qw] : When .
+m n015 [ s^ 2:qw] : How .
+m e010 [ s^ aa] : Yeah
+m n015 [ s^ 2:qw] : Why ,
+m e010 [ s^ 2] : and so fort h .
+m n015 [ b] : y eah .
+m e010 [ s^ co.%−−] : So I ’ll let
+m e010 [ s^ cc] : we ’ll see .
+m n015 [ b^ rt ] : Hm m ?
+m e045 [ s^ cs] : I m ean it seem s t hat y ou could um uh it seem s t hat
+t hose t hings would be logically independent
+m e045 [ s^ cs^ e] : like you would wanna have t hem separat e or binary
+,
+m e045 [ s:s] : Go − t here and t hen t he [ disfm arker] t he possibilit ies of
+how t o go t here
+m e045 [ s^ df.%−] : because [ disfm arker]
+m e010 [ s^ aa|s^ co] : OK , t hat ’s [ disfm arker] let ’s st art t hat way .
+m e045 [ s^ df] : because , you know it m ight be easy t o figure out t hat
+t his person is going t o need m ore film event ually from t heir ut t erance
+m e045 [ s^ df^ e] : but it ’s m uch m ore com plex t o query when would be
+t he m ost appropriat e t im e .
+m n015 [ b] : Hm m .
+m n015 [ b] : Hm m .
+m n015 [ b] : OK .
+m n015 [ s] : And so I ’ve t ried t o com e up wit h som e init ial t hings one
+could observ e
+m n015 [ qh^ rt ] : so who is t he user ?
+m n015 [ s:s] : Everyt hing t hat has user com es from t he user m odel
+m n015 [ s:s] : everyt hing t hat has sit uat ion com es from t he sit uat ion
+m odel − A .
+m n015 [ s] : We should be be clear .
+m n015 [ s.%−−] : But when it com es t o sort of writ ing down
+m n015 [ s.%−−] : when you [ disfm arker] when you do t hese t hings
+m n015 [ qy ^ rt ] : is it here ?
+m n015 [ s] : You sort of have t o a writ e t he values t his can t ake .
+m e010 [ b] : Right .
+m n015 [ s] : And here I was really uh in som e s som et im es I was really
+sort of st anding in front of a wall feeling v ery st upid
+
+m n015 [ s] : because um [ disfm arker] t his case it ’s pret t y sim ple ,
+m n015 [ s.%−−] : but as we will see t he ot her ones um
+m n015 [ s:qw] : for exam ple if it ’s a running budget so what are t he
+discret e v alues of a running budget ?
+m n015 [ s] : So m ay be m y underst anding t here is t oo im poverished .
+m e045 [ b] : Hm m .
+m n015 [ qw] : How can I writ e here t hat t his is som et hing , a num ber
+t hat cr keeps on changing ?
+m e010 [ fg] : No uh
+m n015 [ fh] : But OK .
+m n015 [ qy ^ d^ f^ rt ] : Thus is underst andable ?
+m e003 [ s^ aa] : Yes .
+m e045 [ s^ aa^ rt ] : Think so .
+m n015 [ s.%−] : So here for exam ple .
+m e010 [ qy ^ rt ] : You ’ve s have you seen t his before at all Keit h , t hese
+belief − net t hings ?
+m e045 [ h|s^ ar] : Uh , no ,
+m e045 [ s^ e^ rt ] : but I t hink I ’m following it .
+m e045 [ s^ e] : So far .
+m n015 [ s] : So here is t he [ disfm arker] t he [ disfm arker] we had t hat
+t he user ’s budget m ay influence t he out com e of decisions .
+m e010 [ b] : Yeah .
+m e012 [ b] : Hm m .
+m n015 [ s^ rt ] : There we want ed t o keep sort of a running t ot al of
+t hings .
+m e012 [ qy ^ bu^ rt ] : Is t his like a num ber t hat represent s how m uch
+m oney t hey hav e left t o spend ?
+m e012 [ s^ bk|qw] : OK , h well I m ean how is it different from user
+finance ?
+m n015 [ h|s] : Um t he finance is sort of here t hought of as [ disfm arker]
+as t he financial policy a person carries out in his life ,
+m n015 [ qr] : he [ disfm arker] is he cheap , average , or spendy ?
+m e012 [ s^ bk] : Alright .
+m n015 [ s.%−−] : And um I didn’t com e uh
+m n015 [ s.%−−] : m aybe a user
+m n015 [ s] : I don’t know ,
+m n015 [ s] : I didn’t want t o writ e greediness ,
+m n015 [ fh] : but
+m e045 [ b] : Yeah .
+m e045 [ b] : Hm m .
+m n015 [ s] : Welcom e .
+m e010 [ s^ 2] : Or cheapness .
+m n015 [ s^ r] : Welcom e .
+m e045 [ s^ 2] : User t hrift .
+m e012 [ s^ aa] : Yeah .
+m e010 [ s^ ba^ m ] : Thrift , t hat ’s good .
+
+m e010 [ b] : Great .
+m n015 [ s] : There it is .
+m e010 [ fg|s] : Yeah . So Keit h w what ’s behind t his is act ually a
+program t hat will once you fill all t his in act ually s solve your belief −
+net s for y ou and st uff .
+m e045 [ b] : Mm − hm m .
+m e010 [ s] : So t his is not just a display ,
+m e010 [ s] : t his is act ually a GUI t o a sim ulat or t hat will if we t ell it all
+t he right t hings we ’ll wind up wit h a funct ioning belief − net at t he
+ot her end .
+m e045 [ s^ bk] : OK .
+m e045 [ s^ bk^ r] : OK .
+m n015 [ s] : And it ’s so sim ple even I can use it .
+m e045 [ s^ fe^ j] : Wow , t hat is sim ple .
+m n015 [ s.%−−] : OK , so here was
+m n015 [ s^ cs] : OK , I can t hink of uh people being cheap , average , or
+spendy or we can ev en have a [ disfm arker] a finer scale m oderat ely
+cheap ,
+m e010 [ s^ aa^ m ] : Doesn’t m at t er .
+m n015 [ s^ 2] : doesn’t m at t er .
+m n015 [ s^ aa] : Agree t here
+m n015 [ s] : but here um I wasn’t sure what t o writ e in .
+m e010 [ s^ co.%−] : Let ’s [ disfm arker]
+m e010 [ s^ co] : go ahead .
+m e012 [ s] : Well , I m ean you ’ve writ t en in [ disfm arker] you ’ve writ t en
+in what uh seem s t o be required
+m e012 [ qw^ rt ] : like what else is [ disfm arker] is do you want ?
+m n015 [ s] : If t hat ’s perm issible t hen I ’m happy .
+m e010 [ fg|s] : Well y eah . So here ’s [ disfm arker] here ’s what ’s
+perm issible
+m e010 [ s] : is t hat you can arrange so t hat t he um t he value of t hat is
+gonna have t o be updat ed
+m e010 [ s] : and n it ’s not a belief updat e ,
+m e010 [ qy ^ d^ rt ] : right ?
+m e010 [ s] : It ’s [ disfm arker] you t ook som e act ions , you spent m oney
+and st uff ,
+m e010 [ s] : so t he updat e of t hat is gonna have t o be essent ially
+ex t ernal t o t he belief − net .
+m n015 [ s^ aa] : Yeah .
+m e010 [ qy^ d^ g^ rt ] : Right ?
+m e010 [ s.%−−] : And t hen what you ’re going t o need is uh for t he
+t hings t hat it influences .
+m e010 [ s^ co] : Well let ’s [ disfm arker] first of all let ’s see if it does
+influence any t hing .
+
+m e010 [ s^ cs] : And if it does influence anyt hing t hen you ’re gonna
+need som et hing t hat convert s from t he [ disfm arker] t he num ber here
+t o som et hing t hat ’s relevant t o t he decision t here .
+m e010 [ s] : So it could be ra t hey creat e different ranges t hat are
+relev ant for different decisions or what ever [ disfm arker]
+m e010 [ s] : but for t he m om ent t his is just a node t hat is condit ioned
+ex t ernally and m ight influence various t hings .
+m n015 [ b] : Hm m .
+m n015 [ fg|s.%−−] : Yeah [ disfm arker] t his is where um
+m n015 [ fh] : OK anyways
+m n015 [ s^ co] : let ’s forget it .
+m e010 [ s^ bk] : Well t hat ’s fine .
+m e010 [ s^ co^ t c] : Well anyway , go ahead .
+m n015 [ fg|%−−] : OK , and so t his , oh t hat
+m e012 [ s] : The ot her t hing is t hat um every t im e t hat ’s updat ed
+beliefs will hav e t o be propagat ed
+m e012 [ qr] : but t hen t he quest ion is do you [ disfm arker] do we wanna
+propagat e beliefs ev ery single t im e it ’s updat ed or only when we need
+to ?
+m e010 [ fg|s^ ba] : Yeah , t hat ’s a good quest ion .
+m e010 [ qy ^ rt ] : And uh does it have a lazy m ode ?
+m e010 [ s^ no] : I don’t rem em ber .
+m e012 [ h] : Uh
+m e012 [ s] : Well , I m ean , in Srini ’s t hing t here was t his t hing
+[ disfm arker] t here was t his um opt ion like proper inferences which
+suggest s t hat uh doesn’t happen , aut om at ically .
+m e010 [ s^ bk^ fe] : Oh right .
+m e010 [ b] : Yeah .
+m e010 [ s] : S probably does .
+m e010 [ b] : Yeah
+m e010 [ s^ co] : som eone has t o t rack t hat down ,
+m e010 [ s.%−−] : but I [ disfm arker] but uh
+m n015 [ s.%−] : I just accident ally
+m e010 [ s^ t 1.%−−] : And [ disfm arker] and [ disfm arker] and I t hink
+[ disfm arker] act ually uh
+m n015 [ s^ fe^ t 1] : Oops .
+m e010 [ s^ cs] : one of t he we w it em s for t he uh user hom e base uh
+should be uh essent ially non − local .
+m e010 [ s] : I t hey ’re only t here for t he day and t hey don’t hav e a
+place t hat t hey ’re st aying .
+m e012 [ fg] : Well
+m n015 [ s] : Oh just uh accident ally erased t his ,
+m n015 [ s:qy ] : I [ disfm arker] I just had values here such as uh um is he
+s we had in our list we had " Is he st ay ing in our hot el ? " ,
+m n015 [ s:qy ] : " Is he st aying wit h friends ? " ,
+m n015 [ s^ e] : and so fort h
+
+m e010 [ b] : Yeah .
+m n015 [ fh] : uh
+m n015 [ %−−] : so we ’re
+m n015 [ b] : OK .
+m e010 [ fg] : So
+m e010 [ s] : it ’s clear where w w w where we are right now .
+m e010 [ s^ cs^ t ^ t c.%−] : So m y suggest ion is we just pick uh
+m n015 [ qy ^ 2^ cs^ rt ] : Som et hing down here ?
+m e010 [ s.%−] : one , you know one uh part icular one of t he uh
+m e010 [ s^ cs] : well let ’s do t he first [ disfm arker] first one let ’s do t he
+one t hat we sort of already t hink we did
+m e010 [ qy^ bu^ d^ rt ] : so w t hat was t he [ disfm arker] of t he endpoint
+?
+m n015 [ s^ aa] : Mm − hm m .
+m n015 [ fg] : And um
+m n015 [ s^ fe] : Oops .
+m e012 [ %−−] : Is
+m e012 [ b] : hm m
+m n015 [ b] : Ah ,
+m e012 [ qy^ bu^ d^ rt ] : So it ’s t rue or false ?
+m n015 [ s^ ar] : OK . No no no ,
+m e010 [ s^ ar|%−] : No , t hat ’s [ disfm arker] t hat ’s a
+m n015 [ s] : EVA .
+m n015 [ s] : Missed t hat one .
+m e012 [ fg] : So
+m e003 [ qw^ rt ] : What ’s t he difference bet ween m ode and endpoint ?
+m e012 [ s^ na] : I t hought m ode ,
+m e012 [ fh] : y eah .
+m e010 [ %−] : alt hough t hat
+m n015 [ h|s.%−] : Um m ode was um
+m e010 [ %−] : Well , t hat ’s
+m e012 [ qy^ 2^ bu^ d^ rt ] : Mode of t ransport at ion ?
+m n015 [ s^ aa] : Yeah .
+m e012 [ s^ bk] : OK .
+m e012 [ s] : Also t rue or false .
+m n015 [ b] : Mm − hm m .
+m e010 [ s] : No , he has he hasn’t filled t hem in yet , is what ’s t rue .
+m e012 [ s^ bk] : Yeah , OK .
+m n015 [ qr] : Did I or didn’t I ?
+m n015 [ s] : [ no m at ched cont ent ]
+m n015 [ s] : Ah . Probably not hing done y et ,
+m n015 [ s] : oh I just did it on t he upper ones , OK .
+m n015 [ s] : Makes sense .
+m n015 [ s^ rt ] : OK , so t his was EVA .
+m n015 [ s^ cs] : May be we can t hink of m ore t hings ,
+m n015 [ s^ cs^ e] : cross
+
+m e012 [ b] : Yeah .
+m e010 [ b] : OK .
+m e045 [ s] : Clim b , rob .
+m n015 [ s^ m ] : clim b , em erge
+m e010 [ s^ ar] : No no no ,
+m e003 [ fg] : Uh
+m e012 [ s] : Well som e of t hose are subsum ed by approach .
+m e010 [ s] : t hese are ju t hat ’s just a point ,
+m e010 [ s^ r.%−] : t his is ju
+m e003 [ qy ^ rt ] : Would it be an endpoint if you were crossing over it ?
+m e045 [ s] : The Charles Bridge , you know .
+m e010 [ s^ aa|s] : Yeah , would be a f for a given segm ent .
+m e010 [ s] : You know , you [ disfm arker] y you go [ disfm arker] first go
+t he t own square
+m e003 [ %−] : Well I eh
+m e045 [ s] : No , I m ean , if you go t o re you know if you go t o Prague
+or what ever one of y our [ disfm arker] y our key point s t hat you have t o
+do is cross t he Charles Bridge
+m e045 [ s] : and doesn’t really m at t er which way you cross
+m e045 [ s] : which [ disfm arker] where you end up at t he end
+m e045 [ s] : but t he part [ disfm arker] t he good part is walking over it ,
+m e045 [ fh] : so .
+m e010 [ s^ aa] : That ’s subt le , but t rue .
+m e010 [ fg] : Any way
+m e010 [ s^ co] : so let ’s just leave it t hree [ disfm arker] wit h t hree for
+now
+m n015 [ b^ rt ] : Mm − hm m ,
+m n015 [ b] : m m m . Yeah .
+m e010 [ s^ co] : and let ’s see if we can get it linked up just t o get
+ourselves st art ed .
+m n015 [ s.%−] : OK , we
+m e010 [ s^ df] : You ’ll see it [ disfm arker] you ’ll see som et hing com es
+up im m ediat ely , t hat t he reason I wanna do t his .
+m n015 [ s] : w well t he uh user was uh definit ely m ore likely t o ent er if
+he ’s a local
+m e010 [ b] : Right .
+m e010 [ b] : Right .
+m n015 [ s] : m ore likely t o view if he ’s a t ourist
+m n015 [ fh] : um
+m n015 [ s.%−] : and t hen of course we had t he fact t hat given t he fact
+t hat he ’s t hrift y and t here will be adm ission t hen we get all t hese
+cross um
+m e010 [ s^ aap.%−−] : We did , but t he t hree t hings w t hat [ disfm arker]
+t hat it cont ribut ed t o t his
+m e010 [ s] : in fact , t he ot her t wo aren’t up t here .
+m e010 [ s^ rt ] : so one was t he ont ology
+
+m n015 [ qw^ rt ] : We ’ll d what t ype of building is it ?
+m n015 [ s^ bk] : Yeah .
+m e010 [ s^ aa] : Yeah .
+m e010 [ s] : And t he [ disfm arker] and t he t hird t hing we t alked about
+was som et hing from t he discourse .
+m n015 [ s^ 2] : What he has m ent ioned before .
+m e010 [ s^ bk|s.%−−] : OK , so t his is w
+m e010 [ fh|s.%−−] : Right , so what w I [ disfm arker] what we seem t o
+need here ,
+m e010 [ s^ df] : t his is why it st art s get t ing int o t he t echnical st uff
+m e045 [ b] : m m − hm m
+m e010 [ s] : t he way we had been designing t his , t here were t hree
+int erm ediat e nodes
+m e010 [ fh|s^ e] : uh which were t he endpoint decision as seen from
+t he uh user m odel as seen from t he ont ology and as seen from t he
+discourse .
+m e010 [ s.%−−] : So each of t hose
+m e010 [ s.%−−] : t he way we had it designed ,
+m e010 [ s^ cs] : now we can change t he design ,
+m e010 [ s.%−−] : but t he design we had was
+m e010 [ s] : t here was a decision wit h t he sam e t hree out com es uh
+based on t he t h t hose t hree separat e considerat ions
+m e045 [ b] : m m − hm m
+m e010 [ s] : so if we want ed t o do t hat would have t o put in uh t hree
+int erm ediat e nodes
+m n015 [ s^ cs^ rt ] : Uh we can load it up it you know very sim ple .
+m e045 [ fh] : So
+m e010 [ s^ co:qw] : and t hen what y ou and I have t o t alk about is , OK if
+we ’re doing t hat and t hey get com bined som ehow uh how do t hey get
+com bined ?
+m e010 [ s] : But t he [ disfm arker] t hey ’re [ disfm arker] t hey ’re
+undoubt edly gonna be m ore t hings t o worry about .
+m n015 [ s^ bu] : So t his was adjust ed for t his one m ode t hing .
+m e012 [ s^ aa] : Oh yes .
+m e010 [ b] : Yeah .
+m n015 [ s^ bu] : So t hat ’s w w in our uh in [ disfm arker] in Johno ’s sort
+of pict ogram ev ery t hing t hat could cont ribut e t o whet her a person
+want s t o ent er , view , or approach som et hing .
+m e010 [ s] : Oh , it was called m ode ,
+m e010 [ s] : so t his [ disfm arker] t his is m m ode here m eans t he sam e
+as endpoint .
+m n015 [ s^ 2] : Is now t his endpoint .
+m e003 [ s^ aa] : Right .
+m e010 [ fg|qy ^ rt ] : OK , why don’t we ch can we change t hat ?
+m n015 [ s^ aa] : We can just renam e t hat , yeah .
+m e010 [ s^ bk] : Alright .
+
+m e010 [ s.%−−] : You know , but t hat was act ually ,
+m e010 [ s.%−−] : yeah unfort unat ely t hat was a um kind of an
+int erm ediat e versio
+m e010 [ s] : t hat ’s I don’t t hink what we would current ly do .
+m e045 [ qy ^ rt ] : Can I ask about " slurred " and " angry " as input s t o
+t his ?
+m e010 [ %−−] : That ’s a
+m e045 [ qw^ rt ] : What [ disfm arker] why ?
+m e012 [ s] : Like t hey ’re eit her t rue or false
+m n015 [ qy ^ d^ rt ] : The prosody ?
+m e012 [ s.%−−] : and t hey uh
+m e045 [ s^ bk] : OK .
+m e012 [ s^ bk] : oh I see .
+m e003 [ s] : If t he [ disfm arker] if t he person t alking is angry or slurs
+t heir speech t hey m ight be t ired or , you know
+m e045 [ b] : Mm − hm m .
+m e045 [ s^ bk] : OK .
+m e045 [ s^ 2] : Drunk .
+m e012 [ qo^ d.%−−] : Therefore
+m e003 [ h|s.%−] : And , you know , possibly uh
+m e045 [ s^ 2] : Less likely t o ent er .
+m e003 [ %−] : som e ,
+m e012 [ s^ nd] : uh I was t hinking less likely t o view
+m e003 [ s^ aa] : y eah .
+m e045 [ b] : Hm m .
+m e010 [ fg] : Yeah .
+m e010 [ s.%−−] : But t hat ’s − t hat seem s t o ,
+m e010 [ b] : yeah .
+m e010 [ s^ cs] : So [ disfm arker] so m y advice t o do is [ disfm arker] is
+get t his down t o what we t hink is act ually likely t o [ disfm arker] t o be a
+[ disfm arker] a st rong influence .
+m e045 [ s^ aa] : OK .
+m e012 [ b] : Right .
+m e010 [ s] : But yeah , t hat was what he had in m ind .
+m e010 [ s^ co.%−−:qw] : So let ’s t hink about t his [ disfm arker] t his
+quest ion of how do we wanna handle [ disfm arker]
+m e010 [ s] : so t here ’re t wo separat e t hings .
+m e010 [ s.%−−] : One is [ disfm arker]
+m e010 [ fh|s^ bsc] : uh at least t wo .
+m e010 [ s:qw] : One is how do we want t o handle t he not ion of t he
+ont ology
+m e010 [ s.%−−:qy] : now what we t alked about , and t his is anot her
+t echnical t hing Bhaskara , is uh can we arrange so t hat
+m e010 [ s] : I t hink we can
+m e010 [ s] : so t hat t he belief − net it self has propert ies
+m e010 [ s] : and t he propert ies are filled in uh from on ont ology it em s .
+
+m e010 [ s^ co] : So t he [ disfm arker] let ’s t ake t he case of t he uh t his
+endpoint t hing ,
+m e010 [ s:qy] : t he not ion was t hat if you had a few key propert ies like
+is t his a t ourist sit e , you know som e kind of landm ark
+m e010 [ s^ e:qy] : is it a place of business
+m e010 [ fh|s^ e:qy ] : uh is it som et hing you physically could ent er
+m e045 [ b] : Mm − hm m .
+m e010 [ qy ^ d^ f] : OK ,
+m e010 [ s^ e] : et cet era .
+m e010 [ s] : So t hat t here ’d be cert ain propert ies t hat would fit int o
+t he decision node
+m e010 [ s] : and t hen again as part of t he ou out er cont rolling
+condit ioning of t his t hing t hose would be set ,
+m e010 [ s^ df] : so t hat som e som ehow som eone would find t his word ,
+look it up in t he ont ology , pull out t hese propert ies , put it int o t he
+belief − net , and t hen t he decision would flow .
+m e045 [ b] : Mm − hm m .
+m e010 [ fh] : Now
+m n015 [ s] : Seem s t o m e t hat we ’ve sort of e em em bedded a lot , em
+em bedded a lot of t hese uh t hings we had in t here previously in
+[ disfm arker] in [ disfm arker] in som e of t he ot her final decisions done
+here ,
+m n015 [ s.%−−] : for exam ple if we would know t hat t his t hing is
+ex hibit ing som et hing um
+m e010 [ s^ aa] : Right .
+m e010 [ b] : Right .
+m n015 [ s^ rt ] : if it ’s exhibit ing it self it is a landm ark ,
+m n015 [ s^ e^ rt ] : m eaning m ore likely t o be viewed
+m e010 [ s^ aa] : Yeah .
+m e010 [ s^ aa] : Yep .
+m n015 [ s^ rt ] : if it is exhibit ing pict ures or sculpt ures and st uff like t his
+, t hen it ’s m ore likely t o be ent ered .
+m e010 [ s^ ba] : I uh t hat ’s [ disfm arker] I t hink t hat ’s com plet ely right
+m e010 [ fh|s^ ba] : and um I t hink t hat ’s good ,
+m e010 [ qy ^ d^ g^ rt ] : right ?
+m e010 [ s^ cs.%−−] : So what [ disfm arker] what t hat says is t hat we
+m ight be able t o uh t ake and
+m e010 [ %−−] : in part icular
+m e010 [ s^ rt ] : so [ disfm arker] so t he ones we t alked about were uh
+ex hibit ing and selling
+m n015 [ s^ 2] : Accessibilit y .
+m e010 [ s^ nd.%−] : no , accessibilit y m eant
+m n015 [ s] : If it ’s closed one probably won’t ent er .
+m n015 [ s] : Or if it ’s not accessible t o a t ourist ever t he likelihood of
+t hat person act ually want ing t o ent er it ,
+m e010 [ s^ bk] : OK .
+
+m n015 [ s^ e] : given t hat he knows it , of course .
+m e010 [ fg] : Alright .
+m e010 [ s^ co] : So let m e suggest t his .
+m e010 [ fh|qy ] : Uh w could you m ove t hose up about halfway .
+m e010 [ fh|s^ e] : Uh The ones t hat you t h And selling I guess .
+m n015 [ s^ na] : Yeah , all [ disfm arker] all of t hese
+m n015 [ s] : if it ’s fixing t hings selling t hings , or servicing t hings
+m e010 [ s^ bk] : Right .
+m e010 [ s] : So here [ disfm arker] here ’s what it looks like t o m e .
+m e010 [ s^ bs] : is t hat you want an int erm ediat e st ruct ure which i uh is
+essent ially t he or of uh for t his purpose of [ disfm arker] of uh selling , f
+fixing , or serv icing .
+m e010 [ s.%−−] : So t hat it uh
+m e010 [ s] : t hat is , for cert ain purposes , it becom es im port ant
+m e010 [ s] : but for t his kind of purpose uh one of t hese places is quit e
+like t he ot her .
+m e010 [ qy ^ bu^ rt ] : Does t hat seem right ?
+m e010 [ s.%−] : So we di
+m e003 [ %−] : Basic
+m e003 [ qy^ bu^ d^ rt ] : you ’re basically just m erging t hose for just t he
+sake of endpoint decision ?
+m e010 [ s.%−] : if we
+m e010 [ s^ aa] : Yes .
+m e003 [ s^ bk] : Yeah .
+m e010 [ s^ arp] : So if [ disfm arker] well it m ay be m ore t han endpoint
+decisions ,
+m e045 [ b] : Mm − hm m .
+m e010 [ s^ cs] : so t he idea would be t hat you m ight wanna m erge
+t hose t hree
+m n015 [ qy^ bu^ d^ rt ] : These t hree ?
+m e010 [ s^ aa] : Yeah .
+m e010 [ s] : Eh ser s uh selling , fixing , and servicing .
+m n015 [ s^ bk] : Yeah .
+m e012 [ qy^ rt ] : What ex um and so eit her t hose is t rue f or false ?
+m e012 [ fh] : So
+m e010 [ h|s] : Uh Uh well it [ disfm arker] it [ disfm arker] i here ’s where it
+get s a lit t le t ricky .
+m e010 [ s^ aap] : Uh from t he belief − net point of view it is
+m e010 [ s] : from anot her point of view of course it ’s int erest it ’s
+[ disfm arker] it ’s im port ant t o know what it ’s selling or servicing and so
+fort h .
+m e045 [ b] : Yeah .
+m e012 [ s^ bk] : OK .
+m e010 [ s^ bs] : So for t his decision it ’s just uh t rue or false
+m e012 [ b] : Yeah .
+
+m e010 [ s] : and in t h t his is a case where t he or seem s just what you
+want .
+m e012 [ s^ bk] : OK .
+m e010 [ s.%−] : That [ disfm arker] t hat if any of t hose t hings is t rue t hen
+it ’s t he kind of place t hat you uh
+m n015 [ s^ 2] : Um m ore likely t o ent er .
+m e010 [ s^ aa^ m ] : are m ore likely t o ent er .
+m e012 [ qy ^ cs^ rt ] : So you just wanna have t hem all point ing t o a
+sum m ary t hing ?
+m e010 [ s^ aa] : You could , yeah .
+m e010 [ s^ co] : Yeah , so let ’s do t hat .
+m e010 [ s^ nd] : No no , no eh t o [ disfm arker] t o an int er no , an
+int erm ediat e node .
+m e012 [ %−] : T
+m n015 [ s^ bk] : Oh , OK .
+m e010 [ s.%−] : That ’s t he p part of t he idea , is
+m n015 [ fg|qy ^ rt ] : Um is [ disfm arker] is t hat t he object t ype node ?
+m e010 [ %−] : I d
+m n015 [ qy ^ rt ] : So are t hey t he [ disfm arker] is it t he kind of object
+t hat sells , fixes , or services t hings ?
+m e010 [ s^ co] : Well , o open up object t ype and let ’s see what it s
+v alues are .
+m n015 [ s] : Oh I just creat ed it , it has none so far .
+m e010 [ s] : Oh , well OK first of all it ’s not object s ,
+m e010 [ s^ e^ rt ] : we called t hem ent it ies ,
+m n015 [ s^ bk] : Yeah .
+m e010 [ qy^ d^ g^ rt ] : right ?
+m n015 [ s.%−] : And t hen we hav e sort of t he um
+m e010 [ s^ cs] : Let ’s say I put com m ercial .
+m n015 [ s^ aa] : Yeah ,
+m n015 [ s.%−−] : I w I was just gonna
+m n015 [ s^ cs.%−] : com m ercial act ion inside where people p
+m e010 [ s^ co] : Well couldn’t I do [ disfm arker] let ’s do com m ercial
+m e010 [ fh|s] : uh landm ark
+m e010 [ fh] : and
+m n015 [ s^ 2^ cs] : And where was t he accessible , yeah .
+m e010 [ fg] : Well
+m e010 [ s^ nd] : accessible I t hink is different
+m n015 [ b] : Yeah .
+m e010 [ s^ df] : cuz t hat ’s t em por t hat [ disfm arker] t hat varies
+t em porally ,
+m e010 [ s.%−] : whereas t his is a
+m n015 [ b] : Mm − hm m .
+m e003 [ qw^ rt ] : What would a hot el fall under ?
+m e010 [ s] : I would call t hat a service ,
+m e010 [ s^ no] : but [ disfm arker] but I don’t know .
+
+m e003 [ qo^ e^ rt ] : Well I m ean in t erm s of ent it y t ype ?
+m e010 [ s.%−−] : Say w w well it ’s co I would s a a
+m e010 [ s] : again for t his purpose I t hink it ’s com m ercial .
+m e010 [ s^ e] : Som eplace you want t o go in t o do som e kind of
+business .
+m e003 [ s^ bk] : OK .
+m e012 [ fg|qw^ rt ] : Um what does t he underscore − T at t he end of
+each of t hose t hings signify ?
+m n015 [ h|s] : Um t hings .
+m n015 [ s] : So places t hat service t hings sell t hings or fix t hings and
+pe places t hat e exhibit t hings .
+m e012 [ b] : Uh − huh .
+m e012 [ s^ bk] : OK .
+m e012 [ s^ bk^ r] : OK .
+m e012 [ s] : That also point s t o ent it y t ype I guess .
+m e045 [ qy ^ bu^ rt ] : So we ’re deriving um t his [ disfm arker] t he
+[ disfm arker] t his feat ure of whet her t he [ disfm arker] t he m ain act ion
+at t his place happens inside or out side or what we ’re deriving t hat
+from what kind of act ivit y is done t here ?
+m e045 [ qy ^ cs^ rt ] : Couldn’t you have it as just a prim it ive feat ure of
+t he ent it y ?
+m e010 [ s^ na] : Well you could ,
+m e010 [ s] : t hat ’s a [ disfm arker] t hat ’s a choice .
+m e045 [ s^ bk] : OK .
+m e010 [ fh] : So uh
+m e045 [ s^ df] : I m ean it seem s like t hat ’s m uch m ore reliable
+m e045 [ s^ df] : cuz you could hav e out door places t hat sell t hings
+m e045 [ s^ e] : and y ou know indoor places t hat do som et hing else
+m e010 [ s^ arp] : Yeah , t he problem wit h it is t hat it sort of put t ing in a
+feat ure just for one decision ,
+m e045 [ fh] : and
+m e010 [ s] : now w we m ay wind up hav ing t o do t hat
+m e045 [ b] : Hm m .
+m e010 [ s.%−−] : t his i anyway , t his i
+m e045 [ s^ bk] : OK .
+m e010 [ s^ co] : at a m ent al level t hat ’s what we we ’re gonna have t o
+sort out .
+m e045 [ s^ bk^ r] : OK .
+m e010 [ s:qw] : So , you know what does t his look like ,
+m e010 [ s:qw] : what are [ disfm arker] what are uh int erm ediat e t hings
+t hat are wort h com put ing ,
+m e010 [ s:qw] : what are t he feat ures we need in order t o m ake all
+t hese decisions
+m e045 [ b] : Mm − hm m .
+m e010 [ s:qw] : and what ’s t he best way t o organize t his so t hat um it
+’s clean and [ disfm arker] and consist ent and all t hat sort of st uff .
+
+m e045 [ b] : OK .
+m e045 [ s] : I ’m just t hinking about how people , hum an beings who
+know about places and places t o go and so on would st ore t his
+m e045 [ s] : and it would probably [ disfm arker] you wouldn’t just sort of
+rem em ber t hat t hey sell st uff and t hen deduce from t hat t hat it m ust
+be going on inside or som et hing .
+m n015 [ s] : Well I t hink an ent it y m aybe should be regard as a vect or
+of sev eral possible t hings ,
+m n015 [ s] : it can eit her em do s do sell t hings , fix t hings , service
+t hings , ex hibit t hings , it can be a landm ark at t he sam e t im e as doing
+t hese t hings ,
+m e045 [ b] : Mm − hm m .
+m n015 [ s] : it ’s not eit her or
+m n015 [ s] : m m m cert ainly a place can be a hot el and a fam ous sit e .
+m e045 [ b] : Mm − hm m .
+m n015 [ s] : Many com e t o m ind .
+m n015 [ s^ rt ] : Things can be generally um a landm ark and be
+accessible .
+m n015 [ s^ e] : IE a [ disfm arker] a cast le
+m n015 [ s] : or can be a landm ark a or not accessible , som e st at ue
+m e045 [ b] : Mm − hm m .
+m n015 [ s] : y ou know can go inside .
+m e010 [ fg] : OK .
+m e010 [ s^ co] : Any way so let m e suggest you do som et hing else .
+m e010 [ fh|s^ cs] : Uh which is t o get rid [ disfm arker] get rid of t hat l
+long link bet ween who [ disfm arker] t he user and t he endpoint .
+m n015 [ qy ^ rt ] : Could we just m ove it like t his ?
+m e010 [ s^ nd] : No no , I don’t want t he link t here at all .
+m n015 [ s^ bk] : Oh , OK .
+m e010 [ s^ df] : Because what we ’re gonna want is an int erm ediat e
+t hing
+m e010 [ s^ e] : which is uh t he endpoint decisi t he endpoint decision
+based o on t he user m odels ,
+m e010 [ s^ bs] : so what we [ disfm arker] we [ disfm arker] what we
+t alked about is t hree separat e endpoint decisions ,
+m e010 [ s^ co] : so let ’s m ake a new node
+m n015 [ b] : Yeah .
+m n015 [ b] : Yeah .
+m e003 [ s^ cs:s] : Just as a suggest ion m ay be you could " save as " t o
+keep y our old one nice and clean
+m e003 [ s^ df] : and so you can m ess wit h t his one .
+m n015 [ b] : Mm m .
+m n015 [ s^ ng] : The old one was not t hat not t hat im port ant , I t hink
+m n015 [ fh] : but
+m e003 [ s^ bk|s^ bd] : OK , well , not a big deal t hen .
+m n015 [ s^ co] : Let ’s do it t hen .
+
+m e003 [ %−−] : Well t he [ disfm arker]
+m e003 [ qy^ bu^ rt :s] : Isn’t t here a " save as " inside of java base ?
+m n015 [ s^ rt ] : But I can just t ake t his
+m e003 [ s^ bk^ rt ] : OK .
+m n015 [ s^ e] : copy it som ewhere else .
+m n015 [ qy^ bu^ d^ rt ] : This was user som et hing
+m n015 [ qrr.%−−] : or
+m e010 [ s.%−−] : Well t his was
+m e010 [ fh|s^ co] : uh let ’s p put it t his [ disfm arker] let ’s do endpoint
+underbar − U .
+m n015 [ qy^ bu^ d^ rt ] : end point ?
+m e010 [ s^ aa^ m .%−−] : i endpoint , e end poi
+m e010 [ s.%−] : t his is sa
+m n015 [ s^ bk] : Ah .
+m e010 [ s] : it ’s t he endpoint
+m n015 [ s^ bk] : Got cha , yeah .
+m e010 [ s^ co] : let ’s say underbar − U ,
+m e010 [ s.%−−] : so t hat ’s t he endpoint decision uh as seen t hrough
+t he
+m e003 [ s^ 2] : As relat ed from t he user m odel .
+m e010 [ s^ aa] : Right .
+m e010 [ s^ co.%−−] : So let ’s [ disfm arker] let ’s act ually
+m e010 [ s^ cs.%−−] : y eah so lin you can link t hat up t o t he
+m n015 [ qy ^ rt ] : Should I renam e t his [ pause] t oo ?
+m e010 [ h|s^ na.%−−] : uh yeah , so t hat , I guess t hat ’s endpoint uh
+m n015 [ qrr.%−−] : [ no m at ched cont ent ]
+m n015 [ s^ 2] : It ’s underscore − E .
+m e010 [ s^ aa^ m ] : underscore − E for ent it y ,
+m e010 [ s] : and we m ay change all t his ,
+m e010 [ fh] : but .
+m e010 [ b] : Right .
+m e010 [ fg] : And
+m n015 [ fg|qy^ t ^ t c] : OK , shouldn’t I be able t o m ove t hem all ?
+m n015 [ qy ^ d^ g] : No .
+m n015 [ qrr.%−−] : Or [ disfm arker] ?
+m n015 [ qy^ rt ] : Can I ?
+m n015 [ qw^ rt ] : Where ?
+m n015 [ qw^ rt ] : What ?
+m e010 [ s^ no] : Oh I d eh I don’t know .
+m e010 [ s.%−−] : Act ually , I guess t he easiest t hing would m ove
+[ disfm arker] m o m ove t he endpoint ,
+m e010 [ s^ co] : well , go ahead .
+m e010 [ s^ co^ t ] : Just do what ev er .
+m n015 [ qy^ rt ] : Wasn’t t his possible ?
+m e010 [ fg] : Well .
+m n015 [ s^ aa] : Yeah .
+
+m e003 [ s^ ng.%−−] : I t hink you hav e t o be in m ove m ode before
+m n015 [ s^ aa] : Uh − huh .
+m n015 [ s^ bk] : OK .
+m e010 [ b] : Good .
+m e010 [ b] : Right .
+m n015 [ s.%−] : So now we ’re looking for user relat ed t hings t hat um
+m e010 [ b] : Yeah .
+m e010 [ s] : And uh m aybe t h m aybe it ’s just one who is t he user ,
+m e010 [ s^ no] : I don’t know ,
+m e010 [ s^ am ] : m aybe [ disfm arker] m aybe t here ’s m ore .
+m e045 [ b] : Huh .
+m n015 [ s.%−−] : Well if he ’s usi if he ’s in a car right now
+m n015 [ qw^ rt ] : what was t hat
+m n015 [ s^ rt :s] : people wit h Harry drov e t he car int o t he cafe
+m e010 [ s^ bd] : Never m ind .
+m e010 [ fg|s^ ba] : Uh anyway , t his is crude .
+m e010 [ s.%−−] : Now but t he [ disfm arker] now so [ disfm arker] so
+[ disfm arker] but t hen t he quest ion is
+m e010 [ fh] : uh
+m e010 [ s] : so [ disfm arker] and [ disfm arker] and we assum e t hat
+som e of t hese propert ies would com e indirect ly t hrough an ont ology ,
+m e010 [ s] : but t hen we had t his t hird idea of input from t he discourse
+.
+m n015 [ qy ^ cs^ rt ^ t ] : Well let ’s [ disfm arker] should we finish t his ,
+m n015 [ s.%−−] : I m ean but surely t he user int erest s
+m e010 [ s^ aa] : Sure ,
+m e010 [ s^ aa] : OK .
+m e003 [ s] : The user t hrift ,
+m e003 [ s^ e] : t he user budget .
+m n015 [ s^ aa] : y eah , yeah
+m e010 [ s^ am ] : Well , m aybe ,
+m e010 [ s.%−−] : I again , I d
+m e010 [ s^ co^ na] : well , OK , put em in
+m e010 [ s.%−] : but what we ’re gonna wanna do is act ually uh
+m e003 [ %−] : Well is [ disfm arker]
+m n015 [ s] : Here t his was one of m y problem s
+m n015 [ s] : we have t he user int erest is a [ disfm arker] is a vect or of
+five hundred v alues ,
+m n015 [ fh] : so
+m n015 [ fh|s] : um That ’s from t he user m odel ,
+m e012 [ qy ^ bu^ d^ rt ] : Oh you m ean level of int erest ?
+m n015 [ b] : m m − hm m ,
+m n015 [ s^ nd] : no not levels of int erest
+m n015 [ s^ e] : but t hings you can be int erest ed in .
+m e045 [ fg] : Well [ disfm arker]
+m e010 [ s] : som ebody else has built t his user m odel .
+
+m n015 [ s.%−] : Got hic churches v ersus Baroque t ownhouses versus
+m e012 [ s^ bk] : Oh I see ,
+m e012 [ b] : right .
+m e012 [ qw^ rt .%−−] : So why is it
+m e012 [ qy ^ bu^ d^ rt ] : oh it , so it ’s like a vect or of five hundred one
+’s or zero ’s ?
+m n015 [ %−−] : Yea − n is t hat
+m e012 [ qy^ bu:qy ^ d] : Like for each t hing are we [ disfm arker] are you
+int erest ed in it or not ?
+m n015 [ s^ aa] : yeah
+m n015 [ s^ aa] : uh I [ disfm arker] I t hink
+m e012 [ s^ bk] : I see .
+m e045 [ b] : Hm m .
+m e010 [ fg] : OK .
+m e010 [ fh|s^ co] : So uh you cou and so here let m e give you t wo ways
+t o handle t hat .
+m e010 [ qy^ d^ rt ] : Alright ?
+m e010 [ s^ cs] : One is um you could ignore it .
+m e010 [ s^ cs.%−−] : But t he ot her t hing y ou could do is have an
+[ disfm arker]
+m e010 [ s^ e] : and t his will giv e you t he flavor of t he [ disfm arker] of
+what
+m e010 [ s^ cs] : you could have a node t hat ’s [ disfm arker] t hat was a
+m easure of t he m at ch bet ween t he object ’s feat ure , you know , t he
+m at ch bet ween t he object t he ent it y , I ’m sorry and t he user .
+m n015 [ b] : Mm − hm m .
+m n015 [ b] : Uh .
+m e010 [ s^ cs] : So y ou could have a k a " fit " node
+m e010 [ s] : and again t hat would hav e t o be com put ed by som eone
+else
+m n015 [ b] : Mm − hm m .
+m e010 [ fh] : but uh
+m e010 [ %−−] : so t hat uh
+m n015 [ s] : Just as a m ent al not e
+m n015 [ fh] : uh
+m e010 [ s^ t c] : Yeah , t hat ’s all .
+m n015 [ b^ rt ] : Mm − hm m .
+m n015 [ qy ^ rt ] : And [ disfm arker] and should we say t hat t his int erest s
+eh affect s t he likelihood of [ disfm arker] of ent ering ?
+m e010 [ s^ aa] : Yeah .
+m e010 [ s^ am ] : I m ean , we could .
+m n015 [ b] : Yeah .
+m n015 [ s.%−−] : And also if it ’s an expensive place t o ent er , t his m ay
+also
+m e010 [ s^ bk] : OK .
+m e012 [ s] : Budget .
+
+m e045 [ s] : User schedule .
+m n015 [ qy ^ bu^ rt ] : Schedule ?
+m e045 [ s^ na:qr] : " Do I have t im e t o go in and clim b all t he way t o t he
+t op of t he Koelner Dom e [ com m ent ] or do I just have t o [ disfm arker] " "
+t im e t o t ake a pict ure of t he out side ? "
+m e010 [ s^ aa] : Right .
+m e003 [ s^ ba.%−] : It seem s like everyt hing in a user m odel a affect s
+[ disfm arker]
+m e010 [ s] : Well t hat ’s what we don’t wanna do ,
+m e010 [ %−−] : see t hat [ disfm arker] se
+m e003 [ s^ aa] : Yeah .
+m e010 [ s^ df] : cuz t hen we get int o huge com binat orics and st uff like
+t hat
+m e045 [ b] : Mm − hm m .
+m e010 [ %−] : an
+m e003 [ s] : Cuz if t he , I m ean , and if t he user is t ired , t he user st at e
+,
+m e012 [ fg] : Well
+m e003 [ qy^ d^ g^ rt ] : right ,
+m e003 [ s^ e] : it would affect st uff ,
+m e003 [ s.%−] : but I can’t see why e anyt hing w everyt hing in t he m odel
+wouldn’t be
+m e010 [ fg] : Well , but
+m e012 [ s^ aa] : Right .
+m e010 [ s] : Well , t hat [ disfm arker] t hat ’s [ disfm arker] we can’t do
+t hat ,
+m e010 [ s^ cc.%−−] : so we we ’re gonna have t o
+m e003 [ b] : Yeah .
+m e010 [ s^ ba] : but t his is a good discussion ,
+m e010 [ s] : we ’re gonna have t o som ehow figure out uh som e way t o
+encapsulat e t hat
+m e010 [ s] : uh so if t here ’s som e general not ion of for exam ple t he uh
+relat ion t o t he t im e t o do t his t o t he am ount of t im e t he guy has or
+som et hing like t hat is [ disfm arker] is t he uh com pat ibilit y wit h his
+current st at e ,
+m e010 [ s^ co] : so t hat ’s what you ’d have t o do ,
+m e010 [ s^ co] : you ’d have t o get it down t o som et hing which uh was
+it self relat iv ely com pact ,
+m e010 [ s^ cs] : so it could be com pat ibilit y wit h his current st at e
+m e010 [ s^ e] : which would include his m oney and his t im e and
+[ disfm arker] and his energy
+m e003 [ s^ ng] : Yeah , just seem s like it ’d push t he problem back a
+lev el .
+m e012 [ b] : Right .
+m e010 [ s^ aa] : It does .
+m e003 [ s^ bk|%−] : Yeah , but
+
+m e045 [ b] : Mm − hm m .
+m e012 [ s^ nd] : No but , it ’s m ore t han t hat ,
+m e012 [ s^ e] : like t he [ disfm arker] t he m ore sort of you break it up
+m e012 [ s^ df] : like because if you hav e everyt hing point ing t o one
+node it ’s like exponent ial
+m e012 [ s] : whereas if you like keep breaking it up m ore and m ore it ’s
+not ex ponent ial any m ore .
+m e010 [ s^ bs] : So it yeah , t here are t wo advant ages .
+m e010 [ s] : That ’s t ha t here ’s one t echnical one
+m e003 [ %−] : Sh − sh
+m e003 [ fg] : y eah , [ disfm arker]
+m e010 [ s^ e] : and t he ot her is it [ disfm arker] it get s used
+m e003 [ qy ^ bu^ d^ rt ] : S so we ’d basically be doing subgrouping ?
+m e003 [ qy ^ bu^ d^ rt ] : Subgrouping , basically
+m e012 [ s^ aa] : Yeah .
+m e003 [ s^ e.%−−] : int o m o
+m e003 [ qy^ bu^ d^ rt ] : so basically m ake it m ore t ree like going
+backwards ?
+m e012 [ s^ aa] : Right .
+m e045 [ s^ aa] : Yeah .
+m e010 [ s^ aa] : Right .
+m e010 [ s] : But it [ disfm arker] t here ’s t wo advant ages ,
+m e010 [ s] : one is t he t echnical one t hat y ou don’t wind up wit h such
+big exponent ial uh CBT ’s ,
+m n015 [ qy ^ t 3] : Bhaskara ?
+m e010 [ s^ e] : t he ot her is it can be [ disfm arker] it presum ably can be
+used for m ult iple decisions .
+m e045 [ b] : Mm − hm m .
+m e010 [ s.%−−] : So t hat if you have t his idea of t he com pat ibilit y wit h
+t he requirem ent s of an act ion t o t he st at e of t he user one could well
+im agine t hat t hat was u
+m e012 [ b] : Right .
+m e010 [ s] : not only is it sim is it cleaner t o com put e it separat ely but
+it could be t hat it ’s used in m ult iple places .
+m e010 [ fh|s^ bs] : Anyway t h so in general t his is t he design , t his is
+really design problem .
+m n015 [ b] : Yeah .
+m e010 [ s] : OK , y ou ’ve got a signal , a d set of decisions
+m e010 [ fh|qw] : um how do we do t his ?
+m n015 [ qw] : What do I have under user st at e anyhow
+m n015 [ s^ df] : cuz I nam ed t hat already som et hing .
+m n015 [ s:s] : Oh t hat ’s t ired , fresh ,
+m n015 [ b] : y eah .
+m n015 [ s^ cs:s] : Maybe should be renam ed int o physical st at e .
+m e010 [ s^ cs:s] : Or fat user fat igue even .
+m e045 [ b] : Hm m .
+
+m n015 [ qy ^ d^ rt ] : That ’s wit h a " G " ?
+m e045 [ s^ aa^ rt ] : Mm − hm m .
+m e010 [ s^ aa] : [ no m at ched cont ent ]
+m e010 [ s] : What ev er .
+m n015 [ s^ rt ] : Then we can m ake a user st at e .
+m e010 [ s] : What ’s t h what we ’re t alking about is com pat ibilit y .
+m e010 [ s^ e^ no] : Uh or som et hing , I don’t know ,
+m e010 [ fh] : but .
+m e003 [ s.%−−] : I guess t he [ disfm arker] t he quest ion uh is
+m e003 [ s] : It ’s hard for m e t o im agine how everyt hing wouldn’t just
+cont ribut e t o user st at e again .
+m e003 [ s^ e] : Or user com pat ibilit y .
+m e010 [ fg|s.%−−] : Oh but t he t hing is t hat we uh uh we had som e
+t hings t hat uh
+m n015 [ s^ 2] : That don’t .
+m e010 [ s^ aa^ m ] : t hat don’t
+m n015 [ s.%−−] : The user int erest s and t he user who [ disfm arker] who
+[ disfm arker] who t he user is are com plet ely apart from t he fact
+whet her he is t ired broke
+m e003 [ s^ aap|s^ bu^ df] : Sure , but ot her [ disfm arker] I t hought
+t hough t he node we ’re creat ing right now is user com pat ibilit y t o t he
+current act ion ,
+m e003 [ qy^ d^ g^ rt ] : right ?
+m e010 [ %−] : t he
+m e010 [ s^ aa] : right
+m e003 [ s] : Seem s like everyt hing in t he user m odel would cont ribut e
+t o whet her or not t he user was com pat ible wit h som et hing .
+m e010 [ s^ nd] : Uh m aybe not .
+m e010 [ s.%−−] : I m ean t he [ disfm arker] t hat ’s t he [ disfm arker] t he
+issue is um
+m e010 [ s] : would Even if it was t rue in som e abst ract general sense it
+m ight not be t rue in t erm s of t he inform at ion we act ually had and can
+m ake use of .
+m e010 [ s^ co] : And anyway we ’re gonna have t o find som e way t o cl
+uh get t his sufficient ly sim ple t o m ake it feasible .
+m n015 [ s^ cs.%−−] : Maybe um if we look at t he [ disfm arker] if we split it
+up again int o sort of um
+m n015 [ s] : if we look at t he uh t he endpoint again we [ disfm arker] we
+said t hat for each of t hese t hings t here are cert ain precondit ions
+m n015 [ s^ rt ] : so y ou can only ent er a place if you are not t oo t ired t o
+do so
+m n015 [ s^ e] : and also eh hav e t he m oney t o do so if it cost s
+som et hing
+m n015 [ s] : so if y ou can afford it and perform it is precondit ions .
+m n015 [ s^ rt ] : Viewing usually is cheap or free .
+m n015 [ qy ] : Is t hat always t rue ?
+
+m e045 [ b] : Mm − hm m .
+m n015 [ s^ no] : I don’t know .
+m e003 [ s^ na] : Well , wit h t he way we ’re defining it I t hink yeah .
+m e010 [ %−] : W w
+m e010 [ s] : but t hat eh viewing it wit hout ent yeah view w wit h our
+definit ion of v iew it ’s free
+m e010 [ %−−] : cuz y ou
+m n015 [ s^ e] : And so is approaching .
+m e010 [ b] : Yeah .
+m e045 [ qo^ rt ] : Well what about t he Grand Canyon ,
+m e045 [ qy ^ d^ g^ rt ] : right ?
+m e045 [ s^ bd] : No , never m ind .
+m e045 [ qy ^ rt ] : I m ean are t here [ disfm arker] are t here large t hings
+t hat y ou would hav e t o pay t o get up close t o
+m e045 [ s^ e.%−−] : like , I m ean
+m e045 [ s^ bd] : never m ind ,
+m e045 [ s.%−] : not in t he current [ disfm arker]
+m e010 [ s^ ng] : No we have t o ent er t he park .
+m e045 [ s^ bk] : OK .
+m e010 [ s] : Eh alm ost by definit ion um paying involves ent ering ,
+m e045 [ b] : Yeah .
+m e010 [ s.%−] : ge going t hrough som e
+m e045 [ s^ bk] : OK .
+m e045 [ s^ bk] : Right , sure .
+m e010 [ s^ bk^ m ] : Right .
+m e010 [ fg] : Uh
+m e010 [ s^ co^ t ^ t c] : So let m e suggest we swit ch t o anot her one ,
+m e010 [ s] : I m ean clearly t here ’s m ore work t o be done on t his
+m n015 [ b] : Mm − hm m .
+m e010 [ s^ cs^ t ] : but I t hink it ’s gonna be m ore inst ruct ive t o
+[ disfm arker] t o t hink about uh ot her decisions t hat we need t o m ake in
+pat h land .
+m e010 [ s^ e] : And what t hey ’re gonna look like .
+m e003 [ s^ cs:s] : So you can sav e t his one as and open up t he old one
+,
+m e003 [ qy ^ d^ g^ rt ] : right
+m e003 [ fh] : and [ disfm arker]
+m e003 [ s] : and t hen everyt hing would be clean .
+m e003 [ s^ cs] : You could do it again .
+m e010 [ s^ na] : Why , I t hink it ’s wort h saving t his one
+m e010 [ s] : but I t hink I ’d [ disfm arker] I ’d like t o keep t his one
+m e012 [ b] : Yeah .
+m e010 [ s^ df] : cuz I wanna see if [ disfm arker] if we ’re gonna reuse
+any of t his st uff .
+m e003 [ b] : Mm − hm m .
+m n015 [ fh] : Um
+
+m n015 [ s.%−−] : so t his m ight be
+m n015 [ qw^ t ^ t c] : What next ?
+m e010 [ s^ co] : Well you t ell m e ,
+m e010 [ qw] : so in t erm s of t he uh planner what ’s [ disfm arker] what ’s
+a good one t o do ?
+m n015 [ s.%−] : Well let ’s [ disfm arker] t h t his
+m n015 [ s^ ba:s] : go t here or not I t hink is a good one .
+m e010 [ b] : Uh
+m n015 [ s] : Is a very basic one .
+m n015 [ fh] : So
+m n015 [ qw.%−−] : what m akes t hings m ore likely t hat [ disfm arker]
+m n015 [ %−] : So
+m e010 [ fg|s] : Well t he fir see t he first t hing is , get t ing back t o t hing
+we left out of t he ot her is t he act ual discourse .
+m e010 [ s] : So Keit h t his is gonna get int o your world
+m e010 [ s^ df] : because uh we ’re gonna want t o know you know ,
+which const ruct ions indicat e various of t hese propert ies
+m e045 [ b] : Mm − hm m .
+m e010 [ %−−] : s
+m e045 [ b] : Mm − hm m .
+m e010 [ fh] : and so
+m e010 [ s^ no] : I [ disfm arker] I don’t yet know how t o do t his ,
+m e010 [ s] : I guess we ’re gonna wind up pulling out uh discourse
+propert ies like we have object propert ies
+m e010 [ s] : and we don’t know what t hey are yet .
+m e045 [ b] : Mm − hm m .
+m e010 [ s] : So t hat [ disfm arker] t hat t he Go − t here decision will have
+a node from uh discourse ,
+m e010 [ qw^ cs.%−] : and I guess why don’t we just st ick a discourse
+t hing up t here t o be as a placeholder for
+m n015 [ s] : We [ disfm arker] we also had discourse feat ures of course
+for t he endpoint .
+m e010 [ s^ aa] : Of [ disfm arker] of course .
+m n015 [ s] : Ident ified t hat
+m e010 [ b] : Yeah .
+m n015 [ fh|s] : and so again re t hat ’s com plet ely correct ,
+m n015 [ s] : we have t he user m odel , t he sit uat ion m odel here ,
+m n015 [ s] : we don’t have t he discourse m odel here yet .
+m n015 [ s] : Much t he sam e way as we didn’t [ disfm arker] we don’t
+have t he ont ology here .
+m e010 [ s^ ng] : Well t he ont ology we sort of said we would pull t hese
+v arious kinds of propert ies from t he ont ology like exhibit ing , selling ,
+and so fort h .
+m n015 [ b] : Really .
+m e010 [ s^ nd] : So in som e sense it ’s [ disfm arker] it ’s t here .
+m n015 [ b] : Mm − hm m .
+
+m e010 [ s] : But t he discourse we don’t hav e it represent ed at all yet .
+m n015 [ b] : Yeah .
+m n015 [ fg] : Um
+m n015 [ s^ co^ rt ] : This be specific for second year ?
+m n015 [ fh] : Um
+m n015 [ s] : And [ disfm arker] and we probably will have uh som et hing
+like a discourse for endpoint .
+m e010 [ s] : But if we do it ’ll have t he t hree values .
+m n015 [ qy^ bu^ d^ rt ] : Hm m ?
+m e010 [ s] : It ’ll hav e t he EVA v alues
+m n015 [ s^ aa] : Yeah .
+m e010 [ s^ e] : if [ disfm arker] if we have it .
+m n015 [ s^ bk] : Yeah .
+m n015 [ s^ bk|s] : OK just for st art ers
+m n015 [ s.%−] : and here discourse um
+m e010 [ s^ cs:s] : For Go − t here , probably is t rue and false , let ’s say .
+m e010 [ s^ df] : That ’s what we t alked about .
+m n015 [ fh] : um
+m n015 [ fh|s] : well , I t hink um we ’re looking at t he [ disfm arker] t he
+lit t le dat a t hat we have ,
+m n015 [ s:qw] : so people say how do I get t o t he cast le
+m n015 [ s] : and t his usually m eans t hey wanna go t here .
+m e045 [ b] : Mm − hm m .
+m n015 [ s] : So t his should sort of push it in one direct ion
+m e010 [ s^ aa] : Right .
+m n015 [ s:qw] : however people also som et im es say how do I get t here
+m n015 [ s^ e] : in order t o find out how t o get t here
+m n015 [ s^ e] : wit hout want ing t o go t here .
+m e010 [ s^ aa] : Mm − hm m .
+m n015 [ s:qw] : And som et im es um people say where is it
+m e045 [ b] : Mm − hm m .
+m n015 [ s^ e^ rt ] : because t hey wanna know where it is
+m n015 [ s^ e.%−−] : but in m ost cases t hey probably
+m e010 [ s] : Yeah , but t hat doesn’t change t he fact t hat you ’re
+[ disfm arker] you want t hese t wo v alues .
+m n015 [ s^ aa] : Oh yeah ,
+m n015 [ s^ aa] : t rue .
+m n015 [ s] : So t his is sort of som e ext ernal t hing t hat t akes all t he
+discourse st uff
+m n015 [ s^ e:s] : and t hen says here it ’s eit her [ pause] yep , yay , A ,
+or nay .
+m n015 [ b] : Yeah .
+m n015 [ b] : OK ?
+m e010 [ s:s^ co] : And t hey ’ll be a y uh , a user Go − t here
+m e010 [ s^ am ] : and m aybe t hat ’s all ,
+m e010 [ s^ no] : I don’t know .
+
+m e012 [ s:s] : Sit uat ion Go − t here ,
+m e012 [ s^ e] : I m ean , because it ’s [ disfm arker] whet her it ’s open or
+not .
+m n015 [ b] : Mm − hm m .
+m e010 [ s^ ba] : OK , good .
+m e012 [ s] : That definit ely int eres
+m e010 [ b] : Yep .
+m e012 [ s.%−−] : But t hat now t hat kind of
+m e012 [ fh|qh] : um what ’s t he word
+m e045 [ b] : Hm m .
+m e012 [ fh|s] : um t he [ disfm arker] t hat int eract s wit h t he uh EVA t hing
+m e012 [ s] : if t hey just wanna view it t hen it ’s fine t o go t here when it
+’s closed
+m e012 [ s.%−] : whereas if t hey want t o um
+m e010 [ s^ aa] : Right .
+m e012 [ fh] : so
+m e010 [ fg|s^ ba] : Right , so t hat ’s [ disfm arker] t hat ’s where it st art s
+get t ing t o be uh uh essent ially m ore int erest ing ,
+m e010 [ s] : so what uh Bhaskara says which is com plet ely right is if
+y ou know t hat t hey ’re only going t o view it t hen it doesn’t m at t er
+whet her it ’s closed or not
+m e045 [ b] : Mm − hm m .
+m e010 [ s^ e] : in t erm s of uh uh you know , whet her [ disfm arker]
+whet her you wanna go t here .
+m e012 [ s^ 2] : The t im e of day ,
+m e012 [ qy^ d^ g^ rt ] : right
+m e012 [ s^ aa] : I [ disfm arker] well , right .
+m e045 [ b] : Mm − hm m .
+m e003 [ s^ bu] : It does m at t er t hough if t here ’s like a st rike or riot or
+som et hing .
+m e010 [ s^ aa|s^ na] : Absolut ely t here are ot her sit uat ional t hings t hat
+do m at t er .
+m e012 [ s^ aa] : Right .
+m e012 [ fg] : So
+m e012 [ s] : y eah , t hat ’s what I said
+m e012 [ s] : just having one sit uat ional node m ay not be enough
+m e012 [ s^ df.%−] : because t his [ disfm arker] t hat node by it self
+wouldn’t dist inguish
+m e010 [ s^ nd] : Well i i it can hav e di various values .
+m e010 [ s^ na] : Yeah , but we eh you [ disfm arker] you ’re right it m ight
+not be enough .
+m e012 [ s:s] : Yeah , I m ean , see I ’m [ disfm arker] I ’m t hinking t hat any
+node t hat begins wit h " Go − t here " is eit her gonna be t rue or false .
+m e045 [ %−] : Well , what [ disfm arker]
+m e045 [ s^ fe^ t 1] : Whoops .
+m e010 [ b] : Yeah .
+
+m e045 [ b] : Right .
+m e010 [ s^ bk] : Ah .
+m e010 [ s^ bk] : I see
+m e010 [ s^ am ] : t hat could be .
+m e045 [ s.%−−] : Also , t hat node , I m ean t he Go − t here s S node would
+just be fed by separat e ones for
+m n015 [ b^ rt ] : Mm − hm m .
+m e010 [ s^ am ] : Could be .
+m e045 [ s^ e.%−] : y ou know , t here ’s different t hings , t he st rikes and
+t he
+m e010 [ b] : Yeah .
+m e012 [ s^ 2] : Like sit uat ion t raffic and so on .
+m e010 [ %−] : N
+m e010 [ b] : Yeah .
+m e045 [ s^ aa|s] : Yeah , t he t im e of day .
+m e010 [ s] : Yeah . So [ disfm arker] so now t he ot her t hing t hat
+Bhaskara eh point ed out is what t his says is t hat uh t here sh should
+be a link ,
+m e010 [ s^ e] : and t his is where t hings are gonna get very m essy
+m e010 [ s^ e] : from t he endpoint uh decision
+m e012 [ s^ 2.%−] : I guess t he final
+m e010 [ s:s] : m aybe t he t t hey ’re final re and , I guess t he very
+bot t om endpoint decision uh t o t he Go − t here node .
+m e010 [ s^ co] : And I [ disfm arker] don’t worry about layout ,
+m e012 [ b] : Yeah .
+m e010 [ s] : I m ean t hen we ’ll go [ disfm arker] we ’ll go nut s
+m n015 [ b] : Mm − hm m .
+m e012 [ b] : Mm m .
+m e010 [ fh] : but
+m e012 [ s^ cs^ rt :s] : Maybe we could um have int erm ediat e node t hat
+just t he Endpoint and t he Go − t here S node sort of fed int o ?
+m e010 [ s^ am ] : Could be ,
+m e010 [ s^ am ] : y eah .
+m e012 [ s^ bk] : Right .
+m e012 [ s^ df] : Because t hat ’s what we , I m ean t hat ’s why t his
+sit uat ion com es up .
+m e010 [ b] : Yeah .
+m e010 [ s^ cs] : Well t he Go − t here , act ually t he Endpoint node could
+feed [ disfm arker] feed int o t he Go − t here S
+m e012 [ s^ aa] : Yeah , right .
+m e010 [ s^ bk] : That ’s right ,
+m e010 [ s.%−−] : so t he Endpoint node ,
+m n015 [ b] : Mm − hm m .
+m e010 [ s^ co:s] : m ake t hat up t t t o t he Go − t here t hen
+m n015 [ b] : Yeah .
+m e010 [ s^ cc] : and again we ’ll hav e t o do layout at som e point ,
+
+m e010 [ s^ e] : but som et hing like t hat .
+m e010 [ s] : Now it ’s gonna be im port ant not t o have loops by t he way
+.
+m n015 [ s^ na.%−] : I was just gonna
+m e010 [ s] : Uh really im port ant in [ disfm arker] in t he belief worl net
+world not t o hav e loops
+m e010 [ fh] : uh
+m e012 [ s^ aa] : Yes .
+m n015 [ qw.%−] : How long does it t ake you t o [ disfm arker] t o com put e
+uh
+m e010 [ s] : No it ’s m uch worse t han t hat .
+m e010 [ s] : It [ disfm arker] if i loo it [ disfm arker] it [ disfm arker] it
+[ disfm arker] it [ disfm arker] it ’s not def i it ’s not well defined if you ’re
+t here are loops ,
+m e012 [ s] : It [ disfm arker] t hings don’t converge , yeah .
+m n015 [ qw^ e^ rt ] : uh R recursive act ion ?
+m e010 [ s^ co.%−−] : you just you have t o
+m e010 [ s.%−−] : t here are all sort s of ways of breaking it up so t hat
+t here isn’t
+m e010 [ fh] : uh
+m n015 [ s^ ng] : Uh but t his isn’t , t his is [ disfm arker] t his line is just
+com ing from over here .
+m e010 [ s^ bk] : OK .
+m e012 [ b] : Yeah .
+m e012 [ s^ bk] : Yeah .
+m e010 [ fg|s.%−] : Yeah , no it ’s not a loop yet , I ’m just saying we
+[ disfm arker] we , in no , in
+m n015 [ b] : Mm m .
+m e012 [ fg|s] : Well , but t he good t hing is we [ disfm arker] we could
+have loopy belief propagat ion which [ vocalsound] we all love .
+m e010 [ b] : Right .
+m e010 [ fg|s] : OK , so anyway , so t hat ’s anot her decision .
+m e010 [ h|qw] : Uh what ’s [ disfm arker] what ’s anot her decision you
+like ?
+m n015 [ s] : OK , t hese have no parent s yet , but I guess t hat sort of
+doesn’t m at t er .
+m n015 [ qy^ d^ g^ rt ] : Right ?
+m e010 [ s] : Well , t he idea is t hat you go t here , you go com es from
+som et hing about t he user from som et hing about t he sit uat ion and t he
+uh t he discourse is [ disfm arker] is a m yst ery .
+m n015 [ s.%−−] : I m ean t his is sort of
+m n015 [ s^ 2] : This com es from t raffic and so fort h , yeah .
+m n015 [ qy ^ cs^ rt ] : Sh − Should we just m ake som e
+m e010 [ s^ aa] : Sure , if you want .
+m n015 [ fh] : um
+m n015 [ s.%−−] : if t here ’s parking m aybe
+
+m n015 [ b] : Mm m
+m n015 [ qh] : Oh who cares .
+m n015 [ b] : OK .
+m n015 [ s^ bu] : And if he has seen it already or not and so fort h ,
+m e010 [ s^ aa] : Right .
+m n015 [ s^ bk] : OK .
+m n015 [ fh] : Um
+m n015 [ s.%−−] : and discourse is som et hing t hat sort of
+m n015 [ qy ^ cs^ rt ] : should we m ake a Keit h not e here ?
+m n015 [ s] : That sort of com es from Keit h .
+m e010 [ s^ aa] : Sure .
+m e010 [ b] : Mm − hm m .
+m n015 [ s^ df] : Just sort of so we don’t forget .
+m n015 [ s^ fe^ t 1] : Oops .
+m n015 [ s^ t 1] : Hav e t o get used t o t his .
+m n015 [ s^ bk] : OK ,
+m n015 [ s^ fe^ t 1] : whoops .
+m e045 [ fg] : Um act ually [ disfm arker]
+m e010 [ s] : And t hen also t he discourse endpoint ,
+m e010 [ s^ bc^ e] : I [ disfm arker] I guess endpoint sub − D is
+[ disfm arker] if y ou wanna m ake it consist ent .
+m e003 [ fg] : Wh − ah .
+m n015 [ b] : Mm − hm m .
+m e045 [ qy ^ rt ] : Um act ually is t his t he [ disfm arker] t he right way t o
+have it
+m e045 [ s^ e^ rt ] : where um go t here from t he user and go t here from
+t he sit uat ion just sort of don’t know about each ot her but t hey bot h
+feed t he go t here decision
+m e010 [ s^ aa] : I t hink so .
+m e045 [ s^ df.%−−] : because isn’t t he , I m ean
+m e010 [ %−] : S
+m e045 [ h] : uh ,
+m e045 [ fh] : hm m
+m e045 [ s^ bk] : OK .
+m e010 [ s^ am ] : Maybe not ,
+m e045 [ s.%−−] : But t hat st ill allows for t he possibilit y of t he
+[ disfm arker] of t he user m odel affect ing our decision about whet her a
+st rike is t he sort of t hing which is going t o keep t his user away from
+[ disfm arker]
+m e010 [ %−] : a
+m e010 [ s^ aa] : Right .
+m e045 [ s:s] : That [ disfm arker] all t hat [ disfm arker] t hat kind of
+decision m aking happens at t he Go − t here node .
+m e010 [ s^ na] : Uh y you [ disfm arker] yeah you [ disfm arker] i you
+[ disfm arker] if y ou needed t o do t hat .
+m e045 [ b] : Uh .
+
+m e045 [ s^ m ^ na] : If you needed it t o do t hat .
+m e010 [ s^ bk] : Yeah .
+m e045 [ s] : But uh OK I was just t hinking
+m e010 [ b] : Yeah .
+m e045 [ s] : I guess m aybe I ’m conflat ing t hat user node wit h possible
+[ disfm arker] possible asking of t he user
+m e045 [ qy ^ d^ f^ g] : you know
+m e010 [ fg] : Ah .
+m e045 [ s^ e:qy] : hey t here ’s a st rike on , uh does t hat affect whet her
+or not you wanna go or som et hing
+m e010 [ s^ no.%−−] : Good point , I don’t [ disfm arker] I don’t know how
+we ’re going t o [ disfm arker] t uh
+m e045 [ fh] : or
+m e045 [ s] : Yeah , so t hat m ight not com e out of a user m odel
+m e045 [ s^ e] : but , you know , direct ly out of int eract ion .
+m e010 [ s^ aa] : Right .
+m e010 [ s] : Uh I gu yes m y curr you know , don’t yeah yeah yeah t hat ’s
+enough .
+m n015 [ b] : Yeah .
+m e010 [ fh|s^ cs] : Uh My current idea on t hat would be t hat each of
+t hese decision nodes has quest ions associat ed wit h it .
+m e045 [ b] : Mm − hm m .
+m e010 [ s] : And t he quest ion wouldn’t it self be one of t hese
+condit ional t hings
+m e010 [ s:qy] : you know , given t hat you know t here ’s a st rike do you
+st ill wanna go ?
+m e045 [ b] : OK .
+m e045 [ b] : Yeah .
+m e010 [ s:qy] : But uh if you t old him a bunch of st uff , t hen you would
+ask him do y ou wanna go ?
+m e045 [ b] : Mm − hm m .
+m e010 [ s] : But I t hink t rying t o form ulat e t he condit ional quest ion ,
+t hat sounds t oo m uch .
+m e045 [ b] : OK .
+m e045 [ b] : Right , right .
+m e045 [ b] : Yeah .
+m e045 [ s^ aa] : Right , sure , OK .
+m e010 [ s^ e] : To m e .
+m n015 [ b] : Mm − hm m .
+m e010 [ s^ co^ t ] : Alright , but let m e [ disfm arker] let [ disfm arker] let ’s
+st ay wit h t his a m inut e
+m n015 [ fg] : But
+m e010 [ s^ df] : because I want t o do a lit t le bit of organizat ion .
+m e010 [ s^ e] : Before we get m ore int o det ails .
+m e010 [ s.%−−] : The organizat ion is going t o be t hat uh
+m e010 [ s.%−−] : t he flavor of what ’s going on is going t o be t hat uh
+
+m e010 [ s] : as we s e sort of going t o t his det ail indeed Keit h is going
+t o [ disfm arker] t o worry about t he v arious const ruct ions t hat people
+m ight use
+m e045 [ b] : Mm − hm m .
+m e010 [ fh|s] : and Johno has com m it t ed him self t o being t he parser
+wizard ,
+m e010 [ s.%−−] : so what ’s going t o happen is t hat event ually
+m e045 [ b] : Alright .
+m e010 [ s^ e] : like by t he t im e he graduat es ,
+m e010 [ qy^ d^ f^ rt ] : OK
+m e010 [ fh|s] : uh t hey ’ll be som e sort of syst em which is able t o t ake
+t he discourse in cont ext and hav e out put s t hat can feed t he rest of
+belief − net .
+m e010 [ s] : I j wa I [ disfm arker] I assum e everybody knows t hat ,
+m e010 [ s^ df] : I just wanna you know , get closure t hat t hat ’ll be t he
+gam e t hen ,
+m e045 [ b] : Mm − hm m .
+m e010 [ s] : so t he sem ant ics t hat y ou ’ll get out of t he discourse will
+be of values t hat go int o t he various discourse − based decision nodes
+.
+m e010 [ s] : And now som e of t hose will get fancier like m ode of
+t ransport at ion and st uff
+m e010 [ s] : so it isn’t by any m eans uh necessarily a sim ple t hing t hat
+y ou want out .
+m e010 [ s.%−] : So uh if t here is an and t here is m ode of t ransport at ion
+m n015 [ s^ rt ] : And it t here ’s a sort of also a split if you loo if you blow
+t his up and look at it in m ore det ail t here ’s som et hing t hat com es
+from t he discourse in t erm s of what was act ually just said
+m n015 [ qr] : what ’s t he ut t erance go giving us
+m e010 [ b] : Yeah .
+m n015 [ qr] : and t hen what ’s t he discourse hist ory give us .
+m e010 [ fg|s] : Yeah , well t hat , well , we ’ll have t o decide uh how
+m uch of t h where t hat goes .
+m e045 [ b] : Mm − hm m .
+m n015 [ s] : That ’s uh t wo t hings t hen .
+m n015 [ b] : Mm m .
+m e045 [ b] : Mm − hm m .
+m e010 [ s] : an and it ’s not clear yet .
+m e010 [ s] : I m ean it could be t hose are t wo separat e t hings ,
+m e010 [ s.%−−] : it could be t hat t he discourse gadget it self int egrat es
+em as [ disfm arker]
+m e010 [ s] : which would be m y guess
+m e010 [ s:s] : t hat y ou ’d have t o do see in order t o do reference and
+st uff like t hat um you ’ve got t a hav e bot h t he current discourse and
+t he cont ext t o say I wanna go back t here ,
+m e010 [ s:qr] : wow , what does t hat m ean
+
+m e045 [ b] : Mm − hm m .
+m e010 [ fh] : and uh
+m n015 [ b] : Mm − hm m
+m e045 [ s] : Now .
+m e045 [ b] : Mm − hm m .
+m e010 [ s^ bk] : Alright .
+m e010 [ fh] : So
+m n015 [ qy] : But is t h is t his pict ure t hat ’s em erging here just m y wish
+t hat y ou have not iced already for sy m m et ry
+m n015 [ qrr] : or is it t hat we get for each [ disfm arker] each decision
+on t he v ery bot t om we sort of get t he sub − E , sub − D , sub − U and
+m ay be a sub − O [ disfm arker] " O " for " ont ology " um m et a node
+m e010 [ s^ no] : I don’t know .
+m n015 [ s.%−−] : but it m ight just
+m e010 [ s^ am ] : It could be .
+m n015 [ s^ bk^ m ] : could be
+m n015 [ s.%−] : so t his
+m e010 [ s] : This is [ disfm arker] t his is get t ing int o t he t hing I wanna
+t alk about next ,
+m e010 [ qr] : which is s if t hat ’s t rue uh how do we wanna com bine
+t hose ?
+m e010 [ s] : O or when it ’s t rue ?
+m n015 [ s^ cs] : but t his eh w wou wou would be nice t hough t hat , you
+know , we only have at m ost four at t he m om ent um arrows going f t o
+each of t he uh bot t om decisions .
+m e010 [ b] : Yeah .
+m e012 [ b] : Yeah .
+m n015 [ qy ^ bu^ cs^ d^ rt ] : And four you [ disfm arker] we can handle .
+m e010 [ s^ ar] : No .
+m n015 [ qy ^ bu^ d^ rt ] : It ’s t oo m uch ?
+m e012 [ b] : Yeah .
+m e010 [ s] : Well i i it see i if it ’s fou if it ’s four t hings and each of t hem
+has four values it t urns out t o be a big CPT ,
+m e010 [ s.%−−] : it ’s not s com plet ely im possi
+m e010 [ s] : I m ean it ’s [ disfm arker] it ’s not beyond what t he syst em
+could solve
+m e010 [ s^ ba^ df] : but it ’s probably bey ond what we could act ually uh
+writ e down . or learn .
+m n015 [ s^ bk] : Right , t rue .
+m e010 [ fh|s] : Uh but , you know it ’s four t o t he fourt h .
+m e010 [ s^ ba] : It ’s pret t y big .
+m e010 [ fh] : Uh .
+m e003 [ qy^ bu^ d^ rt ] : Two fift y − six ,
+m e003 [ qy .%−] : is t hat what t hat
+m e010 [ s^ aa] : Yeah .
+m e010 [ s^ aa|s.%−] : Yeah , I m ean
+
+m e010 [ s] : it ’s and I don’t t hink it ’s gonna g e I don’t t hink it ’ll get
+worse t han t hat by t he way ,
+m e010 [ s^ ba.%−] : so le t hat ’s a [ disfm arker] t hat ’s a good
+m e012 [ b] : Mm m y eah .
+m n015 [ qy ^ rt ] : But [ disfm arker] but four [ disfm arker] didn’t we decide
+t hat all of t hese had t rue or false ?
+m n015 [ s.%−] : So is [ disfm arker] it ’s four
+m e010 [ s.x] : Uh for go t here ,
+m e010 [ s.%−−] : but not f but not for [ disfm arker]
+m e003 [ b] : Yeah .
+m e010 [ s] : t he ot her one ’s t hree values for endpoint already .
+m e012 [ fg|s] : Yeah , I m ean you need act ually t hree t o t he five
+m e012 [ s^ df^ rt ] : because uh well I m ean if [ disfm arker] if it has four
+input s and t hen it it self has t hree values
+m e003 [ s^ bk] : Right .
+m e012 [ fh] : so
+m e012 [ s] : I m ean it can get big fast .
+m n015 [ fg|qy ^ bu^ d^ rt ] : Um for endpoint ?
+m n015 [ s^ ar|s.%−] : No it ’s [ disfm arker] it ’s sh
+m e010 [ s] : EV − it ’s t he EVA .
+m n015 [ s^ bk|s^ aap] : yeah , down here ,
+m n015 [ s^ arp] : but t his one only has t wo .
+m e012 [ s^ nd] : No it st ill has t hree ,
+m e010 [ s^ ar] : No .
+m e010 [ s] : Since t a t hey will st ill hav e t hree .
+m e012 [ s^ df^ e] : EVA .
+m e010 [ s] : Each [ disfm arker] so you ’re uh uh from each point of view
+y ou ’re m aking t he sam e decision .
+m e045 [ b] : Mm − hm m .
+m e010 [ s.%−−] : So from t he point of view of t he ob of t he ent it y
+m e045 [ b] : Mm − hm m .
+m n015 [ s^ 2.%−−] : Want t o view t hat ,
+m n015 [ b] : yeah y eah .
+m n015 [ %−] : C sl
+m n015 [ b] : y eah
+m e010 [ b] : Yeah .
+m e012 [ s.%−−] : This [ disfm arker] and also , I m ean , t he ot her places
+where ,
+m e012 [ s] : like for exam ple consider endpoint view , it has input s
+com ing from user budget , user t hrift
+m e010 [ b] : Right .
+m e012 [ s.%−−] : so even
+m e010 [ s^ 2] : Those are not necessarily binary .
+m e010 [ s] : S so we ’re [ disfm arker] we ’re gonna have t o use som e t
+care in t he knowledge engineering t o not have t his explode .
+m e010 [ s.%−−] : And in fact I t hink it doesn’t in t he sense t hat
+
+m e010 [ fh] : um
+m e010 [ s^ rt .%−] : Read it ,
+m e010 [ s] : y ou know act ually wit h t he underlying sem ant ics and st uff I
+t hink it isn’t like you have t wo hundred and fift y − six different uh ways
+of [ disfm arker] of t hinking about whet her t his user want s t o go t o
+som e place .
+m e010 [ s^ bk] : Alright .
+m e010 [ s^ cs] : So we [ disfm arker] we just have t o figure out what t he
+regularit ies are and and code t hem .
+m e010 [ s] : But um What I was gonna suggest next is m aybe we wanna
+work on t his a lit t le longer
+m e010 [ s.%−−] : but I do want t o also t alk about t he t hing t hat we
+st art ed int o now of
+m e010 [ fh] : uh
+m e010 [ s^ ba] : well it ’s all fine t o say all t hese arrows com e int o t he si
+sam e place
+m e010 [ qr] : what rule of com binat ion is used t here .
+m e010 [ s] : So t h y es t hey [ disfm arker] so t hese t hings all affect it ,
+m e045 [ b] : Mm − hm m .
+m e045 [ b] : Right .
+m e010 [ qr] : how do t hey affect it ?
+m e010 [ s] : And belief − net s have t heir own beliefs about uh what are
+good way s t o do t hat .
+m e010 [ s] : So is it [ disfm arker] it ’s [ disfm arker] it ’s clearer n clear
+enough what t he issue is ,
+m e012 [ b] : Right .
+m e010 [ qy^ d^ f^ g^ rt ] : right ?
+m e010 [ qr^ t ] : So do we wanna swit ch t hat now or we wanna do som e
+m ore of t his ?
+m n015 [ s.%−−] : R basically w we just need t o sort of
+m n015 [ s] : in order t o get som e closure on t his figure out how we ’re
+gonna get t his pict ure sort of uh com plet ely m essy .
+m e010 [ s.%−−] : Well , here [ disfm arker] he here ’s one of t he t hings
+t hat [ disfm arker] t hat I t h you sh
+m e010 [ %−] : y ou [ disfm arker] no ,
+m e010 [ s^ bd^ df^ no] : I don’t know how easy it is t o do t his in t he
+int erface
+m e010 [ s^ cs.%−−] : but you [ disfm arker] it would be great if you could
+act ually just display at a given t im e uh all t he t hings t hat you pick up ,
+m e010 [ s] : y ou click on " endpoint " ,
+m e010 [ s^ f] : OK
+m n015 [ b] : Mm − hm m .
+m e010 [ s] : and everyt hing else fades
+m e010 [ s] : and y ou just see t he links t hat are relevant t o t hat .
+m e010 [ %−] : And I
+m e010 [ qy] : does anybody rem em ber t he GUI on t his ?
+
+m e003 [ fg|s] : Uh d I would alm ost say t he ot her way t o do t hat would
+be t o open u or m ake you know N − m any belief − net s
+m e003 [ s] : and t hen open t hem every t im e you want ed t o look at a
+different one
+m n015 [ b] : Mm − hm m .
+m e003 [ s.%−] : v ers
+m n015 [ s] : It ’s probably pret t y easy do it [ disfm arker] t o do it in HTML
+,
+m e003 [ s^ df.%−] : cuz uh
+m n015 [ s.%−] : just [ disfm arker]
+m e003 [ s^ bk|%−] : Yeah , but
+m n015 [ fh] : Uh
+m e012 [ qy ^ bu^ d^ rt ] : HTML ?
+m n015 [ s^ aa|s] : Yeah I have each of t hese t hing each of t he end
+belief − net s be [ disfm arker] be a page and t hen you click on t he t hing
+m n015 [ s] : and t hen li consider t hat it ’s respect ive ,
+m e012 [ s^ bk] : OK .
+m e010 [ s^ am |%−] : Yeah t he [ disfm arker] well t he b
+m n015 [ %−] : but
+m e010 [ fg|s] : any way so uh it clear t hat even wit h t his if we put in all
+t he arrows nobody is gonna be able t o read t he diagram .
+m e003 [ s^ aa] : Yeah .
+m e010 [ s^ bk] : Alright ,
+m e010 [ s^ cs] : so e we have t o figure out som e eh eh uh basically
+display hack or som et hing t o do t his
+m e010 [ s^ df.%−] : because
+m e010 [ fg|s^ t ^ t c] : anyway I [ disfm arker] I [ disfm arker] let m e consi
+suggest t hat ’s a s not a first − order considerat ion ,
+m e010 [ s^ t ] : we have t wo first − order considerat ions
+m e010 [ s] : which is what are t he uh influences A ,
+m e010 [ s] : A ,
+m e010 [ qr] : and B how do t hey get com bined m at hem at ically ,
+m e010 [ s] : how do we display t hem is an issue ,
+m e010 [ %−] : but
+m e010 [ fh] : um
+m e003 [ s] : I don’t , yeah I just don’t t hink t his has been designed t o
+support som et hing like t hat .
+m e012 [ b] : Yeah .
+m e012 [ fg|s] : Yeah , I [ disfm arker] I m ean , it m ight soon , if t his is
+gonna be used in a serious way like java base t hen it m ight soon be
+necessary t o uh st art m odifying it for our purposes .
+m e010 [ s^ aa] : Right .
+m e010 [ fg|s] : Yeah , and Um I [ disfm arker] t hat seem s like a perfect ly
+feasible t hing t o get int o ,
+m e010 [ s] : but um we have t o know what we want first .
+
+m e010 [ qo^ cs^ t ^ t c] : OK , so why don’t you t ell us a lit t le bit about
+decision nodes and what [ disfm arker] what t he choices m ight be for
+t hese ?
+m e012 [ %−] : So
+m e012 [ x] : Ah , sorry .
+m e012 [ s.%−] : I guess t hat ’s
+m e003 [ s] : You can t echnically wear t hat as you ’re t alking .
+m e012 [ s] : Yeah , it ’s right , I guess I can do t hat .
+m e045 [ s^ fe] : Darn .
+m e010 [ s^ cs.%−] : Put it in your ,
+m e010 [ s^ bk] : yeah .
+m e012 [ s^ ba^ t 1] : I guess t his board works fine .
+m e012 [ s] : So um recall t he basic problem which is t hat um you have
+a belief − net and you have like a lot of different nodes all cont ribut ing
+t o one node .
+m e012 [ qy ^ d^ f^ g^ rt ] : Right ?
+m e012 [ s] : So as we discussed specifying t his kind of t hing is a big
+pain
+m e012 [ s] : and it ’s so will t ake a long t im e t o writ e down
+m e012 [ s^ df] : because for exam ple if t hese S have t hree possibilit ies
+each and t his has t hree possibilit ies t hen you know you have t wo
+hundred and fort y − t hree possibilit ies
+m e012 [ s] : which is already a lot of num bers t o writ e down .
+m e012 [ s] : So what um helps us in our sit uat ion is t hat t hese all have
+v alues in t he sam e set ,
+m e012 [ qy^ d^ f^ g^ rt ] : right ?
+m e012 [ s] : These are all like say ing EV or A ,
+m e012 [ qy ^ d^ f^ g^ rt ] : right ?
+m e012 [ s.%−−] : So it ’s not just a generalized sit uat ion like
+m e012 [ s.%−−] : I m ean basically we wanna just t ake a com binat ion of
+[ disfm arker]
+m e012 [ s] : we wanna view each of t hese as expert s
+m e012 [ s] : ea who are each of t hem is m aking a decision based on
+som e fact ors
+m e012 [ s] : and we wanna sort of com bine t heir decisions
+m e012 [ s] : and creat e you know , um sort a weight ed com binat ion .
+m n015 [ b] : Hm m .
+m n015 [ s] : ROVER , t he ROVER decision .
+m e012 [ qw^ br^ d^ rt ] : The what decision ?
+m n015 [ s] : ROVER .
+m n015 [ s] : All of t heir out put s com bined t o m ake a decision .
+m e045 [ b] : Hm m .
+m e012 [ s^ aa] : Yeah .
+m e012 [ b] : Yeah .
+m e012 [ s] : So t he problem is t o specify t he uh so t he condit ional
+propert y of t his given all t hose ,
+
+m e012 [ qy ^ d^ f^ g^ rt ] : right ?
+m e012 [ s] : That ’s t he way belief − net s are defined ,
+m e012 [ s^ e] : like each node given it s parent s ,
+m e012 [ qy ^ d^ f^ g^ rt ] : right ?
+m e012 [ fh|s] : So um t hat ’s what we want ,
+m e012 [ s.%−−] : we want for exam ple P of um
+m e012 [ s] : let ’s call t his guy Y
+m e012 [ s] : and let ’s call t hese X − one , X − t wo XN ,
+m e012 [ qy ^ d^ f^ g^ rt ] : right .
+m e012 [ s] : So we want probabilit y t hat Y equals , you know , for
+ex am ple um E
+m e012 [ s.%−−] : giv en t hat t hese guy s are
+m e012 [ s] : I ’ll just refer t o t his as like X um hat or som et hing ,
+m e012 [ s^ rt ] : uh t he co like all of t hem ?
+m e012 [ s] : Giv en t hat for exam ple t he dat a says you know , A , V , A ,
+E , or som et hing
+m e012 [ qy ^ bu^ d^ f^ g^ rt ] : right ?
+m e010 [ s^ aa] : Yep .
+m e012 [ s] : So we would like t o do t his kind of com binat ion .
+m e010 [ s^ bk|%−−] : Alright , so
+m e010 [ fh] : um
+m e010 [ qy.%−−] : Is t hat uh
+m e010 [ s^ df] : I [ disfm arker] yeah , I just wanna m ake sure everybody
+is wit h us before he goes on .
+m e045 [ s^ aa] : I t hink so , yeah .
+m e010 [ qy ^ rt ] : It ’s [ disfm arker] it ’s cl e is [ disfm arker] is it clear what
+he want s t o com put e ?
+m e012 [ b] : Right .
+m e045 [ s^ aa] : Mm − hm m .
+m e012 [ fh] : So , right .
+m e012 [ s] : So Basically um [ vocalsound] what we don’t wanna do is t o
+for every single com binat ion of E and V and A and every single let t er E
+, s give a num ber
+m e012 [ s] : because t hat ’s obviously not desirable .
+m e045 [ b] : Mm − hm m .
+m e012 [ s] : What we wanna do is find som e principled way of um
+say ing what each of t hese is
+m e012 [ s] : and we want it t o be a valid probabilit y dist ribut ion ,
+m e012 [ s] : so we want it t o um add up t o one ,
+m e012 [ qy ^ d^ f^ g^ rt ] : right ?
+m e012 [ s] : So t hose are t he t wo t hings t hat we uh need .
+m e045 [ b] : Hm m .
+m e012 [ s] : So what uh I guess , what Jerry suggest ed earlier was
+basically t hat we , you know view t hese guys as vot ing
+m e012 [ s] : and we just t ake t he uh we essent ially t ake um averages ,
+m e012 [ qy ^ d^ f^ g^ rt ] : right ?
+
+m e012 [ s] : So for exam ple here t wo people have vot ed for A ,
+m e012 [ s] : one has vot ed for V ,
+m e012 [ s] : and one has vot ed for E ,
+m e012 [ s^ rt ] : so we could say t hat t he probabilit ies are , you know ,
+probabilit y of being E is one over four , because one person vot ed for
+E out of four
+m e012 [ s.%−−] : and sim ilarly , probabilit y of
+m e012 [ s^ rt ] : so t his is probabilit y of E
+m e012 [ s^ rt ] : s and t hen probabilit y of A given all t hat is um t wo out
+of four
+m e012 [ s] : and probabilit y of V is one out of four .
+m e012 [ qy ^ d^ f^ g^ rt ] : Right ?
+m e012 [ s] : So t hat ’s st ep [ disfm arker] t hat ’s t he uh yeah t hat ’s t he
+[ disfm arker] t hat ’s t he basic uh t hing .
+m e012 [ %−] : Now
+m n015 [ fg] : Um
+m n015 [ b] : Yeah .
+m e012 [ qy ] : Is t hat all OK ?
+m n015 [ s.%−−] : And t hat one out com e , t hat ’s
+m e010 [ qw^ br] : What ?
+m n015 [ s^ bu] : it ’s X [ disfm arker] X − one vot ed for A
+m n015 [ s^ bu] : X − t wo vot ed for V
+m e045 [ b] : Mm − hm m .
+m n015 [ qy^ d^ rt ] : and so fort h ?
+m e010 [ s^ aa] : Y right .
+m n015 [ s^ bk] : Yeah .
+m e010 [ b] : Yep .
+m e012 [ b] : Yeah .
+m n015 [ s] : That ’s t he out com e .
+m e010 [ s^ bu] : S so t his assum es sym m et ry and equal weight s and all
+t his sort of t hings , which m ay or m ay not be a good assum pt ion ,
+m e045 [ b] : Mm − hm m .
+m e010 [ s.%−−] : so t hat
+m e045 [ b] : Right .
+m e012 [ b] : Yeah .
+m e012 [ b] : Yeah .
+m e012 [ s.%−−] : So st ep t wo is um
+m e012 [ fh] : right .
+m e012 [ s] : So we ’v e assum ed equal weight s
+m e012 [ s.%−−] : whereas it m ight t urn out t hat you know , som e w be
+t hat for exam ple , what t he um t he act ual t he uh verbal cont ent of
+what t he person said , like what uh what m ight be uh som ehow m ore
+uh im port ant t han t he uh
+m e003 [ s^ 2.%−] : X − one m at t ers m ore i t han X − t wo or
+m e012 [ s^ aa] : Right .
+
+m e012 [ s^ aa|s] : Sure , so we don’t wanna like give t hem all equal
+weight
+m e012 [ s] : so current ly we ’ve been giving t hem all weight one fourt h
+m e012 [ s] : so we could replace t his by uh W − one , W − t wo , W − t hree
+, and W − four
+m e012 [ qy^ d^ f^ g^ rt ] : right ?
+m e045 [ b] : Hm m .
+m e012 [ s^ rt ] : And in order for t his t o be a valid probabilit y dist ribut ion
+for each um X − hat , we just need t hat t he W ’s sum t o one .
+m e012 [ s.%−−] : So t hey can be for ex am ple , you know
+m e012 [ s] : y ou [ disfm arker] you could have point one , point t hree ,
+point t wo , and point four , say .
+m n015 [ s] : That ’s one .
+m e012 [ s^ m ] : And t hat ’d be one .
+m e012 [ s^ ba] : So t hat um also seem s t o work fine .
+m e012 [ %−] : And uh
+m e003 [ qy ^ bu^ d^ rt ] : So I jus just t o m ake sure I underst and t his , so
+in t his case um we would st ill com put e t he av erage ?
+m e012 [ s^ na] : You ’d com put e t he weight ed average ,
+m e012 [ s.%−] : so t he probabilit y of E would be uh
+m e003 [ s^ bk|%−−] : OK , so [ disfm arker]
+m e003 [ s.%−−] : so it ’d be so in t his case t he probabilit y t hat Y equals
+A would be uh [ com m ent ] W one t im es [ disfm arker]
+m e045 [ s] : Point t hree .
+m e003 [ s.%−−] : or A or [ disfm arker]
+m e003 [ s] : let ’s see ,
+m e003 [ s] : one full quart er t im es point one
+m e012 [ s^ ar^ m ] : Not one quart er ,
+m e012 [ s] : so t hese num bers have been replaced wit h point one ,
+point t hree , point t wo , and point four .
+m e045 [ s^ ar] : No .
+m e012 [ s] : So you can view t hese as gone .
+m e003 [ s^ bk] : OK .
+m e012 [ s.%−−] : Probabilit y of
+m e003 [ s^ bk] : OK .
+m e012 [ b] : Yeah .
+m e012 [ b] : Yeah .
+m e012 [ b] : OK .
+m e012 [ fg] : So ,
+m e012 [ s^ bk] : alright .
+m e012 [ s] : So t his is uh st ep t wo .
+m e012 [ s] : So t he next possibilit y is t hat um we ’ve given just a single
+weight t o each ex pert ,
+m e012 [ qy ^ d^ f^ g^ rt ] : right ,
+
+m e012 [ s] : whereas it m ight be t he case t hat um in cert ain sit uat ions
+one of t he expert s is m ore uh reliable and in cert ain sit uat ions t he
+ot her ex pert is m ore reliable .
+m e012 [ s^ rt ] : So t he way t his is handled is by what ’s called a m ixt ure
+of ex pert s ,
+m e012 [ s.%−−] : so what you can have is
+m e012 [ s] : you augm ent t hese diagram s like t his
+m e012 [ fh] : so
+m e012 [ s] : y ou have a new t hing called " H " ,
+m e012 [ qy ^ d^ f^ g^ rt ] : OK ?
+m e012 [ s] : This is a hidden variable .
+m e012 [ s] : And what t his is is it get s it s input from X − one , X − t wo , X −
+t hree , and X − four ,
+m e012 [ s] : and what it does is it decides which of t he expert s is t o be
+t rust ed in t his part icular sit uat ion .
+m e012 [ qy^ d^ f^ g^ rt ] : Right ?
+m e012 [ s] : And t hen t hese guys all com e here .
+m e012 [ s^ bk.%] : OK .
+m e012 [ s^ ba] : So t his is sight ly uh m ore com plicat ed .
+m e012 [ s] : So what ’s going on is t hat um t his H node looks at t hese
+four v alues of t hose guys
+m e012 [ qw] : and it decides in giv en t hese values which of t hese isn’t
+likely t o be m ore reliable or m ost reliable .
+m e012 [ s] : So H produces som e you know , it produces a num ber ,
+m e012 [ s] : eit her one , t wo , t hree , or four , in our sit uat ion ,
+m e012 [ qy ^ d^ f^ g^ rt ] : right ?
+m e012 [ s] : Now t his guy he looks at t he value of H
+m e012 [ s] : say it ’s t wo ,
+m e012 [ s] : and t hen he just select s t he uh t hing .
+m e012 [ s] : That ’s all t here is t o say , I guess about it .
+m n015 [ b] : Mm − hm m .
+m e012 [ s^ bk|s.%−] : Right , so you can have a m ixt ure t hat
+m e012 [ s^ bk] : Right .
+m e045 [ s^ bu] : So [ disfm arker] so t he funct ion of t he t hing t hat
+com es out of H is very different from t he funct ion of t he ot her input s .
+m e045 [ s] : It ’s driving how t he ot her four are int erpret ed .
+m e045 [ s^ bk] : OK .
+m e012 [ b] : Yeah .
+m e012 [ b] : Yeah .
+m e003 [ qy ^ bu^ d^ rt ] : So H passes a vect or on t o t he next node ?
+m e012 [ s^ aap] : It could .
+m e003 [ qw^ br^ rt ] : It could ?
+m e003 [ s.%−−] : A vect or of t he weight s as t he se
+m e012 [ fg|s] : Yeah , it could
+m e003 [ s^ bk] : oh .
+m e012 [ s^ fa] : Sorry ?
+
+m e045 [ s^ bu] : Well a vect or wit h t hree zero ’s and one one ,
+m e045 [ qy ^ d^ g] : right ?
+m e003 [ s^ bk|qy^ bu^ d^ rt ] : Oh it ’s basically t o t ell t he bot t om node
+which one of t he sit uat ions t hat it ’s in
+m e003 [ qrr.%−] : or which one of t he weight ing syst em s
+m e012 [ s^ aa|s.%−] : Right , so I m ean t he way you desc
+m e003 [ s] : W I was just , if you want ed t o pay at t ent ion t o m ore t han
+one you could pass a w a weight ing s syst em t hough t oo ,
+m e003 [ qy ^ g^ rt ] : couldn’t you ?
+m e003 [ s^ bk] : OK .
+m e045 [ qr.%−−] : Um Does H hav e t o have anot her input t o t ell it alpha
+, bet a , what ev er , or is t he [ disfm arker]
+m e045 [ qy ^ bu^ d^ rt ] : t hat ’s det erm ined by what t he expert s are
+say ing ,
+m e045 [ s^ e.%−] : like t he t ype of sit u
+m e045 [ s^ bk] : OK .
+m e045 [ b.%] : Hm m .
+m e045 [ s^ bk] : OK .
+m e045 [ s^ bk] : OK .
+m e045 [ s.%−−] : I m ean It [ disfm arker] it just seem s t hat like wit hout
+t hat [ disfm arker] t hat out side input t hat y ou ’ve got a sit uat ion where ,
+y ou know , like if [ disfm arker] if uh X − one say s no ,
+m e045 [ s.%−−] : you know , a low v alue com ing out of X − on
+m e045 [ s] : or i if X − one says no t hen ignore X − one ,
+m e045 [ qy ^ d^ f^ g] : you know ,
+m e045 [ s^ ba] : I m ean t hat seem s like t hat ’d be weird ,
+m e012 [ s^ bk|s] : Yeah , well could be t hings like if X − t wo and X − t hree
+say y es t hen i ignore X − one also .
+m e045 [ qy ^ d^ g] : right ?
+m e045 [ s^ bk] : Oh , OK .
+m e045 [ s^ bk] : OK .
+m e045 [ s^ bk] : Alright , right .
+m e003 [ qy ^ bu^ d^ rt ] : Oh The sit uat ions t hat H has , are t hey built
+int o t he net
+m e003 [ qrr.%−−] : or
+m e003 [ s^ bk|s^ bu.%−−] : OK , so t hey [ disfm arker] t hey could eit her be
+hand coded or learned or
+m e003 [ s^ bk] : OK .
+m e012 [ b] : Yeah .
+m e003 [ s] : Based on t raining dat a ,
+m e003 [ s^ bk] : OK .
+m e012 [ b] : Yeah .
+m e012 [ s^ bk] : Yes .
+m e003 [ s^ bu] : So y ou specify one of t hese t hings for every one of
+t hose possi possible sit uat ions .
+m e003 [ s^ bk] : Oh yeah .
+
+m e012 [ b] : Yeah .
+m e012 [ fg|s^ df] : Um Well , I m ean t o learn t hem we need dat a ,
+m e012 [ qh^ df^ ng] : where are we gonna get dat a ?
+m e012 [ s] : Well I m ean we need dat a wit h people int ent ions ,
+m e012 [ qy ^ d^ f^ g] : right ?
+m e045 [ s^ aa] : Right , right .
+m e012 [ s^ ba] : Which is slight ly t ricky .
+m e012 [ b] : Right .
+m e045 [ b] : Uh − huh .
+m e012 [ b] : Mm − hm m .
+m e012 [ qw] : But what ’s t he dat a about
+m e012 [ qy ^ e^ rt ] : like , are we able t o get t hese nodes from t he dat a
+?
+m e045 [ qy ^ bu^ d^ rt ] : Like how t hrift y t he user is ,
+m e045 [ qrr] : or do we have access t o t hat ?
+m e045 [ b] : Mm − hm m .
+m e045 [ s^ bk] : Oh right .
+m e045 [ s^ bk] : Oh good .
+m e012 [ b] : Yeah .
+m e045 [ s^ bk] : OK .
+m e045 [ b] : Mm − hm m .
+m e045 [ b] : Mm − hm m .
+m e045 [ s^ bk.%] : OK .
+m e012 [ s^ bk|s] : Yeah , but t hat ’s m y quest ion ,
+m e012 [ qw] : like how do we [ disfm arker] I m ean , how do we have
+dat a about som et hing like um um endpoint sub − E ,
+m e012 [ qrr] : or endpoint sub uh [ pause] you know s S ?
+m e003 [ s] : Well , basically you would say , based on [ disfm arker] in
+t his dialogue t hat we have which one of t he t hings t hat t hey said eh
+whet her it was t he ent it y relat ions or what ever was t he t hing t hat
+det erm ined what m ode it was ,
+m e012 [ b] : Mm m .
+m e012 [ b] : Mm m .
+m e003 [ qy^ d^ g^ rt ] : right ?
+m e012 [ s^ bu] : So t his is what we wanna learn .
+m e012 [ s^ aa] : Yep .
+m e012 [ b] : Right .
+m e012 [ b] : Hm m .
+m e012 [ b] : Yeah .
+m e012 [ s^ nd.%−−] : I don’t t hink ,
+m e012 [ s.%−−] : well you have a [ disfm arker]
+m e012 [ qy ^ rt ] : can you bring up t he funct ion t hing ?
+m e012 [ fh|qw.%−] : Um w where is t he t hing t hat allows you t o sort of
+m e003 [ s] : That ’s on t he added v ariable ,
+m e003 [ qy ^ g] : isn’t it ?
+m e012 [ s] : Oh funct ion propert ies ,
+
+m e012 [ qy ^ rt ] : is t hat it ?
+m e012 [ s^ ar] : Hm m , I guess not .
+m e012 [ s^ aa|s.%−] : Yeah , t hat ’s
+m e045 [ s^ ar] : No .
+m e012 [ s^ bk] : Right .
+m e012 [ s^ bk] : OK .
+m e012 [ fg|s] : And um it so e eit her it ’ll allow us t o do everyt hing
+m e012 [ s^ df] : which I t hink is unlikely ,
+m e012 [ s] : I t hink m ore likely it ’ll allow us t o do very few of t hese
+t hings
+m e012 [ s^ cs] : and in t hat case we ’ll hav e t o um just writ e up lit t le
+t hings t hat allow y ou t o um creat e such CPU ’s on your own in t he java
+base form at .
+m e012 [ s^ bk] : Yeah .
+m e012 [ b] : Yeah .
+m e012 [ fg|s] : Yeah , I was assum ing t hat ’s what we ’d alway s do
+m e012 [ %−] : because
+m e012 [ s^ r] : y eah I was assum ing t hat ’s what we ’d always do ,
+m e012 [ %−−] : it ’s
+m e012 [ b] : Right .
+m e012 [ b] : Yeah .
+m e003 [ b] : Ah .
+m e003 [ s.%−−] : Well in t erm s of java base I t hink it ’s basically what you
+see is what y ou get in
+m e003 [ s.%−−] : I don’t
+m e003 [ fh] : y eah ,
+m e003 [ s] : I would be surprised if it support s anyt hing m ore t han what
+we have right here .
+m e045 [ fh] : So
+m e045 [ b] : Yeah .
+m e045 [ b] : Yeah .
+m e045 [ s^ t c.%−−] : By t he way um uh just t alking about uh about t hat
+general end of t hings
+m e045 [ fh|qy ^ rt ] : uh is t here gonna be dat a soon from what people
+say when t hey ’re int eract ing wit h t he syst em and so on ?
+m e045 [ qw^ e^ rt ] : Like , I m ean , what kind of quest ions are being
+giv en [ disfm arker] being asked ?
+m e045 [ s^ df.%−] : Cuz [ disfm arker]
+m e045 [ s^ bk] : OK .
+m e045 [ b] : Yeah y eah .
+m e045 [ s^ bk] : OK .
+m e045 [ b] : OK .
+m e045 [ s^ bc] : Fey , you m ean .
+m e045 [ s^ bk] : OK .
+m e045 [ s^ bk] : OK .
+m e045 [ s^ bk] : O OK .
+
+m e045 [ b] : OK .
+m e045 [ s.%−−] : I ’m just wondering , because in t erm s of , you know ,
+m e045 [ %−−] : I m ean
+m e045 [ fh] : uh w
+m e045 [ s] : t he figure [ disfm arker] I was t hinking about t his figure t hat
+we t alked about ,
+m e045 [ s] : fift y const ruct ions or what ever
+m e045 [ s^ ba] : t hat ’s uh t hat ’s a whole lot of const ruct ions
+m e045 [ s] : and um you know , I m ean one m ight be f fairly pleased
+wit h get t ing a really good analysis of five m aybe t en in a sum m er
+m e045 [ s] : so , I m ean I know we ’re going for sort of a rough and
+ready .
+m e045 [ b] : Mm − hm m .
+m e045 [ b] : Mm − hm m .
+m e045 [ b] : OK .
+m e045 [ s^ bk] : OK .
+m e045 [ s] : I m ean , I [ disfm arker] I [ disfm arker] I [ disfm arker] I was
+[ disfm arker] uh I was t alking about t he , you know , if you want ed t o do
+it really in det ail
+m e045 [ s] : and we don’t really need all t he det ail for what we ’re doing
+right now
+m e045 [ s.%−−] : but anyway in t erm s of just narrowing t hat t ask you
+know
+m e045 [ qh] : which fift y do I do ,
+m e045 [ s^ df] : I wanna see what people are using ,
+m e045 [ fh] : so
+m e045 [ s] : Well , it will inspire m e .
+m e045 [ b] : Right , sure sure .
+m e045 [ b] : Right .
+m e045 [ b] : Yeah , sure .
+m e045 [ b] : Sure .
+m e045 [ b] : Yeah .
+m e045 [ b] : OK .
+m e045 [ s^ ba] : Touche .
+m e045 [ s^ ba] : Good enough .
+
+
