@@ -9,6 +9,7 @@ import tensorflow_hub as hub
 import tensorflow as tf
 from tqdm import tqdm
 from sklearn.manifold import TSNE
+from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
 from matplotlib.axes._axes import _log as matplotlib_axes_logger
@@ -17,7 +18,7 @@ os.environ['KMP_WARNINGS'] = '0'
 
 def plotTSNE(embeddings, DAlabels, dataset = "testing", method = "ELMo", show = False):
     print("Plot the tsne-representation of the embeddings")
-    trans = TSNE(n_components=2)
+    trans = TSNE(n_components=2, verbose = True)
 
     # Create TSNE embeddings
     emb_transformed = pd.DataFrame(trans.fit_transform(embeddings))
@@ -114,4 +115,10 @@ if __name__ == '__main__':
 
     swda_proc = preprocessSwDA(swda)
 
-    plotTSNE(ELMo, swda_proc["Dialogue Act"])
+    pca = PCA(n_components = 100)
+
+    pca_result = pca.fit_transform(ELMo)
+    print(ELMo.shape)
+    print(pca_result.shape)
+
+    plotTSNE(pca_result, swda_proc["Dialogue Act"])
