@@ -163,8 +163,34 @@ def preprocessMSDialog(dataset):
     print(f"Empty strings at {empty_locations}")
     return dataset
 
-def preprocessMRDA(dataframe):
-    pass
+def preprocessMRDA(dataset):
+    pd.options.mode.chained_assignment = None
+
+    # Fix apostrophies that are spaced apart
+    dataset.loc[:, 'proc_utterance'] = \
+        dataset['Utterance'].apply(lambda x: re.sub(' \'','\'', str( re.sub(' n\'t','n\'t', str(x)) )))
+
+    punctuation = '!?'
+    dataset.loc[:, 'proc_utterance'] = dataset['proc_utterance'].apply(lambda x: ''.join(ch for ch in x if ch not in set(punctuation)))
+
+    # Remove opening colon.
+    dataset.loc[:, 'proc_utterance'] = dataset['proc_utterance'].apply(lambda x: str(x)[1:])
+
+    # lowercase the text
+    dataset.loc[:, 'proc_utterance'] = dataset['proc_utterance'].str.lower()
+
+    dataset.loc[:, 'proc_utterance'] = \
+        dataset['proc_utterance'].apply(lambda x: re.sub('[\[].*?[\]]', '', str(x)))
+
+    empty_locations = np.where(dataset['proc_utterance'].apply(lambda x: x == ' '))[0].tolist()
+    print(f"Empty strings at {empty_locations}")
+    # If we have empty locations, replace them with dashes to avoid Nan Values in embeddings
+    dataset.at[empty_locations, "proc_utterance"] = "---"
+    empty_locations = np.where(dataset['proc_utterance'].apply(lambda x: x == ' '))[0].tolist()
+    print(f"Empty strings at {empty_locations}")
+
+    pd.options.mode.chained_assignment = 'warn'
+    return dataset
 
 # Function that performs the work of creating embeddings.
 # Embeds the whole dataset with the set step_size (number of
@@ -268,9 +294,9 @@ if __name__ == '__main__':
         pipeline(args.dataset, preprocessMSDialog,
                  step_size = args.step_size, testing = args.testing)
 
-
     elif args.dataset == "MRDA":
-        pass
+        pipeline(args.dataset, preprocessMRDA,
+                 step_size = args.step_size, testing = args.testing)
 
     elif args.dataset == "testing":
         print("Testing the generation of a dummy utterance")
