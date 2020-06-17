@@ -64,7 +64,7 @@ def plotTSNE(embeddings, DAlabels, dataset = "testing", method = "ELMo", show = 
     alpha = 0.7
     fig, ax = plt.subplots(figsize=(10, 10))
     label_colors = iter(cm.rainbow(np.linspace(0, 1, len(emb_transformed["label"].unique()))))
-    for cat, color in zip(emb_transformed["label"].unique(), label_colors):
+    for cat, color in tqdm(zip(emb_transformed["label"].unique(), label_colors)):
         categorydf = emb_transformed[emb_transformed["label"] == cat]
         ax.scatter(
             categorydf[0],

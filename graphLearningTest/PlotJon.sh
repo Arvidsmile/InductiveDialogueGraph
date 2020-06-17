@@ -1,10 +1,10 @@
 #!/bin/bash
-#SBATCH --time=8:00:00
-#SBATCH --mem=60G
+#SBATCH --time=1:00:00
+#SBATCH --mem=20G
 #SBATCH --nodes=1
-#SBATCH --partition=gpu
+#SBATCH --partition=gpu_short
 #SBATCH --mail-user=arvid.lindstrom@student.uva.nl
-#SBATCH --output=slurm_out/SwDA-ELMo.out
+#SBATCH --output=PLT2-SwdA.out
 
 module purge
 module load 2019
@@ -14,4 +14,4 @@ module load Anaconda3/2018.12
 conda activate ELMoenvironment
 
 
-srun python generateELMO.py --dataset SwDA --testing 0 --step_size 1
+srun python newELMo.py

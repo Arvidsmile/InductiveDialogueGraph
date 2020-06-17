@@ -30,7 +30,7 @@ def plotTSNE(embeddings, DAlabels, dataset = "testing", method = "ELMo", show = 
     alpha = 0.7
     fig, ax = plt.subplots(figsize=(10, 10))
     label_colors = iter(cm.rainbow(np.linspace(0, 1, len(emb_transformed["label"].unique()))))
-    for cat, color in zip(emb_transformed["label"].unique(), label_colors):
+    for cat, color in tqdm(zip(emb_transformed["label"].unique(), label_colors)):
         categorydf = emb_transformed[emb_transformed["label"] == cat]
         ax.scatter(
             categorydf[0],
@@ -48,7 +48,7 @@ def plotTSNE(embeddings, DAlabels, dataset = "testing", method = "ELMo", show = 
     lgd = ax.legend(handles, labels, loc='center left', bbox_to_anchor=(1, 0.5))
     plt.title("{} visualization of {} embeddings from {}".format(
             TSNE.__name__, method, dataset))
-    fig.savefig(f"../output_images/{method}_TSNE_{dataset}.pdf",
+    fig.savefig(f"../../output_images/{method}_TSNE_{dataset}_pop.pdf",
                 bbox_extra_artists=(lgd, ),
                 bbox_inches='tight')
     if show:
@@ -79,20 +79,20 @@ def preprocessSwDA(dataset):
 
 # Create graph and finalize (finalizing optional but recommended).
 # Run this code once -------------------------------
-g = tf.Graph()
-with g.as_default():
+#g = tf.Graph()
+#with g.as_default():
   # We will be feeding 1D tensors of text into the graph.
-  tf_input = tf.compat.v1.placeholder(dtype=tf.string, shape=[None])
-  elmo = hub.Module("https://tfhub.dev/google/elmo/2", trainable = False)
-  embedded_text = elmo(tf_input, signature="default", as_dict=True)["elmo"]
-  tf_output = tf.reduce_mean(embedded_text,1)
-  init_op = tf.group([tf.compat.v1.global_variables_initializer(),
-                      tf.compat.v1.tables_initializer()])
-g.finalize()
+#  tf_input = tf.compat.v1.placeholder(dtype=tf.string, shape=[None])
+#  elmo = hub.Module("https://tfhub.dev/google/elmo/2", trainable = False)
+#  embedded_text = elmo(tf_input, signature="default", as_dict=True)["elmo"]
+#  tf_output = tf.reduce_mean(embedded_text,1)
+#  init_op = tf.group([tf.compat.v1.global_variables_initializer(),
+#                      tf.compat.v1.tables_initializer()])
+#g.finalize()
 
 # Create session and initialize.
-session = tf.compat.v1.Session(graph=g)
-session.run(init_op)
+#session = tf.compat.v1.Session(graph=g)
+#session.run(init_op)
 #-------------------------------------------------------
 
 # ---- inference time!
@@ -101,17 +101,19 @@ session.run(init_op)
 #                                                      "Ice cream is tasty!"]})
 
 # ---- or as a function (that can be put into a loop using the batches trick)
-def elmo_vectors2(session, tf_output, tf_input, x):
-  result = session.run(tf_output, feed_dict={tf_input: x.tolist()})
-  return result
+#def elmo_vectors2(session, tf_output, tf_input, x):
+#  result = session.run(tf_output, feed_dict={tf_input: x.tolist()})
+#  return result
 
 
 if __name__ == '__main__':
-    swda = pd.read_csv("../CSVData/SwDA.csv")
-    embedding_file = open("../ELMoPickled/ELMo_SwDA.pickle", 'rb')
+    print("loading swda.csv")
+    swda = pd.read_csv("../../CSVData/SwDA.csv")
+    print("loading embeddings")
+    embedding_file = open("../../ELMoPickled/ELMo_SwDA.pickle", 'rb')
     ELMo = pickle.load(embedding_file)
 
-
-    swda_proc = preprocessSwDA(swda)
-
-    plotTSNE(ELMo, swda_proc["Dialogue Act"])
+#    print("preprocessing swda")
+#    swda_proc = preprocessSwDA(swda)
+    print("plotting TSNE")
+    plotTSNE(ELMo, swda["Dialogue Act"])
