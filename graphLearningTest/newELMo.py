@@ -121,10 +121,10 @@ if __name__ == '__main__':
 
     swda_proc = preprocessSwDA(swda)
 
-    pca = PCA(n_components = 100)
+    pca = PCA(n_components = 50)
 
     pca_result = pca.fit_transform(ELMo)
     print(ELMo.shape)
     print(pca_result.shape)
 
-    plotTSNE(pca_result, swda_proc["Dialogue Act"], dataset = "SwDA-PCA100")
+    plotTSNE(pca_result[0:100000], swda_proc["Dialogue Act"][0:100000], dataset = "SwDA-PCA100")

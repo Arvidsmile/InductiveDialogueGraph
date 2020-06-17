@@ -1,8 +1,8 @@
 #!/bin/bash
-#SBATCH --time=1:00:00
-#SBATCH --mem=40G
+#SBATCH --time=4:00:00
+#SBATCH --mem=50G
 #SBATCH --nodes=1
-#SBATCH --partition=gpu_short
+#SBATCH --partition=gpu_shared
 #SBATCH --mail-user=arvid.lindstrom@student.uva.nl
 #SBATCH --output=PCA-plot-swda.out
 
