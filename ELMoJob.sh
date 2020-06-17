@@ -1,10 +1,10 @@
 #!/bin/bash
-#SBATCH --time=1:00:00
-#SBATCH --mem=20G
+#SBATCH --time=4:00:00
+#SBATCH --mem=40G
 #SBATCH --nodes=1
 #SBATCH --partition=gpu_shared
 #SBATCH --mail-user=arvid.lindstrom@student.uva.nl
-#SBATCH --output=testshared-ELMoGPUMSDialog.out
+#SBATCH --output=slurm_out/SwDA-ELMo.out
 
 module purge
 module load 2019
@@ -14,4 +14,4 @@ module load Anaconda3/2018.12
 conda activate ELMoenvironment
 
 
-srun python generateELMO.py --dataset MSDialog --testing 1 --step_size 1
+srun python generateELMO.py --dataset SwDA --testing 0 --step_size 1
