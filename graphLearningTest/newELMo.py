@@ -114,17 +114,13 @@ if __name__ == '__main__':
     embedding_file = open("../../ELMoPickled/ELMo_SwDA.pickle", 'rb')
     ELMo = pickle.load(embedding_file)
 
-#    print("preprocessing swda")
-#    swda_proc = preprocessSwDA(swda)
     print("plotting TSNE")
-    plotTSNE(ELMo, swda["Dialogue Act"])
 
-    # swda_proc = preprocessSwDA(swda)
-
-    pca = PCA(n_components = 100)
+    pca = PCA(n_components = 50)
 
     pca_result = pca.fit_transform(ELMo)
     print(ELMo.shape)
     print(pca_result.shape)
 
-    plotTSNE(pca_result, swda["Dialogue Act"])
+    plotTSNE(pca_result[0:100000], swda["Dialogue Act"][0:100000], dataset = "SwDA-PCA50")
+
