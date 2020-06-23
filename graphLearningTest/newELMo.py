@@ -109,18 +109,18 @@ def plotTSNE(embeddings, DAlabels, dataset = "testing", method = "ELMo", show = 
 
 if __name__ == '__main__':
     print("loading swda.csv")
-    swda = pd.read_csv("../../CSVData/SwDA.csv")
+    csv = pd.read_csv("../../CSVData/SwDA.csv")
     print("loading embeddings")
     embedding_file = open("../../ELMoPickled/ELMo_SwDA.pickle", 'rb')
     ELMo = pickle.load(embedding_file)
 
     print("plotting TSNE")
 
-    pca = PCA(n_components = 50)
+    #pca = PCA(n_components = 50)
 
-    pca_result = pca.fit_transform(ELMo)
-    print(ELMo.shape)
-    print(pca_result.shape)
+    #pca_result = pca.fit_transform(ELMo)
+    #print(ELMo.shape)
+    #print(pca_result.shape)
 
-    plotTSNE(pca_result[0:100000], swda["Dialogue Act"][0:100000], dataset = "SwDA-PCA50")
+    plotTSNE(ELMo, csv["Dialogue Act"], dataset = "SwDA-noPCA_all")
 
