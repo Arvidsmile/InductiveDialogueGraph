@@ -1,12 +1,12 @@
-loading swda.csv
+loading mrda.csv
 loading embeddings
 plotting TSNE
-(221616, 1024)
-(221616, 50)
+(109542, 1024)
+(109542, 50)
 Plot the tsne-representation of the embeddings
 [t-SNE] Computing 91 nearest neighbors...
-[t-SNE] Indexed 50000 samples in 0.608s...
-[t-SNE] Computed neighbors for 50000 samples in 299.455s...
+[t-SNE] Indexed 50000 samples in 0.601s...
+[t-SNE] Computed neighbors for 50000 samples in 248.283s...
 [t-SNE] Computed conditional probabilities for sample 1000 / 50000
 [t-SNE] Computed conditional probabilities for sample 2000 / 50000
 [t-SNE] Computed conditional probabilities for sample 3000 / 50000
@@ -58,6 +58,6 @@ Plot the tsne-representation of the embeddings
 [t-SNE] Computed conditional probabilities for sample 49000 / 50000
 [t-SNE] Computed conditional probabilities for sample 50000 / 50000
 [t-SNE] Mean sigma: 0.000000
-[t-SNE] KL divergence after 250 iterations with early exaggeration: 96.106613
-[t-SNE] KL divergence after 1000 iterations: 2.946306
-0it [00:00, ?it/s]4it [00:00, 37.85it/s]13it [00:00, 45.70it/s]29it [00:00, 57.93it/s]43it [00:00, 109.32it/s]
+[t-SNE] KL divergence after 250 iterations with early exaggeration: 94.194572
+[t-SNE] KL divergence after 1000 iterations: 2.731608
+0it [00:00, ?it/s]3it [00:00, 25.98it/s]6it [00:00, 33.59it/s]
