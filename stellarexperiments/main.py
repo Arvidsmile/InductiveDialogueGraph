@@ -545,8 +545,11 @@ if __name__ == '__main__':
         # from final prediction as well as embeddings
         if current_fold == args.kfold:
 
-            dir = f'results/{args.expname}_{args.aggregator}_{args.dataset}'
-            if os.path.exists(dir):
+            if args.start_node:
+                dir = f'results/{args.expname}_{args.aggregator}_{args.dataset}_START'
+            else:
+		dir = f'results/{args.expname}_{args.aggregator}_{args.dataset}_NO-START'
+	    if os.path.exists(dir):
                 shutil.rmtree(dir)
             os.makedirs(dir)
 
