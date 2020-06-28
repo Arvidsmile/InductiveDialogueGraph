@@ -385,10 +385,10 @@ if __name__ == '__main__':
         # -- 4. Build GraphSAGE model and generator for train -
         # -----------------------------------------------------
         batch_size = args.batch_size
-        in_samples = [5, 1, 1]
-        out_samples = [5, 1, 1]
-        layer_sizes = [128, 128, 128]
-        class_layer_size = 256
+        in_samples = [1]
+        out_samples = [1]
+        layer_sizes = [32]
+        class_layer_size = 128
         generator = DirectedGraphSAGENodeGenerator(graph_train_sampled,
                                                    batch_size,
                                                    in_samples,
