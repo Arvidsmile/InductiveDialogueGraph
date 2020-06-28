@@ -23,4 +23,5 @@ srun python main.py \
 --testing 1 \
 --start_node 0 \
 --aggregator maxpool \
+--model_size A1 \
 --expname lisatest

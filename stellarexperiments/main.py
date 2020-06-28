@@ -251,6 +251,28 @@ def plotTSNE(embeddings, DAlabels, dir, plotname, show = False):
     if show:
         plt.show()
 
+def model_sizes(setup):
+    if setup == "A1":
+        return ([1], [1], [32], 128)
+    if setup == "A2":
+        return ([1, 1], [1, 1], [32, 32], 128)
+    if setup == "A3":
+        return ([1, 1, 1], [1, 1, 1], [32, 32, 32], 128)
+
+    if setup == "B1":
+        return ([3], [3], [64], 128)
+    if setup == "B2":
+        return ([3, 3], [3, 3], [64, 64], 128)
+    if setup == "B3":
+        return ([3, 3, 3], [3, 3, 3], [64, 64, 64], 128)
+
+    if setup == "C1":
+        return ([5], [3], [128], 512)
+    if setup == "C2":
+        return ([5, 5], [3, 3], [128, 64], 512)
+    if setup == "C3":
+        return ([5, 5, 3], [3, 3, 1], [128, 64, 32], 512)
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--dataset",
@@ -292,6 +314,13 @@ if __name__ == '__main__':
                         help = "Which aggregation function to use?",
                         type = str,
                         choices = ["mean", "meanpool", "maxpool", "attention"])
+
+    parser.add_argument("--model_size",
+                        help = "Which model size use?",
+                        type = str,
+                        choices = ["A1", "A2", "A3",
+                                   "B1", "B2", "B3",
+                                   "C1", "C2", "C3"])
 
     args = parser.parse_args()
 
@@ -385,10 +414,12 @@ if __name__ == '__main__':
         # -- 4. Build GraphSAGE model and generator for train -
         # -----------------------------------------------------
         batch_size = args.batch_size
-        in_samples = [1]
-        out_samples = [1]
-        layer_sizes = [32]
-        class_layer_size = 128
+        # in_samples = [1] # <-- settings for A1
+        # out_samples = [1]
+        # layer_sizes = [32]
+        # class_layer_size = 128
+        in_samples, out_samples, layer_sizes, class_layer_size = model_sizes(args.model_size)
+
         generator = DirectedGraphSAGENodeGenerator(graph_train_sampled,
                                                    batch_size,
                                                    in_samples,
@@ -424,7 +455,7 @@ if __name__ == '__main__':
             first_layer = layers.Dense(units=class_layer_size, activation="relu")(x_out)
             prediction = layers.Dense(units=train_multi_hot.shape[1], activation="sigmoid")(first_layer)
         # -----------------------------------------------
-        # -- 5. Train machine learning model ------------
+        # -- 6. Train machine learning model ------------
         # -----------------------------------------------
         model = Model(inputs=x_inp, outputs=prediction)
 
@@ -461,7 +492,7 @@ if __name__ == '__main__':
             plt.savefig(f"{dir}/{args.dataset}_training_fold:{current_fold}.png")
 
         # -----------------------------------------------
-        # -- 6. Perform testing on unseen dialogues -----
+        # -- 7. Perform testing on unseen dialogues -----
         # -----------------------------------------------
 
         generator = DirectedGraphSAGENodeGenerator(full_graph,
@@ -480,7 +511,7 @@ if __name__ == '__main__':
             inference_gen = generator.flow(inference_utterance_indeces, inference_multi_hot, shuffle=True)
 
         # -----------------------------------------------
-        # -- 7.Record testing metrics, f1micro, f1macro, precision, accuracy -----
+        # -- 8.Record testing metrics, f1micro, f1macro, precision, accuracy -----
         # -----------------------------------------------
 
         hold_out_loss_accuracy = model.evaluate(inference_gen)
