@@ -548,8 +548,8 @@ if __name__ == '__main__':
             if args.start_node:
                 dir = f'results/{args.expname}_{args.aggregator}_{args.dataset}_START'
             else:
-		dir = f'results/{args.expname}_{args.aggregator}_{args.dataset}_NO-START'
-	    if os.path.exists(dir):
+                dir = f'results/{args.expname}_{args.aggregator}_{args.dataset}_NO-START'
+            if os.path.exists(dir):
                 shutil.rmtree(dir)
             os.makedirs(dir)
 
